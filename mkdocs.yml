@@ -1,0 +1,68 @@
+site_name: Wiki Político
+site_url: https://wikipolitico.github.io/
+site_description: Acervo colaborativo sobre política nacional e internacional.
+repo_url: https://github.com/wikipolitico/wikipolitico.github.io
+repo_name: wikipolitico/wikipolitico.github.io
+edit_uri: edit/main/docs/
+copyright: "Contatos: contato.wikipolitico@gmail.com"
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo-wikipolitico.png
+  favicon: assets/logo-wikipolitico.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Mudar para o modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para o modo claro
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.action.edit
+
+plugins:
+  - search:
+      lang: pt
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: true
+
+nav:
+  - Início: index.md
+  - Temas:
+      - "Petrobrás": temas/petrobras.md
+      - "Capitalismo": temas/capitalismo.md
+      - "Comunismo e Socialismo": temas/comunismo-e-socialismo.md
+      - "Corrupção": temas/corrupcao.md
+      - "STF": temas/stf.md
+      - "Ditadura Militar de 64": temas/ditadura-militar-de-64.md
+      - "Internacional / Geopolítica": temas/internacional-geopolitica.md
+      - "Teorias Conspiratórias": temas/teorias-conspiratorias.md
+      - "Mídia": temas/midia.md
+      - "Violência / Fascismo / Preconceito": temas/violencia-fascismo-preconceito.md
+      - "Partidos Políticos": temas/partidos-politicos.md
+      - "Outras Personalidades (Brasil)": temas/outras-personalidades-brasil.md
+      - "Políticas Públicas": temas/politicas-publicas.md
+      - "Movimentos Políticos e Ativistas": temas/movimentos-politicos-e-ativistas.md
+      - "Eleições 2018": temas/eleicoes-2018.md
+      - "CPMI das Fake News (2020)": temas/cpmi-das-fake-news-2020.md
+      - "Outros / Não classificados": temas/outros-nao-classificados.md
+  - "Mídias Alternativas": midias-alternativas.md
+  - "Comparação FHC x Lula e Dilma": comparacao-fhc-lula-dilma.md
+  - "Transcrições e Grampos Telefônicos": transcricoes.md
+  - "Frases e Pensamentos": frases-e-pensamentos.md

@@ -1,0 +1,32 @@
+# Petrobrás
+
+- [Motivo dos EUA serem contra Pasadena](https://www.facebook.com/223843157776973/photos/a.224209877740301.1073741827.223843157776973/473792866115333/?type=3&theater)
+- [BEM MAIOR - O filme - documentário sobre a Petrobrás - YouTube](https://www.youtube.com/watch?v=B2vaiRDnAe0)
+- [Michelle:"Eu sou Petrobras, você é Globo". Uma gentil bofetada na mentira e na hipocrisia](http://www.tijolaco.net/blog/michelle-eu-sou-petrobras-voce-e-globo-uma-gentil-bofetada-na-mentira-e-nahipocrisia/)
+- [“Nenhum país se desenvolveu exportando petróleo por multinacionais.”](http://www.aepet.org.br/noticias/pagina/13634/Felipe-Coutinho-Nenhum-pas-se-desenvolveu-exportando-petrleo-por-multinacionais)
+- [Uma aula de pré-sal: privatizar é atrasado, ineficiente e lesivo ao Brasil](http://www.tijolaco.net/blog/uma-aula-de-pre-sal-privatizar-e-atrasado-ineficiente-e-lesivo-ao-brasil/)
+- [Nelson Felippe - PRÉ-SAL À VENDA ! .... Com a palavra: O...](https://www.facebook.com/dino.felipe.5/videos/813914842077475/)
+- [Nos bastidores, o lobby pelo pré-sal](https://wikileaks.org/Nos-bastidores-o-lobby-pelo-pre.html)
+- [O motivo do terceiro turno - GOVERNO SOB ATAQUE: EUA JÁ AGEM PARA DERRUBAR DILMA ROUSSEFF! - 12/03/2015](https://www.youtube.com/watch?v=tkYATwjAwJk)
+- [Tudo igual a 1964; só faltam os EUA. Ou não faltam?](http://www.blogdacidadania.com.br/2015/03/tudo-igual-a-1964-so-faltam-os-eua-ou-nao-faltam/)
+- [Irmãos Koch, magnatas do petróleo e financiadores da extrema-direita nos EUA, inspiram os "meninos do golpe" no Brasil](https://www.viomundo.com.br/denuncias/irmaos-koch-magnatas-do-petroleo-e-financiadores-da-extrema-direita-nos-eua-ajudam-a-bancar-os-meninos-do-golpe-no-brasil.html)
+- [Analista alemã confirma: EUA manipulam "protestos" em todo mundo](http://www.ocafezinho.com/2014/03/02/analista-alema-confirma-eua-manipulam-protestos-em-todo-mundo/)
+- [Jornal Russo diz que EUA estão por trás dos protestos pró-impeachment](https://www.youtube.com/watch?v=qDTKlOvRXiE)
+- [Petrobrás é a maior vítima de fake news da História do Brasil](https://aepet.org.br/w3/index.php/conteudo-geral/item/2122-petrobras-e-a-maior-vitima-de-fake-news-da-historia-do-brasil)
+- [Globo tira do ar vídeo sobre compra de Pasadena - O VÍDEO QUE A GLOBO ESCONDEU.ESPECIALISTA EM PETRÓLEO TAPA A BOCA DE LEILANE NEUBARTH - 21/03/2015](http://jornalggn.com.br/noticia/globo-tira-do-ar-video-sobre-compra-de-pasadena)
+- [A rearticulação da IV Frota da Marinha estadunidense, o PL 131/15 de José Serra e a ameaça de golpe no Brasil - Hildo Montysuma - A crise política do Brasil tem um componente de articulação internacional. Assim como em 1964 o golpe de estado foi arquitetado nos EUA por meio da operação Brother San, atualmente, a crise política que vivem as democracias populares da América Latina tem por trás as garras do imperialismo yank - 10/03/2016](https://www.brasil247.com/blog/a-rearticulacao-da-iv-frota-da-marinha-estadunidense-o-pl-131-15-de-jose-serra-e-a-ameaca-de-golpe-no-brasil)
+- [As mentiras contra a Petrobras - YouTube](https://www.youtube.com/watch?v=65cug8dii44)
+- [IMPERDIVEL !!!! Entenda o entreguismo da Petrobras em um DEBATE onde Alexandre Castilho representante da Sindipetro SP LITERALMENTE "mastiga" dois "especialistas" representante da mídia e da alta burguesia pró Estados Unidos.](https://www.facebook.com/watch/?v=2090256634577769)
+
+## Guerras por petróleo
+
+- [Documentário: A Derrubada do Governo brasileiro - Parte 1/2](https://www.youtube.com/watch?v=TbC35zDRo_k)
+- [PRÉ-SAL À VENDA - O Brasil repete a História dos países do Oriente Médio e cada vez mais se aproximam os trágicos desfechos. Guerra civil, grupos de resistência, miséria e morte, tudo isso pode ser esperado, não porque se prevê o futuro, mas porque foram os mesmos acontecimentos observados em todos os países por onde se encontrou petróleo.](https://www.facebook.com/DilmaResistente/videos/909730552483324/)
+
+## Crise mundial de petróleo
+
+- [Arábia Saudita provoca crise mundial de Petróleo e PIG não divulga](http://pocos10.com.br/?p=17219)
+- [Ataque a Petrobras na Bolsa tem nome: entreguem o pré-sal - 15/12/2014](http://www.conversaafiada.com.br/economia/2014/12/15/ataque-a-petrobras-na-bolsa-tem-nome-entreguem-o-pre-sal/)
+- [A GUERRA, O URSO E A ÁGUIA. Esse pessoal da direita burra, ou é ou se faz! Pensam que nós vamos acreditar que este ataque na bolsa contra a Petrobras é por causa da "lava-jato". Nós sabemos que os EUA mandaram seus lacaios da Arábia Saudita inundar o mundo com petróleo para fazer cair o preço do barril, ai eles com isso conseguem amenizar a situação na Europa e Japão. E tentam assim fazer com que se desista de investir no pré-sal, alias o ataque também é contra a Rússia e Venezuela que com a queda do valor de $100 para 60 dólares afeta a economia. O problema é que a China começou a fazer estoques para rivalizar com os do gringo que agora exportam o óleo de xisto, no entanto, nem os EUA nem a Arábia Saudita vão suportar meses e meses com o preço atual, e essa onda vai passar quando acabar o inverno no hemisfério norte, isso tudo, porque o europeu esta torando o aço com medo que o russo corte o gás natural. E se por acaso Obama, resolva assinar novas sanções contra a Rússia, Iran e Venezuela, vejo preludio de guerra. E ai quem aposta quem pisca primeiro? O Urso dos urais, ou Águia da cabeça branca. - 16/12/2014](https://www.facebook.com/photo.php?fbid=1000766243274239&set=a.459494697401399.122563.100000226179084&type=3&hc_location=ufi)
+- [Colunista vê 'guerra secreta' dos EUA contra Rússia em queda de preço do petróleo - Até a metade de 2014, os países produtores de petróleo tinham bons motivos para se sentirem otimistas. Por quase quatro anos, o preço do produto se manteve estável, na casa dos US$ 110 por barril. Nos últimos meses, porém, o valor despencou e durante a semana parou na marca de US$ 81,40 - um valor 30% menor que em junho e o mais baixo desde 2010. - 17/10/2014](https://www.bbc.com/portuguese/noticias/2014/10/141017_petroleo_guerra_fd)
+- [A falácia de que as ações da Petrobras viraram pó - Por que a Dilma não compra em NY ações da PET pelo preço que o FHC vendeu, ou seja, a preço de Vale ? - 16/12/2014](http://www.conversaafiada.com.br/economia/2014/12/16/a-falacia-de-que-as-acoes-da-petrobras-viraram-po/)

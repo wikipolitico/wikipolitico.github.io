@@ -1,0 +1,30 @@
+name: Verificar links
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          # redes sociais exigem login e sempre aparecem como falha
+          args: >-
+            --no-progress
+            --max-concurrency 16
+            --timeout 30
+            --accept "200..=299,403,429"
+            --exclude "facebook\.com"
+            --exclude "twitter\.com"
+            --exclude "x\.com"
+            --exclude "instagram\.com"
+            "docs/**/*.md"
+          fail: false
+          jobSummary: true
