@@ -38,7 +38,9 @@ plugins:
       lang: pt
 
 markdown_extensions:
+  - admonition
   - attr_list
+  - tables
   - toc:
       permalink: true
 
@@ -49,7 +51,9 @@ nav:
       - "Capitalismo": temas/capitalismo.md
       - "Comunismo e Socialismo": temas/comunismo-e-socialismo.md
       - "Corrupção": temas/corrupcao.md
-      - "STF": temas/stf.md
+      - "STF":
+          - "Visão geral": temas/stf.md
+          - "André Mendonça": temas/stf/andre-mendonca.md
       - "Ditadura Militar de 64": temas/ditadura-militar-de-64.md
       - "Internacional / Geopolítica": temas/internacional-geopolitica.md
       - "Teorias Conspiratórias": temas/teorias-conspiratorias.md

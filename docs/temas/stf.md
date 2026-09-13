@@ -1,5 +1,9 @@
 # STF
 
+## Ministros com página própria
+
+- [André Mendonça](stf/andre-mendonca.md): ex-ministro da Justiça de Bolsonaro, vice-presidente do TSE em 2026 e relator do caso Banco Master
+
 ## Joaquim Barbosa
 
 - [Joaquim Barbosa escondeu laudo que envolvia seu filho - 08/07/2013](https://www.ocafezinho.com/2013/07/08/barbosa-escondeu-inquerito-que-envolvia-seu-filho/)
