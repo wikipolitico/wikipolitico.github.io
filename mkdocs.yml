@@ -6,8 +6,14 @@ repo_name: wikipolitico/wikipolitico.github.io
 edit_uri: edit/main/docs/
 copyright: "Contatos: contato.wikipolitico@gmail.com"
 
+extra:
+  analytics:
+    provider: custom
+    property: wikipolitico
+
 theme:
   name: material
+  custom_dir: overrides
   language: pt-BR
   logo: assets/logo-wikipolitico.png
   favicon: assets/logo-wikipolitico.png
