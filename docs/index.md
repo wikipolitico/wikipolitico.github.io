@@ -19,6 +19,7 @@ O **Wiki Político** tem por objetivo reunir material para nos munir de argument
 - [Políticas Públicas](temas/politicas-publicas.md) (68 links)
 - [Movimentos Políticos e Ativistas](temas/movimentos-politicos-e-ativistas.md) (2 links)
 - [Eleições 2018](temas/eleicoes-2018.md) (23 links)
+- [Eleições 2026](temas/eleicoes-2026.md): por que não votar na legenda
 - [CPMI das Fake News (2020)](temas/cpmi-das-fake-news-2020.md) (4 links)
 - [Outros / Não classificados](temas/outros-nao-classificados.md) (3 links)
 

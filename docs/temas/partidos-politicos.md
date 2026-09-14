@@ -2,6 +2,8 @@
 
 ## PT
 
+- [Eleições 2026: por que não votar na legenda](eleicoes-2026.md#por-que-nao-votar-na-legenda)
+
 ### Comparativo PT x PSDB
 
 - [Brasileiro tem memoria curta. Que tal relembrar era FHC e comparar com era Dilma? - YouTube](https://www.youtube.com/watch?v=WRQdCOdhQhU&app=desktop)
