@@ -5,16 +5,22 @@
 ## Ataques ao MST
 
 - [Arquivos ataques - MST](https://mst.org.br/tag/ataques/)
+- [Acampamento no RJ sofre ataque coordenado por latifundiário; um trabalhador foi assassinado](https://revistaforum.com.br/brasil/acampamento-do-mst-no-rj-sofre-ataque-coordenado-por-latifundiario-um-trabalhador-foi-assassinado/amp/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://revistaforum.com.br/brasil/acampamento-do-mst-no-rj-sofre-ataque-coordenado-por-latifundiario-um-trabalhador-foi-assassinado/amp/)
 
 ## Violência nas ruas
 - [Ato com Lula em defesa da Petrobras tem confusão no Centro - Rio](http://odia.ig.com.br/noticia/rio-de-janeiro/2015-02-24/ato-em-defesa-da-petrobras-comeca-com-confusao-no-centro.html)
 - [Haitiano é assassinado em Navegantes (SC) - Notícias - Cotidiano](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2015/10/19/haitiano-e-assassinado-em-navegantes-sc.htm)
+- [Militante do PT é assassinado enquanto fazia campanha](http://www.revistaforum.com.br/2014/09/21/militante-pt-e-assassinado-enquanto-fazia-campanha/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.revistaforum.com.br/2014/09/21/militante-pt-e-assassinado-enquanto-fazia-campanha/)
 - [Na pancadaria pró e contra impeachment, um brigão usou anel de soco inglês?](http://blogdomariomagalhaes.blogosfera.uol.com.br/2015/02/26/na-pancadaria-pro-e-contra-impeachment-um-brigao-usou-anel-de-soco-ingles/)
 - [Diário do Centro do Mundo Por que ninguém deu foto em que petista aparece apanhando nos confrontos de ontem?](http://www.diariodocentrodomundo.com.br/por-que-ninguem-deu-foto-em-que-petista-aparece-apanhando-nos-confrontos-de-ontem/)
 - [Polícia infringiu a lei ao permitir provocadores em ato em defesa da Petrobrás](http://www.blogdacidadania.com.br/2015/02/policia-infringiu-a-lei-ao-permitir-provocadores-em-ato-em-defesa-da-petrobras/)
 - [PM prende grupo com fogos de artifício e soco-inglês em protesto - notícias em São Paulo](http://g1.globo.com/sao-paulo/noticia/2015/03/pm-prende-grupo-com-fogos-de-artificio-e-soco-ingles-em-protesto.html)
+- [Vereadora do PT é agredida em Salvador e ironizada por delegada](http://www.brasil247.com/pt/247/bahia247/184761/Vereadora-do-PT-%C3%A9-agredida-em-Salvador-e-ironizada-por-delegada.htm) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/bahia247/184761/Vereadora-do-PT-%C3%A9-agredida-em-Salvador-e-ironizada-por-delegada.htm)
 - [Esses coxinhas estão assistindo muito Chaves...](https://www.facebook.com/PedalaDireita/photos/a.498318476946225.1073741828.449217891856284/691504824294255/)
 - [Haitiano é assassinado em Navegantes (SC)](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2015/10/19/haitiano-e-assassinado-em-navegantes-sc.htm)
+- [Haitianos baleados e fascistas soltos!](http://cartamaior.com.br/?%2FEditoria%2FPolitica%2FHaitianos-baleados-e-fascistas-soltos-%2F4%2F34199) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://cartamaior.com.br/?%2FEditoria%2FPolitica%2FHaitianos-baleados-e-fascistas-soltos-%2F4%2F34199)
+- [Militante do PT é assassinado em praça pública](https://www.brasil247.com/pt/247/parana247/154172/Militante-do-PT-%C3%A9-assassinado-em-pra%C3%A7a-p%C3%BAblica.htm) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.brasil247.com/pt/247/parana247/154172/Militante-do-PT-%C3%A9-assassinado-em-pra%C3%A7a-p%C3%BAblica.htm)
+- [Militante do PT é assassinado enquanto fazia campanha](https://revistaforum.com.br/noticias/militante-pt-e-assassinado-enquanto-fazia-campanha/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://revistaforum.com.br/noticias/militante-pt-e-assassinado-enquanto-fazia-campanha/)
 - [Blog do Tarso: Ódio ao PT provoca morte de militante](http://www.viomundo.com.br/denuncias/blog-tarso-discurso-de-odio-ao-pt-mata-militante-partido-em-curitiba.html)
 - [Diário do Centro do Mundo Um grupo de criminosos, chefiado por um advogado, pede a morte de Lula no Facebook](http://www.diariodocentrodomundo.com.br/um-grupo-de-criminosos-chefiado-por-um-advogado-pede-a-morte-de-lula-no-facebook/)
 - [Câmeras do Instituto Lula registraram ataque a bomba](http://www.blogdacidadania.com.br/2015/07/cameras-do-instituto-lula-podem-ter-registrado-ataque-a-bomba/)
@@ -30,6 +36,7 @@
 ## Alemanha Nazista (Adolf Hitler)
 
 - [1933: Repressão ao Partido Comunista da Alemanha - 08/03/2016](http://www.dw.com/pt-br/1933-repress%C3%A3o-ao-partido-comunista-da-alemanha/a-303729)
+- [Algumas pessoas mal informadas ou mal intencionadas afirmam que o nazismo era / é de esquerda. Esse vídeo é mais uma evidência que desmente essa falácia e que confirma o que os fatos históricos já demonstraram: o nazismo e outras vertentes do fascismo, eram / são de extrema-direita.](https://www.youtube.com/watch?v=6XCLbw8M7vM) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=6XCLbw8M7vM)
 - [HITLER na perseguição contra comunistas, socialistas e marxistas](https://www.facebook.com/watch/?v=1366335906720170)
 
 ## Escravidão e Racismo

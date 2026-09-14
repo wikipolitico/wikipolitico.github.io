@@ -269,6 +269,7 @@ Mídias e fontes de notícias do campo progressista.
 - [Revista Fórum](https://www.youtube.com/user/forumrevista)
 - [Socialista Morena](https://www.youtube.com/channel/UCHoycA3QmszMDepgdCFId7Q)
 - [Sputnik Brasil](https://www.youtube.com/channel/UCiPQn6u6dwDQ03kTDf1QjXw)
+- [teleSUR tv](https://www.youtube.com/user/telesurtv) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/user/telesurtv)
 - [Tese Onze](https://www.youtube.com/channel/UC0fGGprihDIlQ3ykWvcb9hg)
 - [The Intercept Brasil](https://www.youtube.com/channel/UCNqzAD9EiECreuH6LA8IYeA)
 - [TheWikiLeaksChannel](https://www.youtube.com/channel/UCcg9c3gXb_rwyqzeCaLuHDA)
@@ -283,9 +284,11 @@ Mídias e fontes de notícias do campo progressista.
 ## Podcasts
 
 - [AntiCast](https://podcastaddict.com/podcast/2270729)
+- [Benzina](https://podcastaddict.com/podcast/2276975) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://podcastaddict.com/podcast/2276975)
 - [CAFÉ COM BOULOS](https://podcastaddict.com/podcast/2444638)
 - [Chutando a Escada](https://podcastaddict.com/podcast/2281840)
 - [Do Rio Que Tudo Arrasta](https://podcastaddict.com/podcast/2198750)
+- [Granma Podcast](https://podcastaddict.com/podcast/2286001) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://podcastaddict.com/podcast/2286001)
 - [Grifa](https://podcastaddict.com/podcast/2448146)
 - [Hoje na Luta](https://podcastaddict.com/podcast/3010156)
 - [Lado B do Rio](https://podcastaddict.com/podcast/2057878)

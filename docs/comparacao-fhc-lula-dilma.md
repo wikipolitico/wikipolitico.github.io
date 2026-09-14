@@ -205,5 +205,6 @@ Atualização - 12/2/2017 - Golpistas receberam um país com números equilibrad
 ***
 
 Fontes:
+
 - [FHC vs Lula/Dilma, um quadro comparativo | Economia Brasileira | VK](https://vk.com/topic-73728868_37503355)
 - [Blog do Mello: Quadro comparativo do Brasil de 2002 com o de 2013, em todas as áreas. Informe-se para votar consciente](https://blogdomello.blogspot.com/2014/09/quadro-comparativo-do-brasil-de-2002.html)

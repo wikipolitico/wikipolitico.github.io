@@ -6,11 +6,13 @@
 
 ## Bolsonaro
 
+- [A história de Bolsonaro](http://bolsonazi.tumblr.com/?og=1) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://bolsonazi.tumblr.com/?og=1)
 - [#PÉROLAS DOS COXINHAS](https://www.facebook.com/groups/376836219188958?view=permalink&id=774342446104998)
 - [Tudo o que você precisa saber sobre o Bolsonaro!](https://www.facebook.com/osmortadelas/videos/932109516826903/)
 - [Bolsonazi: a ficha corrida de um dos maiores criminosos políticos da história do Brasil](http://paulofontelesfilho.blogspot.com.br/2015/11/bolsonazi-ficha-corrida-de-um-dos.html)
 - ["Seria uma honra ser vice de Aécio", diz Bolsonaro](http://www.pragmatismopolitico.com.br/2014/05/seria-uma-honra-ser-vice-de-aecio-diz-bolsonaro.html)
 - [Ouça entrevista em que Bolsonaro chama refugiados de "escória" e sugere infarto a Dilma](http://www.jornalopcao.com.br/ultimas-noticias/ouca-entrevista-em-que-bolsonaro-chama-refugiados-de-escoria-e-sugere-infarto-a-dilma-46313/)
+- [12 MOTIVOS PARA NÃO VOTAR EM JAIR BOLSONARO NEM PARA SÍNDICO.](http://blogmais.org/2015/11/12/10-motivos-para-nao-votar-em-jair-bolsonaro-nem-para-sindico/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://blogmais.org/2015/11/12/10-motivos-para-nao-votar-em-jair-bolsonaro-nem-para-sindico/)
 - [&#39;Parlamentar não deve andar de ônibus&#39;, diz deputado Jair Bolsonaro](http://plantaobrasil.net/news.asp?nID=92801&p=2)
 - [Sérgio Ribeiro Miranda de Carvalho vs Jair Bolsonaro](https://www.facebook.com/photo.php?fbid=1187490771313068&set=a.195386653856823.51216.100001564707911&type=3&theater)
 - [Marcos Feliciano combina com Jair Bolsonaro como ajudar Eduardo Cunha no impeachment da Dilma](https://www.facebook.com/debatessemfronteiras/videos/1078274365553669/)
@@ -19,17 +21,21 @@
 - [Bolsonaro e o milagre da multiplicação do patrimônio](http://www.redebrasilatual.com.br/blogs/helena/2016/03/bolsonaro-e-o-milagre-da-multiplicacao-do-patrimonio-9786.html)
 - [É esse lixo que esse bando de alienados querem pra presidente](https://www.facebook.com/marcos.melo.77/videos/2198706080171163/)
 - [Bolsonaro diz que mulher tem que ganhar menos porque engravida - YouTube](https://www.youtube.com/watch?v=ONkCAuh4qPY)
+- [65 mil em serviços postais?](http://www.camara.gov.br/cota-parlamentar/cota-sumarizado?nuDeputadoId=731&mesAnoConsulta=12-2014) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.camara.gov.br/cota-parlamentar/cota-sumarizado?nuDeputadoId=731&mesAnoConsulta=12-2014)
 - [Bolsovômito assumindo públicamente que sonega impostos](https://www.facebook.com/contragolpefascista/videos/796419143825905/)
 - [Bolsonaro é contra direitos trabalhistas](https://www.facebook.com/maria.vianna.1238/posts/1144837259206715)
 
 ### Corrupção
 
+- [Ao explicar R$ 200 mil da JBS, Bolsonaro admite que PP recebeu propina: “qual partido não recebe?” - Na “Consulta aos Doadores e Fornecedores de Campanha de Candidatos” no Tribunal Superior Eleitoral, dados dão conta de que o deputado federal Jair Bolsonaro (PSC-RJ) recebeu R$ 200 mil do grupo JBS durante sua campanha de 2014.](https://jovempan.com.br/programas/ao-explicar-r-200-mil-da-jbs-bolsonaro-admite-que-pp-recebeu-propina-qual-partido-nao-recebe.html) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://jovempan.com.br/programas/ao-explicar-r-200-mil-da-jbs-bolsonaro-admite-que-pp-recebeu-propina-qual-partido-nao-recebe.html)
 - [Villa x Bolsonaro: JBS ou partido? De onde veio o dinheiro da campanha do deputado em 2014](https://www.youtube.com/watch?v=D62y7u04-U8)
 - [Se o irmão é corrupto, ele é o quê?](https://www.facebook.com/PedalaDireita/photos/a.498318476946225.1073741828.449217891856284/881614875283248/?type=3&theater)
 - [Em quatro anos, patrimônio de Bolsonaro aumentou 90,5%](http://www.redebrasilatual.com.br/politica/2011/03/em-quatro-anos-patrimonio-de-bolsonaro-aumentou-90-5)
 - [Diário do Centro do Mundo Bolsonaro não sabe se recebeu dinheiro de Youssef](http://www.diariodocentrodomundo.com.br/essencial/bolsonaro-nao-sabe-se-recebeu-dinheiro-de-youssef/)
 - [Bolsonaro e o milagre da multiplicação de patrimônio - YouTube](https://www.youtube.com/watch?v=YeehL2K41Ns)
+- [Esquerda Valente: Confira a incrível evolução patrimonial do "mito" Bolsonaro](http://aesquerdavalente.blogspot.com.br/2016/03/confira-incrivel-evolucao-patrimonial.html) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://aesquerdavalente.blogspot.com.br/2016/03/confira-incrivel-evolucao-patrimonial.html)
 - [Sem trabalhar, irmão de Bolsonaro é exonerado de cargo na Alesp - Renato Bolsonaro, irmão do deputado federal Jair Bolsonaro (PSC-RJ), foi exonerado do cargo de assessor parlamentar do deputado estadual André do Prado (PR-SP) na Assembleia Legislativa de São Paulo nesta quinta (7). Apesar de receber mais de R$ 17 mil por mês do governo estadual, Bolsonaro trabalhava diariamente em uma de suas lojas no interior de SP. Procurado sobre o caso, Jair Bolsonaro disse que não sabia e respondeu: Pau nele. Reportagem exibida no SBT Brasil.](http://tvuol.uol.com.br/video/sem-trabalhar-irmao-de-bolsonaro-e-exonerado-de-cargo-na-alesp-0402CC9A3366C8C15326)
+- [Documentos comprovam crime eleitoral de Bolsonaro em 2010](https://contraogolpefascista.wordpress.com/2016/07/10/a-casa-caiu-documentos-comprovam-crime-eleitoral-de-bolsonaro-em-2010/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://contraogolpefascista.wordpress.com/2016/07/10/a-casa-caiu-documentos-comprovam-crime-eleitoral-de-bolsonaro-em-2010/)
 - [Bolsonaro é ladrão de cofre e recebia mensalão, acusa a ex-mulher - 28/09/2018](https://www.ocafezinho.com/2018/09/28/bolsonaro-e-ladrao-de-cofre-e-recebia-mensalao-acusa-a-ex-mulher/)
 - [BOMBA Vizinho denuncia Bolsonaro.](https://www.facebook.com/watch/?ref=saved&v=736479976545970)
 
@@ -56,6 +62,8 @@
 - [Bandinaro estimula conflito e promete executar sem-terras caso seja eleito](https://www.facebook.com/482773431858334/videos/vb.482773431858334/802136366588704/?type=2&theater)
 - [Jair Bolsonaro quer matar 30 mil!! - YouTube](https://www.youtube.com/watch?v=PGTtIGmOY24&list=PL9YKF4vjLXMXtIH6Rkt8UUMznWzcQIHEK&index=51)
 - [Bolsonaro pediu o fuzilamento de Fernando Henrique Cardoso - YouTube](https://www.youtube.com/watch?v=tOCuftuLhUc)
+- [ABSURDO! Bolsonaro afirma que é necessário matar pessoas - YouTube](https://www.youtube.com/watch?v=aezJHm9mA44) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=aezJHm9mA44)
+- [Bolsonaro defende que a PM mate mais no Brasil](http://exame.abril.com.br/brasil/bolsonaro-defende-que-a-pm-mate-mais-no-brasil/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://exame.abril.com.br/brasil/bolsonaro-defende-que-a-pm-mate-mais-no-brasil/)
 - [Com Bolsonaro como personagem, &#39;Financial Times&#39; faz matéria sobre neonazismo no Brasil](http://blogs.oglobo.globo.com/ancelmo/post/com-bolsonaro-como-personagem-financial-times-faz-materia-sobre-neonazismo-no-brasil.html)
 
 ### Mentiras
@@ -75,11 +83,13 @@
 ### Faculdades / Universidades
 
 - [Jair Bolsonaro ao sair de Palestra Na UFF - YouTube](https://www.youtube.com/watch?v=-Z8TxLnhz6M)
+- [Por que nenhuma faculdade chama Bolsonaro? Bolsofilho responde e passa vergonha - YouTube](https://www.youtube.com/watch?v=Iw8YByvOW38&feature=push-u-sub&attr_tag=DLuL5yomNjc-6) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=Iw8YByvOW38&feature=push-u-sub&attr_tag=DLuL5yomNjc-6)
 
 ## Carlos Marighella
 
 - [Quem foi Carlos Marighella e por que você deveria saber disso? – Medium](https://medium.com/@weslleyreis/quem-foi-carlos-marighella-e-por-que-voc%C3%AA-deveria-saber-disso-38e45d95a19d#.lxodo2riz)
 - [Marighella Documentário completo. - YouTube](https://www.youtube.com/watch?v=SF2Rt1-e8G8)
+- [MINI-MANUAL DO GUERRILHEIRO URBANO](https://www.plural.jor.br/documentosrevelados/wp-content/uploads/2015/08/carlos-marighella-manual-do-guerrilheiro-urbano.pdf) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.plural.jor.br/documentosrevelados/wp-content/uploads/2015/08/carlos-marighella-manual-do-guerrilheiro-urbano.pdf)
 - [Quem foi Carlos Marighella e por que você deveria saber disso? | by Weslley Reis](https://medium.com/@weslleyreis/quem-foi-carlos-marighella-e-por-que-voc%C3%AA-deveria-saber-disso-38e45d95a19d)
 
 ## Ciro Gomes
@@ -87,11 +97,15 @@
 - [Ciro Gomes apoia Aécio em 2010 - YouTube](https://www.youtube.com/watch?v=mpqHY8d2XZY)
 - [Marcos Valério disse que entregou dinheiro da corrupção a Ciro Gomes - Entrevista com o lobista Nílton Monteiro - Ciro atacou Lula mais uma vez e disse que o ex-presidente se corrompeu e quer ter um bancada de 50 deputados para meter a mão no Fundo Partidário. Ciro tem direito de fazer crítica política, mas não acusação sem prova. Ele é beneficiado pela impunidade. Fala muito e explica pouco. É hora de responder a uma acusação grave, que dorme em uma gaveta do Judiciário: em delação, Marcos Valério contou que o dinheiro da corrupção em Minas Gerais, do tempo de Aécio Neves, beneficiou Ciro Gomes. Por isso, em 2009, ele queria apoiar Aécio Neves, que classificou como um político decente, honesto. Disse que o PSDB era um partido acima da média. - YouTube - 16/07/2020](https://www.youtube.com/watch?v=1h_z_iEhXgM)
 - [Documentos do SNI mostram que Ciro defendeu impunidade a torturadores da ditadura](https://cn7.com.br/documentos-do-sni-mostram-que-ciro-defendeu-impunidade-a-torturadores-da-ditadura/)
+- [Os incômodos do passado - Ciro não gosta de perguntas sobre seu tempo no PDS, a legenda do regime de 64. Por quê?](http://revistaepoca.globo.com/Revista/Epoca/0,,EDR50057-6009,00.html) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://revistaepoca.globo.com/Revista/Epoca/0,,EDR50057-6009,00.html)
 - [CIRO FOGE DE RESPONDER SOBRE ABORTO E ADOÇÃO DE CRIANÇAS POR CASAIS HOMOSSEXUAIS. - YouTube](https://www.youtube.com/watch?v=Em3xQwU-GG8)
+- [Vídeo: “Acho o professor Olavo absolutamente respeitável. É um cara que sabe ler. Eu admiro e aprendo com gente que sabe ler”, afirma Ciro](https://limpinhoecheiroso.com/2020/06/07/video-acho-o-professor-olavo-absolutamente-respeitavel-e-um-cara-que-sabe-ler-eu-admiro-e-aprendo-com-gente-que-sabe-ler-afirma-ciro/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://limpinhoecheiroso.com/2020/06/07/video-acho-o-professor-olavo-absolutamente-respeitavel-e-um-cara-que-sabe-ler-eu-admiro-e-aprendo-com-gente-que-sabe-ler-afirma-ciro/)
+- [Uma Contribuição ao “Xadrez da Maçonaria no Brasil (parte 3), por Luiz Cláudio de Assis Pereira](https://jornalggn.com.br/artigos/uma-contribuicao-ao-xadrez-da-maconaria-no-brasil-parte-3-por-luiz-claudio-de-assis-pereira/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://jornalggn.com.br/artigos/uma-contribuicao-ao-xadrez-da-maconaria-no-brasil-parte-3-por-luiz-claudio-de-assis-pereira/)
 - [Ciro Gomes já elogiou ‘retidão e decência’ de Temer](https://politica.estadao.com.br/blogs/coluna-do-estadao/ciro-gomes-ja-elogiou-retidao-e-decencia-de-temer/)
 - [Ciro dá aval definitivo para o PDT coordenar a campanha de Renan, em Alagoas - Diário do Poder](https://diariodopoder.com.br/brasil-e-regioes/alagoas/ciro-da-aval-definitivo-para-o-pdt-coordenar-a-campanha-de-renan-em-alagoas)
 - [Nova aliança: Ciro e Roseana costuram "apoio recíproco" - 04/04/2002](https://www1.folha.uol.com.br/fsp/brasil/fc0404200211.htm)
 - [Kallil Oliveira no Twitter: "Esse é Ciro Gomes beijando a mão do coronel mais perverso que o Brasil já teve, que implementou um governo altamente autoritário na Bahia e que nós baianos não sentimos saudades. O nome dele? ACM. https://t.co/VovS0VVtzD" / Twitter](https://twitter.com/kallilolv/status/1046758306554015744)
+- [PDT confirma apoio a Ronaldo Caiado e abre palanque para Ciro Gomes em Goiás](https://www.opopular.com.br/noticias/politica/elei%C3%A7%C3%B5es-2018/pdt-confirma-apoio-a-ronaldo-caiado-e-abre-palanque-para-ciro-gomes-em-goi%C3%A1s-1.1587388) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.opopular.com.br/noticias/politica/elei%C3%A7%C3%B5es-2018/pdt-confirma-apoio-a-ronaldo-caiado-e-abre-palanque-para-ciro-gomes-em-goi%C3%A1s-1.1587388)
 - [Ciro vai a Bornhausen buscar apoio do PFL em 16 Estados - 29/05/2002](https://www1.folha.uol.com.br/fsp/brasil/fc2905200213.htm)
 - [Bornhausen e ACM decidem reforçar campanha de Ciro](https://www.folhadelondrina.com.br/opiniao/bornhausen-e-acm-decidem-reforcar-campanha-de-ciro-414348.html)
 - [Ciro Gomes pede voto para José Agripino Maia em comício no interior do RN; veja vídeo](https://jornalistaslivres.org/ciro-gomes-pede-voto-para-jose-agripino-maia-em-comicio-no-interior-do-rn-veja-video/)
@@ -110,21 +124,27 @@
 - [CIRO GOMES DESCE DO PALANQUE PRA AGREDIR FISICAMENTE QUEM ESTAVA VAIANDO. E BOLSONARO QUE É O TROGLODITA... - 28/11/2017](https://www.facebook.com/alberto.ssa/videos/10212551356911734/)
 - [Ciro Gomes Mentiroso e Desequilibrado - Pescotapa](https://www.youtube.com/watch?v=VLIeFkUU-lE)
 - [Ciro manda petistas para a PQP](https://twitter.com/lucasrohan/status/1267922750980718593)
+- [Ciro bate boca com Maria do Rosário e diz: "Unidade é o cacete"](https://blogs.ne10.uol.com.br/jamildo/2019/05/28/ciro-bate-boca-com-maria-do-rosario-eu-nao-falei-mal-do-lula-porra/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://blogs.ne10.uol.com.br/jamildo/2019/05/28/ciro-bate-boca-com-maria-do-rosario-eu-nao-falei-mal-do-lula-porra/)
+- [Categoria de servidores da Uece promete processar Ciro Gomes por agressão a professor. Ciro agride professor de Biologia da Uece com soco no estômago.](https://tribunadoceara.com.br/noticias/politica/categoria-de-servidores-da-uece-promete-processar-ciro-gomes-por-agressao-a-professor/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://tribunadoceara.com.br/noticias/politica/categoria-de-servidores-da-uece-promete-processar-ciro-gomes-por-agressao-a-professor/)
+- [Impeachment de FHC: Ciro ecoa acusação falsa de Ana Amélia contra Lula](https://blogln.ning.com/m/discussion?id=2189391%3ATopic%3A1217329) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://blogln.ning.com/m/discussion?id=2189391%3ATopic%3A1217329)
 - [Ciro Gomes age como um canalha ao atacar 247, DCM e o os jornalistas Paulo Moreira Leite e Kiko Nogueira](https://revistaforum.com.br/blogs/blogdorovai/ciro-gomes-age-como-um-canalha-ao-atacar-247-dcm-e-o-os-jornalistas-paulo-moreira-leite-e-kiko-nogueira/)
 - [Ciro erra ao atacar o PT](https://www.ocafezinho.com/2020/05/11/ciro-erra-ao-atacar-o-pt/)
 - [Destemperado, Ciro Gomes insulta 247, DCM e os jornalistas Paulo Moreira Leite e Kiko Nogueira. Será processado por calúnia](https://www.brasil247.com/midia/destemperado-ciro-gomes-insulta-247-dcm-e-os-jornalistas-paulo-moreira-leite-e-kiko-nogueira-sera-processado-por-calunia)
 - [Resposta de Glauber Braga a Ciro Gomes. O projeto 4.162/19 é instrumento para privatizar a água, sim. Não se pode justificar o injustificável.](https://www.facebook.com/glauber.braga1/posts/1700372343453113)
+- [7 frases que provam que Ciro Gomes é um candidato golpista - 18/04/2018](https://www.causaoperaria.org.br/7-frases-que-provam-que-ciro-gomes-e-um-candidato-golpista/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.causaoperaria.org.br/7-frases-que-provam-que-ciro-gomes-e-um-candidato-golpista/)
 
 ### Disputa eleitoral contra Eunício Oliveira no Ceará em 2018
 
 - [Ciro Gomes: "Haddad e o PT estavam contra mim com Eunício no Ceará e com Renan em Alagoas" - YouTube](https://www.youtube.com/watch?v=ycNqD5X7naU&t=1m10s)
 - [Haddad responde a pergunta do Ciro sobre Eunício no debate presidencial](https://www.youtube.com/watch?v=rWAwTpd7IEc&t=1h53m23s)
+- [Camilo, Ciro, Cid e Eunício lideram intenções de voto no Ceará na primeira pesquisa Ibope](https://tribunadoceara.com.br/noticias/eleicoes-2018/camilo-ciro-cid-e-eunicio-lideram-intencoes-de-voto-no-ceara-na-primeira-pesquisa-ibope/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://tribunadoceara.com.br/noticias/eleicoes-2018/camilo-ciro-cid-e-eunicio-lideram-intencoes-de-voto-no-ceara-na-primeira-pesquisa-ibope/)
 - [Cid Gomes, do PDT, e Eduardo Girão, do PROS, são eleitos senadores pelo CE; Eunício está fora do Senado | Eleições 2018 no Ceará](https://g1.globo.com/ce/ceara/eleicoes/2018/noticia/2018/10/07/cid-gomes-do-pdt-e-eduardo-girao-do-pros-sao-eleitos-senadores-pelo-ce-eunicio-esta-fora-do-senado.ghtml)
 - [Haddad afirma compreender decisão de Camilo em participar dos atos de campanha de Ciro](https://diariodonordeste.verdesmares.com.br/politica/haddad-afirma-compreender-decisao-de-camilo-em-participar-dos-atos-de-campanha-de-ciro-1.1993541?page=9)
 
 ### Ciro trata Renan como mentor do golpe, mas Lava Jato já tentou o prender
 
 - [Machado fala em "botar o Michel" e Jucá responde: "Só o Renan que está contra essa porra".](https://vesteesquerda.com.br/produto/um-grande-acordo-nacional-com-supremo-com-tudo)
+- [Teori Zavascki nega a prisão de Renan, Jucá e Sarney](https://noticias.band.uol.com.br/brasilurgente/videos/15896264/teori-zavascki-nega-a-prisao-de-renan-juca-e-sarney) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://noticias.band.uol.com.br/brasilurgente/videos/15896264/teori-zavascki-nega-a-prisao-de-renan-juca-e-sarney)
 - [Lava Jato perdeu 'limite do ridículo' com pedidos de prisões, diz Renan - notícias em Operação lava jato](http://g1.globo.com/politica/operacao-lava-jato/noticia/2016/06/lava-jato-perdeu-limite-do-ridiculo-com-pedidos-de-prisoes-diz-renan.html)
 - [Renan reage à ação da PF contra Polícia Legislativa e recorre ao STF](http://g1.globo.com/bom-dia-brasil/noticia/2016/10/renan-reage-acao-da-pf-contra-policia-legislativa-e-recorre-ao-stf.html)
 - ["Os americanos não querem que divulguemos as coisas”, disse Dallagnol sobre conluio com os EUA](https://revistaforum.com.br/politica/os-americanos-nao-querem-que-divulguemos-as-coisas-disse-dallagnol-sobre-conluio-com-os-eua/) (Vaza Jato)
@@ -135,6 +155,7 @@
 
 - [ACUSAÇÃO: "Haddad MENTE sobre a suposta união do Ciro com o Eunicio e nosso candidato é contundente na resposta!"](https://www.facebook.com/watch/?v=307016983430307)
 - [FATO: PDT apoia Camilo Santana do PT no Ceará](https://g1.globo.com/ce/ceara/eleicoes/2018/noticia/2018/09/28/veja-quem-os-candidatos-ao-governo-do-ceara-apoiam-para-a-presidencia.ghtml)
+- [Sem citar fontes, Revista Isto É faz acusação absurda contra Lula](https://tribunadoceara.com.br/noticias/eleicoes-2018/ciro-e-haddad-protagonizam-embate-sobre-alianca-com-eunicio-oliveira-no-ceara/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://tribunadoceara.com.br/noticias/eleicoes-2018/ciro-e-haddad-protagonizam-embate-sobre-alianca-com-eunicio-oliveira-no-ceara/)
 - [Haddad fala sobre apoio do PT ao Camilo Santana (PT) para governador no Ceará.](https://www.youtube.com/watch?v=rWAwTpd7IEc&t=1h46m47s)
 - [Apesar do Haddad se referir a govenadores, Ciro acusa Haddad de fazer "acerto" com Eunício (candidato à senador).](https://www.youtube.com/watch?v=rWAwTpd7IEc&t=1h50m51s)
 - [Haddad explica que visitou o presidente do congresso (Eunício) e nega qualquer apoio na sua candidatura ao senado.](https://www.youtube.com/watch?v=rWAwTpd7IEc&t=1h53m23s)
@@ -150,14 +171,17 @@
 
 ## Edir Macedo (Igreja Universal, TV Record)
 
+- [O Segredo dos Deuses, ep. 1 - Crianças portuguesas foram levadas para o estrangeiro através de uma rede de adoções ilegais, que se servia de um lar da Igreja Universal do Reino de Deus. Muitas destas crianças foram adotadas por bispos da IURD. Há casos de meninos escolhidos por fotografias. - 11/12/2017](https://www.youtube.com/watch?v=yczNvJt9hYE&list=PLuYPQRe9XElpbDf5EQYm__QRSf6yBEzMI) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=yczNvJt9hYE&list=PLuYPQRe9XElpbDf5EQYm__QRSf6yBEzMI)
 - [A fortuna de pastores brasileiros chama a atenção da revista Forbes - 01/06/2019](https://www.diariodocentrodomundo.com.br/essencial/a-fortuna-de-pastores-brasileiros-chama-a-atencao-da-revista-forbes/)
 
 ## Eike Batista
 
+- [PF só realizou a ‘operação eficiência’ depois que Eike saiu do Brasil - YouTube](https://www.youtube.com/watch?v=QQdJhUwHq9M&feature=push-u-sub&attr_tag=nkiE_a-g2b4-6) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=QQdJhUwHq9M&feature=push-u-sub&attr_tag=nkiE_a-g2b4-6)
 - [Por que a Globo prendeu o Eike? - YouTube](https://www.youtube.com/watch?v=0xwDxvaUWB0&feature=push-u-sub&attr_tag=rGADm6nZEjI-6)
 
 ## Fernando Collor de Mello
 
+- [TV da família Collor também é investigada na Lava Jato - Sede da TV Gazeta de Alagoas, afiliada da Globo, é alvo de mandados de busca e apreensão - 14/07/2015](http://noticias.r7.com/brasil/tv-da-familia-collor-tambem-e-investigada-na-lava-jato-14072015) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://noticias.r7.com/brasil/tv-da-familia-collor-tambem-e-investigada-na-lava-jato-14072015)
 - [Faroeste Senado: o dia que o pai de Collor matou um - Então empossado senador, Arnon de Melo não pensou duas vezes ao disparar contra um inimigo político em plena sessão - 18/10/2019](https://www.brasildefato.com.br/2019/10/18/faroeste-senado-o-dia-que-o-pai-de-collor-matou-um-parlamentar)
 
 ## General Hamilton Mourão (vice do Bolsonaro)
@@ -200,6 +224,11 @@
 - [Não é verdade que marido de Marina Silva é 'um dos maiores desmatadores da Amazônia' - 31/08/2018](https://www.aosfatos.org/noticias/nao-e-verdade-que-marido-de-marina-silva-e-um-dos-maiores-desmatadores-da-amazonia/)
 - [Imprensa francesa desmascara Marina: ela é a direita - 27/09/2014](http://www.tijolaco.net/blog/imprensa-francesa-desmascara-marina-ela-e-a-direita/)
 
+## Nilson Monteiro (delator do mensalão do PSDB)
+
+- [Aécio Neves recebeu propina da Petrobras e de Furnas diz delator Nilton Monteiro - YouTube](https://www.youtube.com/watch?v=vU0mfiDJ4p4&t=7m05s) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=vU0mfiDJ4p4&t=7m05s)
+- [Perseguido por Aécio e com medo de ser assassinado, delator do mensalão tucano está em presídio de segurança máxima](https://limpinhoecheiroso.com/2013/12/17/perseguido-por-aecio-e-com-medo-de-ser-assassinado-delator-do-mensalao-tucano-esta-em-presidio-de-seguranca-maxima/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://limpinhoecheiroso.com/2013/12/17/perseguido-por-aecio-e-com-medo-de-ser-assassinado-delator-do-mensalao-tucano-esta-em-presidio-de-seguranca-maxima/)
+
 ## Olavo de Carvalho
 
 - [Jair Bolsonaro, Olavo de Carvalho, Kim P.K., Danilo Gentili, Roger Moreira, Lobão, Tiazinha do Leblon, Rodrigo Constantino e outros. Uma antologia com os grandes pensamentos dos filósofos da nova geração da direita tupiniquim + Olavo de Carvalho! Previsões para 2015! Será que vai rolar um golpe comunista com a participação de Katia Abreu e Joaquim Levy? Confira! - 09/12/2014](https://www.facebook.com/coletivomariachi/videos/494367060703150/)
@@ -209,6 +238,7 @@
 ### Estupro Marco Feliciano (2016)
 
 - [Patrícia Lélis: "Precisamos falar sobre Marco Feliciano" - "Quando eu tinha 22 anos e fazia parte da juventude do PSC, Feliciano me estuprou e agrediu, e fez isso usando o nome de deus", relembrou a jornalista - 10/12/2019](https://revistaforum.com.br/politica/patricia-lelis-precisamos-falar-sobre-marco-feliciano/)
+- [Ministro do STF autoriza investigação de Feliciano por tentativa de estupro - Edson Fachin determinou a abertura de inquérito para apurar as acusações da estudante Patrícia Lélis contra o deputado.](https://revistaforum.com.br/noticias/ministro-do-stf-decide-investigar-feliciano-por-tentativa-de-estupro/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://revistaforum.com.br/noticias/ministro-do-stf-decide-investigar-feliciano-por-tentativa-de-estupro/)
 - [Patrícia Lélis conta como conheceu o deputado Marco Feliciano RedeTV! - Patrícia Lélis conta a Luciana Gimenez como iniciou os contatos com o deputado e explica que se reunia com a militância jovem do partido de Feliciano, o PSC - 17/08/2016](https://www.redetv.uol.com.br/superpop/videos/ultimos-programas/patricia-lelis-conta-como-conheceu-o-deputado-marco-feliciano)
 - [Graciliano Rocha no Twitter: "O momento em que chefe de gabinete de @marcofeliciano discute pagar jovem para abafar denúncia de ataque sexual. https://t.co/aTDTntmAaV" / Twitter](https://twitter.com/gracilianors/status/763509820028616705?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E763509820028616705%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fbr%2Ftatianafarah%2Fvideo-assessor-feliciano)
 - [Delegado que mentiu no caso Feliciano é filiado ao PSDB e carrega histórico polêmico - O delegado Luís Hellmeister, do 3ºDP da Polícia Civil de São Paulo, ficou conhecido após ter manipulado informações no inquérito sobre o ‘caso Feliciano’, alegando que a jornalista Patrícia Lelis sofre de ‘mitomania’. Porém, seu histórico já é bem recheado de questionamentos. Filiado ao PSDB, o delegado é acusado de ter agredido uma jornalista.](http://www.esquerdadiario.com.br/Delegado-que-mentiu-no-caso-Feliciano-e-filiado-ao-PSDB-e-carrega-historico-polemico)
@@ -233,6 +263,7 @@
 - [Lançamento do livro "O Quarto Poder - Uma outra história", de Paulo Henrique Amorim](https://www.facebook.com/events/951978108182515/permalink/953548661358793/)
 - [Escândalo da Pasta Rosa (PFL, PSDB)](https://www.facebook.com/oburrista/videos/1619577141638847/)
 - [O Google vai googlar a Globo. Paulo Henrique Amorim em 6 minutos imperdíveis. E, se quiser comprar a RBS, tem uma informação importante. https://www.youtube.com/watch?v=eMzi52BIA-M](https://www.facebook.com/oburrista/videos/1619128768350351/)
+- [IG demite Paulo Henrique Amorim e tira site do ar - 18/03/2008](https://www.cartamaior.com.br/?/Editoria/Politica/IG-demite-Paulo-Henrique-Amorim-e-tira-site-do-ar/4/13983) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.cartamaior.com.br/?/Editoria/Politica/IG-demite-Paulo-Henrique-Amorim-e-tira-site-do-ar/4/13983)
 
 ## Protógenes Queiroz (delegado da PF)
 
@@ -257,7 +288,12 @@
 ## Romeu Tuma Junior
 
 - [Romeu Tuma Jr. comete crime ao espalhar mentiras nas redes sociais](http://www.pragmatismopolitico.com.br/2014/10/romeu-tuma-jr-comete-crime-ao-espalhar-mentiras-nas-redes-sociais.html)
+- [Recordar é viver: A promiscuidade de Tuma Jr., o assassino de reputação](https://limpinhoecheiroso.com/2014/03/16/recordar-e-viver-a-promiscuidade-de-tuma-jr-o-assassino-de-reputacao/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://limpinhoecheiroso.com/2014/03/16/recordar-e-viver-a-promiscuidade-de-tuma-jr-o-assassino-de-reputacao/)
 - [Saiba quem é o Romeu Tuma Júnior](https://www.facebook.com/BastidoresDaMidia/posts/577938572279026)
+
+## Sérgio Cabral
+
+- [Cabral e Pezão apoiaram Aécio em 2014 - A Globo não conta isso - YouTube](https://www.youtube.com/watch?v=tGm6bQsJDXo) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=tGm6bQsJDXo)
 
 ## Sílvio Santos
 
