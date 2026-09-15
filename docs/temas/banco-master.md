@@ -17,6 +17,10 @@ Daniel Vorcaro, dono do Master, foi preso em novembro de 2025 na Operação Comp
 - [Reportagem em vídeo – Jornal da Band, 14/09/2026](https://youtu.be/WJjgz-cihQ0): traz o áudio de Manolo Dom sobre o medo de Vorcaro na prisão e o texto enviado aos presos do PCC.
 - [Grupo ligado a Vorcaro teria pedido apoio do PCC – Jornal GGN, 14/09/2026](https://jornalggn.com.br/justica-2/grupo-ligado-a-vorcaro-teria-pedido-apoio-do-pcc-para-proteger-empresario-na-prisao/): segundo a PF, Manolo transferiu R$ 10 mil ao advogado da intermediação.
 
+## Morte do "Sicário"
+
+- [Vídeos inéditos sobre a morte do Sicário – O Três News, 14/09/2026](https://youtu.be/R76YlEcpno0): Leandro Demori mostra imagens e laudo que confirmam o suicídio e aponta lacunas, como duas saídas da cela para um local sem câmera.
+
 ## BRB e o governo do Distrito Federal
 
 - [BC rejeita compra do Master pelo Banco de Brasília – Agência Brasil, 09/2025](https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb): compra de R$ 2 bilhões autorizada por lei sancionada por Ibaneis Rocha.

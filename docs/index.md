@@ -28,5 +28,6 @@ O **Wiki Político** tem por objetivo reunir material para nos munir de argument
 
 - [Mídias Alternativas](midias-alternativas.md)
 - [Comparação FHC x Lula e Dilma](comparacao-fhc-lula-dilma.md)
+- [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md)
 - [Transcrições e Grampos Telefônicos](transcricoes.md)
 - [Frases e Pensamentos](frases-e-pensamentos.md)
