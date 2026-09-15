@@ -9,6 +9,7 @@ O **Wiki Político** tem por objetivo reunir material para nos munir de argument
 - [Comunismo e Socialismo](temas/comunismo-e-socialismo.md) (13 links)
 - [Corrupção](temas/corrupcao.md) (256 links)
 - [Caso Banco Master](temas/banco-master.md): Vorcaro, a Operação Compliance Zero e a crise no STF
+- [Caso Lulinha](temas/caso-lulinha.md): o que a investigação tem e as fragilidades da acusação
 - [STF](temas/stf.md) (45 links)
 - [Ditadura Militar de 64](temas/ditadura-militar-de-64.md) (51 links)
 - [Internacional / Geopolítica](temas/internacional-geopolitica.md) (136 links)

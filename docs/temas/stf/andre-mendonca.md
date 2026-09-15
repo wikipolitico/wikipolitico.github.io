@@ -93,6 +93,7 @@ Nas mensagens reveladas, Castro não pede a soltura com essas palavras, e o cont
 
 - **25/08/2025:** foi sorteado relator dos inquéritos da fraude nos descontos de aposentados do INSS (Operação Sem Desconto). O sorteio aconteceu depois que a PGR pediu que o caso saísse de Dias Toffoli ([CNN Brasil, 25/08/2025](https://www.cnnbrasil.com.br/politica/mendonca-e-sorteado-para-relatar-investigacoes-sobre-fraudes-no-inss/)).
 - **12/02/2026:** Dias Toffoli deixou a relatoria do caso Banco Master. A PF tinha encontrado menções a ele no celular do banqueiro Daniel Vorcaro, e um fundo ligado ao banco tinha comprado participação num resort de familiares do ministro. Mendonça passou a ser o relator ([Agência Brasil, 12/02/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/toffoli-deixa-relatoria-de-investigacao-sobre-o-banco-master); [Meio, 13/02/2026](https://www.canalmeio.com.br/edicoes/2026/02/13/toffoli-deixa-o-caso-master-mendonca-e-o-novo-relator/)).
+- **30 e 31/07/2026:** a pedido da PF, autorizou dois inquéritos contra Lulinha, filho de Lula, por suspeita de tráfico de influência no Ministério da Saúde e na Dataprev ([CNN, 2026](https://www.cnnbrasil.com.br/politica/entenda-os-tres-inqueritos-em-que-lulinha-e-investigado/)). Em 20/08, a PGR pediu que os casos fossem para a 1ª instância ([Caso Lulinha](../caso-lulinha.md)).
 
 ## Crise de setembro de 2026
 
