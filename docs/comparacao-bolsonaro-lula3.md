@@ -1,10 +1,10 @@
 # Comparação Bolsonaro x Lula 3
 
-Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, investimentos, bolsa de valores, indústria, infraestrutura, pobreza, saúde, educação, moradia, obras, segurança e meio ambiente.
+Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, investimentos, bolsa de valores, empresas, indústria, infraestrutura, pobreza, saúde, educação, moradia, obras, segurança e meio ambiente.
 
 **Legenda:** ✅ melhor no Lula 3 · ⚠️ pior no Lula 3 · ➖ parecido ou misto
 
-**Resumo:** ✅ 33 melhores · ⚠️ 4 piores · ➖ 5 parecidos ou mistos, em 42 indicadores.
+**Resumo:** ✅ 35 melhores · ⚠️ 6 piores · ➖ 5 parecidos ou mistos, em 46 indicadores.
 
 ## Economia
 
@@ -45,6 +45,15 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | ✅ Investimento das estatais | caiu para 0,5% do PIB (2022) | 0,8% do PIB (2024) | [FGV Ibre](https://observatorio-politica-fiscal.ibre.fgv.br/politica-economica/outros/comportamento-recente-do-investimento-publico-no-brasil) |
 | ✅ Bolsa de valores (Ibovespa) | subiu 24,9% (de 87,9 mil para 109,7 mil pontos) | subiu 46,8% (de 109,7 mil para 161,1 mil pontos) | [Banco Central, 2018](https://api.bcb.gov.br/dados/serie/bcdata.sgs.7/dados?formato=json&dataInicial=28/12/2018&dataFinal=28/12/2018), [Agência Brasil, 2022](https://agenciabrasil.ebc.com.br/economia/noticia/2022-12/ibovespa-fecha-ano-com-alta-de-469-e-dolar-com-queda-de-53) e [B3, 2025](https://www.b3.com.br/pt_br/noticias/ibovespa-b3-encerra-2025-com-32-recordes-historicos-e-alta-acumulada-de-34.htm) |
 | ✅ Saldo da balança comercial (média ao ano) | 39,8 bilhões de dólares (2019–2022) | 72,6 bilhões de dólares (2023–2025) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.22707/dados?formato=json&dataInicial=01/01/2019&dataFinal=31/12/2025) |
+
+## Empresas
+
+| Indicador | Bolsonaro | Lula 3 | Fonte |
+| --- | --- | --- | --- |
+| ✅ Empresas abertas (média ao ano) | 3,60 milhões (2019–2022) | 4,06 milhões (2023–2024) | [Mapa de Empresas, 2022](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/mapa-de-empresas-boletim-3o-quadrimestre-2022.pdf) e [2024](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/boletim-do-mapa-de-empresas-3o-quad-2024.pdf) |
+| ⚠️ Empresas fechadas (média ao ano) | 1,33 milhão (2019–2022) | 2,30 milhões (2023–2024) | [Mapa de Empresas, 2022](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/mapa-de-empresas-boletim-3o-quadrimestre-2022.pdf) e [2024](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/boletim-do-mapa-de-empresas-3o-quad-2024.pdf) |
+| ⚠️ Saldo entre aberturas e fechamentos (média ao ano) | 2,27 milhões (2019–2022) | 1,76 milhão (2023–2024) | [Mapa de Empresas, 2022](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/mapa-de-empresas-boletim-3o-quadrimestre-2022.pdf) e [2024](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/boletim-do-mapa-de-empresas-3o-quad-2024.pdf) |
+| ✅ Empresas ativas | 20,2 milhões (dez/2022) | 24,2 milhões (ago/2025) | [Mapa de Empresas, 2022](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/mapa-de-empresas-boletim-3o-quadrimestre-2022.pdf) e [2025](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/mapa-de-empresas-boletim-2o-quadrimestre-2025.pdf) |
 
 ## Indústria
 
@@ -133,6 +142,8 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 - Taxa de investimento: formação bruta de capital fixo dividida pelo PIB, a preços correntes. De 2019 a 2021, a taxa foi inflada por importações fictícias de plataformas de petróleo (Repetro), segundo o [Banco Central](https://www.bcb.gov.br/content/ri/relatorioinflacao/202203/ri202203b1p.pdf).
 - Investimento estrangeiro e balança comercial: média dos saldos anuais. Os 77,7 bilhões de dólares de investimento estrangeiro em 2025 foram o maior valor desde 2018 ([Poder360](https://www.poder360.com.br/poder-economia/investimento-direto-soma-us-777-bi-em-2025-maior-em-7-anos/)).
 - Bolsa: pontos no último pregão de cada ano. Em dólares, o Ibovespa caiu 7,3% no governo Bolsonaro e subiu 39,2% no Lula 3. Em 2025, teve a maior alta anual desde 2016.
+- Empresas: boletins do Mapa de Empresas, do governo federal. As médias usam só anos fechados (2019 a 2022 e 2023 a 2024), porque o boletim anual de 2025 ainda não saiu. Os dados de 2019 vêm do gráfico histórico do boletim de 2024: 3,17 milhões de aberturas e 1,20 milhão de fechamentos.
+- Fechamento de empresa não é só negócio que quebrou: cancelamentos de CNPJ entram na conta. O próprio boletim lembra que o pico de 2018 veio do cancelamento de ofício de MEIs inadimplentes ou sem declaração anual.
 - Indústria: variação acumulada da produção física (PIM-PF) nos anos de cada governo.
 - Infraestrutura: estimativas da Inter.B Consultoria para energia, telecomunicações, saneamento e transportes, com previsão de 2,19% do PIB em 2025. O salto do saneamento reflete o novo marco legal de 2020. Em aeroportos, o governo Bolsonaro concedeu mais, e o governo Lula herdou o setor quase todo privatizado ([Jornal de Brasília](https://jornaldebrasilia.com.br/noticias/politica-e-poder/concessoes-rodoviarias-poem-em-xeque-bandeira-eleitoral-de-tarcisio/)).
 - Fome: o relatório da ONU de 2025 usa a média de 2022 a 2024, que inclui o último ano do governo Bolsonaro.
