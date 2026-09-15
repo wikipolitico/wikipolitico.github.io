@@ -10,6 +10,23 @@ extra:
   analytics:
     provider: custom
     property: wikipolitico
+    feedback:
+      title: Esta página foi útil?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Sim, foi útil
+          data: 1
+          note: >-
+            Obrigado! Compartilhe com quem precisa desses argumentos.
+        - icon: material/thumb-down-outline
+          name: Não foi útil
+          data: 0
+          note: >-
+            Obrigado pelo retorno!
+            <a href="mailto:contato.wikipolitico@gmail.com?subject=Sugest%C3%A3o%20para%20a%20p%C3%A1gina%20{title}&body=P%C3%A1gina%3A%20https%3A%2F%2Fwikipolitico.github.io{url}">Conte o que faltou</a>.
+
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   name: material

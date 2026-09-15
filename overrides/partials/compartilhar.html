@@ -1,0 +1,14 @@
+{#- Compartilhar a página no WhatsApp e sugerir links ou correções -#}
+{% set titulo = page.title | d(config.site_name, true) | striptags %}
+{% set endereco = page.canonical_url %}
+<nav class="wp-interacao" aria-label="Compartilhar e sugerir">
+  <a class="md-button md-button--primary" href="https://api.whatsapp.com/send?text={{ (titulo ~ ' – Wiki Político: ' ~ endereco) | urlencode }}" target="_blank" rel="noopener">
+    {% include ".icons/fontawesome/brands/whatsapp.svg" %}
+    Compartilhar no WhatsApp
+  </a>
+  <a class="md-button" href="mailto:contato.wikipolitico@gmail.com?subject={{ ('Sugestão para a página ' ~ titulo) | urlencode }}&amp;body={{ ('Página: ' ~ endereco ~ '\n\nLink sugerido ou erro encontrado:\n') | urlencode }}">
+    {% include ".icons/material/email-outline.svg" %}
+    Sugerir link ou apontar erro
+  </a>
+  <a class="wp-interacao__github" href="https://github.com/wikipolitico/wikipolitico.github.io/issues/new?title={{ ('Sugestão: ' ~ titulo) | urlencode }}&amp;body={{ ('Página: ' ~ endereco) | urlencode }}" target="_blank" rel="noopener">ou pelo GitHub</a>
+</nav>

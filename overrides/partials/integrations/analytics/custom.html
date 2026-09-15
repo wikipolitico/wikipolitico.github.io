@@ -1,2 +1,30 @@
 {#- Contagem de visitas pelo GoatCounter, sem cookies e sem dados pessoais -#}
 <script data-goatcounter="https://{{ config.extra.analytics.property }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+{#- Votos de "Esta página foi útil?" viram eventos anônimos no GoatCounter -#}
+<script>
+  function __md_analytics() {
+    document.addEventListener("DOMContentLoaded", function () {
+      document$.subscribe(function () {
+        var form = document.forms.feedback
+        if (typeof form === "undefined") return
+        for (var button of form.querySelectorAll("[type=submit]")) {
+          button.addEventListener("click", function (ev) {
+            ev.preventDefault()
+            var value = this.getAttribute("data-md-value")
+            if (window.goatcounter && window.goatcounter.count) {
+              window.goatcounter.count({
+                path: "feedback-" + (value === "1" ? "util" : "nao-util") + document.location.pathname,
+                title: "Feedback: " + document.title,
+                event: true
+              })
+            }
+            form.firstElementChild.disabled = true
+            var note = form.querySelector(".md-feedback__note [data-md-value='" + value + "']")
+            if (note) note.hidden = false
+          })
+        }
+        form.hidden = false
+      })
+    })
+  }
+</script>

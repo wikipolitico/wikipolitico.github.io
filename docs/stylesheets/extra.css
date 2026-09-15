@@ -1,0 +1,26 @@
+/* Botões de compartilhar e sugerir, no fim de cada página */
+.wp-interacao {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 2rem 0 1rem;
+}
+
+.wp-interacao .md-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0;
+  font-size: 0.7rem;
+}
+
+.wp-interacao svg {
+  width: 1.1em;
+  height: 1.1em;
+  fill: currentColor;
+}
+
+.wp-interacao__github {
+  font-size: 0.7rem;
+}
