@@ -60,6 +60,9 @@ plugins:
   - search:
       lang: pt
 
+hooks:
+  - hooks/ultimas_atualizacoes.py
+
 markdown_extensions:
   - admonition
   - attr_list

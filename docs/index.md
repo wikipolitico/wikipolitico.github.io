@@ -1,6 +1,14 @@
 # Wiki Político
 
-O **Wiki Político** tem por objetivo reunir material para nos munir de argumentos em debates para que, de forma sucinta e objetiva, possamos desconstruir a narrativa que predomina na grande mídia corporativa brasileira ou em sites que disseminam Fake News. Enfatizando que debates somente serão construtivos quando baseados em verdades factuais ao invés de "verdades subjetivas".
+O **Wiki Político** reúne material para debater com fatos e desmontar a narrativa da grande mídia corporativa e dos sites de fake news. Debate só é construtivo quando parte de fatos verificáveis, e não de "verdades subjetivas", então cada afirmação aqui vem com a fonte ao lado.
+
+## Comece por aqui
+
+- [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 46 indicadores oficiais, com o que melhorou e o que piorou em cada governo.
+- [Caso Banco Master](temas/banco-master.md): Vorcaro, a Operação Compliance Zero e a crise no STF.
+- [Eleições 2026](temas/eleicoes-2026.md): por que não votar na legenda e onde consultar o número do seu candidato.
+
+<!-- ultimas-atualizacoes -->
 
 ## Temas
 
@@ -32,3 +40,7 @@ O **Wiki Político** tem por objetivo reunir material para nos munir de argument
 - [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md)
 - [Transcrições e Grampos Telefônicos](transcricoes.md)
 - [Frases e Pensamentos](frases-e-pensamentos.md)
+
+---
+
+Achou um erro ou tem um link melhor? Use o botão "Sugerir link ou apontar erro" no fim de qualquer página.
