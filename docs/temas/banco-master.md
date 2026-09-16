@@ -53,3 +53,4 @@ Wagner é investigado, não é réu, e não há denúncia contra ele. Os links a
 ## Crise no STF
 
 - [Linha do tempo da crise na página de André Mendonça](stf/andre-mendonca.md#crise-de-setembro-de-2026): o encontro de Mendonça com Vorcaro, o afastamento do diretor da PF e a disputa com Moraes.
+- [Mensagens de Vorcaro citam filhos de Fux e Nunes Marques – Jornal da Band, 15/09/2026](https://youtu.be/l_dxajbV72Q): reportagem em vídeo sobre os diálogos vazados horas antes da sessão do STF.
