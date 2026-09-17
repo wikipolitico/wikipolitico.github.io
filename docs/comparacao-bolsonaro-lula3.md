@@ -1,10 +1,10 @@
 # Comparação Bolsonaro x Lula 3
 
-Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, investimentos, bolsa de valores, empresas, indústria, infraestrutura, pobreza, desenvolvimento humano, saúde, educação, moradia, obras, segurança e meio ambiente.
+Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, investimentos, bolsa de valores, empresas, indústria, infraestrutura, pobreza, desenvolvimento humano, saúde, educação, moradia, previdência, obras, segurança e meio ambiente.
 
 **Legenda:** ✅ melhor no Lula 3 · ⚠️ pior no Lula 3 · ➖ parecido ou misto
 
-**Resumo:** ✅ 37 melhores · ⚠️ 6 piores · ➖ 5 parecidos ou mistos, em 48 indicadores.
+**Resumo:** ✅ 38 melhores · ⚠️ 7 piores · ➖ 5 parecidos ou mistos, em 50 indicadores.
 
 ## Economia
 
@@ -110,6 +110,13 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | --- | --- | --- | --- |
 | ✅ Minha Casa Minha Vida (Casa Verde e Amarela no governo Bolsonaro) | Faixa 1, das famílias mais pobres, sem novos contratos | 698 mil moradias financiadas em 2024, maior número em 11 anos. Contratos da Faixa 1 retomados em 2024 | [Metrópoles](https://www.metropoles.com/brasil/minha-casa-minha-vida-retoma-contratacoes-apos-5-anos) e [CNN](https://www.cnnbrasil.com.br/economia/macroeconomia/minha-casa-minha-vida-tem-recorde-de-698-mil-contratos-celebrados-em-2024/) |
 
+## Previdência
+
+| Indicador | Bolsonaro | Lula 3 | Fonte |
+| --- | --- | --- | --- |
+| ⚠️ Fila do INSS (pedidos pendentes de análise) | caiu de 2,03 milhões (jan/2020, pico) para 1,09 milhão (dez/2022) | 1,282 milhão (ago/2026), menor nível desde 2023, depois do recorde de 3,128 milhões em fev/2026 | [Jovem Pan](https://jovempan.com.br/brasil/fila-de-espera-no-inss-bate-recorde-com-quase-3-milhoes-de-pedidos/) e [Previdenciarista](https://previdenciarista.com/blog/fila-do-inss-zerada-anuncio-vale-para-pedidos-acima-de-45-dias/) |
+| ✅ Tempo médio de análise de um pedido no INSS | 76 dias (dez/2022), acima do prazo legal de 45 | 34 dias (ago/2026) | [Ministério da Previdência](https://www.gov.br/previdencia/pt-br/noticias/2025/fevereiro/inss-concedeu-1-2-milhao-de-beneficios-e-injetou-quase-r-140-bi-na-economia-em-dois-meses) e [Agência Brasil](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fila-de-espera-por-atendimento-do-INSS-e-zerada-em-agosto) |
+
 ## Obras públicas
 
 | Indicador | Bolsonaro | Lula 3 | Fonte |
@@ -162,6 +169,7 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 - Analfabetismo: o IBGE não divulgou a taxa de 2020 e 2021.
 - Enem: em 2025, alunos da 3ª série de escolas públicas e participantes do Pé-de-Meia ficaram isentos da taxa de inscrição.
 - Moradia: a Faixa 1 atende as famílias de menor renda, com maior subsídio. Os contratos dessa faixa foram retomados em fevereiro de 2024, após cinco anos parados.
+- Previdência: requerimentos iniciais pendentes de análise, que é uma das três métricas chamadas de "fila". A demanda cresceu 45% no período, de 897 mil pedidos por mês em 2023 para 1,3 milhão em 2026, então o mesmo estoque absoluto significa uma espera menor. O anúncio de fila zerada, em setembro de 2026, usa outro critério: estoque menor que a entrada mensal de novos pedidos. A queda da fila em 2026 veio junto com alta de cerca de 70% nos indeferimentos. A série completa, os critérios e os contrapontos estão em [Fila do INSS](temas/fila-do-inss.md).
 - Obras: percentual do Painel de Obras Paralisadas do TCU. Segundo o tribunal, o quadro de 2023 reflete falhas de coordenação e planejamento do governo entre 2019 e 2022. Em 2025, 22% das obras iniciadas entre abril de 2024 e abril de 2025 já estavam paradas.
 - Segurança: dados do Anuário Brasileiro de Segurança Pública, do Fórum Brasileiro de Segurança Pública (FBSP), que revisa números de anos anteriores. O policiamento cabe principalmente aos estados.
 

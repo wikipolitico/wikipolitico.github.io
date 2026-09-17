@@ -79,6 +79,7 @@ nav:
       - "Corrupção": temas/corrupcao.md
       - "Caso Banco Master": temas/banco-master.md
       - "Caso Lulinha": temas/caso-lulinha.md
+      - "Fila do INSS": temas/fila-do-inss.md
       - "STF":
           - "Visão geral": temas/stf.md
           - "André Mendonça": temas/stf/andre-mendonca.md
