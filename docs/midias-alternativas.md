@@ -158,6 +158,7 @@ Mídias e fontes de notícias do campo progressista.
 - [Esmael Morais](https://www.facebook.com/esmael.morais/)
 - [Esquerda Diário](https://www.facebook.com/esquerdadiario/)
 - [Esquerda Online](https://www.facebook.com/esquerdaonline/)
+- [Esquerda Valente](https://www.facebook.com/esqvalente)
 - [Exército Vermelho](https://www.facebook.com/exercitovermelho/)
 - [Falando Verdades](https://www.facebook.com/Falandoverdades.com.br/)
 - [Farol Operário](https://www.facebook.com/faroloperario/)
@@ -210,14 +211,13 @@ Mídias e fontes de notícias do campo progressista.
 - [CounterPunch](https://www.facebook.com/CounterPunchOrg/) (EUA)
 - [Global Times](https://www.facebook.com/globaltimesnews) (China)
 - [RT (Russia Today)](https://www.facebook.com/RTnews/) (Rússia)
-- [RT America](https://www.facebook.com/RTAmerica/) (Rússia)
+- [RT America](https://www.facebook.com/RTAmerica/) (Rússia) · *encerrou as operações em março de 2022*
 - [teleSUR](https://www.facebook.com/teleSUR) (Venezuela)
 - [The Real News Network](https://www.facebook.com/therealnews/) (EUA)
 
 ## YouTube
 
 - [À Esquerda](https://www.youtube.com/channel/UCg3Q4ML7C05yqIRcnXlqbww)
-- [AE911Truth](https://www.youtube.com/channel/UCL-c_zvZ3lhlU7NU1ikxgmQ)
 - [Aquias Santarem - CRITICA BRASIL](https://www.youtube.com/user/apaixaodelucifer)
 - [Bemvindo Sequeira](https://www.youtube.com/channel/UCHkIWOyyMuYfWeXkRGJUSxA)
 - [Blog da Cidadania](https://www.youtube.com/channel/UCJU__wIT-5N-2fcSvZytRRg)
@@ -237,7 +237,6 @@ Mídias e fontes de notícias do campo progressista.
 - [Desmascarando](https://www.youtube.com/channel/UCO6j6cqBhi2TWVxfcn6t23w)
 - [Eduardo Moreira](https://www.youtube.com/user/eduardoamoreira)
 - [Esquerda Diário](https://www.youtube.com/channel/UC3j1GW4EVUoq1g1n0wE2VGw)
-- [Esquerda Valente](https://www.facebook.com/esqvalente)
 - [falandoverdades](https://www.youtube.com/channel/UCRfUfNEJVaY8AbAcb46qX0g)
 - [Fundação Perseu Abramo](https://www.youtube.com/user/FundacaoPerseuAbramo)
 - [Galãs Feios](https://www.youtube.com/channel/UC2bZgihqibFD_vhaYEXQZFg)
@@ -300,11 +299,13 @@ Mídias e fontes de notícias do campo progressista.
 
 ## Twitter
 
+### Brasil
+
 - [Alexandre Cesar Teixeira](https://twitter.com/alexandrecct)
 - [Alexandre Padilha](https://twitter.com/padilhando)
 - [Amigos do Delúbio](https://twitter.com/delubiosoares)
 - [Benedita da Silva](https://twitter.com/dasilvabenedita)
-- [Beth Carvalho](https://twitter.com/bethcarvalho)
+- [Beth Carvalho](https://twitter.com/bethcarvalho) · *morreu em abril de 2019*
 - [Blog do Miro](https://twitter.com/BlogdoMiro)
 - [Bob Fernandes](https://twitter.com/Bob_Fernandes)
 - [Bohn Gass](https://twitter.com/BohnGass)
@@ -312,7 +313,7 @@ Mídias e fontes de notícias do campo progressista.
 - [Carol Proner](https://twitter.com/carolproner)
 - [Chico Pinheiro](https://twitter.com/chico_pinheiro)
 - [Conversa Afiada](https://twitter.com/ConversaAfiada_)
-- [Cristiano Zanin Martins](https://twitter.com/czmartins)
+- [Cristiano Zanin Martins](https://twitter.com/czmartins) · *ministro do STF desde 2023*
 - [Daniela Abade](https://twitter.com/_danielaabade)
 - [Delegado Protógenes](https://twitter.com/ProtogenesQ)
 - [Dilma Rousseff](https://twitter.com/dilmabr)
@@ -323,7 +324,7 @@ Mídias e fontes de notícias do campo progressista.
 - [Fabio Pannunzio](https://twitter.com/blogdopannunzio)
 - [Fatos Nacionais](https://twitter.com/fatosnacionais)
 - [Fernando Haddad](https://twitter.com/Haddad_Fernando)
-- [Flávio Dino](https://twitter.com/FlavioDino)
+- [Flávio Dino](https://twitter.com/FlavioDino) · *ministro do STF desde 2024*
 - [Florestan Fernandes](https://twitter.com/florestanjr)
 - [Gabriela Prioli](https://twitter.com/GabrielaPrioli)
 - [Gleisi Hoffmann](https://twitter.com/gleisi)
@@ -366,8 +367,7 @@ Mídias e fontes de notícias do campo progressista.
 - [Noam Chomsky](https://twitter.com/noamchomskyT)
 - [Orlando Silva](https://twitter.com/orlandosilva)
 - [Pablo Villaça](https://twitter.com/pablovillaca)
-- [Papa Francisco](https://twitter.com/Pontifex_pt)
-- [Papa Francisco](https://twitter.com/Pontifex_pt)
+- [Papa Leão XIV](https://twitter.com/Pontifex_pt) · conta oficial do papado, herdada de Francisco, morto em abril de 2025
 - [Patrícia Lélis](https://twitter.com/lelispatricia)
 - [Paulo Moreira Leite](https://twitter.com/pmoreiraleite)
 - [Paulo Pimenta](https://twitter.com/DeputadoFederal)
@@ -388,7 +388,7 @@ Mídias e fontes de notícias do campo progressista.
 - [Xico Sá](https://twitter.com/xicosa)
 - [Zeca Dirceu](https://twitter.com/zeca_dirceu)
 
- ### Internacional
+### Internacional
 
 - [Adolfo Pérez Esquivel](https://twitter.com/PrensaPEsquivel)
 - [Alberto Fernández](https://twitter.com/alferdez)
@@ -401,13 +401,13 @@ Mídias e fontes de notícias do campo progressista.
 - [Foro de São Paulo](https://twitter.com/ForodeSaoPaulo)
 - [Glenn Greenwald](https://twitter.com/ggreenwald)
 - [Greta Thunberg](https://twitter.com/GretaThunberg)
-- [Hugo Chávez Frías](https://twitter.com/chavezcandanga)
+- [Hugo Chávez Frías](https://twitter.com/chavezcandanga) · *morreu em março de 2013*
 - [Julian Assange](https://twitter.com/JulianAssange_)
 - [Kailash Satyarthi](https://twitter.com/k_satyarthi)
 - [Nicolás Maduro](https://twitter.com/NicolasMaduro)
 - [Oliver Stone](https://twitter.com/TheOliverStone)
 - [Pedro Sánchez](https://twitter.com/sanchezcastejon)
-- [Pepe Mujica](https://twitter.com/PepeMujicaDice)
+- [Pepe Mujica](https://twitter.com/PepeMujicaDice) · *morreu em maio de 2025*
 - [Roger Waters](https://twitter.com/rogerwaters)
 - [Sleeping Giants](https://twitter.com/slpng_giants)
 - [Sputnik Brasil](https://twitter.com/sputnik_brasil)
