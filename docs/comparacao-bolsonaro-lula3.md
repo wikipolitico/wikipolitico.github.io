@@ -1,10 +1,10 @@
 # Comparação Bolsonaro x Lula 3
 
-Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, investimentos, bolsa de valores, empresas, indústria, infraestrutura, pobreza, saúde, educação, moradia, obras, segurança e meio ambiente.
+Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, investimentos, bolsa de valores, empresas, indústria, infraestrutura, pobreza, desenvolvimento humano, saúde, educação, moradia, obras, segurança e meio ambiente.
 
 **Legenda:** ✅ melhor no Lula 3 · ⚠️ pior no Lula 3 · ➖ parecido ou misto
 
-**Resumo:** ✅ 35 melhores · ⚠️ 6 piores · ➖ 5 parecidos ou mistos, em 46 indicadores.
+**Resumo:** ✅ 37 melhores · ⚠️ 6 piores · ➖ 5 parecidos ou mistos, em 48 indicadores.
 
 ## Economia
 
@@ -80,6 +80,13 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | ✅ Fome | Brasil voltou ao Mapa da Fome. Insegurança alimentar grave de 6,6% (2021) | Brasil saiu do Mapa da Fome. Insegurança alimentar grave de 3,4% (média 2022–2024) | [FAO/ONU](https://brasil.un.org/pt-br/299851-artigo-brasil-voltou-sair-do-mapa-da-fome) |
 | ➖ Desigualdade de renda (índice de Gini) | caiu de 0,545 para 0,517 (2018 a 2022) | caiu de 0,517 para 0,511 (2022 a 2025), com 0,504 em 2024, o menor da série | [IBGE](https://sidra.ibge.gov.br/tabela/7435) |
 
+## Desenvolvimento humano
+
+| Indicador | Bolsonaro | Lula 3 | Fonte |
+| --- | --- | --- | --- |
+| ✅ Índice de Desenvolvimento Humano Municipal (IDHM) | subiu de 0,777 para 0,788 (2018 a 2022), com queda para 0,757 em 2021 | subiu de 0,788 para 0,805 (2022 a 2024), maior da série e primeira vez na faixa "muito alto" | [PNUD](https://static.poder360.com.br/2026/05/radar_idhm_pnud-2.pdf) |
+| ✅ Perda do IDHM pela desigualdade | caiu de 23,3% para 21,6% (2018 a 2022) | caiu de 21,6% para 20,4% (2022 a 2024), menor da série | [PNUD](https://static.poder360.com.br/2026/05/radar_idhm_pnud-2.pdf) |
+
 ## Saúde
 
 | Indicador | Bolsonaro | Lula 3 | Fonte |
@@ -148,6 +155,8 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 - Infraestrutura: estimativas da Inter.B Consultoria para energia, telecomunicações, saneamento e transportes, com previsão de 2,19% do PIB em 2025. O salto do saneamento reflete o novo marco legal de 2020. Em aeroportos, o governo Bolsonaro concedeu mais, e o governo Lula herdou o setor quase todo privatizado ([Jornal de Brasília](https://jornaldebrasilia.com.br/noticias/politica-e-poder/concessoes-rodoviarias-poem-em-xeque-bandeira-eleitoral-de-tarcisio/)).
 - Fome: o relatório da ONU de 2025 usa a média de 2022 a 2024, que inclui o último ano do governo Bolsonaro.
 - Gini: vai de 0 a 1, e quanto menor, menos desigual é a renda. A série do IBGE começa em 2012.
+- IDHM: Radar IDHM, do PNUD Brasil com a Fundação João Pinheiro e o IBGE, calculado com a PNAD Contínua desde 2012. Vai de 0 a 1, e a faixa "muito alto" começa em 0,800. É uma faixa do índice, não a classificação de país desenvolvido. Nas dimensões, de 2018 a 2022 e depois até 2024, a renda foi de 0,741 para 0,745 e 0,760, a longevidade de 0,850 para 0,841 e 0,860, e a educação de 0,744 para 0,780 e 0,798, no mesmo ritmo por ano nos dois governos. A perda pela desigualdade é quanto o índice cai quando se descontam as desigualdades dentro de cada dimensão.
+- IDH global: o índice da ONU usa outros indicadores e não se compara com o IDHM. No relatório de 2025, o Brasil tem 0,774 (2018), 0,780 (2022) e 0,786 (2023), em 84º lugar e na faixa "alto" ([PNUD](https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_complete_time_series.csv)). O PNUD recalcula a série a cada relatório, então posições de edições diferentes não se comparam.
 - Expectativa de vida: a pandemia derrubou o indicador em 2020 e 2021, e ele voltou a subir a partir de 2022.
 - Vacinação: os dados de 2024 vão até 1º de outubro daquele ano.
 - Analfabetismo: o IBGE não divulgou a taxa de 2020 e 2021.
@@ -158,4 +167,4 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 
 ---
 
-Última atualização: 14/09/2026.
+Última atualização: 17/09/2026.
