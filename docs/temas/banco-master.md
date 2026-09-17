@@ -4,13 +4,32 @@ Daniel Vorcaro, dono do Master, foi preso em novembro de 2025 na Operação Comp
 
 ## Bolsonaristas no caso
 
-- [Ouça o áudio de Flávio Bolsonaro pedindo dinheiro a Vorcaro – CNN, 13/05/2026](https://www.cnnbrasil.com.br/politica/ouca-o-audio-de-flavio-bolsonaro-pedindo-dinheiro-a-vorcaro/): no áudio obtido pelo Intercept, Flávio cobra R$ 134 milhões para o filme sobre o pai: "eu fico sem graça de ficar te cobrando".
-- [Dark Horse: Vorcaro repassou US$ 1,6 mi a mais que o admitido por Flávio – CNN, 01/09/2026](https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/dark-horse-vorcaro-repassou-us-16-mi-a-mais-que-o-admitido-por-flavio/): o Coaf registrou repasse ao fundo do filme em 16/09/2025. Flávio tinha dito que o último foi em maio.
 - [Flávio emitiu R$ 1,5 milhão em notas para empresas do esquema de Vorcaro – Metrópoles, 22/07/2026](https://www.metropoles.com/colunas/tacio-lorran/flavio-bolsonaro-emitiu-r-15-milhao-em-notas-para-empresas-usadas-em-esquema-de-vorcaro): duas notas de R$ 500 mil para a Copenhagen, que recebeu R$ 58 milhões de Vorcaro, foram canceladas no mesmo dia. A terceira, de R$ 500 mil para a Contábil Correa, do mesmo contador, não foi, e Flávio confirma o contrato com essa empresa.
-- [Dino: inquérito aponta desvio de emendas em SP e menciona ligação com o PCC e Frias – Diário do Grande ABC, 13/09/2026](https://www.dgabc.com.br/Noticia/4346643/dino-inquerito-aponta-desvio-de-emendas-em-sp-e-menciona-ligacao-com-o-pcc-e-frias): para os investigadores, Mário Frias (PL-SP), produtor do filme, teria papel de liderança no esquema.
 - [O que a PF investiga no caso Master – ND Mais, 11/09/2026](https://ndmais.com.br/politica/master-vorcaro-pt-pl-pp-quebra-sigilo/): Flávio foi "interlocutor direto" de Vorcaro no filme, e o RioPrevidência, de Cláudio Castro (PL), aplicou R$ 3,69 bilhões no Master.
 - [Mendonça negou nova operação da PF contra Cláudio Castro – Metrópoles, 12/09/2026](https://www.metropoles.com/colunas/manoela-alcantara/rioprevidencia-x-master-mendonca-negou-nova-operacao-da-pf-contra-castro): mesmo com parecer favorável da PGR.
 - [Caso Master impacta candidatos à reeleição no Senado – Gazeta do Povo, 02/08/2026](https://www.gazetadopovo.com.br/eleicoes/2026/jaques-wagner-ciro-nogueira-mostram-influencia-eleitoral-banco-master-senado/): a PF suspeita de "mesada de R$ 300 mil a R$ 500 mil" de Vorcaro a Ciro Nogueira (PP), ex-ministro de Bolsonaro.
+
+## Filme Dark Horse
+
+São duas investigações no STF sobre a cinebiografia de Jair Bolsonaro. Flávio Bolsonaro e Mário Frias (PL-SP), produtor do filme, são investigados.
+
+### O dinheiro de Vorcaro (relator: André Mendonça)
+
+- [Ouça o áudio de Flávio Bolsonaro pedindo dinheiro a Vorcaro – CNN, 13/05/2026](https://www.cnnbrasil.com.br/politica/ouca-o-audio-de-flavio-bolsonaro-pedindo-dinheiro-a-vorcaro/): no áudio obtido pelo Intercept, Flávio cobra R$ 134 milhões para o filme sobre o pai: "eu fico sem graça de ficar te cobrando".
+- [Frias enviou áudio a Vorcaro agradecendo apoio ao filme – CNN, 19/05/2026](https://www.cnnbrasil.com.br/politica/frias-enviou-audio-a-vorcaro-agradecendo-apoio-em-filme-diz-intercept/): a produtora tinha negado "um único centavo" de Vorcaro, mas o áudio de Frias, de 11/12/2024, diz "Só te agradecer, meu irmão". Depois Frias admitiu o dinheiro, que teria vindo pela empresa Entre.
+- [Mendonça incluiu Flávio como investigado no caso Dark Horse – Agência Brasil, 11/09/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-incluiu-flavio-bolsonaro-como-investigado-no-caso-dark-horse): desde 22/07, por lavagem de dinheiro, evasão de divisas e corrupção, a pedido da PF e com aval da PGR. Só veio a público com o fim do sigilo.
+- [Relatório da PF sobre Dark Horse contraria versão de Flávio – Poder360, 12/09/2026](https://www.poder360.com.br/poder-justica/relatorio-da-pf-sobre-dark-horse-contraria-versao-de-flavio/): Flávio disse que o Havengate, nos EUA, era um "fundo exclusivo" do filme. Para a PF, o fundo administrado pelo advogado de Eduardo Bolsonaro existia desde 2020 e estava parado até receber US$ 2 milhões de Vorcaro, em 13/02/2025.
+- [Dark Horse: Vorcaro repassou US$ 1,6 mi a mais que o admitido por Flávio – CNN, 01/09/2026](https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/dark-horse-vorcaro-repassou-us-16-mi-a-mais-que-o-admitido-por-flavio/): o Coaf registrou repasse ao fundo do filme em 16/09/2025. Flávio tinha dito que o último foi em maio.
+- [Mendonça homologa delação de operador de Vorcaro – Times Brasil, 09/09/2026](https://timesbrasil.com.br/brasil/mendonca-homologa-delacao-de-mineiro-operador-de-vorcaro-que-movimentou-us-123-milhoes-para-fundo-ligado-a-dark-horse/): "Mineiro" relata 7 remessas ao Havengate a pedido de Vorcaro, somando US$ 12,3 milhões em 2025. Diz não saber o destino final do dinheiro.
+
+### Emendas e contratos públicos (relator: Flávio Dino)
+
+- [Operação da PF mira Mário Frias e produtora do filme – Agência Brasil, 10/09/2026](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/operacao-da-pf-mira-deputado-mario-frias-e-produtora-do-filme): 49 mandados de busca na Operação Make Up, por peculato, falsidade documental, lavagem de dinheiro, organização criminosa e crimes licitatórios.
+- [Dino proíbe Mário Frias de deixar o país – Agência Brasil, 10/09/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-cita-risco-de-evasao-e-proibe-deputado-mario-frias-de-deixar-pais): a medida vale para 29 investigados, entre eles a produtora Karina Gama. Para Dino, Frias usou uma viagem internacional para atrasar informações à investigação.
+- [Projeto pago com emenda de Mário Frias não teve execução comprovada – Agência Brasil, 10/09/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/projeto-pago-com-emenda-de-mario-frias-nao-teve-execucao-comprovada): Frias mandou R$ 2 milhões em emendas ao instituto de Karina Gama, e num dos projetos a CGU diz que as metas "não foram cumpridas". A PF ainda não concluiu que o dinheiro que chegou à produtora saiu das emendas.
+- [Dino leva ao STF caso do Wi-Fi da Prefeitura de SP – Estadão Mato Grosso, 11/09/2026](https://www.estadaomatogrosso.com.br/geral/dino-puxa-para-o-stf-investigacao-sobre-supostas-fraudes-no-contrato-de-wi-fi-da-prefeitura-de-sp-com-ong-de-karina-da-gama/145832): o instituto de Karina Gama tem contrato de Wi-Fi com a gestão Ricardo Nunes. A suspeita é que R$ 6,1 milhões passaram por subcontratadas e voltaram a outra entidade dela. Dino suspendeu os pagamentos públicos ao instituto.
+- [Dino: inquérito aponta desvio de emendas em SP e menciona ligação com o PCC e Frias – Diário do Grande ABC, 13/09/2026](https://www.dgabc.com.br/Noticia/4346643/dino-inquerito-aponta-desvio-de-emendas-em-sp-e-menciona-ligacao-com-o-pcc-e-frias): para os investigadores, Frias teria papel de liderança no esquema. A decisão fala em "vínculos" com o PCC, mas as reportagens não detalham essa ligação.
+- [Defesa de Flávio Bolsonaro tentou levar caso Dark Horse a Mendonça – Agência Brasil, 12/09/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/defesa-de-flavio-bolsonaro-tentou-levar-caso-dark-horse-mendonca): foram 4 pedidos, entre 03 e 29/07, para tirar de Dino a investigação sobre as emendas e juntá-la aos processos de Mendonça.
 
 ## Vorcaro e o PCC
 
@@ -54,4 +73,5 @@ Wagner é investigado, não é réu, e não há denúncia contra ele. Os links a
 ## Crise no STF
 
 - [Linha do tempo da crise na página de André Mendonça](stf/andre-mendonca.md#crise-de-setembro-de-2026): o encontro de Mendonça com Vorcaro, o afastamento do diretor da PF e a disputa com Moraes.
+- [Mendonça mantém em sigilo mais de 30 quebras de sigilo do Master – Bahia Notícias, 14/09/2026](https://www.bahianoticias.com.br/justica/noticia/75380-mendonca-mantem-sob-sigilo-mais-de-30-quebras-bancarias-ligadas-ao-caso-master): dados bancários e fiscais de empresas de Vorcaro e do cunhado dele, Fabiano Zettel, mais completos que o relatório do Coaf que Moraes pediu para ver.
 - [Mensagens de Vorcaro citam filhos de Fux e Nunes Marques – Jornal da Band, 15/09/2026](https://youtu.be/l_dxajbV72Q): reportagem em vídeo sobre os diálogos vazados horas antes da sessão do STF.
