@@ -24,11 +24,14 @@ Uso:
     py manutencao/conferir_redes.py --quieto    # só o resumo e o código de saída
 """
 import concurrent.futures
+import os
 import re
 import subprocess
 import sys
 from pathlib import Path
 from urllib.parse import urlparse
+
+CURL = "curl.exe" if os.name == "nt" else "curl"
 
 RAIZ = Path(__file__).resolve().parent.parent
 DOCS = RAIZ / "docs"
@@ -58,7 +61,7 @@ def rede_de(url):
 
 
 def curl(url, so_codigo=False):
-    cmd = ["curl.exe", "-sL", "-m", "30", "--compressed", "-A", UA]
+    cmd = [CURL, "-sL", "-m", "30", "--compressed", "-A", UA]
     cmd += ["-o", "/dev/null", "-w", "%{http_code}"] if so_codigo else []
     try:
         r = subprocess.run(cmd + [url], capture_output=True, timeout=60)

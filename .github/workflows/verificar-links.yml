@@ -13,6 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+
+      # a lista consolidada e o .lycheeignore são gerados a partir dos avisos
+      # das páginas; se alguém editar um aviso sem regerar, o gate acusa aqui
+      - name: Conferir a lista de links fora do ar
+        run: python3 manutencao/gerar_links_fora_do_ar.py --conferir
+
+      # perfis de rede que o lychee não alcança, cada um pelo método que
+      # funciona nele; não derruba o job, serve de relatório
+      - name: Conferir perfis de rede social
+        run: python3 manutencao/conferir_redes.py --quieto
+        continue-on-error: true
+
       - uses: lycheeverse/lychee-action@v2
         with:
           # redes sociais exigem login e sempre aparecem como falha

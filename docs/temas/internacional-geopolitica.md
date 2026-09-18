@@ -5,14 +5,14 @@
 - [Comparativo: Cuba X EUA - Fórum UOL Jogos](http://forum.jogos.uol.com.br/comparativo-cuba-x-eua_t_3303492)
 - [Lula sobre o financiamento do porto em fev/2010](https://www.facebook.com/photo.php?fbid=822240364500037&set=gm.892362557452249&type=3&theater)
 - [Previsão do Lula sobre o embargo econômico](http://www.estadao.com.br/noticias/geral,presidente-anuncia-promessas-de-parceria,515837)
-- [EUA pedem ajuda de Dilma Rousseff na reaproximação com Cuba](http://www.vermelho.org.br/noticia/256474-7#.VKbI2RvVLA8.facebook) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.vermelho.org.br/noticia/256474-7#.VKbI2RvVLA8.facebook)
-- [Eleições em Cuba: breve análise de um modelo de democracia](http://www.vermelho.org.br/noticia/188150-7) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.vermelho.org.br/noticia/188150-7)
-- [Primeiros dissidentes candidatos perdem eleições em Cuba](http://noticias.terra.com.br/mundo/america-latina/primeiros-dissidentes-candidatos-perdem-eleicoes-em-cuba,49a19431fb6dc410VgnCLD200000b2bf46d0RCRD.html) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://noticias.terra.com.br/mundo/america-latina/primeiros-dissidentes-candidatos-perdem-eleicoes-em-cuba,49a19431fb6dc410VgnCLD200000b2bf46d0RCRD.html)
+- [EUA pedem ajuda de Dilma Rousseff na reaproximação com Cuba](http://www.vermelho.org.br/noticia/256474-7#.VKbI2RvVLA8.facebook) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.vermelho.org.br/noticia/256474-7#.VKbI2RvVLA8.facebook)
+- [Eleições em Cuba: breve análise de um modelo de democracia](http://www.vermelho.org.br/noticia/188150-7) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.vermelho.org.br/noticia/188150-7)
+- [Primeiros dissidentes candidatos perdem eleições em Cuba](http://noticias.terra.com.br/mundo/america-latina/primeiros-dissidentes-candidatos-perdem-eleicoes-em-cuba,49a19431fb6dc410VgnCLD200000b2bf46d0RCRD.html) · *fora do ar em 13/09/2026, timeout* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://noticias.terra.com.br/mundo/america-latina/primeiros-dissidentes-candidatos-perdem-eleicoes-em-cuba,49a19431fb6dc410VgnCLD200000b2bf46d0RCRD.html)
 - [Cubanos votam nas primeiras eleições com candidatos da oposição - notícias em Mundo](http://g1.globo.com/mundo/noticia/2015/04/cubanos-votam-nas-primeiras-eleicoes-com-candidatos-da-oposicao.html)
 - [Fidel Castro vota durante eleições locais em Cuba - notícias em Mundo](http://g1.globo.com/mundo/noticia/2015/04/fidel-castro-vota-durante-eleicoes-locais-em-cuba.html)
 - [Primeiros candidatos opositores desde 1959 perdem eleições em Cuba](http://veja.abril.com.br/mundo/primeiros-candidatos-opositores-desde-1959-perdem-eleicoes-em-cuba/)
-- [Americanos viajam a Cuba em busca de alternativas médicas](http://www.otempo.com.br/capa/mundo/americanos-viajam-a-cuba-em-busca-de-alternativas-m%C3%A9dicas-1.1009108) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.otempo.com.br/capa/mundo/americanos-viajam-a-cuba-em-busca-de-alternativas-m%C3%A9dicas-1.1009108)
-- [El mundo entero celebra esta noticia:Médicos cubanos logran cura para el vitíligo - La Biblioteca Médica](http://www.biblioteca-medica.com.ar/2015/07/el-mundo-entero-celebra-esta.html) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.biblioteca-medica.com.ar/2015/07/el-mundo-entero-celebra-esta.html)
+- [Americanos viajam a Cuba em busca de alternativas médicas](http://www.otempo.com.br/capa/mundo/americanos-viajam-a-cuba-em-busca-de-alternativas-m%C3%A9dicas-1.1009108) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.otempo.com.br/capa/mundo/americanos-viajam-a-cuba-em-busca-de-alternativas-m%C3%A9dicas-1.1009108)
+- [El mundo entero celebra esta noticia:Médicos cubanos logran cura para el vitíligo - La Biblioteca Médica](http://www.biblioteca-medica.com.ar/2015/07/el-mundo-entero-celebra-esta.html) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.biblioteca-medica.com.ar/2015/07/el-mundo-entero-celebra-esta.html)
 - [O DIA QUE UM CUBANO DESTRUIU UMA REPÓRTER DA VEJA Programa Roda Viva, repórter faz afirmações sobre Cuba e o escritor Leonardo Padura dá respostas contundentes.](https://www.facebook.com/NossaEpoca/videos/1122615557749531/)
 - [FANTÁSTICO: Quando um cubano destruiu os jornalistas argentinos do PIG](https://www.facebook.com/watch/?ref=saved&v=1368744546469963)
 - [QUANDO UM CUBANO CALOU A BOCA DE 5 ESPANHÓIS Curta Nossa Época e Videos de Atha](https://www.facebook.com/watch/?ref=saved&v=1393678007309950)
@@ -29,16 +29,16 @@
 ### Yoani Sánchez (Dissidente, blogueira cubana)
 
 - [Veja o Xeque-mate que a Yoani Sánchez tomou na TV Cultura O que faz um cubano quando tem cancer nos EUA? E como é uma repressão que não reprime?](https://www.facebook.com/CentroDoSocialismo/videos/646918445428674/)
-- [A turnê mundial de Yoani Sánchez](http://operamundi.uol.com.br/conteudo/opiniao/27232/a+turne+mundial+de+yoani+sanchez.shtml) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/opiniao/27232/a+turne+mundial+de+yoani+sanchez.shtml)
+- [A turnê mundial de Yoani Sánchez](http://operamundi.uol.com.br/conteudo/opiniao/27232/a+turne+mundial+de+yoani+sanchez.shtml) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/opiniao/27232/a+turne+mundial+de+yoani+sanchez.shtml)
 - [Jorge Pontual: A Medicina Cubana é Exemplo para o Mundo! [GloboNews em Pauta] - YouTube](https://www.youtube.com/watch?v=8Qjgouol2aA)
-- [Cuba antes de Fídel era tratada como Bordel de luxo pelos americanos e lugar para tirar café](http://falandoverdades.com.br/2016/11/26/cuba-antes-de-fidel-era-tratada-como-bordel-de-luxo-pelos-americanos-e-lugar-para-tirar-cafe/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://falandoverdades.com.br/2016/11/26/cuba-antes-de-fidel-era-tratada-como-bordel-de-luxo-pelos-americanos-e-lugar-para-tirar-cafe/)
-- [Dados do Banco Mundial e OCDE comparando Cuba, EUA e Chile - YouTube](https://www.youtube.com/watch?v=3__OPh3_7Xg) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=3__OPh3_7Xg)
+- [Cuba antes de Fídel era tratada como Bordel de luxo pelos americanos e lugar para tirar café](http://falandoverdades.com.br/2016/11/26/cuba-antes-de-fidel-era-tratada-como-bordel-de-luxo-pelos-americanos-e-lugar-para-tirar-cafe/) · *fora do ar em 13/09/2026, timeout* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://falandoverdades.com.br/2016/11/26/cuba-antes-de-fidel-era-tratada-como-bordel-de-luxo-pelos-americanos-e-lugar-para-tirar-cafe/)
+- [Dados do Banco Mundial e OCDE comparando Cuba, EUA e Chile - YouTube](https://www.youtube.com/watch?v=3__OPh3_7Xg) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=3__OPh3_7Xg)
 - [OCLÍNHO PARA O CHE GUEVARA](https://www.facebook.com/NossaEpoca/videos/1353456784665406/)
 - [QUAL A IMAGEM DA REVOLUÇÃO CUBANA?](https://www.facebook.com/NossaEpoca/videos/1432902160054201/?hc_location=ufi)
 
 ## Russia / Putin
 
-- [Putin explica como os Estados Unidos criaram o ISIS - YouTube](https://www.youtube.com/watch?v=AzQk-5g3-O8) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=AzQk-5g3-O8)
+- [Putin explica como os Estados Unidos criaram o ISIS - YouTube](https://www.youtube.com/watch?v=AzQk-5g3-O8) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=AzQk-5g3-O8)
 - [Putin age contra o ISIS](https://www.facebook.com/maluaires/videos/10206937914982276/)
 
 ## Foro de São Paulo
@@ -50,7 +50,7 @@
 
 - [Motivo do terceiro turno](https://www.facebook.com/Falandoverdadesbr2/videos/726382494143740/)
 - [O verdadeiro foco da lava-jato](https://www.facebook.com/juventudedecidida/videos/474561319392894/)
-- [Obama está na Lava Jato](http://www.conversaafiada.com.br/politica/obama-esta-na-lava-jato) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.conversaafiada.com.br/politica/obama-esta-na-lava-jato)
+- [Obama está na Lava Jato](http://www.conversaafiada.com.br/politica/obama-esta-na-lava-jato) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.conversaafiada.com.br/politica/obama-esta-na-lava-jato)
 - [Espionagem contra o Brasil](https://www.facebook.com/meubrasil.e.com.s.maiusculo/videos/vb.228386997332350/486879331483114/?type=2&theater)
 - [Assassino Econômico - John Perkins - YouTube](https://www.youtube.com/watch?v=vO8vPa_H71g)
 - [Enéas avisou: Privatizações pré-sal, reforma previdência déficit é mentira golpe art.171 - YouTube](https://www.youtube.com/watch?v=X_r_yiNAAOc&list=FLn99wjCjp69Dbu16ZCjDCsQ&index=1)
@@ -65,15 +65,15 @@
 
 ## FARC
 
-- [Opera Mundi - Wikileaks: Para EUA, Veja fabricou proximidade do PT com as FARC por objetivos políticos](http://operamundi.uol.com.br/conteudo/noticias/14641/wikileaks+para+eua+veja+fabricou+proximidade+do+pt+com+as+farc+por+objetivos+politicos.shtml) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/noticias/14641/wikileaks+para+eua+veja+fabricou+proximidade+do+pt+com+as+farc+por+objetivos+politicos.shtml)
-- [Acordo com Farc abre capítulo histórico na Colômbia](http://noticias.terra.com.br/acordo-com-farc-abre-capitulo-historico-na-colombia,047bed925e39359f789bc742bac51f70o0nj3efj.html) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://noticias.terra.com.br/acordo-com-farc-abre-capitulo-historico-na-colombia,047bed925e39359f789bc742bac51f70o0nj3efj.html)
-- [EUA afirmam que acordo entre Colômbia e Farc é "avanço histórico" rumo à paz](http://noticias.terra.com.br/mundo/america-latina/eua-afirmam-que-acordo-entre-colombia-e-farc-e-avanco-historico-rumo-a-paz,6e6500aa1e3c4ffb3f800efbdb94c328wr6bzgvi.html) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://noticias.terra.com.br/mundo/america-latina/eua-afirmam-que-acordo-entre-colombia-e-farc-e-avanco-historico-rumo-a-paz,6e6500aa1e3c4ffb3f800efbdb94c328wr6bzgvi.html)
+- [Opera Mundi - Wikileaks: Para EUA, Veja fabricou proximidade do PT com as FARC por objetivos políticos](http://operamundi.uol.com.br/conteudo/noticias/14641/wikileaks+para+eua+veja+fabricou+proximidade+do+pt+com+as+farc+por+objetivos+politicos.shtml) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/noticias/14641/wikileaks+para+eua+veja+fabricou+proximidade+do+pt+com+as+farc+por+objetivos+politicos.shtml)
+- [Acordo com Farc abre capítulo histórico na Colômbia](http://noticias.terra.com.br/acordo-com-farc-abre-capitulo-historico-na-colombia,047bed925e39359f789bc742bac51f70o0nj3efj.html) · *fora do ar em 13/09/2026, timeout* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://noticias.terra.com.br/acordo-com-farc-abre-capitulo-historico-na-colombia,047bed925e39359f789bc742bac51f70o0nj3efj.html)
+- [EUA afirmam que acordo entre Colômbia e Farc é "avanço histórico" rumo à paz](http://noticias.terra.com.br/mundo/america-latina/eua-afirmam-que-acordo-entre-colombia-e-farc-e-avanco-historico-rumo-a-paz,6e6500aa1e3c4ffb3f800efbdb94c328wr6bzgvi.html) · *fora do ar em 13/09/2026, timeout* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://noticias.terra.com.br/mundo/america-latina/eua-afirmam-que-acordo-entre-colombia-e-farc-e-avanco-historico-rumo-a-paz,6e6500aa1e3c4ffb3f800efbdb94c328wr6bzgvi.html)
 - [Colômbia e Farc anunciam acordo histórico de justiça e assinatura de paz até março](http://oglobo.globo.com/mundo/colombia-farc-anunciam-acordo-historico-de-justica-assinatura-de-paz-ate-marco-17578593)
 
 ## Verdades sobre as guerras
 
-- [Guerras Sujas (Documentário)](http://dirtywars.org/the-film) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://dirtywars.org/the-film)
-- [Blair pede desculpas pela invasão do Iraque](http://www.brasil247.com/pt/247/mundo/202340/Blair-pede-desculpas-pela-invas%C3%A3o-do-Iraque.htm) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/mundo/202340/Blair-pede-desculpas-pela-invas%C3%A3o-do-Iraque.htm)
+- [Guerras Sujas (Documentário)](http://dirtywars.org/the-film) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://dirtywars.org/the-film)
+- [Blair pede desculpas pela invasão do Iraque](http://www.brasil247.com/pt/247/mundo/202340/Blair-pede-desculpas-pela-invas%C3%A3o-do-Iraque.htm) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/mundo/202340/Blair-pede-desculpas-pela-invas%C3%A3o-do-Iraque.htm)
 - [Fogos de artifício marcam 75ª grandiosa celebração do Dia da Vitória na Rússia.](https://br.sputniknews.com/fotos/2020062515755312-fogos-de-artificio-marcam-75-grandiosa-celebracao-do-dia-da-vitoria-na-russia-fotos/)
 
 ## Venezuela
@@ -81,13 +81,13 @@
 - [Deputado Ivan Valente fala sobre a Venezuela e discute com opositor - YouTube](https://www.youtube.com/watch?v=M7ENHQiJc1g)
 - [ONU: Em 10 anos Venezuela reduziu pobreza em 50%](http://www.diarioliberdade.org/america-latina/repressom-e-direitos-humanos/18802-onu-em-10-anos-venezuela-reduziu-pobreza-em-50.html)
 - [Venezuela | Data](http://datos.bancomundial.org/pais/venezuela)
-- [George Galloway Oxford University Venezuela Legendado - YouTube](https://www.youtube.com/watch?v=OIqicTjQG3M) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=OIqicTjQG3M)
+- [George Galloway Oxford University Venezuela Legendado - YouTube](https://www.youtube.com/watch?v=OIqicTjQG3M) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=OIqicTjQG3M)
 - [O QUE ESTÁ ACONTECENDO NA VENEZUELA?](https://www.facebook.com/watch/?ref=saved&v=439266916534504)
 
 ### Sistema Eleitoral
 
 - [Jimmy Carter sobre o melhor sistema eleitoral do mundo](https://www.youtube.com/watch?v=rI4z_N2L3nI)
-- [Opera Mundi - "Processo eleitoral na Venezuela é o melhor do mundo", diz Jimmy Carter](http://operamundi.uol.com.br/conteudo/noticias/24425/processo+eleitoral+na+venezuela+e+o+melhor+do+mundo+diz+jimmy+carter.shtml) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/noticias/24425/processo+eleitoral+na+venezuela+e+o+melhor+do+mundo+diz+jimmy+carter.shtml)
+- [Opera Mundi - "Processo eleitoral na Venezuela é o melhor do mundo", diz Jimmy Carter](http://operamundi.uol.com.br/conteudo/noticias/24425/processo+eleitoral+na+venezuela+e+o+melhor+do+mundo+diz+jimmy+carter.shtml) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/noticias/24425/processo+eleitoral+na+venezuela+e+o+melhor+do+mundo+diz+jimmy+carter.shtml)
 
 ### Hugo Chávez
 
@@ -100,7 +100,7 @@
 
 - [Venezuela denuncia EUA por crimes de lesa-humanidade 📰 - YouTube](https://www.youtube.com/watch?v=e65WVZZKn2Q)
 - [Por que Donald Trump me sanciona? Com a palavra Nicolas Maduro](https://www.facebook.com/watch/?ref=saved&v=1630568893620859)
-- [Portal do Movimento Popular - Aqui você tem voz Venezuela descobre toneladas de alimentos escondidos por empresários para destabilizar governo](http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/)
+- [Portal do Movimento Popular - Aqui você tem voz Venezuela descobre toneladas de alimentos escondidos por empresários para destabilizar governo](http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/) · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/)
 - [Empresas escondem toneladas de alimentos da população para boicotar o governo na Venezuela](http://www.diarioliberdade.org/america-latina/laboral-economia/53683-empresas-escondem-toneladas-de-alimentos-da-popula%C3%A7%C3%A3o-para-boicotar-o-governo-na-venezuela.html)
 - [Venezuela descobre toneladas de alimentos escondidos por empresários para destabilizar governo](https://www.facebook.com/SocialistaMorena/posts/830527017007803)
 - [Em seis anos de bloqueio, Venezuela foi alvo de 150 sanções e 11 tentativas de golpe - Estudos mostram impacto econômico dos embargos contra o país desde 2014; eleições deste ano acirram tensão com os EUA - 20/10/2020](https://www.brasildefato.com.br/2020/10/08/em-seis-anos-de-bloqueio-venezuela-foi-alvo-de-150-sancoes-e-11-tentativas-de-golpe)
@@ -128,7 +128,7 @@
 
 ### História dos EUA
 
-- [adBlog -A economia americana está viciada em guerra- Por:Julio Ribeiro](http://www.adonline.com.br/blog/julio-ribeiro-1/667-a-economia-americana-esta-viciada-em-guerra.html) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.adonline.com.br/blog/julio-ribeiro-1/667-a-economia-americana-esta-viciada-em-guerra.html)
+- [adBlog -A economia americana está viciada em guerra- Por:Julio Ribeiro](http://www.adonline.com.br/blog/julio-ribeiro-1/667-a-economia-americana-esta-viciada-em-guerra.html) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.adonline.com.br/blog/julio-ribeiro-1/667-a-economia-americana-esta-viciada-em-guerra.html)
 - [Como os Estados Unidos viraram a maior potência mundial?](http://mundoestranho.abril.com.br/historia/como-os-estados-unidos-viraram-a-maior-potencia-mundial/)
 - [O DIA QUE OS SOLDADOS NORTE-AMERICANOS HUMILHARAM CRIANÇAS NO IRAQUE](https://www.facebook.com/NossaEpoca/videos/1210995578911528/)
 - [10 operações de Falsa Bandeira que moldaram o nosso Mundo](https://pt.paradigmatrix.com/pt/2015/06/28/10-operacoes-de-falsa-bandeira-que-moldaram-o-nosso-mundo/)
@@ -136,23 +136,23 @@
 ### 11 de setembro
 
 - [Imagens de satélite: Putin vai provar de uma vez por todas que o 11 de setembro foi um trabalho interno contra seus proprios cidadãos](http://www.semprequestione.com/2016/07/imagens-de-satelite-putin-vai-provar-de.html?m=0#.WEMfOfkrJPa)
-- [A Farsa do 11 de setembro - YouTube](https://www.youtube.com/watch?v=ZUGR0jbbi64&index=1&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&t=7s) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ZUGR0jbbi64&index=1&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&t=7s)
-- [A farsa do 11 de setembro - Rede Globo defende a farsa - YouTube](https://www.youtube.com/watch?v=t85UIz1pnmc&index=2&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=t85UIz1pnmc&index=2&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
-- [11 de Setembro de 2001 - A Grande Farsa - Dossiê Completo - LEGENDADO - YouTube](https://www.youtube.com/watch?v=suGO7GEwZW0&index=3&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=suGO7GEwZW0&index=3&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
+- [A Farsa do 11 de setembro - YouTube](https://www.youtube.com/watch?v=ZUGR0jbbi64&index=1&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&t=7s) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ZUGR0jbbi64&index=1&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&t=7s)
+- [A farsa do 11 de setembro - Rede Globo defende a farsa - YouTube](https://www.youtube.com/watch?v=t85UIz1pnmc&index=2&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=t85UIz1pnmc&index=2&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
+- [11 de Setembro de 2001 - A Grande Farsa - Dossiê Completo - LEGENDADO - YouTube](https://www.youtube.com/watch?v=suGO7GEwZW0&index=3&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=suGO7GEwZW0&index=3&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
 - [Ultima prova de que 11 de setembro foi trabalho interno! - YouTube](https://www.youtube.com/watch?v=j9gvE_1kaiM&t=19s)
 - [Ultima prova de que 11 de setembro foi trabalho interno! - YouTube](https://www.youtube.com/watch?v=j9gvE_1kaiM&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=5)
 - [Aaron Russo entrevista com Alex Jones - YouTube](https://www.youtube.com/watch?v=8WNO3FMUuwA&index=6&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
-- [Fahrenheit 9-11 Legendado - YouTube](https://www.youtube.com/watch?v=rxiNYUFIiJ4&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=7) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=rxiNYUFIiJ4&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=7)
-- [Harodim 2012](https://www.youtube.com/watch?v=Ve7pGM2N9zU&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=8) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=Ve7pGM2N9zU&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=8)
-- [ENHANCED VERSION: News Reports WTC7 Fell Before It Happens! - YouTube](https://www.youtube.com/watch?v=ltP2t9nq9fI&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=9) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ltP2t9nq9fI&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=9)
-- [Conspirações: 11 de Setembro - A Terceira Torre (Dublado) Documentário Discovery Channel - YouTube](https://www.youtube.com/watch?v=9FXT3PnENj0&index=10&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=9FXT3PnENj0&index=10&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
+- [Fahrenheit 9-11 Legendado - YouTube](https://www.youtube.com/watch?v=rxiNYUFIiJ4&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=7) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=rxiNYUFIiJ4&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=7)
+- [Harodim 2012](https://www.youtube.com/watch?v=Ve7pGM2N9zU&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=8) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=Ve7pGM2N9zU&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=8)
+- [ENHANCED VERSION: News Reports WTC7 Fell Before It Happens! - YouTube](https://www.youtube.com/watch?v=ltP2t9nq9fI&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=9) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ltP2t9nq9fI&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=9)
+- [Conspirações: 11 de Setembro - A Terceira Torre (Dublado) Documentário Discovery Channel - YouTube](https://www.youtube.com/watch?v=9FXT3PnENj0&index=10&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=9FXT3PnENj0&index=10&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
 - [Engenheiros desmascaram 11 de Setembro - Tom Sullivan - Especialista em Explosivos - YouTube](https://www.youtube.com/watch?v=-gv5AlvZ3b4&index=11&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
 - [O que a GLOBO NÃO TEVE CORAGEM DE MOSTRAR sobre 11 de Setembro!!! - YouTube](https://www.youtube.com/watch?v=W_8WJSl3f-8&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw&index=12)
-- [Architects &amp; Engineers - Solucionando o Mistério do World Trade Center 7 - YouTube](https://www.youtube.com/watch?v=CQwcgWvyFEg&index=13&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=CQwcgWvyFEg&index=13&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
+- [Architects &amp; Engineers - Solucionando o Mistério do World Trade Center 7 - YouTube](https://www.youtube.com/watch?v=CQwcgWvyFEg&index=13&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=CQwcgWvyFEg&index=13&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
 - [Engenheiros desmascaram 11 de Setembro - Jeff Farrer - Físico - 1/3 - YouTube](https://www.youtube.com/watch?v=4s9T4L0eXmE&index=14&list=PLw7bwcrlLw6Ilc4no2jdR137Bz0YFQfqw)
 - [Instituto Científico Europeu conclui após 15 anos de investigações que a queda das torres tratou-se de uma demolição controlada - Sempre Questione](http://www.semprequestione.com/2017/02/instituto-cientifico-europeu-conclui.html?m=1)
-- [A Farsa do 11 de Setembro - COMPLETO - Jornal da Matrix - YouTube](https://www.youtube.com/watch?v=h5YiaDU4fgs) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=h5YiaDU4fgs)
-- [triblh](http://www.istoedinheiro.com.br/us-7-trilhoes-para-salvar-o-planeta/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.istoedinheiro.com.br/us-7-trilhoes-para-salvar-o-planeta/)
+- [A Farsa do 11 de Setembro - COMPLETO - Jornal da Matrix - YouTube](https://www.youtube.com/watch?v=h5YiaDU4fgs) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=h5YiaDU4fgs)
+- [triblh](http://www.istoedinheiro.com.br/us-7-trilhoes-para-salvar-o-planeta/) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.istoedinheiro.com.br/us-7-trilhoes-para-salvar-o-planeta/)
 - [9/11 Facts: the World Trade Center and the 9/11 Attacks | 911Truth.Org](http://911truth.org/)
 
 ### Golpes dos Estados Unidos
@@ -161,7 +161,7 @@
 
 ### Donald Trump
 
-- [O DISCURSO QUE PODE MATAR TRUMP - YouTube](https://www.youtube.com/watch?v=PL_WyxM6Ruk&t=87s) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=PL_WyxM6Ruk&t=87s)
+- [O DISCURSO QUE PODE MATAR TRUMP - YouTube](https://www.youtube.com/watch?v=PL_WyxM6Ruk&t=87s) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=PL_WyxM6Ruk&t=87s)
 - [Trump pega de jeito a CNN, acusando-a de fabricar fake news - YouTube](https://www.youtube.com/watch?v=VQvaZqeddKE)
 
 ### Invasões
@@ -197,7 +197,7 @@
 ## Ernesto Che Guevara
 
 - [Che genocida? Pare de ser tolo !](https://www.facebook.com/esquerdaarretada/videos/1736972073208011/)
-- [Opera Mundi - 50 verdades sobre Ernesto "Che" Guevara](http://operamundi.uol.com.br/conteudo/opiniao/33342/50+verdades+sobre+ernesto+che+guevara.shtml) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/opiniao/33342/50+verdades+sobre+ernesto+che+guevara.shtml)
+- [Opera Mundi - 50 verdades sobre Ernesto "Che" Guevara](http://operamundi.uol.com.br/conteudo/opiniao/33342/50+verdades+sobre+ernesto+che+guevara.shtml) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/opiniao/33342/50+verdades+sobre+ernesto+che+guevara.shtml)
 - [Guatemala: o golpe que radicalizou Che Guevara](http://www.revistaforum.com.br/2014/05/31/guatemala-o-golpe-que-radicalizou-che-guevara/)
 - [O Comandante Ernesto (Che) Guevara, durante sua permanência no Comando da Fortaleza de San Carlos de La Cabaña (Havana) foi encarregado do julgamento de agentes da Ditadura de Fulgêncio Batista.](https://www.facebook.com/veloriodadireita/photos/a.1722768737947435.1073741828.1722761111281531/2023039304587042/?type=3&theater)
 - [Ele [o Che] defendia Marx e defendia Lênin. Nunca o ouvi falar de Trotsky. Ele era leninista." Fidel Castro](https://www.facebook.com/EsquerdaRevolucionaria/videos/1192028600872422/)
@@ -207,5 +207,5 @@
 ## Pepe Mujica (ex-presidente do Uruguai)
 
 - [Mujica classifica Globo como "tubarão" estrangeiro](http://www.revistaforum.com.br/blog/2014/12/mujica-classifica-globo-como-tubarao-estrangeiro/)
-- [De 12 anos de tortura à presidência: a conturbada trajetória de José Mujica](https://aventurasnahistoria.uol.com.br/noticias/reportagem/de-12-anos-de-tortura-presidencia-conturbada-trajetoria-de-jose-mujica.phtml) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://aventurasnahistoria.uol.com.br/noticias/reportagem/de-12-anos-de-tortura-presidencia-conturbada-trajetoria-de-jose-mujica.phtml)
+- [De 12 anos de tortura à presidência: a conturbada trajetória de José Mujica](https://aventurasnahistoria.uol.com.br/noticias/reportagem/de-12-anos-de-tortura-presidencia-conturbada-trajetoria-de-jose-mujica.phtml) · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://aventurasnahistoria.uol.com.br/noticias/reportagem/de-12-anos-de-tortura-presidencia-conturbada-trajetoria-de-jose-mujica.phtml)
 - [13 motivos para sentirmos falta do presidente do Uruguai, José 'Pepe' Mujica, que legalizou a maconha](https://www.huffpostbrasil.com/2015/03/01/13-motivos-para-sentirmos-falta-do-presidente-do-uruguai-jose_n_6770748.html)

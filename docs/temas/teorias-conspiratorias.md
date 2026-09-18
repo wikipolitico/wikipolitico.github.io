@@ -2,11 +2,11 @@
 
 - [Cia John Perkins delator: CIA, Corporatocracia, PMDB,PSDB. A morte de Teori Zavascki (STF) culpados. - YouTube](https://www.youtube.com/watch?v=l-0KyBaFpLo)
 - [Chávez Sabia Que Os Serviços Especiais Dos EUA Estavam Atrás Dele](https://www.brasildefato.com.br/node/12453/)
-- [LISTA DE FAMOSOS MORTOS PELOS ILLUMINATI - TEORIA DA CONSPIRAÇÃO - YouTube](https://www.youtube.com/watch?v=vkmu5I7ojZs) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=vkmu5I7ojZs)
-- [MAÇONARIA - ILLUMINATI e Outras ORDENS SECRETAS - YouTube](https://www.youtube.com/watch?v=2Eq3OZl3tx0&feature=push-u-sub&attr_tag=IrVoiPVwpRQ-6) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=2Eq3OZl3tx0&feature=push-u-sub&attr_tag=IrVoiPVwpRQ-6)
+- [LISTA DE FAMOSOS MORTOS PELOS ILLUMINATI - TEORIA DA CONSPIRAÇÃO - YouTube](https://www.youtube.com/watch?v=vkmu5I7ojZs) · *fora do ar em 13/09/2026, vídeo indisponível (403)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=vkmu5I7ojZs)
+- [MAÇONARIA - ILLUMINATI e Outras ORDENS SECRETAS - YouTube](https://www.youtube.com/watch?v=2Eq3OZl3tx0&feature=push-u-sub&attr_tag=IrVoiPVwpRQ-6) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=2Eq3OZl3tx0&feature=push-u-sub&attr_tag=IrVoiPVwpRQ-6)
 - [HUGO CHÁVEZ FOI ASSASSINADO assista este vídeo antes que os illuminatis... - YouTube](https://www.youtube.com/watch?v=suqvOnXBZdk&t=119s)
 - [Corpo de Arafat tinha nível de polônio 18 vezes maior que o normal - 06/11/2013](https://operamundi.uol.com.br/politica-e-economia/32266/corpo-de-arafat-tinha-nivel-de-polonio-18-vezes-maior-que-o-normal)
-- [AS MORTES MISTERIOSAS DE POLÍTICOS BRASILEIROS “QUEIMA DE ARQUIVO”OS ARQUIVOS ULTRASECRETOS](https://rodrigoveronezigarcia.blogspot.com/2017/01/as-mortes-misteriosas-de-politicos.html) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://rodrigoveronezigarcia.blogspot.com/2017/01/as-mortes-misteriosas-de-politicos.html)
+- [AS MORTES MISTERIOSAS DE POLÍTICOS BRASILEIROS “QUEIMA DE ARQUIVO”OS ARQUIVOS ULTRASECRETOS](https://rodrigoveronezigarcia.blogspot.com/2017/01/as-mortes-misteriosas-de-politicos.html) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://rodrigoveronezigarcia.blogspot.com/2017/01/as-mortes-misteriosas-de-politicos.html)
 
 ## Mortes suspeitas no Brasil
 
@@ -24,7 +24,7 @@
 
 ### Enéas Carneiro (deputado e candidato a presidente em 1989) - 06/05/2007
 
-- [O polêmico vídeo que provocou a ira dos illuminatis e a morte de Enéas Carneiro - É de arrepiar!!! - YouTube](https://www.youtube.com/watch?v=2dLXbo1XXJM) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=2dLXbo1XXJM)
+- [O polêmico vídeo que provocou a ira dos illuminatis e a morte de Enéas Carneiro - É de arrepiar!!! - YouTube](https://www.youtube.com/watch?v=2dLXbo1XXJM) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=2dLXbo1XXJM)
 
 ### Clodovil Hernandes (apresentador e deputado federal) - 17/03/2009
 
@@ -50,7 +50,7 @@ Outras mortes relacionadas:
 ### Teori Zavascki (ministro do STF e relator da Lava Jato) - 19/01/2017
 
 - [ANTES DE MORRER , TEORI ZAVASCKI DA UM RECADO PARA SÉRGIO MORO](https://www.facebook.com/emersonbhmg/videos/1598025293650795/)
-- [Internet aposta em teoria da conspiração na morte de Teori Zavascki](https://canaltech.com.br/internet/internet-aposta-em-teoria-da-conspiracao-na-morte-de-teori-zavascki-87638/) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://canaltech.com.br/internet/internet-aposta-em-teoria-da-conspiracao-na-morte-de-teori-zavascki-87638/)
+- [Internet aposta em teoria da conspiração na morte de Teori Zavascki](https://canaltech.com.br/internet/internet-aposta-em-teoria-da-conspiracao-na-morte-de-teori-zavascki-87638/) · *fora do ar em 13/09/2026, 410* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://canaltech.com.br/internet/internet-aposta-em-teoria-da-conspiracao-na-morte-de-teori-zavascki-87638/)
 - [CABERÁ A TEMER NOMEAR NOVO MINISTRO QUE O "JULGARÁ", O QUE AINDA DARÁ A GILMAR MENDES MAIORIA NA CORTE!](https://www.facebook.com/monopolio.informacao/photos/a.220940641432782.1073741828.220775284782651/556972081162968/?type=3&theater)
 
 Outras mortes relacionadas:
@@ -58,7 +58,7 @@ Outras mortes relacionadas:
 - Elias Escobar (delegado da PF que investigava a morte de Teori Zavaski) e Federal Adriano Antônio Soares (outro delegado da PF) - 02/06/2017
   - [Delegado que investigava acidente com Teori Zavaski é morto em casa noturna - YouTube](https://www.youtube.com/watch?v=AJ3CkJ9eIfA)
   - [Aqui vai morrer tudo mundo", teria dito o delegado da Polícia Federal Adriano Antônio Soares, morto com o colega de profissão Escobar, no confronto armado com o dono do cachorro-quente"](https://ndmais.com.br/noticias/testemunha-diz-que-um-dos-delegados-federais-fez-ameaca-vai-morrer-todo-mundo/)
-  - [Justiça arquiva ação sobre morte de delegados da PF - Ghizzo Neto considerou que o caso se trata de legítima defesa, sob a alegação de que Nilton repeliu as agressões contra ele e usou de "moderação" para tanto, já que de sua arma foram efetuados "apenas" dois disparos](https://www.nsctotal.com.br/noticias/justica-arquiva-acao-sobre-morte-de-delegados-da-pf-em-florianopolis) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.nsctotal.com.br/noticias/justica-arquiva-acao-sobre-morte-de-delegados-da-pf-em-florianopolis)
+  - [Justiça arquiva ação sobre morte de delegados da PF - Ghizzo Neto considerou que o caso se trata de legítima defesa, sob a alegação de que Nilton repeliu as agressões contra ele e usou de "moderação" para tanto, já que de sua arma foram efetuados "apenas" dois disparos](https://www.nsctotal.com.br/noticias/justica-arquiva-acao-sobre-morte-de-delegados-da-pf-em-florianopolis) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.nsctotal.com.br/noticias/justica-arquiva-acao-sobre-morte-de-delegados-da-pf-em-florianopolis)
 
 ### Paulo Henrique Amorim (jornalista) - 10/07/2019
 

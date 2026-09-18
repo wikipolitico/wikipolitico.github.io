@@ -33,10 +33,10 @@
 
 ## Facada (Fakeada)
 
-- [A facada no mito - Documentário / *Assista o novo vídeo: "Inconsistências" - YouTube](https://www.youtube.com/watch?v=8hv1D6EgWfc) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=8hv1D6EgWfc)
-- [A facada no mito - Inconsistências - A cicatriz - YouTube](https://www.youtube.com/watch?v=vUKfhNhfeZk) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=vUKfhNhfeZk)
-- [A facada no mito - Inconsistências - YouTube](https://www.youtube.com/watch?v=5UbTqt5XR-c) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=5UbTqt5XR-c)
-- [A facada no mito - Um novo vídeo... - YouTube](https://www.youtube.com/watch?v=Mcel27CKdmg) · *fora do ar em 13/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=Mcel27CKdmg)
+- [A facada no mito - Documentário / *Assista o novo vídeo: "Inconsistências" - YouTube](https://www.youtube.com/watch?v=8hv1D6EgWfc) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=8hv1D6EgWfc)
+- [A facada no mito - Inconsistências - A cicatriz - YouTube](https://www.youtube.com/watch?v=vUKfhNhfeZk) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=vUKfhNhfeZk)
+- [A facada no mito - Inconsistências - YouTube](https://www.youtube.com/watch?v=5UbTqt5XR-c) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=5UbTqt5XR-c)
+- [A facada no mito - Um novo vídeo... - YouTube](https://www.youtube.com/watch?v=Mcel27CKdmg) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=Mcel27CKdmg)
 - [pastor mostra que bolsonaro,ja tinha problema gastrointestinal,antes da suposta facada](https://www.youtube.com/watch?v=uhayXGKMahI)
 - [Julho/2019: Bolsonaro não recorre contra Adélio, e caso é encerrado](https://exame.com/brasil/bolsonaro-nao-recorre-em-processo-contra-adelio-e-caso-e-encerrado/)
 - [Carlos atrapalhou segurança, diz Bebianno sobre dia da facada em Bolsonaro - 02/03/2020](https://noticias.uol.com.br/politica/ultimas-noticias/2020/03/02/carlos-atrapalhou-seguranca-diz-bebianno-sobre-dia-da-facada-em-bolsonaro.htm)
