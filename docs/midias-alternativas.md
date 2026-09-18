@@ -18,7 +18,7 @@ Perfis oficiais de políticos e autoridades ficam em [Políticos e Autoridades n
 
 - **A Casa de Vidro** — cultura e política. [Site](https://acasadevidro.com/) · [Facebook](https://www.facebook.com/blogacasadevidro) · [Instagram](https://instagram.com/acasadevidro_pontodecultura)
 - **Agência Pública** — jornalismo investigativo sem fins de lucro. [Site](https://apublica.org/) · [Facebook](https://www.facebook.com/agenciapublica) · [Bluesky](https://bsky.app/profile/apublica.org) · [Instagram](https://instagram.com/agenciapublica) · [Telegram](https://t.me/listadapublica)
-- **Balaio do Kotscho** — blog de Ricardo Kotscho. [Site](https://www.balaiodokotscho.com.br/) · [Facebook](https://www.facebook.com/balaiodokotschooficial)
+- **Balaio do Kotscho** — blog de Ricardo Kotscho. [Facebook](https://www.facebook.com/balaiodokotschooficial) · *o domínio balaiodokotscho.com.br foi tomado por um site de apostas, conferido em 18/09/2026, e por isso não está linkado* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.balaiodokotscho.com.br/)
 - **Barão de Itararé** — centro de estudos de mídia alternativa. [Site](https://baraodeitarare.org.br/) · [Facebook](https://www.facebook.com/baraomidia)
 - **Blog da Cidadania** — [Site](http://blogdacidadania.com.br/) · [Facebook](https://www.facebook.com/BlogDaCidadania) · [YouTube](https://www.youtube.com/channel/UCJU__wIT-5N-2fcSvZytRRg)
 - **Brasil 247** — portal de notícias, com a TV 247. [Site](https://www.brasil247.com/) · [Facebook](https://www.facebook.com/Brasil247/) · [TV 247 no YouTube](https://www.youtube.com/channel/UCRuy5PigeeBuecKnwqhM4yg) · [YouTube](https://youtube.com/c/brasil247) · [Telegram](https://t.me/brasil247oficial)
@@ -65,7 +65,7 @@ Perfis oficiais de políticos e autoridades ficam em [Políticos e Autoridades n
 - **Sul21** — jornalismo do Rio Grande do Sul. [Site](https://sul21.com.br/) · [Facebook](https://www.facebook.com/Jornal.Sul21) · [Bluesky](https://bsky.app/profile/sul21.com.br)
 - **Teoria Versus Prática** — [Facebook](https://www.facebook.com/teoriaversuspratica) · *sem site próprio localizado*
 - **The Intercept Brasil** — jornalismo investigativo. [Site](https://www.intercept.com.br/) · [Facebook](https://www.facebook.com/TheInterceptBr/) · [YouTube](https://www.youtube.com/channel/UCNqzAD9EiECreuH6LA8IYeA) · [Bluesky](https://bsky.app/profile/intercept.com.br) · [Instagram](https://instagram.com/theinterceptbrasil)
-- **Tijolaço** — blog de Fernando Brito. [Site](https://tijolaco.com.br/) · [Facebook](https://www.facebook.com/tijolacooficial/)
+- **Tijolaço** — blog de Fernando Brito. [Facebook](https://www.facebook.com/tijolacooficial/) · *o domínio tijolaco.com.br não hospeda mais o blog, conferido em 18/09/2026* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://tijolaco.com.br/)
 - **TVT News** — TV dos metalúrgicos do ABC. [Site](https://tvtnews.com.br/) · [Facebook](https://www.facebook.com/redetvt) · [YouTube](https://www.youtube.com/user/redetvt) · [Instagram](https://instagram.com/redetvt)
 - **Viomundo** — blog de Luiz Carlos Azenha. [Site](https://www.viomundo.com.br/) · [Facebook](https://www.facebook.com/urbanoazenha)
 
@@ -150,6 +150,7 @@ Canais que nascem e vivem no YouTube, sem site próprio.
 - [Daniela Abade](https://twitter.com/_danielaabade)
 - [Eduardo Moreira](https://www.facebook.com/eduardomoreirabrasil/) · [YouTube](https://www.youtube.com/user/eduardoamoreira) · [X](https://twitter.com/eduardomoreira) · fundador do [ICL Notícias](https://iclnoticias.com.br/) · [Bluesky](https://bsky.app/profile/iclnoticias.com.br)
 - [Elika Takimoto](https://twitter.com/elikatakimoto)
+- [Esmael Morais](https://www.esmaelmorais.com.br/) · [Facebook](https://www.facebook.com/esmael.morais/) · Blog do Esmael, bastidores da política no Paraná
 - [Fabio Pannunzio](https://twitter.com/blogdopannunzio)
 - [Florestan Fernandes Junior](https://www.facebook.com/FlorestanF) · [X](https://twitter.com/florestanjr)
 - [Gabriela Prioli](https://twitter.com/GabrielaPrioli)
@@ -269,7 +270,7 @@ Canais que nascem e vivem no YouTube, sem site próprio.
 
 ## Páginas do Facebook
 
-Acervo de páginas que só existem no Facebook, reunido na migração da wiki. Não passam pela verificação semanal de links, porque o Facebook responde às checagens automáticas mesmo quando a página não existe mais.
+Páginas cuja casa é o Facebook, a maioria vinda da migração da wiki. Não passam pela verificação semanal de links, porque o Facebook responde às checagens automáticas mesmo quando a página não existe mais.
 
 - [A Luta](https://www.facebook.com/alutaonline/)
 - [A verdade de Lula](https://www.facebook.com/Lulastruth/)
@@ -288,7 +289,6 @@ Acervo de páginas que só existem no Facebook, reunido na migração da wiki. N
 - [Debate](https://www.facebook.com/ESQUERDA.ESQUERDA.COM.BR/)
 - [Democracy for Brasil - UK](https://www.facebook.com/DemocracyforBrasilUK/)
 - [Dilma Resistente](https://www.facebook.com/DilmaResistente/)
-- [Esmael Morais](https://www.facebook.com/esmael.morais/)
 - [Esquerda Valente](https://www.facebook.com/esqvalente)
 - [Exército Vermelho](https://www.facebook.com/exercitovermelho/)
 - [Farol Operário](https://www.facebook.com/faroloperario/)
@@ -296,6 +296,7 @@ Acervo de páginas que só existem no Facebook, reunido na migração da wiki. N
 - [Fora Coronéis da Mídia](https://www.facebook.com/foracoroneisdamidia/)
 - [Frente Esquerda](https://www.facebook.com/SigaFrenteEsquerda/)
 - [Frente Resistência Democrática](https://www.facebook.com/frenteresistenciademocratica/)
+- ⭐ [Frente Sulamericana](https://www.facebook.com/frentesulamericana/)
 - [ImprenÇa](https://www.facebook.com/imprenca/)
 - [Jesus da Goiabeira](https://www.facebook.com/dagoiabeira/)
 - [Jovens de Esquerda](https://www.facebook.com/jovensdeesquerda/)
