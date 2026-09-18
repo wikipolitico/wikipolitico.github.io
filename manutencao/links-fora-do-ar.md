@@ -351,6 +351,6 @@ Links que estavam fora do ar em 13/09/2026 (erro 404, vídeo removido ou domíni
 
 ## Mídias Alternativas (3)
 
-- *YouTube* · [teleSUR tv](https://www.youtube.com/user/telesurtv) · 404 · [Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/user/telesurtv)
+- *Jornais, revistas e sites / Internacional* · [teleSUR tv](https://www.youtube.com/user/telesurtv) · 404 · [Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/user/telesurtv)
 - *Podcasts* · [Benzina](https://podcastaddict.com/podcast/2276975) · 404 · [Internet Archive](https://web.archive.org/web/*/https://podcastaddict.com/podcast/2276975)
 - *Podcasts* · [Granma Podcast](https://podcastaddict.com/podcast/2286001) · 404 · [Internet Archive](https://web.archive.org/web/*/https://podcastaddict.com/podcast/2286001)

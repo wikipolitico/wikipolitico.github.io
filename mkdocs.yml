@@ -62,6 +62,7 @@ plugins:
 
 hooks:
   - hooks/ultimas_atualizacoes.py
+  - hooks/destaques.py
 
 markdown_extensions:
   - admonition
@@ -97,6 +98,7 @@ nav:
       - "CPMI das Fake News (2020)": temas/cpmi-das-fake-news-2020.md
       - "Outros / Não classificados": temas/outros-nao-classificados.md
   - "Mídias Alternativas": midias-alternativas.md
+  - "Políticos e Autoridades nas Redes": politicos-nas-redes.md
   - "Comparação FHC x Lula e Dilma": comparacao-fhc-lula-dilma.md
   - "Comparação Bolsonaro x Lula 3": comparacao-bolsonaro-lula3.md
   - "Transcrições e Grampos Telefônicos": transcricoes.md

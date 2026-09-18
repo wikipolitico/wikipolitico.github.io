@@ -43,7 +43,8 @@ O **Wiki Político** reúne material para debater com fatos e desmontar a narrat
 
 ## Outras páginas
 
-- [Mídias Alternativas](midias-alternativas.md)
+- [Mídias Alternativas](midias-alternativas.md): veículos, canais e jornalistas do campo progressista
+- [Políticos e Autoridades nas Redes](politicos-nas-redes.md): perfis oficiais, que são fonte oficial e não imprensa
 - [Comparação FHC x Lula e Dilma](comparacao-fhc-lula-dilma.md)
 - [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md)
 - [Transcrições e Grampos Telefônicos](transcricoes.md)
