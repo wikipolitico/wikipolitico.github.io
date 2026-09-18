@@ -6,7 +6,10 @@ método que funciona nela:
 
   bluesky    API pública do Bluesky (getProfile); 200 existe, 400 não existe
   youtube    código HTTP; canal removido dá 404
-  telegram   o HTML tem "tgme_page_title" só quando o canal existe
+  telegram   o HTML tem "tgme_page_title" quando o canal existe e é visível de
+             onde se checa; sem o título, fica inconclusivo, porque a mesma
+             casca aparece para canal inexistente e para canal restrito na
+             região — o t.me/rtnews responde do Brasil e não responde na CI
   instagram  o <title> traz o nome da conta, mas só em consulta isolada: em
              checagem de lote o Instagram passa a devolver a casca de login
              para todo mundo, então a resposta genérica vale como inconclusiva,
@@ -83,8 +86,12 @@ def checar(item):
         return url, rede, codigo.startswith("2"), f"HTTP {codigo or 'sem resposta'}"
     corpo = curl(url)
     if rede == "telegram":
-        ok = "tgme_page_title" in corpo
-        return url, rede, ok, "tem título de canal" if ok else "sem título de canal"
+        if "tgme_page_title" in corpo:
+            return url, rede, True, "tem título de canal"
+        # ausência de título não prova queda: o Telegram devolve a mesma casca
+        # para canal inexistente e para canal restrito na região de quem checa.
+        # t.me/rtnews, por exemplo, responde aqui e não responde no runner da CI.
+        return url, rede, None, "sem título de canal, inexistente ou restrito na região"
     titulo = re.search(r"<title>([^<]*)</title>", corpo)
     t = (titulo.group(1) if titulo else "").strip()
     if t and t.lower() != "instagram":
