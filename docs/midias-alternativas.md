@@ -21,6 +21,11 @@ Perfis oficiais de políticos e autoridades ficam em [Políticos e Autoridades n
 - **Balaio do Kotscho** — blog de Ricardo Kotscho. [Facebook](https://www.facebook.com/balaiodokotschooficial) · *o domínio balaiodokotscho.com.br foi tomado por um site de apostas, conferido em 18/09/2026, e por isso não está linkado* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.balaiodokotscho.com.br/)
 - **Barão de Itararé** — centro de estudos de mídia alternativa. [Site](https://baraodeitarare.org.br/) · [Facebook](https://www.facebook.com/baraomidia)
 - **Blog da Cidadania** — [Site](http://blogdacidadania.com.br/) · [Facebook](https://www.facebook.com/BlogDaCidadania) · [YouTube](https://www.youtube.com/channel/UCJU__wIT-5N-2fcSvZytRRg)
+- **Blog Limpinho & Cheiroso** — blog independente de São Paulo. [Facebook](https://www.facebook.com/limpinhoecheiroso/) · *o domínio limpinhoecheiroso.com foi tomado por um site de apostas, conferido em 18/09/2026, e por isso não está linkado* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://limpinhoecheiroso.com/)
+- **Alerta Social** — curadoria de notícias. [Facebook](https://www.facebook.com/alertasocialbr/)
+- **Blog Xeque-Mate Notícias** — política, cultura e esporte, no formato de partida de xadrez. [Site](https://xeque-mate-noticias.blogspot.com/) · [Facebook](https://www.facebook.com/XequeMateNoticias/)
+- **Farol Operário** — "o jornal da luta dos trabalhadores", com o podcast Café Farol. [Facebook](https://www.facebook.com/faroloperario/)
+- **Poder ao Povo** — blog de Halysoh Macêdo, no ar desde dezembro de 2020, para informar e combater desinformação. [Site](https://poderaopovo.com/) · [Facebook](https://www.facebook.com/opoderaopovo/)
 - **Brasil 247** — portal de notícias, com a TV 247. [Site](https://www.brasil247.com/) · [Facebook](https://www.facebook.com/Brasil247/) · [TV 247 no YouTube](https://www.youtube.com/channel/UCRuy5PigeeBuecKnwqhM4yg) · [YouTube](https://youtube.com/c/brasil247) · [Telegram](https://t.me/brasil247oficial)
 - **Brasil de Fato** — jornal ligado a movimentos populares. [Site](https://www.brasildefato.com.br/) · [Facebook](https://www.facebook.com/brasildefato) · [YouTube](https://youtube.com/c/AgenciaBrasildeFato) · [Instagram](https://instagram.com/brasildefato)
 - **Brasil Debate** — [Facebook](https://www.facebook.com/brdebate) · *site fora do ar em 17/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://brasildebate.com.br/)
@@ -34,6 +39,7 @@ Perfis oficiais de políticos e autoridades ficam em [Políticos e Autoridades n
 - **Escrevinhador** — blog de Rodrigo Vianna, hoje dentro da Revista Fórum. [Site](https://revistaforum.com.br/escrevinhador/) · [Facebook](https://www.facebook.com/Escrevinhador-360573263963286/)
 - **Esquerda Diário** — ligado ao MRT. [Site](https://www.esquerdadiario.com.br/) · [Facebook](https://www.facebook.com/esquerdadiario/) · [YouTube](https://www.youtube.com/channel/UC3j1GW4EVUoq1g1n0wE2VGw)
 - **Esquerda Online** — [Site](https://esquerdaonline.com.br/) · [Facebook](https://www.facebook.com/esquerdaonline/) · [Bluesky](https://bsky.app/profile/esquerdaonline.bsky.social) · [Instagram](https://instagram.com/esquerdaonline) · [Telegram](https://t.me/esquerdaonline)
+- **Esquerda Valente** — blog de política. [Facebook](https://www.facebook.com/esqvalente) · *o blog aesquerdavalente.blogspot.com.br saiu do ar* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://aesquerdavalente.blogspot.com.br/)
 - **Falando Verdades** — [Facebook](https://www.facebook.com/Falandoverdades.com.br/) · [YouTube](https://www.youtube.com/channel/UCRfUfNEJVaY8AbAcb46qX0g) · *site fora do ar em 17/09/2026, timeout* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://falandoverdades.com.br/)
 - **ICL Notícias** — Instituto Conhecimento Liberta, fundado por Eduardo Moreira. [Site](https://iclnoticias.com.br/) · [Instituto Conhecimento Liberta no YouTube](https://www.youtube.com/channel/UCaIqJHHo9TJiLINzOFJRl2Q) · [ICL Notícias no YouTube](https://www.youtube.com/channel/UCTnRtQ9IkBGmCKcLB31BcyA) · [Bluesky](https://bsky.app/profile/iclnoticias.com.br) · [Instagram](https://www.instagram.com/icl.noticias)
 - **Intervozes** — coletivo pelo direito à comunicação. [Site](https://intervozes.org.br/) · [YouTube](https://www.youtube.com/channel/UCqIUx1pQhTiaaJ4R6Hi5ORw) · [Instagram](https://instagram.com/intervozes)
@@ -232,6 +238,12 @@ Canais que nascem e vivem no YouTube, sem site próprio.
 - **POVO SEM MEDO** — [Facebook](https://www.facebook.com/povosemmedonacional/)
 - **FIBRA** — Frente Internacional de Brasileiros contra o Golpe. [Facebook](https://www.facebook.com/fibrafrenteinternacional/)
 - **Demodê** — grupo de pesquisa sobre democracia e desigualdades, do Instituto de Ciência Política da UnB. [Facebook](https://www.facebook.com/Demode.Ipol.UnB)
+- **Democracy for Brasil - UK** — brasileiros no Reino Unido em defesa da democracia. [Facebook](https://www.facebook.com/DemocracyforBrasilUK/)
+- **Fora Coronéis da Mídia** — campanha criada pela ENECOS em 2014 contra políticos donos de rádio e TV. [Facebook](https://www.facebook.com/foracoroneisdamidia/)
+- **Frente Resistência Democrática** — [Facebook](https://www.facebook.com/frenteresistenciademocratica/)
+- **Jovens de Esquerda** — "na luta por justiça social, contra o racismo, o machismo e a homofobia". [Facebook](https://www.facebook.com/jovensdeesquerda/)
+- **Megacidadania** — educação cívica e transparência. [Facebook](https://www.facebook.com/cursosprogressistas/)
+- **Pense, é grátis** — instituição humanista e secular sem fins lucrativos. [Facebook](https://www.facebook.com/penseegratis/)
 - **Foro de São Paulo** — [X](https://twitter.com/ForodeSaoPaulo)
 - **Architects & Engineers for 9/11 Truth** — [Facebook](https://www.facebook.com/ae911truth/)
 - **9/11 An Inside Job** — [Facebook](https://www.facebook.com/911-An-Inside-Job-464079246963192/)
@@ -268,50 +280,43 @@ Canais que nascem e vivem no YouTube, sem site próprio.
 - [Aulas de História](https://www.facebook.com/aulas.historia/)
 - [História da Ditadura](https://www.facebook.com/historiadaditadurabr/)
 
-## Páginas do Facebook
+## Humor político
 
-Páginas cuja casa é o Facebook, a maioria vinda da migração da wiki. Não passam pela verificação semanal de links, porque o Facebook responde às checagens automáticas mesmo quando a página não existe mais.
+- [Analfabeto Político](https://www.facebook.com/analfapolitico/) · "a gente leva a política na brincadeira pra você levar a sério"
+- [Anarcomiguxos IX](https://www.facebook.com/anarcomiguxos9/) · sucessora da VIII, mesma linha
+- [Anarcomiguxos VIII](https://www.facebook.com/anarcomiguxos8/) · humor, crítica ao anarcocapitalismo
+- [Burguesia fede](https://www.facebook.com/aburguesiafede/) · [Instagram](https://www.instagram.com/burguesia.fede/) · [X](https://x.com/fedeburguesia) · do verso de Cazuza
+- [Capitalistas sem Capital](https://www.facebook.com/capitalistasemcapital/) · "esquerda raiz e autocrítica", a agulha na bolha ideológica
+- [Cômicas Políticas](https://www.facebook.com/comicaspoliticas/) · ativismo político com humor
+- [Jesus da Goiabeira](https://www.facebook.com/dagoiabeira/) · [X](https://twitter.com/goiabeirajesus) · humor, nascida da declaração de Damares Alves sobre ver Jesus numa goiabeira
+- [Nossa Época](https://www.facebook.com/NossaEpoca/) · humor, política e atualidades, em homenagem a Mariátegui
+
+## Opinião e crítica de mídia
+
+- [A verdade de Lula](https://www.facebook.com/Lulastruth/) · página de defesa de Lula, criada "com o propósito de repor a verdade"
+- [Contexto Livre](https://www.facebook.com/contextolivre/) · política, mídia, música, filosofia e literatura · *o blog contextolivre.com.br saiu do ar* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.contextolivre.com.br/)
+- [Dilma Resistente](https://www.facebook.com/DilmaResistente/) · "defendemos a democracia, apoiadores do golpe aqui não"
+- [ImprenÇa](https://www.facebook.com/imprenca/) · crítica de mídia · *é página de fãs, não a oficial*
+- [Não Te Contaram](https://www.facebook.com/naotecontaram/) · crítica de mídia: "o importante não é o que eu publico, mas o que deixo de publicar"
+- [Nos tempos do FHC / PSDB](https://www.facebook.com/Nos-tempos-do-FHC-PSDB-590003471081591/) · memória política do período tucano
+- [Observe](https://www.facebook.com/Observesempre/) · "instrumento de reflexão"
+- [Pig Golpista](https://www.facebook.com/pig.golpista/) · crítica de mídia, do termo "Partido da Imprensa Golpista" popularizado por Paulo Henrique Amorim
+- [Política no Face II](https://www.facebook.com/politicanoface2/) · "página progressista, que debate política e cultura"
+- [Seja Subversivo](https://www.facebook.com/sejasubversivo/) · empoderamento e combate ao preconceito
+
+## Páginas sem identificação confirmada
+
+Páginas que só têm endereço no Facebook e que não foi possível identificar: o Facebook não responde a checagem automática e o Internet Archive só guardou a tela de bloqueio delas. Saem daqui conforme forem identificadas. Não passam pela verificação semanal de links, porque o Facebook responde às checagens automáticas mesmo quando a página não existe mais.
 
 - [A Luta](https://www.facebook.com/alutaonline/)
-- [A verdade de Lula](https://www.facebook.com/Lulastruth/)
-- [Alerta Social](https://www.facebook.com/alertasocialbr/)
-- [Analfabeto Político](https://www.facebook.com/analfapolitico/)
-- [Anarcomiguxos IX](https://www.facebook.com/anarcomiguxos9/)
-- [Anarcomiguxos VIII](https://www.facebook.com/anarcomiguxos8/)
 - [Antes do PT](https://www.facebook.com/Antes-do-PT-1104761626302161/)
-- [Bar do Omar](https://www.facebook.com/BarDoOmar/)
-- [Blog - Xeque-Mate Notícias](https://www.facebook.com/XequeMateNoticias/)
-- [Blog Limpinho & Cheiroso](https://www.facebook.com/limpinhoecheiroso/)
-- [Burguesia fede](https://www.facebook.com/aburguesiafede/)
-- [Capitalistas sem Capital](https://www.facebook.com/capitalistasemcapital/)
-- [Cômicas Políticas](https://www.facebook.com/comicaspoliticas/)
-- [Contexto Livre](https://www.facebook.com/contextolivre/)
 - [Debate](https://www.facebook.com/ESQUERDA.ESQUERDA.COM.BR/)
-- [Democracy for Brasil - UK](https://www.facebook.com/DemocracyforBrasilUK/)
-- [Dilma Resistente](https://www.facebook.com/DilmaResistente/)
-- [Esquerda Valente](https://www.facebook.com/esqvalente)
 - [Exército Vermelho](https://www.facebook.com/exercitovermelho/)
-- [Farol Operário](https://www.facebook.com/faroloperario/)
 - [Fatos Nacionais](https://www.facebook.com/Fatos-Nacionais-863361347092150/) · [X](https://twitter.com/fatosnacionais)
-- [Fora Coronéis da Mídia](https://www.facebook.com/foracoroneisdamidia/)
 - [Frente Esquerda](https://www.facebook.com/SigaFrenteEsquerda/)
-- [Frente Resistência Democrática](https://www.facebook.com/frenteresistenciademocratica/)
 - ⭐ [Frente Sulamericana](https://www.facebook.com/frentesulamericana/)
-- [ImprenÇa](https://www.facebook.com/imprenca/)
-- [Jesus da Goiabeira](https://www.facebook.com/dagoiabeira/)
-- [Jovens de Esquerda](https://www.facebook.com/jovensdeesquerda/)
 - [JUSTIÇA SOCIAL](https://www.facebook.com/justicasocial.br/)
-- [Megacidadania](https://www.facebook.com/cursosprogressistas/)
-- [Não Te Contaram](https://www.facebook.com/naotecontaram/)
-- [Nos tempos do FHC / PSDB](https://www.facebook.com/Nos-tempos-do-FHC-PSDB-590003471081591/)
-- [Nossa Época](https://www.facebook.com/NossaEpoca/)
 - [Noticias Comentadas](https://www.facebook.com/noticiascomentadasII/)
-- [Observe](https://www.facebook.com/Observesempre/)
-- [Pense, é grátis](https://www.facebook.com/penseegratis/)
-- [Pig Golpista](https://www.facebook.com/pig.golpista/)
-- [Poder ao Povo](https://www.facebook.com/opoderaopovo/)
-- [Política no Face II](https://www.facebook.com/politicanoface2/)
-- [Seja Subversivo](https://www.facebook.com/sejasubversivo/)
 
 ## Notas
 
