@@ -1,6 +1,8 @@
 # Mídias Alternativas
 
-Mídias e fontes de notícias do campo progressista, organizadas por veículo. Quando o veículo tem site próprio, ele é o primeiro link, e os perfis de rede vêm depois: o site é o endereço que sobrevive à troca de plataforma e o único que a verificação semanal de links consegue checar.
+Veículos, canais, jornalistas e páginas fora do circuito das grandes emissoras e dos grandes jornais. O núcleo é a imprensa de esquerda brasileira, e em volta dela entram humor e opinião, crítica de mídia, instituições e arquivos públicos, e veículos estrangeiros que servem de contraponto ao noticiário anglo-americano.
+
+Quando o veículo tem site próprio, ele é o primeiro link, e os perfis de rede vêm depois: o site é o endereço que sobrevive à troca de plataforma e o único que a verificação semanal de links consegue checar.
 
 Perfis oficiais de políticos e autoridades ficam em [Políticos e Autoridades nas Redes](politicos-nas-redes.md). O que saiu do ar continua na lista, com aviso e atalho para o Internet Archive.
 
@@ -18,14 +20,12 @@ Perfis oficiais de políticos e autoridades ficam em [Políticos e Autoridades n
 
 - **A Casa de Vidro** — cultura e política. [Site](https://acasadevidro.com/) · [Facebook](https://www.facebook.com/blogacasadevidro) · [Instagram](https://instagram.com/acasadevidro_pontodecultura)
 - **Agência Pública** — jornalismo investigativo sem fins de lucro. [Site](https://apublica.org/) · [Facebook](https://www.facebook.com/agenciapublica) · [Bluesky](https://bsky.app/profile/apublica.org) · [Instagram](https://instagram.com/agenciapublica) · [Telegram](https://t.me/listadapublica)
+- **Alerta Social** — curadoria de notícias. [Facebook](https://www.facebook.com/alertasocialbr/)
 - **Balaio do Kotscho** — blog de Ricardo Kotscho. [Facebook](https://www.facebook.com/balaiodokotschooficial) · *o domínio balaiodokotscho.com.br foi tomado por um site de apostas, conferido em 18/09/2026, e por isso não está linkado* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.balaiodokotscho.com.br/)
 - **Barão de Itararé** — centro de estudos de mídia alternativa. [Site](https://baraodeitarare.org.br/) · [Facebook](https://www.facebook.com/baraomidia)
 - **Blog da Cidadania** — [Site](http://blogdacidadania.com.br/) · [Facebook](https://www.facebook.com/BlogDaCidadania) · [YouTube](https://www.youtube.com/channel/UCJU__wIT-5N-2fcSvZytRRg)
 - **Blog Limpinho & Cheiroso** — blog independente de São Paulo. [Facebook](https://www.facebook.com/limpinhoecheiroso/) · *o domínio limpinhoecheiroso.com foi tomado por um site de apostas, conferido em 18/09/2026, e por isso não está linkado* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://limpinhoecheiroso.com/)
-- **Alerta Social** — curadoria de notícias. [Facebook](https://www.facebook.com/alertasocialbr/)
 - **Blog Xeque-Mate Notícias** — política, cultura e esporte, no formato de partida de xadrez. [Site](https://xeque-mate-noticias.blogspot.com/) · [Facebook](https://www.facebook.com/XequeMateNoticias/)
-- **Farol Operário** — "o jornal da luta dos trabalhadores", com o podcast Café Farol. [Facebook](https://www.facebook.com/faroloperario/)
-- **Poder ao Povo** — blog de Halysoh Macêdo, no ar desde dezembro de 2020, para informar e combater desinformação. [Site](https://poderaopovo.com/) · [Facebook](https://www.facebook.com/opoderaopovo/)
 - **Brasil 247** — portal de notícias, com a TV 247. [Site](https://www.brasil247.com/) · [Facebook](https://www.facebook.com/Brasil247/) · [TV 247 no YouTube](https://www.youtube.com/channel/UCRuy5PigeeBuecKnwqhM4yg) · [YouTube](https://youtube.com/c/brasil247) · [Telegram](https://t.me/brasil247oficial)
 - **Brasil de Fato** — jornal ligado a movimentos populares. [Site](https://www.brasildefato.com.br/) · [Facebook](https://www.facebook.com/brasildefato) · [YouTube](https://youtube.com/c/AgenciaBrasildeFato) · [Instagram](https://instagram.com/brasildefato)
 - **Brasil Debate** — [Facebook](https://www.facebook.com/brdebate) · *site fora do ar em 17/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://brasildebate.com.br/)
@@ -41,6 +41,7 @@ Perfis oficiais de políticos e autoridades ficam em [Políticos e Autoridades n
 - **Esquerda Online** — [Site](https://esquerdaonline.com.br/) · [Facebook](https://www.facebook.com/esquerdaonline/) · [Bluesky](https://bsky.app/profile/esquerdaonline.bsky.social) · [Instagram](https://instagram.com/esquerdaonline) · [Telegram](https://t.me/esquerdaonline)
 - **Esquerda Valente** — blog de política. [Facebook](https://www.facebook.com/esqvalente) · *o blog aesquerdavalente.blogspot.com.br saiu do ar* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://aesquerdavalente.blogspot.com.br/)
 - **Falando Verdades** — [Facebook](https://www.facebook.com/Falandoverdades.com.br/) · [YouTube](https://www.youtube.com/channel/UCRfUfNEJVaY8AbAcb46qX0g) · *site fora do ar em 17/09/2026, timeout* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://falandoverdades.com.br/)
+- **Farol Operário** — "o jornal da luta dos trabalhadores", com o podcast Café Farol. [Facebook](https://www.facebook.com/faroloperario/)
 - **ICL Notícias** — Instituto Conhecimento Liberta, fundado por Eduardo Moreira. [Site](https://iclnoticias.com.br/) · [Instituto Conhecimento Liberta no YouTube](https://www.youtube.com/channel/UCaIqJHHo9TJiLINzOFJRl2Q) · [ICL Notícias no YouTube](https://www.youtube.com/channel/UCTnRtQ9IkBGmCKcLB31BcyA) · [Bluesky](https://bsky.app/profile/iclnoticias.com.br) · [Instagram](https://www.instagram.com/icl.noticias)
 - **Intervozes** — coletivo pelo direito à comunicação. [Site](https://intervozes.org.br/) · [YouTube](https://www.youtube.com/channel/UCqIUx1pQhTiaaJ4R6Hi5ORw) · [Instagram](https://instagram.com/intervozes)
 - **Jornal A Pátria** — [Facebook](https://www.facebook.com/JornalAPatria/) · *sem site próprio localizado*
@@ -59,6 +60,7 @@ Perfis oficiais de políticos e autoridades ficam em [Políticos e Autoridades n
 - **Passa Palavra** — [Site](https://passapalavra.info/) · [Facebook](https://www.facebook.com/passapalavra) · [Instagram](https://instagram.com/passapalavra.info)
 - **Pátria Latina** — América Latina. [Site](https://patrialatina.com.br/) · [Facebook](https://www.facebook.com/patrialatinaonline) · [Instagram](https://instagram.com/portalpatrialatina)
 - ⭐ **Plantão Brasil** — site de esquerda no ar desde 2013, editado por Thiago dos Reis. [Site](https://www.plantaobrasil.net/) · [Facebook](https://www.facebook.com/PlantaoBrasil.net) · [YouTube](https://www.youtube.com/channel/UC3-JLGJpMKwymQoRFJMkgSg)
+- **Poder ao Povo** — blog de Halysoh Macêdo, no ar desde dezembro de 2020, para informar e combater desinformação. [Site](https://poderaopovo.com/) · [Facebook](https://www.facebook.com/opoderaopovo/)
 - **Poder360** — jornalismo de política e poder. [Site](https://www.poder360.com.br/) · [YouTube](https://www.youtube.com/channel/UCFCiSRbCVwQ_BQaDQBYxN_A) · [Bluesky](https://bsky.app/profile/poder360.bsky.social) · [Instagram](https://instagram.com/poder360) · [Telegram](https://t.me/Poder360)
 - **Portal Vermelho** — ligado ao PCdoB, com a TV Vermelho. [Site](https://vermelho.org.br/) · [Facebook](https://www.facebook.com/vermelhobrasil/) · [TV Vermelho no YouTube](https://www.youtube.com/user/tevevermelho) · [Instagram](https://instagram.com/oportalvermelho)
 - **Pragmatismo Político** — [Site](https://www.pragmatismopolitico.com.br/) · [Facebook](https://www.facebook.com/PragmatismoPolitico/)
@@ -79,20 +81,20 @@ Perfis oficiais de políticos e autoridades ficam em [Políticos e Autoridades n
 
 - **Al Jazeera** (Catar) — [Site](https://www.aljazeera.com/) · [Facebook](https://www.facebook.com/aljazeera/) · [Al Jazeera World](https://www.facebook.com/AlJazeeraWorld/) · [Bluesky](https://bsky.app/profile/aljazeera.com) · [Instagram](https://instagram.com/aljazeeraenglish)
 - **Asia Times** (Tailândia) — [Site](https://asiatimes.com/) · [Facebook](https://www.facebook.com/asiatimesonline/)
-- **China Daily** (China) — [Site](https://www.chinadaily.com.cn/) · [Facebook](https://www.facebook.com/chinadaily/)
+- **China Daily** (China) — jornal estatal chinês. [Site](https://www.chinadaily.com.cn/) · [Facebook](https://www.facebook.com/chinadaily/)
 - **CounterPunch** (EUA) — [Site](https://www.counterpunch.org/) · [Facebook](https://www.facebook.com/CounterPunchOrg/)
 - **Democracy Now!** (EUA) — [Site](https://www.democracynow.org/) · [X](https://twitter.com/democracynow) · [YouTube](https://youtube.com/user/democracynow) · [Bluesky](https://bsky.app/profile/democracynow.org) · [Instagram](https://instagram.com/democracynow)
-- **DW Brasil** (Alemanha) — [Site](https://www.dw.com/pt-br/) · [Facebook](https://www.facebook.com/dw.brasil) · [Bluesky](https://bsky.app/profile/brasil.dw.com) · [Instagram](https://instagram.com/dw.brasil)
+- **DW Brasil** (Alemanha) — emissora pública da Alemanha, financiada por recursos federais. [Site](https://www.dw.com/pt-br/) · [Facebook](https://www.facebook.com/dw.brasil) · [Bluesky](https://bsky.app/profile/brasil.dw.com) · [Instagram](https://instagram.com/dw.brasil)
 - **EL PAÍS Brasil** (Espanha) — [Site](https://brasil.elpais.com/) · [Facebook](https://www.facebook.com/elpaisbrasil/)
-- **Global Times** (China) — [Site](https://www.globaltimes.cn/) · [Facebook](https://www.facebook.com/globaltimesnews)
+- **Global Times** (China) — do grupo do Diário do Povo, jornal do Partido Comunista Chinês. [Site](https://www.globaltimes.cn/) · [Facebook](https://www.facebook.com/globaltimesnews)
 - **Le Monde Diplomatique Brasil** (França) — [Site](https://diplomatique.org.br/) · [Facebook](https://www.facebook.com/diplobrasil) · [Instagram](https://instagram.com/diplomatiquebrasil)
-- **RT** (Rússia) — [Site](https://www.rt.com/) · [Facebook](https://www.facebook.com/RTnews/) · [RT America](https://www.facebook.com/RTAmerica/), que *encerrou as operações em março de 2022* · [Telegram](https://t.me/rtnews)
-- **Sputnik Brasil** (Rússia) — hoje publica em noticiabrasil.net.br. [Site](https://br.sputniknews.com/) · [Facebook](https://www.facebook.com/OfficialSputnikBrasil/) · [YouTube](https://www.youtube.com/channel/UCiPQn6u6dwDQ03kTDf1QjXw) · [X](https://twitter.com/sputnik_brasil)
-- **teleSUR** (Venezuela) — [Site](https://www.telesurtv.net/) · [Facebook](https://www.facebook.com/teleSUR) · [X em inglês](https://twitter.com/telesurenglish) · [X](https://twitter.com/teleSURtv) · [canal antigo no YouTube](https://www.youtube.com/user/telesurtv), *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/user/telesurtv) · [YouTube](https://youtube.com/@envivotelesur) · [Instagram](https://instagram.com/telesurtv)
+- **RT** (Rússia) — financiada pelo Estado russo. [Site](https://www.rt.com/) · [Facebook](https://www.facebook.com/RTnews/) · [RT America](https://www.facebook.com/RTAmerica/), que *encerrou as operações em março de 2022* · [Telegram](https://t.me/rtnews)
+- **Sputnik Brasil** (Rússia) — financiada pelo Estado russo. Hoje publica em noticiabrasil.net.br. [Site](https://br.sputniknews.com/) · [Facebook](https://www.facebook.com/OfficialSputnikBrasil/) · [YouTube](https://www.youtube.com/channel/UCiPQn6u6dwDQ03kTDf1QjXw) · [X](https://twitter.com/sputnik_brasil)
+- **teleSUR** (Venezuela) — financiada por governos da região, sobretudo o venezuelano. [Site](https://www.telesurtv.net/) · [Facebook](https://www.facebook.com/teleSUR) · [X em inglês](https://twitter.com/telesurenglish) · [X](https://twitter.com/teleSURtv) · [canal antigo no YouTube](https://www.youtube.com/user/telesurtv), *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/user/telesurtv) · [YouTube](https://youtube.com/@envivotelesur) · [Instagram](https://instagram.com/telesurtv)
 - **The BRICS Post** — [X](https://twitter.com/TheBricsPost)
 - **The Real News Network** (EUA) — [Site](https://therealnews.com/) · [Facebook](https://www.facebook.com/therealnews/) · [YouTube](https://youtube.com/c/therealnews) · [Bluesky](https://bsky.app/profile/therealnews.com) · [Instagram](https://instagram.com/therealnewsnetwork) · [Telegram](https://t.me/the_real_news_network) · [Mastodon](https://mastodon.social/@therealnews)
 - **WikiLeaks** — [Site](https://wikileaks.org/) · [Facebook](https://www.facebook.com/wikileaks/) · [X](https://twitter.com/wikileaks) · [WikiLeaks Press](https://twitter.com/wlpress) · [YouTube](https://www.youtube.com/channel/UCcg9c3gXb_rwyqzeCaLuHDA)
-- **Xinhua em português** (China) — [Site](https://portuguese.news.cn/) · [Facebook](https://www.facebook.com/China-Xinhua-News-1629228347341832/)
+- **Xinhua em português** (China) — agência estatal de notícias da China. [Site](https://portuguese.news.cn/) · [Facebook](https://www.facebook.com/China-Xinhua-News-1629228347341832/)
 
 ## Canais de vídeo
 
@@ -224,54 +226,54 @@ Canais que nascem e vivem no YouTube, sem site próprio.
 
 ## Sindicatos, movimentos e organizações
 
-- **CUT** — Central Única dos Trabalhadores. [Site](https://www.cut.org.br/) · [Facebook](https://www.facebook.com/cutbrasil) · [YouTube](https://www.youtube.com/channel/UC57kEHnwzXXaTtOYeIKYHLQ) · [Instagram](https://instagram.com/cutbrasil)
+- **9/11 An Inside Job** — [Facebook](https://www.facebook.com/911-An-Inside-Job-464079246963192/)
+- **ANF** — Agência de Notícias das Favelas. [Site](https://www.anf.org.br/) · [Facebook](https://www.facebook.com/agenciadenoticiasdasfavelas/) · [YouTube](https://youtube.com/@agenciadenoticiasdasfavelas) · [Instagram](https://instagram.com/agenciadenoticiasdasfavelas)
+- **Architects & Engineers for 9/11 Truth** — [Facebook](https://www.facebook.com/ae911truth/)
 - **CTB** — Central dos Trabalhadores e Trabalhadoras do Brasil. [Site](https://www.ctb.org.br/) · [Facebook](https://www.facebook.com/portalctb/) · [Bluesky](https://bsky.app/profile/portalctb.bsky.social) · [Instagram](https://instagram.com/portalctb)
+- **CUT** — Central Única dos Trabalhadores. [Site](https://www.cut.org.br/) · [Facebook](https://www.facebook.com/cutbrasil) · [YouTube](https://www.youtube.com/channel/UC57kEHnwzXXaTtOYeIKYHLQ) · [Instagram](https://instagram.com/cutbrasil)
+- **Democracy for Brasil - UK** — brasileiros no Reino Unido em defesa da democracia. [Facebook](https://www.facebook.com/DemocracyforBrasilUK/)
+- **Demodê** — grupo de pesquisa sobre democracia e desigualdades, do Instituto de Ciência Política da UnB. [Facebook](https://www.facebook.com/Demode.Ipol.UnB)
+- **FIBRA** — Frente Internacional de Brasileiros contra o Golpe. [Facebook](https://www.facebook.com/fibrafrenteinternacional/)
+- **FNDC** — Fórum Nacional pela Democratização da Comunicação. [Site](https://fndc.org.br/) · [Facebook](https://www.facebook.com/fndc.br/) · [YouTube](https://youtube.com/@canaldofndc) · [Instagram](https://instagram.com/fndc_brasil)
+- **Fora Coronéis da Mídia** — campanha criada pela ENECOS em 2014 contra políticos donos de rádio e TV. [Facebook](https://www.facebook.com/foracoroneisdamidia/)
+- **Foro de São Paulo** — [X](https://twitter.com/ForodeSaoPaulo)
+- **Frente Brasil Popular** — [Site](https://frentebrasilpopular.org.br/) · [Facebook](https://www.facebook.com/FrenteBrasilPopular)
+- **Frente Resistência Democrática** — [Facebook](https://www.facebook.com/frenteresistenciademocratica/)
+- **Geledés** — Instituto da Mulher Negra. [Site](https://www.geledes.org.br/) · [Facebook](https://www.facebook.com/geledes) · [YouTube](https://youtube.com/c/geledes) · [Instagram](https://instagram.com/portalgeledes)
+- **Jovens de Esquerda** — "na luta por justiça social, contra o racismo, o machismo e a homofobia". [Facebook](https://www.facebook.com/jovensdeesquerda/)
+- **Levante Popular da Juventude** — [Site](https://levante.org.br/) · [Facebook](https://www.facebook.com/levantepopulardajuventude/) · [YouTube](https://www.youtube.com/channel/UCmo_qwwtofscJjjND_Pm-UA) · [Bluesky](https://bsky.app/profile/levante.org.br) · [Instagram](https://instagram.com/levantedajuventude)
+- **Megacidadania** — educação cívica e transparência. [Facebook](https://www.facebook.com/cursosprogressistas/)
 - **MST** — Movimento dos Trabalhadores Rurais Sem Terra. [Site](https://mst.org.br/) · [Facebook](https://www.facebook.com/MovimentoSemTerra/) · [YouTube](https://www.youtube.com/user/videosmst) · [João Pedro Stédile no X](https://twitter.com/stedile_mst) · [Bluesky](https://bsky.app/profile/mst.org.br)
 - **MTST** — Movimento dos Trabalhadores Sem-Teto. [Site](https://mtst.org/) · [Facebook](https://www.facebook.com/mtstbrasil/)
-- **UNE** — União Nacional dos Estudantes. [Site](https://www.une.org.br/) · [Facebook](https://www.facebook.com/uneoficial/)
-- **Levante Popular da Juventude** — [Site](https://levante.org.br/) · [Facebook](https://www.facebook.com/levantepopulardajuventude/) · [YouTube](https://www.youtube.com/channel/UCmo_qwwtofscJjjND_Pm-UA) · [Bluesky](https://bsky.app/profile/levante.org.br) · [Instagram](https://instagram.com/levantedajuventude)
-- **Frente Brasil Popular** — [Site](https://frentebrasilpopular.org.br/) · [Facebook](https://www.facebook.com/FrenteBrasilPopular)
-- **Geledés** — Instituto da Mulher Negra. [Site](https://www.geledes.org.br/) · [Facebook](https://www.facebook.com/geledes) · [YouTube](https://youtube.com/c/geledes) · [Instagram](https://instagram.com/portalgeledes)
-- **ANF** — Agência de Notícias das Favelas. [Site](https://www.anf.org.br/) · [Facebook](https://www.facebook.com/agenciadenoticiasdasfavelas/) · [YouTube](https://youtube.com/@agenciadenoticiasdasfavelas) · [Instagram](https://instagram.com/agenciadenoticiasdasfavelas)
-- **Sindicato dos Metalúrgicos do ABC** — [Site](https://smabc.org.br/) · [Facebook](https://www.facebook.com/smabc/)
-- **FNDC** — Fórum Nacional pela Democratização da Comunicação. [Site](https://fndc.org.br/) · [Facebook](https://www.facebook.com/fndc.br/) · [YouTube](https://youtube.com/@canaldofndc) · [Instagram](https://instagram.com/fndc_brasil)
-- **POVO SEM MEDO** — [Facebook](https://www.facebook.com/povosemmedonacional/)
-- **FIBRA** — Frente Internacional de Brasileiros contra o Golpe. [Facebook](https://www.facebook.com/fibrafrenteinternacional/)
-- **Demodê** — grupo de pesquisa sobre democracia e desigualdades, do Instituto de Ciência Política da UnB. [Facebook](https://www.facebook.com/Demode.Ipol.UnB)
-- **Democracy for Brasil - UK** — brasileiros no Reino Unido em defesa da democracia. [Facebook](https://www.facebook.com/DemocracyforBrasilUK/)
-- **Fora Coronéis da Mídia** — campanha criada pela ENECOS em 2014 contra políticos donos de rádio e TV. [Facebook](https://www.facebook.com/foracoroneisdamidia/)
-- **Frente Resistência Democrática** — [Facebook](https://www.facebook.com/frenteresistenciademocratica/)
-- **Jovens de Esquerda** — "na luta por justiça social, contra o racismo, o machismo e a homofobia". [Facebook](https://www.facebook.com/jovensdeesquerda/)
-- **Megacidadania** — educação cívica e transparência. [Facebook](https://www.facebook.com/cursosprogressistas/)
 - **Pense, é grátis** — instituição humanista e secular sem fins lucrativos. [Facebook](https://www.facebook.com/penseegratis/)
-- **Foro de São Paulo** — [X](https://twitter.com/ForodeSaoPaulo)
-- **Architects & Engineers for 9/11 Truth** — [Facebook](https://www.facebook.com/ae911truth/)
-- **9/11 An Inside Job** — [Facebook](https://www.facebook.com/911-An-Inside-Job-464079246963192/)
+- **POVO SEM MEDO** — [Facebook](https://www.facebook.com/povosemmedonacional/)
+- **Sindicato dos Metalúrgicos do ABC** — [Site](https://smabc.org.br/) · [Facebook](https://www.facebook.com/smabc/)
 - **U.S. Military Officers for 9/11 Truth** — [Facebook](https://www.facebook.com/US-Military-Officers-for-911-Truth-159267480754006/)
+- **UNE** — União Nacional dos Estudantes. [Site](https://www.une.org.br/) · [Facebook](https://www.facebook.com/uneoficial/)
 - **World for 9/11 Truth** — [Facebook](https://www.facebook.com/world911truth/)
 
 ### Petroleiros
 
-- **FUP** — Federação Única dos Petroleiros. [Site](https://fup.org.br/) · [Facebook](https://www.facebook.com/fupetroleiros/) · [YouTube](https://youtube.com/c/FUPBRASIL) · [Instagram](https://instagram.com/fupbrasil)
-- **Sindipetro São José dos Campos** — [Site](https://sindipetrosjc.org.br/) · [Facebook](https://www.facebook.com/sindipetrosjc/) · [Instagram](https://instagram.com/sindipetrosjc)
-- **Sindipetro Caxias** — [Site](https://sindipetrocaxias.org.br/) · [Facebook](https://www.facebook.com/SindipetroCaxias/) · [YouTube](https://youtube.com/@SindipetroCaxias) · [Instagram](https://instagram.com/sindipetrocaxias)
-- **FNP Petroleiros** — [Facebook](https://www.facebook.com/petroleiros/)
 - **Em Defesa da Petrobras** — [Facebook](https://www.facebook.com/emdefesadapetrobras/) · *sem site próprio localizado*
+- **FNP Petroleiros** — [Facebook](https://www.facebook.com/petroleiros/)
+- **FUP** — Federação Única dos Petroleiros. [Site](https://fup.org.br/) · [Facebook](https://www.facebook.com/fupetroleiros/) · [YouTube](https://youtube.com/c/FUPBRASIL) · [Instagram](https://instagram.com/fupbrasil)
+- **Sindipetro Caxias** — [Site](https://sindipetrocaxias.org.br/) · [Facebook](https://www.facebook.com/SindipetroCaxias/) · [YouTube](https://youtube.com/@SindipetroCaxias) · [Instagram](https://instagram.com/sindipetrocaxias)
+- **Sindipetro São José dos Campos** — [Site](https://sindipetrosjc.org.br/) · [Facebook](https://www.facebook.com/sindipetrosjc/) · [Instagram](https://instagram.com/sindipetrosjc)
 
 ## Instituições e memória
 
 - **Anistia Internacional Brasil** — [Site](https://anistia.org.br/) · [Facebook](https://www.facebook.com/anistiainternacionalbrasil/) · [YouTube](https://youtube.com/user/AnistiaBrasil) · [Instagram](https://instagram.com/anistiabrasil)
-- **ConJur** — Consultor Jurídico. [Site](https://conjur.com.br/) · [Facebook](https://www.facebook.com/ConsultorJuridico/)
-- **ONU Brasil** — [Site](https://brasil.un.org/pt-br) · [Facebook](https://www.facebook.com/ONUBrasil/) · [Instagram](https://instagram.com/onubrasil)
-- **e-Democracia** — participação popular na Câmara. [Site](https://www.camara.leg.br/participe) · [Facebook](https://www.facebook.com/edemocraciaCD/)
-- **Comissão Nacional da Verdade** — funcionou de 2012 a 2014. [Acervo](https://cnv.memoriasreveladas.gov.br/) · [Facebook](https://www.facebook.com/comissaonacionaldaverdade/)
 - **Arquivo Nacional** — [Site](https://www.gov.br/arquivonacional/pt-br) · [Facebook](https://www.facebook.com/arquivonacionalbrasil/) · [YouTube](https://www.youtube.com/channel/UCcB7XUfJLfmtXx5KRKWAwCg)
-- **Memórias Reveladas** — acervo da repressão política, no Arquivo Nacional. [Facebook](https://www.facebook.com/memoriasreveladasarquivonacional)
-- **Instituto Lula** — [Site](https://institutolula.org/) · [Facebook](https://www.facebook.com/institutolula/) · [Bluesky](https://bsky.app/profile/institutolula.org) · [Instagram](https://instagram.com/institutolula)
-- **Instituto Vladimir Herzog** — [Site](https://vladimirherzog.org/) · [Facebook](https://www.facebook.com/institutovladimirherzog) · [YouTube](https://youtube.com/c/InstitutoVladimirHerzog) · [Instagram](https://instagram.com/vladimirherzog)
-- **Fundação Perseu Abramo** — fundação do PT. [Site](https://fpabramo.org.br/) · [YouTube](https://www.youtube.com/user/FundacaoPerseuAbramo) · [Instagram](https://instagram.com/fpabramo)
-- **Instituto Presidente João Goulart** — [Facebook](https://www.facebook.com/institutojoaogoulart)
 - **Brigada Herzog** — [Facebook](https://www.facebook.com/herzogbrasil/)
+- **Comissão Nacional da Verdade** — funcionou de 2012 a 2014. [Acervo](https://cnv.memoriasreveladas.gov.br/) · [Facebook](https://www.facebook.com/comissaonacionaldaverdade/)
+- **ConJur** — Consultor Jurídico. [Site](https://conjur.com.br/) · [Facebook](https://www.facebook.com/ConsultorJuridico/)
+- **e-Democracia** — participação popular na Câmara. [Site](https://www.camara.leg.br/participe) · [Facebook](https://www.facebook.com/edemocraciaCD/)
+- **Fundação Perseu Abramo** — fundação do PT. [Site](https://fpabramo.org.br/) · [YouTube](https://www.youtube.com/user/FundacaoPerseuAbramo) · [Instagram](https://instagram.com/fpabramo)
+- **Instituto Lula** — [Site](https://institutolula.org/) · [Facebook](https://www.facebook.com/institutolula/) · [Bluesky](https://bsky.app/profile/institutolula.org) · [Instagram](https://instagram.com/institutolula)
+- **Instituto Presidente João Goulart** — [Facebook](https://www.facebook.com/institutojoaogoulart)
+- **Instituto Vladimir Herzog** — [Site](https://vladimirherzog.org/) · [Facebook](https://www.facebook.com/institutovladimirherzog) · [YouTube](https://youtube.com/c/InstitutoVladimirHerzog) · [Instagram](https://instagram.com/vladimirherzog)
+- **Memórias Reveladas** — acervo da repressão política, no Arquivo Nacional. [Facebook](https://www.facebook.com/memoriasreveladasarquivonacional)
+- **ONU Brasil** — [Site](https://brasil.un.org/pt-br) · [Facebook](https://www.facebook.com/ONUBrasil/) · [Instagram](https://instagram.com/onubrasil)
 
 ### História
 
@@ -320,7 +322,7 @@ Páginas que só têm endereço no Facebook e que não foi possível identificar
 
 ## Notas
 
-- **Critério de inclusão**: veículo, canal, jornalista ou organização do campo progressista que publica com alguma regularidade. Perfil de político ou de autoridade é fonte oficial e está em [Políticos e Autoridades nas Redes](politicos-nas-redes.md).
+- **Critério de inclusão**: veículo, canal, jornalista ou organização fora do circuito das grandes emissoras e dos grandes jornais, que publique com alguma regularidade. Perfil de político ou de autoridade é fonte oficial e está em [Políticos e Autoridades nas Redes](politicos-nas-redes.md).
 - **Por que o site vem primeiro**: o [verificador semanal de links](https://github.com/wikipolitico/wikipolitico.github.io/blob/main/.github/workflows/verificar-links.yml) exclui Facebook, X e Instagram, porque essas plataformas respondem à checagem automática mesmo para endereço que não existe. Só link de site próprio é conferido de verdade.
 - **Sites conferidos um por um em 17/09/2026.** Quatro veículos tinham site e ele saiu do ar: Brasil Debate, Carta Maior, Falando Verdades e Justificando. Esses ficaram com o aviso e o atalho para o Internet Archive, que tem cópia dos quatro. Outros três — Jornal A Pátria, Teoria Versus Prática e Em Defesa da Petrobras — aparecem como "sem site próprio localizado", porque não achei site nem registro de que tenham tido um, e afirmar que caiu seria afirmar o que não se conferiu.
 - **Perfis de rede conferidos por [manutencao/conferir_redes.py](https://github.com/wikipolitico/wikipolitico.github.io/blob/main/manutencao/conferir_redes.py)**, que checa cada rede pelo método que funciona nela. Dos 158 perfis, 110 estavam no ar, 1 fora (o canal antigo do teleSUR, já marcado) e 47 ficaram inconclusivos, todos do Instagram, que responde com a casca de login quando a checagem é em lote.
