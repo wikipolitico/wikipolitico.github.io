@@ -10,6 +10,9 @@ método que funciona nela:
              onde se checa; sem o título, fica inconclusivo, porque a mesma
              casca aparece para canal inexistente e para canal restrito na
              região — o t.me/rtnews responde do Brasil e não responde na CI
+  sites      o título da home tem que combinar com o nome do veículo: código 200
+             não prova continuidade, porque domínio expirado é comprado por
+             site de apostas e responde igual
   instagram  o <title> traz o nome da conta, mas só em consulta isolada: em
              checagem de lote o Instagram passa a devolver a casca de login
              para todo mundo, então a resposta genérica vale como inconclusiva,
@@ -31,8 +34,14 @@ import os
 import re
 import subprocess
 import sys
+import unicodedata
 from pathlib import Path
 from urllib.parse import urlparse
+
+# ramos que costumam comprar domínio de veículo expirado
+SEQUESTRO = re.compile(r"\b(casino|cassino|apostas|apuestas|bet|bets|slots?|"
+                       r"cbd|viagra|farmacia|pharmacy|clinic)\b|"
+                       r"(domínio à venda|domain for sale|this domain)", re.I)
 
 CURL = "curl.exe" if os.name == "nt" else "curl"
 
@@ -99,6 +108,44 @@ def checar(item):
     return url, rede, None, "resposta genérica, inconclusivo"
 
 
+def sites_dos_veiculos():
+    """Pares (nome do veículo, site) das entradas que têm nome em negrito."""
+    pares = []
+    for md in sorted(DOCS.rglob("*.md")):
+        for linha in md.read_text(encoding="utf-8").split("\n"):
+            if not linha.startswith("- "):
+                continue
+            nome = re.search(r"\*\*([^*]+)\*\*", linha)
+            site = re.search(r"\[Site\]\((https?://[^)]+)\)", linha)
+            if nome and site:
+                pares.append((nome.group(1).strip(), site.group(1)))
+    return pares
+
+
+def _normal(s):
+    s = unicodedata.normalize("NFKD", s.lower())
+    return re.sub(r"[^a-z0-9]", "", "".join(c for c in s if not unicodedata.combining(c)))
+
+
+def dono_mudou(par):
+    """Se o título da home não tem nada a ver com o nome, o domínio pode ter trocado de dono.
+
+    Código 200 não prova continuidade: domínio de veículo que expira costuma ser
+    comprado por site de apostas ou farmácia, e responde 200 como qualquer outro.
+    """
+    nome, url = par
+    corpo = curl(url)
+    m = re.search(r"<title[^>]*>([^<]{0,140})", corpo)
+    t = re.sub(r"\s+", " ", m.group(1)).strip() if m else ""
+    if not t:
+        return nome, url, None, "sem título"
+    if SEQUESTRO.search(t):
+        return nome, url, False, f"título de outro ramo: {t[:70]}"
+    if _normal(nome)[:8] in _normal(t) or _normal(t)[:8] in _normal(nome):
+        return nome, url, True, t[:70]
+    return nome, url, None, f"nome não bate: {t[:70]}"
+
+
 def coletar():
     vistos, itens, sem_checagem = set(), [], 0
     for md in sorted(DOCS.rglob("*.md")):
@@ -142,7 +189,30 @@ def main():
         print(f"\n=== inconclusivos, exigem conferência humana ({len(inconclusivos)}) ===")
         for rede, url in sorted(inconclusivos):
             print(f"  {rede:<9} {url}")
-    return 1 if caidos else 0
+    return relatar_sites(quieto) or (1 if caidos else 0)
+
+
+def relatar_sites(quieto):
+    """Segundo passe: o site linkado ainda é do veículo?"""
+    pares = sites_dos_veiculos()
+    trocados, duvidosos = [], []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
+        for nome, url, ok, detalhe in pool.map(dono_mudou, pares):
+            if ok is False:
+                trocados.append((nome, url, detalhe))
+            elif ok is None:
+                duvidosos.append((nome, url, detalhe))
+    print(f"\n{len(pares) - len(trocados) - len(duvidosos)} de {len(pares)} sites "
+          f"seguem do veículo · {len(trocados)} trocaram de dono · {len(duvidosos)} a conferir")
+    if trocados:
+        print(f"\n=== domínio trocou de dono ({len(trocados)}) ===")
+        for nome, url, detalhe in trocados:
+            print(f"  {nome}\n            {url}\n            {detalhe}")
+    if duvidosos and not quieto:
+        print(f"\n=== título não bate com o nome ({len(duvidosos)}) ===")
+        for nome, url, detalhe in duvidosos:
+            print(f"  {nome:<26} {detalhe}")
+    return 1 if trocados else 0
 
 
 if __name__ == "__main__":
