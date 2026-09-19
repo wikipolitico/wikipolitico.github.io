@@ -172,7 +172,3 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 - Previdência: requerimentos iniciais pendentes de análise, que é uma das três métricas chamadas de "fila". A demanda cresceu 45% no período, de 897 mil pedidos por mês em 2023 para 1,3 milhão em 2026, então o mesmo estoque absoluto significa uma espera menor. O anúncio de fila zerada, em setembro de 2026, usa outro critério: estoque menor que a entrada mensal de novos pedidos. A queda da fila em 2026 veio junto com alta de cerca de 70% nos indeferimentos. A série completa, os critérios e os contrapontos estão em [Fila do INSS](temas/fila-do-inss.md).
 - Obras: percentual do Painel de Obras Paralisadas do TCU. Segundo o tribunal, o quadro de 2023 reflete falhas de coordenação e planejamento do governo entre 2019 e 2022. Em 2025, 22% das obras iniciadas entre abril de 2024 e abril de 2025 já estavam paradas.
 - Segurança: dados do Anuário Brasileiro de Segurança Pública, do Fórum Brasileiro de Segurança Pública (FBSP), que revisa números de anos anteriores. O policiamento cabe principalmente aos estados.
-
----
-
-Última atualização: 17/09/2026.

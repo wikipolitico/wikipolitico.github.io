@@ -61,7 +61,3 @@ Os perfis estavam na página de mídias alternativas e vieram para cá em 17/09/
 - [Evo Morales Ayma](https://twitter.com/evoespueblo) · presidente da Bolívia entre 2006 e 2019
 - [Pepe Mujica](https://twitter.com/PepeMujicaDice) · presidente do Uruguai entre 2010 e 2015 · *morreu em maio de 2025*
 - [Hugo Chávez Frías](https://twitter.com/chavezcandanga) · presidente da Venezuela entre 1999 e 2013 · *morreu em março de 2013*
-
----
-
-Última atualização: 18/09/2026.

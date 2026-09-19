@@ -96,7 +96,3 @@ A comparação entra em [Comparação Bolsonaro x Lula 3](../comparacao-bolsonar
 - **TCU e INSS divergem no corte de 45 dias.** Para maio de 2026, o TCU apurou cerca de 430 mil pedidos fora do prazo e o INSS informou 765 mil. A diferença provável está no tratamento dos pedidos que dependem de ação do segurado, 451 mil em junho de 2026.
 - **Cuidado com a queda de 86%.** Boa parte da imprensa comparou 1,882 milhão de pedidos acima de 45 dias em janeiro de 2026 com 261 mil em agosto. Esse valor de janeiro não fecha com a proporção apurada pelo TCU, de 36,7% da fila em maio, e não foi possível confirmá-lo em fonte oficial.
 - **Onde verificar sem intermediários**: [dados abertos do INSS](https://dadosabertos.inss.gov.br/pt_BR/dataset/?_tags_limit=0&tags=requerimentos), com os requerimentos pendentes mês a mês, e o [painel de requerimentos](https://requerimentos.inss.gov.br/).
-
----
-
-Última atualização: 17/09/2026.

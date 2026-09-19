@@ -25,7 +25,7 @@
   font-size: 0.7rem;
 }
 
-/* Data de última atualização no rodapé */
+/* Data de última atualização no rodapé (meu template) */
 .md-footer-last-updated {
   font-size: 0.75rem;
   color: var(--md-default-fg-color--lightest);
@@ -35,9 +35,4 @@
 
 .md-footer-last-updated::before {
   content: "🕐 ";
-}
-
-/* Esconder injeção automática do plugin git-revision-date-localized no rodapé do Material */
-.git-revision-date-localized-plugin {
-  display: none !important;
 }

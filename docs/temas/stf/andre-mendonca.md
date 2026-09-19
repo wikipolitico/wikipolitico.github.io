@@ -196,4 +196,4 @@ Onde a fonte é um documento do processo, o link leva ao [portal do STF](https:/
 
 ---
 
-Voltar para [STF](../stf.md). Última atualização: 16/09/2026.
+Voltar para [STF](../stf.md).

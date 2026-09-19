@@ -328,7 +328,3 @@ Páginas que só têm endereço no Facebook e que não foi possível identificar
 - **Perfis de rede conferidos por [manutencao/conferir_redes.py](https://github.com/wikipolitico/wikipolitico.github.io/blob/main/manutencao/conferir_redes.py)**, que checa cada rede pelo método que funciona nela. Dos 158 perfis, 110 estavam no ar, 1 fora (o canal antigo do teleSUR, já marcado) e 47 ficaram inconclusivos, todos do Instagram, que responde com a casca de login quando a checagem é em lote.
 - **Mudanças de endereço encontradas na conferência**: a Rede Brasil Atual e a Rede TVT publicam hoje no TVT News; a Revista Piauí saiu da Folha para piaui.uol.com.br; o Sputnik Brasil redireciona para noticiabrasil.net.br; o Escrevinhador virou uma seção da Revista Fórum.
 - **Assuntos tratados em outras páginas**: teses sobre o 11 de setembro têm verbete próprio em [Teorias Conspiratórias](temas/teorias-conspiratorias.md).
-
----
-
-Última atualização: 18/09/2026.

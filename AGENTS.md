@@ -1,0 +1,22 @@
+# Wiki Político
+
+Site estático em **MkDocs Material** (`mkdocs.yml`), publicado no GitHub Pages via `.github/workflows/publicar.yml`.
+
+## Fluxo de trabalho (obrigatório)
+
+1. Ao terminar qualquer alteração, **subir o site localmente para revisão** antes de commitar:
+   ```powershell
+   & "C:\Users\Junior\AppData\Local\Programs\Python\Python313\python.exe" -m mkdocs serve
+   ```
+   - O `python` do PATH é do msys64 e **não** tem o mkdocs instalado; usar sempre o Python 3.13 do caminho acima.
+   - O servidor sobe em http://127.0.0.1:8000 com recarga automática ao salvar arquivos.
+2. **Nunca commitar nem publicar sem pedido explícito do usuário.** O usuário revisa em localhost primeiro.
+3. Para validação sem servidor, buildar em diretório temporário (`--site-dir`), nunca sobrescrever a pasta `site/` localmente — ela é gerada pelo CI.
+
+## Estrutura
+
+- `docs/` — conteúdo em Markdown (nav definido em `mkdocs.yml`)
+- `overrides/partials/` — templates que sobrescrevem o tema Material
+- `hooks/` — hooks Python do MkDocs (ex.: lista "Últimas atualizações" na home)
+- `manutencao/` — scripts de manutenção (links fora do ar, redes sociais)
+- Data de atualização das páginas: plugin `git-revision-date-localized`, exibida pela div `.md-footer-last-updated` em `overrides/partials/content.html`

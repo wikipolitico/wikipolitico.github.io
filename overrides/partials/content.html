@@ -1,6 +1,7 @@
 {#-
-  Cópia de partials/content.html do Material 9.7.7, com os botões de
-  compartilhar e sugerir antes do bloco "Esta página foi útil?"
+  Cópia de partials/content.html do Material 9.7.7, com:
+  - botões de compartilhar e sugerir antes do bloco "Esta página foi útil?"
+  - data de atualização própria (o aside padrão source-file.html foi removido)
 -#}
 {% include "partials/tags.html" %}
 {% include "partials/actions.html" %}
@@ -8,11 +9,10 @@
   <h1>{{ page.title | d(config.site_name, true)}}</h1>
 {% endif %}
 {{ page.content }}
-{% include "partials/source-file.html" %}
 {% include "partials/compartilhar.html" %}
-{% if page.meta.git_revision_date_localized %}
+{% if page.meta.git_revision_date_localized_raw_date %}
 <div class="md-footer-last-updated">
-  Atualizado em {{ page.meta.git_revision_date_localized }}
+  Atualizado em {{ page.meta.git_revision_date_localized_raw_date }}
 </div>
 {% endif %}
 {% include "partials/feedback.html" %}

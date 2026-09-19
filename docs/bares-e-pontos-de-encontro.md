@@ -23,7 +23,3 @@ Para veículos, canais e jornalistas, veja [Mídias Alternativas](midias-alterna
 - **Critério de inclusão**: lugar físico, aberto ao público, cuja ligação com a esquerda esteja documentada em fonte que se possa conferir — reportagem, decoração noticiada, história da casa. Simpatia atribuída sem fonte não basta.
 - **O Bar do Omar veio da página de mídias alternativas**, onde estava desde a migração da wiki. Não era erro de curadoria: era lugar errado, e a existência de outros casos como ele foi o que motivou esta página.
 - **Perfis de rede** vieram de busca por nome, com nome e handle batendo. O Facebook e o Instagram não permitem confirmação automática, então não são verificados pela rotina semanal.
-
----
-
-Última atualização: 18/09/2026.
