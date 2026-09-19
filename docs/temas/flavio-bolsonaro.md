@@ -1,6 +1,6 @@
-# Flávio Bolsonaro: vínculos documentados com milícias e assessores
+# Flávio Bolsonaro
 
-Flávio Bolsonaro foi deputado estadual no Rio de Janeiro de 2003 a 2019 e é senador pelo estado desde 2019. Esta página reúne fatos documentados sobre suas relações políticas e administrativas com Adriano da Nóbrega, o major Ronald Paulo Alves Pereira, Fabrício Queiroz e aliados fluminenses atingidos por operações da Polícia Federal. Em temas criminais, é essencial separar o que foi registrado por documentos, o que foi alegado pelo Ministério Público e o desfecho judicial de cada caso.
+Flávio Bolsonaro foi deputado estadual no Rio de Janeiro de 2003 a 2019 e é senador pelo estado desde 2019. Candidato à Presidência da República em 2026 pelo PL, é filho mais velho do ex-presidente Jair Bolsonaro. Esta página reúne fatos documentados sobre sua trajetória política, relações com personagens investigados, evolução patrimonial e investigações em andamento.
 
 ## Adriano da Nóbrega
 
@@ -56,6 +56,26 @@ Em 18 de junho de 2020, Queiroz foi preso preventivamente na Operação Anjo, em
 - [O que se sabe sobre a prisão em Atibaia — BBC News Brasil](https://www.bbc.com/portuguese/brasil-53093178)
 - [Caseiro disse que Queiroz estava na casa há cerca de um ano — G1](https://g1.globo.com/sp/sao-paulo/noticia/2020/06/18/caseiro-informou-a-policia-de-sp-que-queiroz-estava-na-casa-ha-um-ano-diz-delegado.ghtml)
 
+### Loja de chocolates Kopenhagen
+
+Flávio Bolsonaro detinha 50% de uma franquia da Kopenhagen num shopping da Barra da Tijuca, no Rio, em sociedade com Alexandre Santini. O MPRJ investigou a loja como possível instrumento de lavagem de dinheiro ligado ao esquema de rachadinha. Segundo o MP, o volume de depósitos em dinheiro vivo na conta da franquia era desproporcional ao faturamento do setor e não seguia a sazonalidade típica do comércio de chocolates — os depósitos coincidiam, em vez disso, com as datas em que Queiroz recolhia parte dos salários dos assessores na Alerj. O MP estimou que até R$ 1,6 milhão possa ter sido lavado por meio da loja entre 2015 e 2018. Santini afirmou que Flávio usou R$ 200 mil em espécie para abrir o negócio. Em fevereiro de 2021, Flávio e o sócio entregaram a franquia ao Grupo CRM, detentor da marca. Flávio sempre negou irregularidades na operação da loja.
+
+- [Depósitos na Kopenhagen e suspeita de lavagem — O Globo](https://oglobo.globo.com/politica/ministerio-publico-conclui-investigacao-de-rachadinha-denuncia-contra-flavio-bolsonaro-ainda-sera-formalizada-24665189)
+- [Denúncia do MPRJ com detalhes sobre a franquia — G1](https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/11/04/mp-do-rio-denuncia-flavio-bolsonaro-e-queiroz-por-organizacao-criminosa-peculato-lavagem-de-dinheiro-e-apropriacao-indebita.ghtml)
+- [Flávio e sócio devolvem franquia da Kopenhagen — Poder360](https://www.poder360.com.br/governo/flavio-bolsonaro-e-socio-devolvem-franquia-de-loja-da-kopenhagen/)
+
+### Evolução patrimonial e mansão em Brasília
+
+O patrimônio declarado por Flávio Bolsonaro ao TSE cresceu 370% entre 2018 e 2026, passando de R$ 1,74 milhão para R$ 8,1 milhões. O principal item é uma mansão no Lago Sul, em Brasília, avaliada em R$ 6,2 milhões — cerca de 76% do total declarado. O imóvel tem aproximadamente 1.100 m² de área construída em terreno de 2.500 m², com quatro suítes, academia, piscina e espaço gourmet.
+
+A mansão foi adquirida em 2021 com entrada de R$ 2,87 milhões e financiamento de R$ 3,1 milhões pelo Banco de Brasília (BRB), com prazo original de 30 anos. A dívida foi quitada em 2024, apenas três anos depois. Flávio declarou que a entrada veio da venda de um apartamento na Barra da Tijuca e da franquia de chocolates. Além do imóvel, a declaração de 2026 inclui cerca de R$ 1 milhão em fundos de investimento, saldos bancários e um veículo.
+
+A compra gerou questionamentos desde 2021, especialmente pelo histórico de investigações sobre sua evolução patrimonial no caso das rachadinhas, quando o MPRJ apontou operações imobiliárias com indícios de lavagem. Corrigido pela inflação (IPCA), o crescimento patrimonial real no período é estimado em 211%.
+
+- [Patrimônio de Flávio cresceu 370% entre 2018 e 2026 — Metrópoles](https://www.metropoles.com/brasil/eleicoes-2026/patrimonio-de-flavio-bolsonaro-cresceu-370-desde-2018)
+- [Detalhes da mansão e evolução patrimonial — Poder360](https://www.poder360.com.br/eleicoes/patrimonio-de-flavio-bolsonaro-cresceu-370-desde-2018/)
+- [Compra da mansão e justificativa de Flávio — Veja](https://veja.abril.com.br/politica/patrimonio-de-flavio-bolsonaro-cresce-370-com-mansao-de-r-6-mi-em-brasilia/)
+
 ## A foto com Luiz Phillipi Mourão, o “Sicário”
 
 Em julho de 2026, veículos publicaram uma foto atribuída a 2022 que mostra Flávio Bolsonaro ao lado de Luiz Phillipi Machado de Moraes Mourão, conhecido como “Sicário”, em um hotel no Rio. Uma checagem do UOL concluiu que a imagem não era montagem. Flávio afirmou que a foto havia sido manipulada por inteligência artificial e negou conhecê-lo.
@@ -109,10 +129,20 @@ Veículos ligaram Carracena ao grupo de Flávio Bolsonaro no governo do Rio, em 
 
 ## Caso Banco Master e o filme *Dark Horse*
 
-Flávio Bolsonaro é investigado no STF no inquérito sobre o financiamento do filme *Dark Horse*, cinebiografia de Jair Bolsonaro. Em maio de 2026, áudios divulgados mostraram Flávio pedindo a Daniel Vorcaro recursos para a produção. Em setembro, a investigação veio a público: segundo a Agência Brasil, a PF pediu e a PGR concordou com sua inclusão como investigado por suspeitas de lavagem de dinheiro, evasão de divisas e corrupção.
+Flávio Bolsonaro é investigado no STF no inquérito sobre o financiamento do filme *Dark Horse*, cinebiografia de Jair Bolsonaro centrada na campanha de 2018 e no atentado a faca. Em maio de 2026, áudios divulgados mostraram Flávio pedindo a Daniel Vorcaro recursos para a produção. Em setembro, a investigação veio a público: segundo a Agência Brasil, a PF pediu e a PGR concordou com sua inclusão como investigado por suspeitas de lavagem de dinheiro, evasão de divisas e corrupção. O inquérito está sob relatoria do ministro André Mendonça.
+
+A PF identificou o uso de uma estrutura financeira internacional, com remessas de valores milionários para fundos nos Estados Unidos — o contrato previa cerca de US$ 24 milhões. A investigação também aponta o deputado federal Eduardo Bolsonaro como responsável pela gestão dos recursos do projeto nos EUA.
+
+### Operação Make Up e emendas parlamentares
+
+Uma segunda frente de apuração, sob relatoria do ministro Flávio Dino, investiga o suposto desvio de emendas parlamentares para a produtora do filme, a Go Up Entertainment, de Karina Ferreira da Gama. Em 10 de setembro de 2026, a PF deflagrou a Operação Make Up, com 49 mandados de busca e apreensão. O deputado federal Mário Frias (PL-SP), que atuou como roteirista e produtor-executivo do longa, foi o principal alvo — os crimes investigados incluem peculato, falsidade documental e organização criminosa.
+
+Segundo a PF, o Instituto Conhecer Brasil (ICB), presidido por Karina Gama, recebeu R$ 2 milhões em emendas indicadas por Frias. A CGU identificou que os serviços contratados com esses recursos não foram prestados conforme o previsto, e a PF rastreou transferências que conectam as verbas ao financiamento do filme. Durante o cumprimento dos mandados, a PF apreendeu sete armas de fogo de Frias, incluindo um fuzil, em endereço não informado às autoridades, o que abriu apuração separada sobre porte ilegal. Frias classificou a operação como "cortina de fumaça".
 
 - [Áudios de Flávio pedindo dinheiro a Vorcaro — CNN Brasil](https://www.cnnbrasil.com.br/politica/ouca-o-audio-de-flavio-bolsonaro-pedindo-dinheiro-a-vorcaro/)
 - [Investigação sobre *Dark Horse* e inclusão de Flávio como investigado — Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-incluiu-flavio-bolsonaro-como-investigado-no-caso-dark-horse)
+- [Operação Make Up: PF mira Mário Frias por desvio de emendas para o filme — CNN Brasil](https://www.cnnbrasil.com.br/politica/pf-faz-operacao-contra-mario-frias-por-desvio-de-emendas-para-filme-dark-horse/)
+- [Detalhes da Operação Make Up e apreensão de armas de Frias — G1](https://g1.globo.com/politica/noticia/2026/09/10/pf-deflagra-operacao-make-up-contra-mario-frias.ghtml)
 - [Página do acervo sobre o Caso Banco Master](banco-master.md)
 
 ## Calúnia contra Lula nas redes
@@ -144,9 +174,12 @@ Em maio de 2026, Flávio foi a Washington e pediu que o governo de Donald Trump 
 - Flávio homenageou Adriano da Nóbrega e o major Ronald Paulo Alves Pereira na Alerj; familiares de Adriano foram nomeados em seu gabinete;
 - seu ex-assessor Fabrício Queiroz mantinha relação documentada com Adriano e foi investigado pelo MPRJ no caso das "rachadinhas"; a família de Queiroz aparece no relatório do Coaf, e Queiroz foi preso no imóvel de Frederick Wassef;
 - a denúncia do MPRJ foi apresentada, mas as provas que a sustentavam foram anuladas e não houve condenação de Flávio nesse caso;
+- o MPRJ investigou a franquia da Kopenhagen como possível instrumento de lavagem de dinheiro, apontando depósitos em espécie coincidentes com recolhimentos da rachadinha;
+- o patrimônio declarado cresceu 370% entre 2018 e 2026, com destaque para uma mansão de R$ 6,2 milhões em Brasília quitada em três anos;
 - a foto com Mourão é um fato verificado, e Mourão foi apontado pela PF como coordenador de um núcleo de intimidação ligado a Vorcaro;
 - aliados e nomes do projeto eleitoral de Flávio no Rio, como Canella e Bacellar, foram alvos da Operação Unha e Carne;
-- TH Joias e Alessandro Pitombeira Carracena foram denunciados na Operação Zargun; Flávio negou ter indicado Carracena.
+- TH Joias e Alessandro Pitombeira Carracena foram denunciados na Operação Zargun; Flávio negou ter indicado Carracena;
+- Flávio é investigado no STF no caso Dark Horse por lavagem, evasão de divisas e corrupção; a Operação Make Up apura o desvio de emendas de Mário Frias para o mesmo filme.
 
 ## Ver também
 
