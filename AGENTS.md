@@ -19,4 +19,4 @@ Site estático em **MkDocs Material** (`mkdocs.yml`), publicado no GitHub Pages 
 - `overrides/partials/` — templates que sobrescrevem o tema Material
 - `hooks/` — hooks Python do MkDocs (ex.: lista "Últimas atualizações" na home)
 - `manutencao/` — scripts de manutenção (links fora do ar, redes sociais)
-- Data de atualização das páginas: plugin `git-revision-date-localized`, exibida pela div `.md-footer-last-updated` em `overrides/partials/content.html`
+- Data de atualização das páginas: plugin `git-revision-date-localized`, exibida pela div `.md-footer-last-updated` em `overrides/partials/content.html`; o hook `esconder_data_migracao.py` omite a data em páginas nunca alteradas desde a migração (commit raiz de 13/09/2026)
