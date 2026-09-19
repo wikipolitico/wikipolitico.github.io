@@ -5,6 +5,8 @@
 ## Ministros com página própria
 
 - [André Mendonça](stf/andre-mendonca.md): ex-ministro da Justiça de Bolsonaro, vice-presidente do TSE em 2026 e relator do caso Banco Master
+- [Kassio Nunes Marques](stf/kassio-nunes-marques.md): primeiro indicado de Bolsonaro ao STF, presidente do TSE em 2026 e citado nas mensagens de Vorcaro
+- [Gilmar Mendes](stf/gilmar-mendes.md): decano do STF, indicado por FHC; pediu a vista que segurou o afastamento do diretor da PF e recebeu Vorcaro no gabinete em 2024
 
 ## Joaquim Barbosa
 
@@ -24,6 +26,8 @@
 - [A empresa e o apartamento de Joaquim Barbosa em Miami - 20/11/2013](http://www.diariodocentrodomundo.com.br/a-empresa-e-o-apartamento-de-joaquim-barbosa-em-miami/)
 
 ## Gilmar Mendes
+
+Ver também a [página do ministro Gilmar Mendes](stf/gilmar-mendes.md). Abaixo, o acervo de links antigos.
 
 - [Gilmar Mendes confessa que lei para Lula é diferente](https://www.facebook.com/DebatesPolitico/videos/249316882112858/)
 - [Gilmar Mendes ganha contrato de R$ 280 mil sem licitação de prefeito de Paulínia](http://www.ocafezinho.com/2016/04/30/gilmar-mendes-ganha-contrato-de-r-280-mil-sem-licitacao-de-prefeito-de-paulinia/#sthash.WORZkPXR.dpbs)

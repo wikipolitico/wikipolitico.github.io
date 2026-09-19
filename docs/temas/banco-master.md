@@ -66,6 +66,12 @@ Wagner é investigado, não é réu, e não há denúncia contra ele. Os links a
 - [PF: Mendonça levou 75 dias para decidir sobre Castro e 9 sobre Wagner – CNN, 03/09/2026](https://www.cnnbrasil.com.br/politica/mendonca-demora-9-dias-para-despachar-sobre-wagner-e-75-sobre-castro/): relatório de inteligência da PF aponta rapidez contra o petista e demora com o bolsonarista, embora com "confiança baixa".
 - [Mendonça tira sigilos sobre Dark Horse, Ciro, Wagner e Cláudio Castro – Migalhas, 11/09/2026](https://www.migalhas.com.br/quentes/464395/mendonca-retira-sigilo-de-casos-dark-horse-ciro-wagner-e-claudio-castro): o caso de Wagner veio a público junto com os de Flávio Bolsonaro, Ciro Nogueira e Cláudio Castro.
 
+## Kassio Nunes Marques
+
+O presidente do TSE e primeiro indicado de Bolsonaro ao STF aparece no caso pelo entorno: as mensagens de Vorcaro citam pagamentos de R$ 500 mil mensais ligados ao filho do ministro, uma mansão de R$ 250 milhões reservada para seu Carnaval e a coincidência entre os repasses e decisões favoráveis ao Master.
+
+- [Linha do tempo completa na página de Kassio Nunes Marques](stf/kassio-nunes-marques.md#caso-banco-master): da consultoria que pagou o filho e do jatinho da advogada do Master à CPI parada no STF, aos R$ 500 mil mensais e à mansão.
+
 ## Visão geral
 
 - [Veja a lista atualizada de quem se envolveu com Vorcaro – Gazeta do Povo](https://www.gazetadopovo.com.br/ideias/moraes-gonet-veja-lista-atualizada-quem-envolveu-vorcaro/): reúne cerca de 50 citados no caso, de vários partidos e do STF.

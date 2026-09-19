@@ -16,6 +16,7 @@ Site estático em **MkDocs Material** (`mkdocs.yml`), publicado no GitHub Pages 
 ## Convenções de conteúdo
 
 - **Toda afirmação precisa de fonte checável**: cada texto, parágrafo ou item de lista deve ter link para a página que permite conferir a informação.
+- **Grande mídia corporativa (Globo/g1, Folha, Estadão, Veja, Gazeta do Povo, ND Mais etc.) é fonte a questionar**: quando a informação nascer nesses veículos, atribuir explicitamente ("segundo o Estadão", "revelado pela Folha") e registrar a negativa dos envolvidos quando houver. **Corroboração só conta se vier de veículo listado em `docs/midias-alternativas.md` ou declaradamente pró-Lula/pró-PT** (ex.: Brasil 247, DCM, Revista Fórum, GGN, Brasil de Fato) — outro veículo da grande mídia repetindo a notícia não é corroboração. Sempre que possível, apontar o documento primário (PF, decisões, dados oficiais).
 
 ## Estrutura
 

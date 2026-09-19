@@ -1,0 +1,47 @@
+# Kassio Nunes Marques
+
+!!! abstract "Resumo"
+
+    Ministro do STF desde novembro de 2020, primeiro nome indicado por Jair Bolsonaro ao tribunal, e presidente do TSE nas eleições de 2026. Chegou ao Supremo como uma indicação surpresa, com o currículo questionado na sabatina. Acumulou decisões monocráticas derrubadas ou contestadas, como a suspensão de um trecho da Lei da Ficha Limpa e a liberação de cultos no pior da pandemia. No caso Banco Master, mensagens do celular de Daniel Vorcaro citam pagamentos mensais de R$ 500 mil ligados a seu filho, uma mansão de R$ 250 milhões reservada para seu Carnaval e a cobrança de R$ 10 mil por um encontro que ele nega.
+
+## Quem é
+
+- Nasceu em Teresina (PI) em 16/05/1972, filho de professores da rede pública, o primeiro da família a fazer curso superior. É católico e maçom ([Wikipedia](https://pt.wikipedia.org/wiki/Nunes_Marques)).
+- Formado em Direito pela UFPI (1994), com mestrado pela Universidade Autônoma de Lisboa (2015) e doutorado pela Universidade de Salamanca (2020) ([Wikipedia](https://pt.wikipedia.org/wiki/Nunes_Marques)).
+- Advogou de 1996 a 2011, foi juiz do TRE-PI a partir de 2008 e desembargador do TRF-1 de 2011 a 2020, nomeado pela presidente Dilma Rousseff em vaga do quinto constitucional da OAB ([Wikipedia](https://pt.wikipedia.org/wiki/Nunes_Marques)).
+
+## Chegada ao STF
+
+- Tornou-se amigo de Bolsonaro em 2018, após o atentado da campanha, e passou a frequentar o Palácio da Alvorada para assistir a jogos de futebol ([Wikipedia](https://pt.wikipedia.org/wiki/Nunes_Marques)).
+- **21/10/2020:** sabatinado e aprovado pelo Senado por 57 votos a 10, para a vaga de Celso de Mello. A escolha foi tratada como surpresa, e o currículo foi questionado: uma "pós-graduação" na Universidade da Corunha era um curso de quatro dias, e o "pós-doutorado" da Universidade de Messina era um ciclo de seminários ([Wikipedia](https://pt.wikipedia.org/wiki/Nunes_Marques)).
+- **05/11/2020:** tomou posse ([Wikipedia](https://pt.wikipedia.org/wiki/Nunes_Marques)).
+
+## Decisões marcantes
+
+- **Dezembro de 2020 — Ficha Limpa:** decisão monocrática suspendeu o trecho da lei que iniciava a inelegibilidade só após o cumprimento da pena. O decano Marco Aurélio falou em "grande perplexidade"; o autor da lei, Márlon Reis, chamou de "o mais duro ataque que a Lei da Ficha Limpa já sofreu"; a PGR recorreu ([Wikipedia](https://pt.wikipedia.org/wiki/Nunes_Marques)).
+- **Abril de 2021 — cultos na pandemia:** liminar monocrática liberou cultos e missas presenciais no pior momento da pandemia, a pedido de uma associação que o próprio STF já tinha declarado ilegítima para aquele tipo de ação. O plenário reverteu por 9 a 2 ([Brasil de Fato, 08/04/2021](https://www.brasildefato.com.br/2021/04/08/stf-decide-que-estados-e-municipios-podem-proibir-cultos-e-missas-na-pandemia/)), e o Aos Fatos apontou "dados falsos e distorcidos" no voto ([Wikipedia](https://pt.wikipedia.org/wiki/Nunes_Marques)).
+- **Junho de 2026 — pesquisa AtlasIntel:** como presidente do TSE, suspendeu a divulgação de uma pesquisa que mostrava queda de 6 pontos de Flávio Bolsonaro após o áudio em que ele negocia R$ 134 milhões do Master para o filme "Dark Horse". Especialistas e a Abep falaram em "censura" ([Wikipedia](https://pt.wikipedia.org/wiki/Nunes_Marques)).
+- Nos grandes julgamentos, costuma ficar vencido ao lado de André Mendonça, o outro indicado de Bolsonaro, como no marco temporal, no porte de maconha e no 8 de janeiro (ver [Votos no STF, na página de André Mendonça](andre-mendonca.md#votos-no-stf)).
+
+## Presidente do TSE
+
+- Ministro do TSE desde 25/05/2023. Em **12/05/2026**, tomou posse como presidente do tribunal e deu posse a André Mendonça como vice — os dois indicados de Bolsonaro ao STF comandam a Justiça Eleitoral nas eleições de outubro de 2026 ([Agência Brasil, 05/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/nunes-marques-toma-posse-na-presidencia-do-tse-mendonca-sera-vice)).
+- **18/07/2025:** quando os EUA revogaram os vistos de Moraes, de outros sete ministros do STF e do procurador-geral, Nunes Marques ficou de fora, junto com Fux e Mendonça ([Migalhas, 19/07/2025](https://www.migalhas.com.br/quentes/435014/alem-de-moraes-outros-7-ministros-tiveram-o-visto-americano-cancelado)).
+
+## Caso Banco Master
+
+- **19/03/2026:** o Estadão revelou que o Master e a JBS repassaram R$ 18 milhões à Consult Inteligência Tributária, empresa que pagou R$ 281,6 mil ao escritório de Kevin Marques, filho do ministro, entre agosto de 2024 e julho de 2025. O Coaf classificou as transações como "incompatíveis com a capacidade financeira" da Consult, que declarava faturamento de R$ 25,5 mil ([Estado de Minas, 19/03/2026](https://www.em.com.br/politica/2026/03/amp/7379332-master-e-jbs-enviaram-rs-18-mi-a-empresa-que-pagou-filho-de-ministro-do-stf.html)). Kevin, que se apresentava como advogado "com um ano de experiência na OAB", negou irregularidades e disse nunca ter atuado em casos no STF ([IstoÉ, 22/03/2026](https://istoe.com.br/quem-e-kelvin-nunes-marques-filho-do-ministro-do-stf-que-diz)).
+- **04/04/2026:** o Estadão revelou que Nunes Marques viajou de Brasília a Maceió, com a mulher, em novembro de 2025, em avião pago por Camilla Ewerton Ramos, advogada que atua para o Banco Master. O gabinete confirmou a viagem, para a festa de aniversário da advogada ([InfoMoney, 04/04/2026](https://www.infomoney.com.br/politica/nunes-marques-confirma-viagem-em-aviao-pago-pela-advogada-do-master/); [Jornal do Brasil, 05/04/2026](https://www.jb.com.br/brasil/informe-jb/2026/04/1059207-viagem-de-nunes-marques-a-maceio-foi-paga-por-advogada-do-banco-master-diz-jornal.html)).
+- **CPI do Master parada:** Nunes Marques mantém há quase seis meses, sem decidir, a ação no STF que trata da criação da CPI do Banco Master no Senado ([Brasil 247, 09/2026](https://www.brasil247.com/brasil/nunes-marques-mantem-sem-decisao-no-stf-acao-sobre-cpi-do-banco-master-ha-quase-seis-meses/)). Senadores pediram que ele se declarasse suspeito no caso, citando a proximidade de seu entorno com o banco ([Brasil 247, 09/2026](https://www.brasil247.com/brasil/senadores-pedem-que-nunes-marques-deixe-acao-sobre-criacao-de-cpi-do-master/)).
+- **15/09/2026 — "Dominado aqui":** vazam diálogos do celular de Vorcaro em que o então diretor jurídico do Master, Luiz Rennó, envia ao banqueiro uma planilha com o nome de Kevin Marques e escreve "Dominado aqui", e meses depois pergunta se "esse aí — R$ 500 mil por mês — se mantém" ([G1, 15/09/2026](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/15/mensagens-vorcaro-filho-nunes-marques.ghtml); [Poder360, 16/09/2026](https://www.poder360.com.br/poder-justica/mensagens-de-vorcaro-citam-pagamento-de-r-500-mil-a-filho-de-nunes/)).
+- **15/09/2026 — a cobrança de R$ 10 mil:** em 28/02/2025, uma mulher identificada como Rayanna avisou a Vorcaro que "as meninas estão prontas" e pediu um endereço. Semanas depois, cobrou o banqueiro: "A minha amiga lá aquele dia! Deu certo, né? Ela disse que ficou com Kassio! Ela tá me cobrando aqui". Vorcaro pediu "dados e valor", e ela indicou "10, né?". As mensagens não esclarecem a natureza do encontro nem a que se referia o valor, e o ministro nega o encontro ([Metrópoles, 15/09/2026](https://www.metropoles.com/colunas/andreza-matais/ela-ficou-com-o-kassio-conversa-de-vorcaro-cita-cobranca-de-r-10-mil-por-encontro); [Revista Fórum, 15/09/2026](https://revistaforum.com.br/politica/vorcaro-pagado-amiga-que-ficou-com-kassio-nunes-marques); [Brasil 247, 15/09/2026](https://www.brasil247.com/brasil/ela-ficou-com-o-kassio-conversa-de-vorcaro-cita-cobranca-de-r-10-mil-por-encontro-ministro-nega/)).
+- **15/09/2026 — impedimento:** horas depois do vazamento, declarou-se impedido de julgar o caso Moraes-Vorcaro, dizendo que preside o TSE e que o processo pode ter efeitos político-eleitorais. Afirmou que nunca trocou mensagens com Vorcaro ([G1, 15/09/2026](https://g1.globo.com/politica/noticia/2026/09/15/kassio-nunes-marques-se-declara-impedido-em-julgamento-sobre-moraes.ghtml)).
+- **18/09/2026 — a mansão do Carnaval:** Vorcaro reservou para o ministro uma mansão de R$ 250 milhões no Carnaval, com praia privada e projeto de Burle Marx, que pertencia ao ator Márcio Garcia ([Brasil 247, 18/09/2026](https://www.brasil247.com/brasil/vorcaro-reservou-mansao-de-r-250-milhoes-para-kassio-nunes-no-carnaval/); [Brasil 247, 18/09/2026](https://www.brasil247.com/brasil/casa-que-vorcaro-alugou-para-nunes-marques-tem-praia-privada-e-projeto-de-burle-marx/); [Revista Fórum, 18/09/2026](https://revistaforum.com.br/cultura/dinheiro-marcio-garcia-mansao-alugada-vorcaro-kassio-nunes/)).
+- **18/09/2026 — a coincidência da Piauí:** a revista cruzou as datas dos repasses ligados a Kevin Marques com votos e decisões de Nunes Marques favoráveis ao Master, e encontrou coincidências ([Piauí, 18/09/2026](https://piaui.uol.com.br/web/dominado-aqui-kassio-nunes-marques-master-stf/); [Brasil 247, 18/09/2026](https://www.brasil247.com/brasil/dominado-aqui-repasses-do-master-para-filho-de-nunes-marques-coincidem-com-decisao-do-ministro/); [Vermelho, 18/09/2026](https://vermelho.org.br/2026/09/18/dialogos-ligam-voto-pro-master-de-nunes-marques-a-repasses-ligados-ao-filho/)).
+
+## Ver também
+
+- [STF](../stf.md)
+- [André Mendonça](andre-mendonca.md): o outro indicado de Bolsonaro, relator do caso Master e vice de Nunes Marques no TSE
+- [Caso Banco Master](../banco-master.md)
+- [Flávio Bolsonaro](../flavio-bolsonaro.md)
