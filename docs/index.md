@@ -25,7 +25,9 @@ O **Wiki Político** reúne material para debater com fatos e desmontar a narrat
 
 - [Partidos Políticos](temas/partidos-politicos.md): PT e PSDB comparados, BNDES, Bolsa Família e desempenho econômico
 - [Outras Personalidades (Brasil)](temas/outras-personalidades-brasil.md): Bolsonaro, Garotinho e outros nomes, com processos e declarações
+- [Flávio Bolsonaro](temas/flavio-bolsonaro.md): vínculos documentados com Adriano da Nóbrega, Queiroz, o entorno no Rio e o caso da foto com “Sicário”
 - [Internacional / Geopolítica](temas/internacional-geopolitica.md): Cuba, Rússia, BRICS, Foro de São Paulo e as guerras
+- [Donald Trump e o trumpismo](temas/donald-trump.md): a extrema direita nos EUA, a mentira da fraude eleitoral e os vínculos com o bolsonarismo
 - [Políticas Públicas](temas/politicas-publicas.md): terceirização, impostos, saneamento, armas e reforma política
 - [Petrobrás](temas/petrobras.md): Pasadena, o documentário sobre a empresa e as guerras por petróleo
 
