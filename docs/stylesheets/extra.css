@@ -24,3 +24,15 @@
 .wp-interacao__github {
   font-size: 0.7rem;
 }
+
+/* Data de última atualização no rodapé */
+.md-footer-last-updated {
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--lightest);
+  padding: 0.5rem 0;
+  text-align: center;
+}
+
+.md-footer-last-updated::before {
+  content: "🕐 ";
+}

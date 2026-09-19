@@ -10,5 +10,10 @@
 {{ page.content }}
 {% include "partials/source-file.html" %}
 {% include "partials/compartilhar.html" %}
+{% if page.meta.git_revision_date_localized %}
+<div class="md-footer-last-updated">
+  Atualizado em {{ page.meta.git_revision_date_localized }}
+</div>
+{% endif %}
 {% include "partials/feedback.html" %}
 {% include "partials/comments.html" %}

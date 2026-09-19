@@ -59,6 +59,11 @@ theme:
 plugins:
   - search:
       lang: pt
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+      locale: pt_BR
+      fallback_to_build_date: true
 
 hooks:
   - hooks/ultimas_atualizacoes.py
