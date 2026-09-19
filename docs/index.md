@@ -1,6 +1,6 @@
 # Wiki Político
 
-O **Wiki Político** reúne material para debater com fatos e desmontar a narrativa da grande mídia corporativa e dos sites de fake news. Debate só é construtivo quando parte de fatos verificáveis, e não de "verdades subjetivas", então cada afirmação aqui vem com a fonte ao lado.
+O **Wiki Político** reúne material para debater com fatos e desmontar a narrativa da grande mídia corporativa e dos sites de fake news. Debate só é construtivo quando parte de fatos verificáveis, e não de "verdades subjetivas". Por isso, cada afirmação aqui vem com a fonte ao lado — preferencialmente a **fonte primária**: dados oficiais, documentos públicos, decisões judiciais e transcrições na íntegra, sem a intermediação de quem interpreta os fatos por você.
 
 ## Comece por aqui
 
