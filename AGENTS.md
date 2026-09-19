@@ -13,6 +13,10 @@ Site estático em **MkDocs Material** (`mkdocs.yml`), publicado no GitHub Pages 
 2. **Nunca commitar nem publicar sem pedido explícito do usuário.** O usuário revisa em localhost primeiro.
 3. Para validação sem servidor, buildar em diretório temporário (`--site-dir`), nunca sobrescrever a pasta `site/` localmente — ela é gerada pelo CI.
 
+## Convenções de conteúdo
+
+- **Toda afirmação precisa de fonte checável**: cada texto, parágrafo ou item de lista deve ter link para a página que permite conferir a informação.
+
 ## Estrutura
 
 - `docs/` — conteúdo em Markdown (nav definido em `mkdocs.yml`)
