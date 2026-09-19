@@ -36,3 +36,8 @@
 .md-footer-last-updated::before {
   content: "🕐 ";
 }
+
+/* Esconder injeção automática do plugin git-revision-date-localized no rodapé do Material */
+.git-revision-date-localized-plugin {
+  display: none !important;
+}
