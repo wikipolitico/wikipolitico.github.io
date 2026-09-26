@@ -17,6 +17,17 @@ Em discursos na Alerj, Flávio Bolsonaro defendeu que as milícias não deveriam
 - [Transcrição dos trechos dos discursos e cronologia das relações com Adriano](https://exame.com/wp-content/uploads/2020/02/representaccca7acc83o-flacc81vio-bolsonaro-final.pdf)
 - [Registro da fala de 2008 no debate sobre a CPI das Milícias — Câmara dos Deputados](https://escriba.camara.leg.br/escriba-servicosweb/html/59290)
 
+### A juíza Patrícia Acioli
+
+Patrícia Acioli, juíza em São Gonçalo, era conhecida por punir com rigor policiais corruptos e grupos de extermínio. Em agosto de 2011, foi morta a tiros na porta de casa, em Niterói, por policiais militares de São Gonçalo, e foi a primeira juíza assassinada no estado do Rio. Os 11 PMs julgados foram condenados.
+
+Em 12/08/2011, logo depois do crime, o então deputado estadual Flávio Bolsonaro atribuiu à própria vítima a inimizade dos policiais: "Que Deus tenha essa juíza, mas a forma absurda e gratuita com que ela humilhava policiais nas sessões contribuiu para ter muitos inimigos". Foram policiais que a mataram. Diante da repercussão, contou que recebia no gabinete policiais e familiares que se queixavam dela. No recuo, repetiu a acusação: ela teria muitos inimigos "por humilhar gratuitamente réus".
+
+- [Filho de Bolsonaro diz que juíza morta "humilhava réus" – Terra, 12/08/2011](https://www.terra.com.br/noticias/brasil/policia/filho-de-bolsonaro-diz-que-juiza-morta-humilhava-reus,322ccc00a90ea310VgnCLD200000bbcceb0aRCRD.html): a íntegra dos tuítes, com a frase sobre a juíza e o recuo em que ele repete a acusação.
+- [Filho de Bolsonaro diz que juíza humilhava policiais – Estado de Minas, 12/08/2011](https://www.em.com.br/app/noticia/nacional/2011/08/12/interna_nacional,244897/filho-de-bolsonaro-diz-que-que-juiza-humilhava-policiais.shtml): Flávio contou que recebia no gabinete policiais e familiares que se queixavam da juíza.
+- [Patricia Acioli – Wikipedia](https://en.wikipedia.org/wiki/Patricia_Acioli): a juíza punia policiais corruptos, foi morta por PMs de São Gonçalo, e os 11 julgados foram condenados.
+- [Flávio Bolsonaro culpou juíza assassinada por sua morte – Revista Fórum, 23/09/2026](https://revistaforum.com.br/politica/flavio-bolsonaro-culpou-juiza-assassinada-humilhava-milicianos/): o episódio voltou ao debate na campanha presidencial de 2026.
+
 ### Familiares no gabinete
 
 Danielle Mendonça da Costa, então esposa de Adriano, e Raimunda Veras Magalhães, mãe dele, foram nomeadas no gabinete de Flávio Bolsonaro na Alerj. A denúncia apresentada pelo MPRJ em 2020 sustentou que ambas participaram do suposto esquema de desvio de salários de assessores. Segundo a denúncia, valores passaram das duas para Fabrício Queiroz; essas alegações não resultaram em condenação de Flávio no caso.
@@ -58,7 +69,7 @@ Em 18 de junho de 2020, Queiroz foi preso preventivamente na Operação Anjo, em
 
 ### Loja de chocolates Kopenhagen
 
-Flávio Bolsonaro detinha 50% de uma franquia da Kopenhagen num shopping da Barra da Tijuca, no Rio, em sociedade com Alexandre Santini. O MPRJ investigou a loja como possível instrumento de lavagem de dinheiro ligado ao esquema de rachadinha. Segundo o MP, o volume de depósitos em dinheiro vivo na conta da franquia era desproporcional ao faturamento do setor e não seguia a sazonalidade típica do comércio de chocolates — os depósitos coincidiam, em vez disso, com as datas em que Queiroz recolhia parte dos salários dos assessores na Alerj. O MP estimou que até R$ 1,6 milhão possa ter sido lavado por meio da loja entre 2015 e 2018. Santini afirmou que Flávio usou R$ 200 mil em espécie para abrir o negócio. Em fevereiro de 2021, Flávio e o sócio entregaram a franquia ao Grupo CRM, detentor da marca. Flávio sempre negou irregularidades na operação da loja.
+Flávio Bolsonaro detinha 50% de uma franquia da Kopenhagen num shopping da Barra da Tijuca, no Rio, em sociedade com Alexandre Santini. O MPRJ investigou a loja como possível instrumento de lavagem de dinheiro ligado ao esquema de rachadinha. Segundo o MP, o volume de depósitos em dinheiro vivo na conta da franquia era desproporcional ao faturamento do setor e não seguia a sazonalidade típica do comércio de chocolates — os depósitos coincidiam, em vez disso, com as datas em que Queiroz recolhia parte dos salários dos assessores na Alerj. O MP estimou que até R$ 1,6 milhão possa ter sido lavado por meio da loja entre 2015 e 2018. Santini afirmou que Flávio usou R$ 200 mil em espécie para abrir o negócio. Em fevereiro de 2021, Flávio e o sócio entregaram a franquia ao Grupo CRM, detentor da marca.
 
 - [Depósitos na Kopenhagen e suspeita de lavagem — O Globo](https://oglobo.globo.com/politica/ministerio-publico-conclui-investigacao-de-rachadinha-denuncia-contra-flavio-bolsonaro-ainda-sera-formalizada-24665189)
 - [Denúncia do MPRJ com detalhes sobre a franquia — G1](https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/11/04/mp-do-rio-denuncia-flavio-bolsonaro-e-queiroz-por-organizacao-criminosa-peculato-lavagem-de-dinheiro-e-apropriacao-indebita.ghtml)
@@ -110,11 +121,11 @@ Márcio Canella, ex-prefeito de Belford Roxo, foi indicado por Flávio Bolsonaro
 
 ### Rodrigo Bacellar
 
-Rodrigo Bacellar, ex-presidente da Alerj, era o nome do grupo de Flávio Bolsonaro para disputar o governo do Rio. Ele foi preso na Operação Unha e Carne, desdobramento da Zargun, e voltou a ser alvo da PF em fases seguintes. Relatório da PF concluiu que Bacellar teria avisado TH Joias, na véspera da Zargun, sobre a deflagração da operação; a Agência Brasil registrou que a acusação de vazamento levou à prisão de Bacellar três meses depois da prisão de TH Joias. A defesa de Bacellar nega irregularidades.
+Rodrigo Bacellar, ex-presidente da Alerj, era o nome do grupo de Flávio Bolsonaro para disputar o governo do Rio. Ele foi preso na Operação Unha e Carne, desdobramento da Zargun, e voltou a ser alvo da PF em fases seguintes. Relatório da PF concluiu que Bacellar teria avisado TH Joias, na véspera da Zargun, sobre a deflagração da operação; a Agência Brasil registrou que a acusação de vazamento levou à prisão de Bacellar três meses depois da prisão de TH Joias.
 
 - [PF apontou aviso de Bacellar a TH Joias sobre a Zargun — G1](https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/02/27/bacellar-me-avisou-traficante-relata-conversa-com-ex-deputado-th-joias-que-teria-confirmado-vazamento-de-operacao-contra-cv.ghtml)
 - [Prisão de TH Joias e desdobramento que atingiu Bacellar — Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/th-joias-ex-deputado-estadual-no-rio-vira-reu-por-envolvimento-com-cv)
-- [Bacellar voltou a ser alvo da PF; defesa nega irregularidades — CNN Brasil](https://www.cnnbrasil.com.br/blogs/elijonasmaia/noticias/pf-faz-nova-fase-de-operacao-sobre-ligacao-de-politicos-com-cv/)
+- [Bacellar voltou a ser alvo da PF — CNN Brasil](https://www.cnnbrasil.com.br/blogs/elijonasmaia/noticias/pf-faz-nova-fase-de-operacao-sobre-ligacao-de-politicos-com-cv/)
 - [Operações atingiram opções de Flávio para a chapa no Rio — UOL](https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/07/acoes-da-pf-atingem-opcoes-de-flavio-para-chapa-no-rj-berco-bolsonarista.htm?uol_app=uolnoticias)
 
 ### Alessandro Pitombeira Carracena
@@ -137,7 +148,7 @@ A PF identificou o uso de uma estrutura financeira internacional, com remessas d
 
 Uma segunda frente de apuração, sob relatoria do ministro Flávio Dino, investiga o suposto desvio de emendas parlamentares para a produtora do filme, a Go Up Entertainment, de Karina Ferreira da Gama. Em 10 de setembro de 2026, a PF deflagrou a Operação Make Up, com 49 mandados de busca e apreensão. O deputado federal Mário Frias (PL-SP), que atuou como roteirista e produtor-executivo do longa, foi o principal alvo — os crimes investigados incluem peculato, falsidade documental e organização criminosa.
 
-Segundo a PF, o Instituto Conhecer Brasil (ICB), presidido por Karina Gama, recebeu R$ 2 milhões em emendas indicadas por Frias. A CGU identificou que os serviços contratados com esses recursos não foram prestados conforme o previsto, e a PF rastreou transferências que conectam as verbas ao financiamento do filme. Durante o cumprimento dos mandados, a PF apreendeu sete armas de fogo de Frias, incluindo um fuzil, em endereço não informado às autoridades, o que abriu apuração separada sobre porte ilegal. Frias classificou a operação como "cortina de fumaça".
+Segundo a PF, o Instituto Conhecer Brasil (ICB), presidido por Karina Gama, recebeu R$ 2 milhões em emendas indicadas por Frias. A CGU identificou que os serviços contratados com esses recursos não foram prestados conforme o previsto, e a PF rastreou transferências que conectam as verbas ao financiamento do filme. Durante o cumprimento dos mandados, a PF apreendeu sete armas de fogo de Frias, incluindo um fuzil, em endereço não informado às autoridades, o que abriu apuração separada sobre porte ilegal.
 
 - [Áudios de Flávio pedindo dinheiro a Vorcaro — CNN Brasil](https://www.cnnbrasil.com.br/politica/ouca-o-audio-de-flavio-bolsonaro-pedindo-dinheiro-a-vorcaro/)
 - [Investigação sobre *Dark Horse* e inclusão de Flávio como investigado — Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-incluiu-flavio-bolsonaro-como-investigado-no-caso-dark-horse)
@@ -172,6 +183,7 @@ Em maio de 2026, Flávio foi a Washington e pediu que o governo de Donald Trump 
 ## O que os fatos permitem afirmar
 
 - Flávio homenageou Adriano da Nóbrega e o major Ronald Paulo Alves Pereira na Alerj; familiares de Adriano foram nomeados em seu gabinete;
+- em 2011, logo depois de a juíza Patrícia Acioli ser assassinada por PMs, atribuiu à própria vítima a inimizade dos policiais;
 - seu ex-assessor Fabrício Queiroz mantinha relação documentada com Adriano e foi investigado pelo MPRJ no caso das "rachadinhas"; a família de Queiroz aparece no relatório do Coaf, e Queiroz foi preso no imóvel de Frederick Wassef;
 - a denúncia do MPRJ foi apresentada, mas as provas que a sustentavam foram anuladas e não houve condenação de Flávio nesse caso;
 - o MPRJ investigou a franquia da Kopenhagen como possível instrumento de lavagem de dinheiro, apontando depósitos em espécie coincidentes com recolhimentos da rachadinha;
