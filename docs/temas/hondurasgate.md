@@ -42,8 +42,6 @@ Os áudios não citam o Brasil como alvo — os dossiês planejados miravam Méx
 
 - O presidente colombiano Gustavo Petro [escreveu no X](https://www.dw.com/es/hondurasgate-qu%C3%A9-se-sabe-y-qu%C3%A9-no-de-los-audios-filtrados/a-77138562): "Assim se movem as redes da extrema direita comunicacional. O dinheiro sai da cocaína e de Israel".
 - A presidente mexicana Claudia Sheinbaum [atribuiu a trama](https://www.dw.com/es/hondurasgate-qu%C3%A9-se-sabe-y-qu%C3%A9-no-de-los-audios-filtrados/a-77138562) a um intento da "direita internacional" de difundir falsidades, mas disse que isso não a afetaria.
-- [Hernández negou](https://www.dw.com/es/hondurasgate-qu%C3%A9-se-sabe-y-qu%C3%A9-no-de-los-audios-filtrados/a-77138562) que a voz nos áudios seja a sua: "Claramente não é minha voz".
-- Tomás Zambrano, presidente do Congresso hondurenho, [chamou as gravações](https://www.dw.com/es/hondurasgate-qu%C3%A9-se-sabe-y-qu%C3%A9-no-de-los-audios-filtrados/a-77138562) de "áudios falsos" e "grosseira fabricação".
 
 ## Autenticidade em disputa
 

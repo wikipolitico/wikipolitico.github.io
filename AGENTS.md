@@ -16,7 +16,12 @@ Site estático em **MkDocs Material** (`mkdocs.yml`), publicado no GitHub Pages 
 ## Convenções de conteúdo
 
 - **Toda afirmação precisa de fonte checável**: cada texto, parágrafo ou item de lista deve ter link para a página que permite conferir a informação.
-- **Grande mídia corporativa (Globo/g1, Folha, Estadão, Veja, Gazeta do Povo, ND Mais etc.) é fonte a questionar**: quando a informação nascer nesses veículos, atribuir explicitamente ("segundo o Estadão", "revelado pela Folha") e registrar a negativa dos envolvidos quando houver. **Corroboração só conta se vier de veículo listado em `docs/midias-alternativas.md` ou declaradamente pró-Lula/pró-PT** (ex.: Brasil 247, DCM, Revista Fórum, GGN, Brasil de Fato) — outro veículo da grande mídia repetindo a notícia não é corroboração. Sempre que possível, apontar o documento primário (PF, decisões, dados oficiais).
+- **Pôr em xeque as acusações do outro lado e trazer a defesa do nosso campo (esquerda petista)**:
+    - Contra acusação a alguém do nosso campo, registrar as fragilidades verificáveis e a defesa do acusado.
+    - Negativa genérica de adversário não entra (ex.: "nega irregularidades", "cortina de fumaça", nota de assessoria). A resposta dele só entra quando os fatos a desmentem ou quando ela confirma o fato.
+    - Nenhum item é neutro: a frase de cada link deixa claro o que aquilo significa a favor do nosso campo, sem passar do que a fonte sustenta.
+    - Defesa ou ataque de terceiros e coincidências entram quando favorecem o nosso campo, direta ou indiretamente, e se apoiam em fatos datados e com fonte.
+- **Grande mídia corporativa (Globo/g1, Folha, Estadão, Veja, Gazeta do Povo, ND Mais etc.) é fonte a questionar**: quando a informação nascer nesses veículos, atribuir explicitamente ("segundo o Estadão", "revelado pela Folha"). **Corroboração só conta se vier de veículo listado em `docs/midias-alternativas.md` ou declaradamente pró-Lula/pró-PT** (ex.: Brasil 247, DCM, Revista Fórum, GGN, Brasil de Fato) — outro veículo da grande mídia repetindo a notícia não é corroboração. Sempre que possível, apontar o documento primário (PF, decisões, dados oficiais).
 
 ## Estrutura
 
