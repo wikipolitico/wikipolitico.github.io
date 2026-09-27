@@ -90,6 +90,11 @@
 - [PARA ENTENDER O ARTIGO 13 #meteoro.doc - Uma diretiva de direitos autorais que tramita no parlamento da União Europeia pode representar o fim da internet como a conhecemos. O já famoso artigo 13 é o mais sensível da nova legislação. - YouTube](https://www.youtube.com/watch?v=n56JeOzbffc)
 - Wikipédia: [Censura no Brasil](https://pt.wikipedia.org/wiki/Censura_no_Brasil)
 
+## Big techs na eleição de 2026
+
+- [Meta restringe anúncios de Lula a 10 dias do 1º turno; campanha recorre – Metrópoles, 24/09/2026](https://www.metropoles.com/brasil/meta-restringe-anuncios-de-lula-a-10-dias-do-1o-turno-campanha-recorre): em 23/09, a Meta bloqueou a conta de anúncios da campanha dizendo só que "algumas das suas atividades não seguem nossas regras". Restabeleceu a conta depois do recurso, sem dizer qual regra teria sido violada.
+- [Meta derruba e devolve perfil com vídeo de Porchat sobre Master e Lagoinha – Estado de Minas, 23/09/2026](https://www.em.com.br/politica/2026/09/7506679-meta-derruba-e-devolve-perfil-com-video-de-porchat-sobre-master-e-lagoinha.html): o perfil da série "Revelando" saiu do ar dois dias depois do lançamento do episódio sobre Vorcaro, a Igreja Lagoinha, Nikolas Ferreira e Flávio Bolsonaro, que em 24 horas chegou ao topo do ranking de vídeos em alta do YouTube. A Meta devolveu o perfil horas depois e pediu desculpas.
+
 ## Rádios comunitárias
 
 - [Documentário mostra que rádio comunitária não derruba avião](http://amarcbrasil.org/documentario-mostra-que-radio-comunitaria-nao-derruba-aviao/)

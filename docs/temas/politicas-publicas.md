@@ -1,5 +1,12 @@
 # Políticas Públicas
 
+## Fim das bets
+
+Em 25/09/2026, Lula assinou a Medida Provisória 1.394/2026, que proíbe as apostas on-line, das esportivas aos cassinos virtuais como o "Tigrinho". Os depósitos ficaram proibidos na hora, os apostadores têm até 05/10 para sacar o saldo, e os sites saem do ar em 06/10. O Congresso tem até 120 dias para votar a MP ([Brasil de Fato, 25/09/2026](https://www.brasildefato.com.br/2026/09/25/governo-lula-anuncia-medida-provisoria-que-determina-o-fim-das-bets-no-brasil/)).
+
+- [Governo Lula anuncia medida provisória que determina o fim das bets no Brasil – Brasil de Fato, 25/09/2026](https://www.brasildefato.com.br/2026/09/25/governo-lula-anuncia-medida-provisoria-que-determina-o-fim-das-bets-no-brasil/): Lula chamou a jogatina na internet de "uma doença", e o ministro da Saúde, Alexandre Padilha, citou um custo de cerca de R$ 38 bilhões por ano à saúde pública.
+- [Da liberação à proibição: a linha do tempo das bets no Brasil – Congresso em Foco, 26/09/2026](https://www.congressoemfoco.com.br/noticia/122592/da-liberacao-a-proibicao-veja-a-linha-do-tempo-das-bets-no-brasil): Temer criou as apostas por lei em 12/12/2018, com até quatro anos para regulamentar. O prazo acabou em dezembro de 2022, no governo Bolsonaro, sem regulamentação, e as plataformas cresceram operando do exterior. As regras só vieram com a lei sancionada por Lula em 29/12/2023.
+
 ## Terceirização / PL 4330
 
 - [Rogério Correia convoca trabalhadores à luta contra o PL 4330 - YouTube](https://www.youtube.com/watch?v=dZHPTSEBsXE)

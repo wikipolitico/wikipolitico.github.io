@@ -8,7 +8,7 @@
 
 !!! warning "Caso em andamento"
 
-    A seção [Crise de setembro de 2026](#crise-de-setembro-de-2026) está atualizada até 15/09/2026. As acusações aparecem atribuídas a quem as fez. Nenhuma delas foi julgada.
+    A seção [Crise de setembro de 2026](#crise-de-setembro-de-2026) cobre os fatos até 15/09/2026 e a resposta de Mendonça de 22/09. As acusações aparecem atribuídas a quem as fez. Nenhuma delas foi julgada.
 
 ## Quem é
 
@@ -77,6 +77,18 @@ Mensagens encontradas pela PF e reveladas em setembro de 2026 mostram o então g
 
 Nas mensagens reveladas, Castro não pede a soltura com essas palavras, e o conteúdo da ligação não é conhecido ([Estado de Minas, 13/09/2026](https://www.em.com.br/politica/2026/09/7499472-mendonca-tratou-com-castro-sobre-prisao-de-cabral-ministro-diz-que-atuou-apenas-com-base-nos-autos.html)).
 
+### Votos a favor de Castro e contratos do Iter no Rio
+
+Segundo o ICL Notícias, Mendonça votou ou decidiu a favor de Castro ao menos quatro vezes desde 2024, no STF e no TSE, enquanto o Iter fechava contratos sem licitação com órgãos do governo do Rio ([ICL Notícias, 25/09/2026](https://iclnoticias.com.br/mendonca-votou-a-favor-de-castro-4-vezes/)).
+
+- **10/10/2024 (STF):** encerrou duas investigações sobre Castro por suspeita de corrupção na Fundação Leão XIII. No mesmo dia, o advogado Ciro Soares comemorou com Vorcaro uma decisão de Mendonça a favor de Castro ([ver a linha do tempo do Iter](#instituto-iter-e-a-relacao-com-vorcaro)).
+- **17/03/2025 (STF):** abriu divergência para derrubar a condenação por crime ambiental de Washington Reis, aliado de Castro e escolhido para vice dele em 2022.
+- **02/07/2025:** contrato do Iter com o Corpo de Bombeiros do Rio, de R$ 20.250.
+- **23/03/2026:** contrato do Iter com a Procuradoria-Geral do Estado do Rio, de R$ 53 mil.
+- **24/03/2026 (TSE):** no dia seguinte, votou contra a inelegibilidade de Castro no caso dos cargos secretos da Ceperj e da Uerj. Castro foi condenado por 5 a 2.
+- **06/04/2026:** contrato do Iter com a Secretaria de Segurança do Rio, de R$ 518 mil.
+- **09/04/2026 (STF):** três dias depois, antecipou voto a favor da eleição indireta no Rio, a manobra de Castro para pôr o aliado Douglas Ruas no governo do estado.
+
 ### Busca da PF contra Castro negada em 2026
 
 - **15/07/2026:** no inquérito sobre os investimentos do fundo de pensão RioPrevidência no Banco Master, Mendonça negou um pedido da PF para uma nova busca e apreensão contra Castro. A PF queria entrar numa sala comercial no Centro do Rio, num imóvel em Petrópolis e em dois veículos, e apreender celulares, computadores e dados em nuvem, por ver risco de que Castro usasse endereços fora do seu nome para esconder provas. O procurador-geral Paulo Gonet deu parecer favorável às buscas. Mendonça considerou que o pedido da PF não trazia elementos suficientes para justificar uma nova busca ([Metrópoles, 12/09/2026](https://www.metropoles.com/colunas/manoela-alcantara/rioprevidencia-x-master-mendonca-negou-nova-operacao-da-pf-contra-castro); [Jornal do Brasil, 13/09/2026](https://www.jb.com.br/brasil/justica/2026/09/1060895-andre-mendonca-nega-busca-da-pf-contra-claudio-castro-no-caso-master.html)).
@@ -112,6 +124,7 @@ O Iter é uma empresa de cursos que Mendonça criou quando já era ministro do S
 - **15/03/2025:** um dia depois, pede vista na ação sobre os cemitérios de São Paulo (ADPF 1.196). Em 04/04/2025, vota contra a decisão de Dino que limitava os preços das concessionárias ([Jovem Pan, 15/09/2026](https://jovempan.com.br/politica/dino-pede-apuracao-sobre-conduta-de-mendonca-apos-encontro-com-vorcaro/)).
 - **Maio de 2025:** Vorcaro é convidado para o lançamento do Iter em Belo Horizonte, com coquetel no Hotel Fasano e debate com Mendonça e o ministro do TCU Antonio Anastasia. Segundo Ciro Soares, o convite foi retirado por iniciativa de Cezinha. Houve outro convite, para julho. As mensagens não mostram se Vorcaro foi ([O Hoje, com base na Folha, 15/09/2026](https://ohoje.com/2026/09/15/mensagens-mostram-convites-a-vorcaro-para-eventos-ligados-a-andre-mendonca/); [Diário do Nordeste, 15/09/2026](https://diariodonordeste.verdesmares.com.br/pontopoder/novo-vazamento-revela-dialogos-de-vorcaro-que-envolvem-ministros-fux-kassio-e-mendonca-1.3791614)).
 - **24/07/2025:** primeiro contrato acima de R$ 1 milhão: R$ 1,23 milhão com o Cioeste, consórcio de prefeituras da região oeste de São Paulo, presidido pelo prefeito de São Roque. Em 2024, a previdência daquele município aplicou R$ 93 milhões em letras financeiras do Master, papel sem garantia do FGC, e perdeu o dinheiro na liquidação do banco. Procurado pela CartaCapital, Mendonça não respondeu ([PNCP](../../dados/contratos-instituto-iter.csv); [CartaCapital, 08/04/2026](https://www.cartacapital.com.br/politica/instituto-de-andre-mendonca-lucra-com-municipio-que-tomou-prejuizo-no-banco-master/)).
+- **04/08/2025:** Mendonça vai de Belo Horizonte a Itabira, para a Jornada Jurídica de Itabira, num helicóptero da Cedro Participações, de Lucas Kallas, ex-parceiro de negócios de Vorcaro. A Cedro repassou R$ 5,2 milhões ao Iter. Depois que Daniela Lima, do UOL, revelou o caso, o instituto encerrou o contrato com a Cedro e começou a devolver os valores "emprestados" ([ICL Notícias, 22/09/2026](https://iclnoticias.com.br/mendonca-viajou-helicoptero-ex-parceiro-vorcaro/)).
 - **20/09/2025:** contrato de R$ 380 mil, sem licitação, com a Prefeitura de São Paulo, de Ricardo Nunes ([PNCP](../../dados/contratos-instituto-iter.csv); [Revista Fórum, 03/09/2026](https://revistaforum.com.br/politica/instituto-andre-mendonca-108-milhoes-contratos-sem-licitacao)).
 - **21/10/2025:** o Estadão revela R$ 4,8 milhões em contratos públicos. Mendonça diz que a atuação é permitida pela lei da magistratura e continua sócio ([Jornal de Brasília, 21/10/2025](https://jornaldebrasilia.com.br/noticias/politica-e-poder/instituto-de-mendonca-do-stf-fatura-r-48-mi-em-contratos-publicos-em-pouco-mais-de-um-ano/)).
 - **12/02/2026:** vira relator do caso Master, ainda sócio do Iter ([ver relatoria](#relator-dos-casos-inss-e-banco-master)).
@@ -180,6 +193,7 @@ Onde a fonte é um documento do processo, o link leva ao [portal do STF](https:/
 - **15/09/2026:** na sessão, Moraes afirmou que Mendonça decidiu em 18/05/2026, na Pet 15.625, apreender e preservar um arquivo chamado "morais.pdf", descrito por ele como um dossiê ilegal feito por um perito em conluio com uma jornalista, e que só em 24/08, de ofício, abriu a investigação contra ele. Mendonça respondeu que são "versões e interpretações". Gilmar Mendes e Mendonça também trocaram acusações. A sessão terminou sem decisão, com placar provisório de 4 votos a 3 para julgar separados os casos de Moraes e de Mendonça, e Flávio Dino pediu vista, que pode durar até 90 dias ([O Tempo, 15/09/2026](https://www.otempo.com.br/politica/judiciario/2026/9/15/stf-interrompe-julgamento-e-nao-decide-sobre-investigacao-contra-moraes-e-sobre-mendonca); [TVT News, 15/09/2026](https://tvtnews.com.br/uniao-votacoes-mendonca-moraes-stf-veja-votos/)).
 - **15/09/2026:** antes de pedir vista, Dino disse a Fachin que ele tinha marcado "esta sessão desastrada" e perguntou: "As mensagens do ministro Fux, as mensagens do ministro Kassio, as mensagens relativas ao ministro André, nós vamos parar aonde?". Fux interrompeu: "Pode ter alguém falando de mim, comigo não. Nunca vi esse cidadão na minha vida". Dino respondeu a Fux: "Vossa excelência terá que esclarecer isso em um momento próprio. Infelizmente, há menção ao nome de vossa excelência" ([O Tempo, 15/09/2026](https://www.otempo.com.br/politica/judiciario/2026/9/15/fux-nega-contato-com-vorcaro-apos-provocacao-de-dino-no-plenario-e-divulgacao-de-mensagens)).
 - **15/09/2026:** Cármen Lúcia pediu desculpas "ao presidente do Supremo, a todos os colegas, mas ao povo brasileiro, porque realmente queria ter sido melhor e poder ter ajudado a acalmar as coisas e não consegui" ([A Tarde, 15/09/2026](https://atarde.com.br/politica/carmen-lucia-pede-desculpas-ao-povo-brasileiro-durante-sessao-sobre-caso-moraes-1402219)). Também disse: "O Poder Judiciário existe para tranquilizar o povo, e nós geramos intranquilidade" ([O Tempo, 15/09/2026](https://www.otempo.com.br/politica/judiciario/2026/9/15/ministra-carmen-lucia-acompanha-fachin-e-pede-desculpas-por-crise-no-stf-geramos-intranquilidade)).
+- **22/09/2026:** Mendonça respondeu ao pedido de Moraes pedindo a Fachin o arquivamento das acusações e a investigação do próprio Moraes por abuso de autoridade e denunciação caluniosa. Os dois pedidos "ainda dependem de apreciação pelo Plenário do STF" ([O Tempo, 22/09/2026](https://www.otempo.com.br/politica/judiciario/2026/9/22/mendonca-pede-investigacao-de-moraes-por-abuso-de-autoridade-e-denunciacao-caluniosa)).
 
 ### O que não consta contra Moraes
 
@@ -189,7 +203,7 @@ Onde a fonte é um documento do processo, o link leva ao [portal do STF](https:/
 
 ### Próximos passos
 
-- **23/09/2026:** julgamento do pedido de investigação contra Mendonça por abuso de autoridade. O julgamento sobre Moraes volta quando Dino devolver a vista, sem data marcada ([Poder360, 12/09/2026](https://www.poder360.com.br/poder-justica/fachin-assume-relatoria-dos-casos-master-e-inss/)).
+- **Sem data:** o Plenário ainda vai analisar o pedido de investigação contra Mendonça, que o Poder360 dava como marcado para 23/09 ([Poder360, 12/09/2026](https://www.poder360.com.br/poder-justica/fachin-assume-relatoria-dos-casos-master-e-inss/)). Em 22/09, o pedido dele contra Moraes se somou ao caso, e a reportagem sobre isso não cita data de julgamento ([O Tempo, 22/09/2026](https://www.otempo.com.br/politica/judiciario/2026/9/22/mendonca-pede-investigacao-de-moraes-por-abuso-de-autoridade-e-denunciacao-caluniosa)). O julgamento sobre Moraes volta quando Dino devolver a vista.
 - **Sem data:** a Segunda Turma retoma o julgamento do afastamento do diretor-geral da PF quando Gilmar Mendes devolver a vista. Os pedidos do PT pelo fim dos sigilos também aguardam decisão, assim como a resposta do gabinete de Mendonça à PGR sobre o pedido da PF na Pet 15.645. As mais de 30 quebras de sigilo bancário e fiscal continuam em sigilo, à espera do relatório de análise da PF.
 - **04/10/2026:** primeiro turno das eleições, que o TSE conduz com Mendonça na vice-presidência.
 

@@ -1,6 +1,10 @@
 # Flávio Bolsonaro
 
-Flávio Bolsonaro foi deputado estadual no Rio de Janeiro de 2003 a 2019 e é senador pelo estado desde 2019. Candidato à Presidência da República em 2026 pelo PL, é filho mais velho do ex-presidente Jair Bolsonaro. Esta página reúne fatos documentados sobre sua trajetória política, relações com personagens investigados, evolução patrimonial e investigações em andamento.
+!!! abstract "Resumo"
+
+    Senador pelo Rio de Janeiro desde 2019, depois de 16 anos como deputado estadual, filho mais velho de Jair Bolsonaro e candidato do PL à Presidência em 2026. Na Alerj, homenageou Adriano da Nóbrega, apontado pelo MPRJ como integrante da milícia de Rio das Pedras e do Escritório do Crime, e nomeou no gabinete a mãe e a então mulher dele. Em discurso, viu "uma série de benefícios" na atuação das milícias, e em 2011 culpou a juíza Patrícia Acioli, morta por PMs, pela inimizade dos policiais. O caso das rachadinhas, em que o assessor Fabrício Queiroz era tratado como operador financeiro, terminou sem condenação depois que STF e STJ anularam as provas. O patrimônio declarado cresceu 370% de 2018 a 2026.
+
+    Em 2026 é investigado no STF por lavagem de dinheiro, evasão de divisas e corrupção no caso do filme Dark Horse, depois de áudios em que pede dinheiro a Daniel Vorcaro, dono do Banco Master, para a produção. Disse que nunca tinha entrado em avião de Vorcaro, mas voou com a família num jato em que a empresa do banqueiro tinha um terço. Uma emenda sua foi paga a um instituto ligado aos irmãos Brazão depois de um condenado no caso Marielle pedi-la à sua assessora. Aliados do seu projeto no Rio, como Rodrigo Bacellar e Márcio Canella, foram presos em operações da PF. A própria PF concluiu que ele caluniou Lula nas redes, e em Washington ele pediu ao governo Trump que classificasse o PCC e o Comando Vermelho como organizações terroristas.
 
 ## Adriano da Nóbrega
 
@@ -42,6 +46,12 @@ O mesmo padrão de homenagem na Alerj aparece com o major da PM Ronald Paulo Alv
 
 - [PMs alvos da Intocáveis já tinham sido homenageados por Flávio — G1](https://g1.globo.com/jornal-nacional/noticia/2019/01/22/pms-alvos-de-operacao-ja-receberam-homenagens-de-flavio-bolsonaro.ghtml)
 - [Alvos da operação foram homenageados em 2003 e 2004 — O Globo](https://oglobo.globo.com/rio/alvos-de-operacao-milicianos-foram-homenageados-por-flavio-bolsonaro-em-2003-2004-23391203)
+
+## Emenda pedida por condenado no caso Marielle
+
+Em 24/10/2023, Robson Calixto, o "Peixe", condenado no caso Marielle Franco, escreveu à assessora de Flávio Maria de Fátima Bezerra Castro: "Amiga, vê com o nosso senador se consegue nos ajudar". Em 06/11, lembrou: "não esquece do IFOP". Em 29/11/2023, uma emenda de Flávio de R$ 199.999,79 foi paga ao Instituto de Formação Profissional José Carlos Procópio (Ifop), na Taquara, ligado aos irmãos Chiquinho e Domingos Brazão. A PF achou as mensagens no celular de Calixto, e o caso foi revelado pelo Estadão.
+
+- [Assessora de Flávio Bolsonaro negociou emenda a ONG dos irmãos Brazão com miliciano condenado no caso Marielle – Brasil de Fato, 21/09/2026](https://www.brasildefato.com.br/2026/09/21/assessora-de-flavio-bolsonaro-negociou-emenda-a-ong-dos-irmaos-brazao-com-miliciano-condenado-no-caso-marielle/): as mensagens com datas e o pagamento da emenda pouco mais de um mês depois do pedido.
 
 ## Fabrício Queiroz
 
@@ -173,25 +183,19 @@ Em agosto de 2026, o STF autorizou busca e apreensão e o afastamento do sigilo 
 - [STF revogou prisão preventiva na Operação Patmos em 2017](https://noticias.stf.jus.br/postsnoticias/2a-turma-revoga-prisao-de-procurador-e-advogado-presos-em-decorrencia-da-operacao-patmos/)
 - [STF autorizou medidas contra Willer na Operação Sem Desconto](https://noticias.stf.jus.br/postsnoticias/stf-autoriza-buscas-e-quebra-de-sigilo-de-dados-telefonicos-em-investigacao-da-operacao-sem-desconto/)
 
+### O voo no jato ligado a Vorcaro
+
+Meses antes de a revista Piauí revelar o voo, Flávio afirmou: "Nunca entrei em avião do Vorcaro". Em 19/01/2025, ele, a mulher, as duas filhas e Willer Tomaz voaram de Fort Lauderdale, na Flórida, para Brasília num Legacy 650 dividido em três cotas. Uma era de Tomaz, outra de Laércio Cosentino, fundador da Totvs, e a terceira da Prime You, empresa que tinha Vorcaro como sócio e que também operava o avião. Em agosto de 2025, o mesmo jato levou Alexandre de Moraes, e Flávio usou o vídeo do desembarque do ministro para atacá-lo. Depois da revelação, mudou a versão: "Ainda bem que na época o avião era de Willer".
+
+- [“Nunca entrei em avião de Vorcaro”, disse Flávio há três meses – CNN, 24/09/2026](https://www.cnnbrasil.com.br/politica/nunca-entrei-em-aviao-de-vorcaro-disse-flavio-ha-tres-meses/): a negativa, gravada ao lado da mulher, que viajou com ele no jato.
+- [Flávio viajou em jatinho ligado a Vorcaro e criticou Moraes pelo uso da mesma aeronave – CartaCapital, 24/09/2026](https://www.cartacapital.com.br/politica/flavio-bolsonaro-viajou-em-jatinho-ligado-a-vorcaro-e-criticou-moraes-pelo-uso-da-mesma-aeronave/): as cotas do avião, o voo da família e o ataque a Moraes pelo jato em que o próprio Flávio tinha voado sete meses antes.
+
 ## Articulação com o governo Trump
 
 Em maio de 2026, Flávio foi a Washington e pediu que o governo de Donald Trump classificasse o PCC e o Comando Vermelho como organizações terroristas. Depois do anúncio americano, ele agradeceu a Trump e ao secretário de Estado Marco Rubio e afirmou que o pedido havia sido atendido. A articulação ocorreu durante sua pré-campanha presidencial e introduziu uma pressão externa na política de segurança pública brasileira.
 
 - [Visita de Flávio a Washington e pedido de classificação ao governo Trump — Reuters, via UOL](https://noticias.uol.com.br/ultimas-noticias/reuters/2026/05/28/eua-pretendem-designar-comando-vermelho-e-pcccomo-organizacoes-terroristas-diz-rubio.htm)
 - [Repercussão da designação e da atuação de Flávio nos Estados Unidos — Associated Press](https://apnews.com/article/68fe261fa5ab6980864405345970f68f)
-
-## O que os fatos permitem afirmar
-
-- Flávio homenageou Adriano da Nóbrega e o major Ronald Paulo Alves Pereira na Alerj; familiares de Adriano foram nomeados em seu gabinete;
-- em 2011, logo depois de a juíza Patrícia Acioli ser assassinada por PMs, atribuiu à própria vítima a inimizade dos policiais;
-- seu ex-assessor Fabrício Queiroz mantinha relação documentada com Adriano e foi investigado pelo MPRJ no caso das "rachadinhas"; a família de Queiroz aparece no relatório do Coaf, e Queiroz foi preso no imóvel de Frederick Wassef;
-- a denúncia do MPRJ foi apresentada, mas as provas que a sustentavam foram anuladas e não houve condenação de Flávio nesse caso;
-- o MPRJ investigou a franquia da Kopenhagen como possível instrumento de lavagem de dinheiro, apontando depósitos em espécie coincidentes com recolhimentos da rachadinha;
-- o patrimônio declarado cresceu 370% entre 2018 e 2026, com destaque para uma mansão de R$ 6,2 milhões em Brasília quitada em três anos;
-- a foto com Mourão é um fato verificado, e Mourão foi apontado pela PF como coordenador de um núcleo de intimidação ligado a Vorcaro;
-- aliados e nomes do projeto eleitoral de Flávio no Rio, como Canella e Bacellar, foram alvos da Operação Unha e Carne;
-- TH Joias e Alessandro Pitombeira Carracena foram denunciados na Operação Zargun; Flávio negou ter indicado Carracena;
-- Flávio é investigado no STF no caso Dark Horse por lavagem, evasão de divisas e corrupção; a Operação Make Up apura o desvio de emendas de Mário Frias para o mesmo filme.
 
 ## Ver também
 

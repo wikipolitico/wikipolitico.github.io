@@ -14,9 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      # a lista consolidada e o .lycheeignore são gerados a partir dos avisos
-      # das páginas; se alguém editar um aviso sem regerar, o gate acusa aqui
-      - name: Conferir a lista de links fora do ar
+      # o .lycheeignore é gerado a partir dos avisos de fora do ar nas páginas;
+      # se alguém editar um aviso sem regerar, o gate acusa aqui
+      - name: Conferir o .lycheeignore dos links fora do ar
         run: python3 manutencao/gerar_links_fora_do_ar.py --conferir
 
       # perfis de rede que o lychee não alcança, cada um pelo método que

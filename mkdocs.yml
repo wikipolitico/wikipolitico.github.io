@@ -84,14 +84,31 @@ nav:
       - "Capitalismo": temas/capitalismo.md
       - "Comunismo e Socialismo": temas/comunismo-e-socialismo.md
       - "Corrupção": temas/corrupcao.md
+      - "Farsa do Mensalão do PT": temas/farsa-do-mensalao.md
+      - "Farsa da Lava Jato": temas/farsa-da-lava-jato.md
       - "Caso Banco Master": temas/banco-master.md
       - "Caso Lulinha": temas/caso-lulinha.md
+      - "Escândalo do INSS": temas/escandalo-do-inss.md
       - "Fila do INSS": temas/fila-do-inss.md
       - "STF":
           - "Visão geral": temas/stf.md
-          - "André Mendonça": temas/stf/andre-mendonca.md
-          - "Kassio Nunes Marques": temas/stf/kassio-nunes-marques.md
           - "Gilmar Mendes": temas/stf/gilmar-mendes.md
+          - "Cármen Lúcia": temas/stf/carmen-lucia.md
+          - "Dias Toffoli": temas/stf/dias-toffoli.md
+          - "Luiz Fux": temas/stf/luiz-fux.md
+          - "Edson Fachin": temas/stf/edson-fachin.md
+          - "Alexandre de Moraes": temas/stf/alexandre-de-moraes.md
+          - "Kassio Nunes Marques": temas/stf/kassio-nunes-marques.md
+          - "André Mendonça": temas/stf/andre-mendonca.md
+          - "Cristiano Zanin": temas/stf/cristiano-zanin.md
+          - "Flávio Dino": temas/stf/flavio-dino.md
+          - "Ex-ministros":
+              - "Celso de Mello": temas/stf/celso-de-mello.md
+              - "Joaquim Barbosa": temas/stf/joaquim-barbosa.md
+              - "Ricardo Lewandowski": temas/stf/ricardo-lewandowski.md
+              - "Rosa Weber": temas/stf/rosa-weber.md
+              - "Teori Zavascki": temas/stf/teori-zavascki.md
+              - "Luís Roberto Barroso": temas/stf/luis-roberto-barroso.md
       - "Ditadura Militar de 64": temas/ditadura-militar-de-64.md
       - "Internacional / Geopolítica": temas/internacional-geopolitica.md
       - "Hondurasgate": temas/hondurasgate.md

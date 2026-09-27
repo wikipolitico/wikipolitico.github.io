@@ -52,6 +52,9 @@ Outras mortes relacionadas:
 - [ANTES DE MORRER , TEORI ZAVASCKI DA UM RECADO PARA SÉRGIO MORO](https://www.facebook.com/emersonbhmg/videos/1598025293650795/)
 - [Internet aposta em teoria da conspiração na morte de Teori Zavascki](https://canaltech.com.br/internet/internet-aposta-em-teoria-da-conspiracao-na-morte-de-teori-zavascki-87638/) · *fora do ar em 13/09/2026, 410* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://canaltech.com.br/internet/internet-aposta-em-teoria-da-conspiracao-na-morte-de-teori-zavascki-87638/)
 - [CABERÁ A TEMER NOMEAR NOVO MINISTRO QUE O "JULGARÁ", O QUE AINDA DARÁ A GILMAR MENDES MAIORIA NA CORTE!](https://www.facebook.com/monopolio.informacao/photos/a.220940641432782.1073741828.220775284782651/556972081162968/?type=3&theater)
+- [TEORI ZAVASCKI QUEM DERRUBOU O AVIÃO MAÇONARIA,PMDB,CIA OU PSDB ? - YouTube](https://www.youtube.com/watch?v=38QQ1AZ-wZc&feature=push-u-sub&attr_tag=41blP5qEPhs-6) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=38QQ1AZ-wZc&feature=push-u-sub&attr_tag=41blP5qEPhs-6)
+- [URGENTE: PF apura que avião em que ministro Teori Zavascki embarcou era seguido há 16 dias](https://clicparana.com/noticia/449/urgente-pf-apura-que-aviao-em-que-ministro-teori-zavascki-embarcou-era-seguido-ha-16-dias)
+- [O filho do Teori diz que pai e a familia receberam ameaças. - "Acidente? Pra mim, mataramTeori Zavascki. Nao acredito em coincidência. Agora que ele ia assinar inumeras delacoes premiadas morre em um acidente de aviao? So tenho uma certeza: temos uma organizacao criminosa no poder"](https://www.facebook.com/groups/mexeucomlulamexeucomigo/permalink/783963395087190/)
 
 Outras mortes relacionadas:
 

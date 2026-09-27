@@ -40,9 +40,46 @@
 - **O ex-cunhado como ponte:** segundo o [Estadão](https://www.estadao.com.br/politica/blog-do-fausto-macedo/vorcaro-contratou-ex-cunhado-de-gilmar-mendes-que-atuou-por-reuniao-do-master-com-ministro/), o ex-senador Chiquinho Feitosa (Republicanos-CE), então cunhado de Gilmar, tinha contrato de consultoria com a Super Empreendimentos, do ecossistema do Master — de R$ 500 mil mensais, segundo a Folha — e, em mensagens apreendidas pela PF, apresentou-se a Vorcaro como ponte para o ministro, dizendo que a aproximação era "importante para o futuro" ([O Globo, 17/09/2026](https://oglobo.globo.com/blogs/malu-gaspar/post/2026/09/cupula-do-master-tratava-advogada-que-recebeu-r-33-milhoes-de-vorcaro-como-socia-de-gilmar.ghtml)). Gilmar afirmou que "não teve conhecimento de qualquer tratativa" e que "não responde por relações privadas ou profissionais de ex-parente". *A cobertura deste ponto é toda da grande mídia; o documento primário são as mensagens do celular de Vorcaro apreendido pela PF.*
 - **19/09/2026 — a "sócia do GM stf":** mensagens da cúpula do Master, do celular de Vorcaro apreendido pela PF, tratam a advogada Dalide Corrêa como "sócia do GM stf" e "canal direto com o STF". Ela recebeu R$ 33 milhões do banco e atuava em precatórios, e os executivos pressionavam Vorcaro por pagamentos a ela, como uma fatura de R$ 15 milhões. Dalide foi diretora-geral do IDP por cerca de nove anos, até 2016. Gilmar e a advogada negam qualquer sociedade; o gabinete diz que ela ocupou "cargo técnico" e que o ministro não tem conhecimento de atuação dela em precatórios ([O Globo, 19/09/2026](https://oglobo.globo.com/blogs/malu-gaspar/post/2026/09/cupula-do-master-tratava-advogada-que-recebeu-r-33-milhoes-de-vorcaro-como-socia-de-gilmar.ghtml), que teve acesso aos diálogos; [Diário do Centro do Mundo, 19/09/2026](https://www.diariodocentrodomundo.com.br/mensagens-master-advogada-socia-gilmar-mendes/)).
 
+## Acervo antigo
+
+Links da wiki antiga, de 2009 a 2016, mantidos como registro.
+
+- [Gilmar Mendes confessa que lei para Lula é diferente](https://www.facebook.com/DebatesPolitico/videos/249316882112858/)
+- [Gilmar Mendes ganha contrato de R$ 280 mil sem licitação de prefeito de Paulínia](http://www.ocafezinho.com/2016/04/30/gilmar-mendes-ganha-contrato-de-r-280-mil-sem-licitacao-de-prefeito-de-paulinia/#sthash.WORZkPXR.dpbs)
+- [Carta Capital traz uma assustadora história da família de Gilmar Mendes; terra do ministro não tem Justiça](http://cartacampinas.com.br/2014/02/carta-capital-traz-uma-assustadora-historia-da-familia-de-gilmar-mendes-terra-do-ministro-nao-tem-justica/)
+- [Gilmar Mendes almoçando com o José Serra](https://www.facebook.com/VerdadeSemManipulacao/posts/468520376606114:0)
+- [Gilmar Mendes o homem maIs querido pelo PSDB](https://www.facebook.com/alutaonline/videos/573939136118501/)
+- [Gilmar Mendes recebeu propina do mensalão tucano – Rubem Gama](https://rubemgama.wordpress.com/2016/08/11/gilmar-mendes-recebeu-propina-do-mensalao-tucano/)
+- [Diário do Centro do Mundo O PSTF -- Partido do Supremo Tribunal Federal](http://www.diariodocentrodomundo.com.br/o-pstf-partido-do-supremo-tribunal-federal/)
+- [Desembargador dando aula de ética e moral para juízes e Ministros do STF - YouTube](https://www.youtube.com/watch?v=n8meZKrlE-U&feature=push-u-sub&attr_tag=_IpEmGHdE1U-6) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=n8meZKrlE-U&feature=push-u-sub&attr_tag=_IpEmGHdE1U-6)
+
+### Corrupção
+
+- [Revista mostra registros de pagamento a Gilmar Mendes pelo mensalão do PSDB - 27/07/2012](http://m.jb.com.br/informe-jb/noticias/2012/07/27/revista-mostra-registros-de-pagamento-a-gilmar-mendes-pelo-mensalao-do-psdb/)
+- [PF intercepta ligação de Gilmar Mendes para investigado no STF - Conversa foi gravada no dia em que o governador Silval Barbosa foi preso em flagrante; Ministro da Justiça também foi flagrado - 06/02/2015](http://epoca.globo.com/tempo/noticia/2015/02/pf-intercepta-ligacao-de-bgilmar-mendes-para-investigadob-no-stf.html)
+- [Juiz? Não, réu - 01/08/2012](http://www.cartacapital.com.br/politica/juiz-nao-reu-2)
+- [Instituto de Gilmar Mendes recebe milhões de Goiás - 09/2015](http://portalmetropole.com/2015/09/instituto-de-gilmar-mendes-recebe-milhoes-de-goias.html) · *fora do ar em 27/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://portalmetropole.com/2015/09/instituto-de-gilmar-mendes-recebe-milhoes-de-goias.html)
+- [Valerioduto: documentos inéditos revelam que FHC e Gilmar Mendes receberam de esquema - Documentos revelam participação de FHC, Gilmar Mendes e da editora Abril, responsável pela revista Veja, no ‘valerioduto tucano’. O ex-presidente recebeu, junto com o filho, R$ 573 mil do esquema - 27/07/2012](http://www.pragmatismopolitico.com.br/2012/07/valerioduto-fhc-gilmar-mendes-receberam-propina.html)
+- [Documentos revelam participação de FHC, Gilmar Mendes e Veja no Valerioduto tucano - 27/07/2012](http://limpinhoecheiroso.com/2012/07/27/documentos-revelam-participacao-de-fhc-gilmar-mendes-e-veja-no-valerioduto-tucano/) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://limpinhoecheiroso.com/2012/07/27/documentos-revelam-participacao-de-fhc-gilmar-mendes-e-veja-no-valerioduto-tucano/)
+- [CNJ vai investigar contrato milionário do TJ-BA - 05/02/2014](http://m.jb.com.br/pais/noticias/2014/02/05/cnj-vai-investigar-contrato-milionario-do-tj-ba/)
+- [Farra das passagens chega a Gilmar Mendes - 16/04/2009](http://m.congressoemfoco.uol.com.br/noticias/farra-das-passagens-chega-a-gilmar-mendes/)
+- [Botando Pilha vai pra cima de Gilmar Mendes: "LAVE BEM A TUA BOCA ANTES DE FALAR DA MILITÂNCIA DO PT e Saia às ruas para explicar os TEUS atos de Corrupção !" - 18/09/2015](https://www.facebook.com/botandoapilha/videos/907790032626001/)
+- [Novas escutas da PF apontam amizade entre Gilmar Mendes, Demóstenes e Cachoeira - Informação da Polícia Federal reforça suspeitas de ligações entre o ministro do STF, autor da polêmica envolvendo Lula e o caso do mensalão, o senador Demóstenes e o bicheiro Carlos Cachoeira - 29/05/2012](http://www.pragmatismopolitico.com.br/2012/05/novas-escutas-da-pf-apontam-amizade-entre-gilmar-mendes-demostenes-e-cachoeira.html)
+- [Balcão de negócios](https://www.facebook.com/PedalaDireita/videos/784436435001093/)
+
+### Habeas corpus e solturas
+
+- [Decisão de Gilmar Mendes é responsável por tragédia dos índios - O então presidente do STF, Gilmar Mendes, deferiu liminar, em dezembro de 2009, suspendendo decreto presidencial que declarava a área de posse dos indígenas, que tentam retomar parte de seu território e vivem sob ameaça de fazendeiros da região. - 26/10/2012](http://www.vermelho.org.br/noticia/197445-1)
+- [Gilmar Mendes dá liminar para soltar maior ficha suja do País](http://politica.estadao.com.br/blogs/fausto-macedo/gilmar-mendes-da-liminar-para-soltar-maior-ficha-suja-do-pais/)
+- [Magistrado pró elite/PSDB,.representante do velho Brasil, oligarca ! - 30/11/2014](https://www.facebook.com/1437086523228120/photos/a.1442629509340488.1073741895.1437086523228120/1503180489952056/?type=3)
+- [Gilmar Mendes suspende investigação do Trensalão tucano](http://www.plantaobrasil.com.br/news.asp?nID=84253) · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.plantaobrasil.com.br/news.asp?nID=84253)
+- [Gilmar Mendes arquivou investigação contra Eduardo Cunha em 2014 - 22/10/2015](http://cutrs.org.br/jornal-ggn-gilmar-mendes-arquivou-investigacao-contra-eduardo-cunha-em-2014/)
+- [Gilmar Mendes confessa que lei para Lula é diferente (versão no YouTube)](https://www.youtube.com/watch?v=xMPouMPIF38&index=73&list=PLksOePvy5FnRcX3MV1HzE7nd-pM28Rwkt) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=xMPouMPIF38&index=73&list=PLksOePvy5FnRcX3MV1HzE7nd-pM28Rwkt)
+
 ## Ver também
 
 - [STF](../stf.md)
 - [André Mendonça](andre-mendonca.md): relator do caso Master e adversário de Gilmar no bate-boca de 15/09
 - [Kassio Nunes Marques](kassio-nunes-marques.md): presidente do TSE, também citado nas mensagens de Vorcaro
+- [Alexandre de Moraes](alexandre-de-moraes.md): relator da trama golpista e alvo da direita no caso Master
 - [Caso Banco Master](../banco-master.md)
