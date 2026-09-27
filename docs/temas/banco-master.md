@@ -36,7 +36,7 @@ São duas investigações no STF sobre a cinebiografia de Jair Bolsonaro. Flávi
 ## Vorcaro e o PCC
 
 - [PF diz que aliados de Vorcaro acionaram o PCC para protegê-lo na prisão – Band, 14/09/2026](https://www.band.com.br/nacional/brasil/policia-federal-aponta-que-pcc-apoiou-daniel-vorcaro-na-prisao-entenda): a "Turma" pediu apoio a presos do PCC em Guarulhos.
-- [Reportagem em vídeo – Jornal da Band, 14/09/2026](https://youtu.be/WJjgz-cihQ0): traz o áudio de Manolo Dom sobre o medo de Vorcaro na prisão e o texto enviado aos presos do PCC.
+- [Reportagem em vídeo – Jornal da Band, 14/09/2026](https://youtu.be/WJjgz-cihQ0): quem pediu proteção ao PCC foi o grupo de Vorcaro, o banqueiro que pôs dinheiro no filme sobre Bolsonaro: o áudio de Manolo Dom e o texto mandado aos presos da facção.
 - [Grupo ligado a Vorcaro teria pedido apoio do PCC – Jornal GGN, 14/09/2026](https://jornalggn.com.br/justica-2/grupo-ligado-a-vorcaro-teria-pedido-apoio-do-pcc-para-proteger-empresario-na-prisao/): segundo a PF, Manolo transferiu R$ 10 mil ao advogado da intermediação.
 
 ## Morte do "Sicário"
@@ -60,7 +60,7 @@ Roberto Campos Neto, indicado por Bolsonaro, presidiu o Banco Central de feverei
 - [Galípolo: afastamento de servidores ligados ao Master é gravíssimo – CNN, 19/05/2026](https://www.cnnbrasil.com.br/economia/macroeconomia/galipolo-afastamento-de-servidores-ligados-ao-master-e-gravissimo/): os indícios contra Souza e o servidor Belline Santana saíram de uma apuração interna do BC de Galípolo. Segundo a PF, os dois revisavam documentos do Master antes de chegarem ao BC e estavam num grupo de WhatsApp com Vorcaro.
 - [Lindbergh aciona PF e PGR contra Campos Neto – ICL Notícias, 24/03/2026](https://iclnoticias.com.br/economia/caso-master-campos-neto-lindbergh/): o pedido cita um ofício da PF ao BC em julho de 2024 e alertas do FGC e da Febraban sobre os CDBs de risco do Master. Mesmo assim, o BC concluiu que não era preciso abrir procedimento.
 - [PF investiga possível omissão de Campos Neto no caso Master – Brasil 247, 24/03/2026](https://www.brasil247.com/economia/pf-investiga-possivel-omissao-de-campos-neto-no-caso-master): segundo o Metrópoles, a PF quer saber se ele foi enganado por servidores do BC ou se sabia das inconsistências e autorizou as operações mesmo assim.
-- [Galípolo confirma intimação da PF e depõe em outubro sobre caso Master – Brasil 247, 24/09/2026](https://www.brasil247.com/economia/galipolo-confirma-intimacao-da-pf-e-depoe-em-outubro-sobre-caso-master/): Campos Neto também terá de depor, como testemunha, no inquérito sobre a consultoria informal de ex-servidores do BC a Vorcaro.
+- [Galípolo confirma intimação da PF e depõe em outubro sobre caso Master – Brasil 247, 24/09/2026](https://www.brasil247.com/economia/galipolo-confirma-intimacao-da-pf-e-depoe-em-outubro-sobre-caso-master/): Campos Neto, cujo BC aprovou Vorcaro como banqueiro, também terá de depor à PF, como testemunha, no inquérito sobre a consultoria informal de ex-servidores do BC a Vorcaro.
 - [Edinho rebate Galípolo por defender Campos Neto no caso Master – Poder360, 13/04/2026](https://www.poder360.com.br/poder-partidos-politicos/edinho-rebate-galipolo-por-defender-campos-neto-no-caso-master/): Galípolo disse à CPI do Crime Organizado que nenhuma auditoria achou culpa de Campos Neto. O presidente do PT respondeu que "não há como você isentar" e que "a responsabilidade é de Campos Neto".
 
 ## Banco Central e o rombo
@@ -94,7 +94,7 @@ Wagner é investigado, não é réu, e não há denúncia contra ele. Os links a
 - [PF desmarca depoimento de Jaques Wagner após pedido da defesa – ND Mais, 07/08/2026](https://ndmais.com.br/politica/pf-desmarca-depoimento-de-jaques-wagner-apos-pedido-da-defesa/): o depoimento foi adiado porque a defesa ainda não tinha acesso ao conteúdo da investigação.
 - [Apuração da PF acusa Jaques Wagner de receber vantagens; senador nega – Agência Brasil, 18/06/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/apuracao-da-pf-acusa-jaques-wagner-de-receber-vantagens-senador-nega): "Não sou réu; não sou culpado". Ele diz que o apartamento "jamais integrou" seu patrimônio.
 - [PF: Mendonça levou 75 dias para decidir sobre Castro e 9 sobre Wagner – CNN, 03/09/2026](https://www.cnnbrasil.com.br/politica/mendonca-demora-9-dias-para-despachar-sobre-wagner-e-75-sobre-castro/): relatório de inteligência da PF aponta rapidez contra o petista e demora com o bolsonarista, embora com "confiança baixa".
-- [Mendonça tira sigilos sobre Dark Horse, Ciro, Wagner e Cláudio Castro – Migalhas, 11/09/2026](https://www.migalhas.com.br/quentes/464395/mendonca-retira-sigilo-de-casos-dark-horse-ciro-wagner-e-claudio-castro): o caso de Wagner veio a público junto com os de Flávio Bolsonaro, Ciro Nogueira e Cláudio Castro.
+- [Mendonça tira sigilos sobre Dark Horse, Ciro, Wagner e Cláudio Castro – Migalhas, 11/09/2026](https://www.migalhas.com.br/quentes/464395/mendonca-retira-sigilo-de-casos-dark-horse-ciro-wagner-e-claudio-castro): a direita usa o caso de Wagner, mas no mesmo pacote vieram a público os de três dos seus: Flávio Bolsonaro e Cláudio Castro, do PL, e Ciro Nogueira, do PP.
 
 ## Kassio Nunes Marques
 
@@ -104,10 +104,10 @@ O presidente do TSE e primeiro indicado de Bolsonaro ao STF aparece no caso pelo
 
 ## Visão geral
 
-- [Veja a lista atualizada de quem se envolveu com Vorcaro – Gazeta do Povo](https://www.gazetadopovo.com.br/ideias/moraes-gonet-veja-lista-atualizada-quem-envolveu-vorcaro/): reúne cerca de 50 citados no caso, de vários partidos e do STF.
+- [Veja a lista atualizada de quem se envolveu com Vorcaro – Gazeta do Povo](https://www.gazetadopovo.com.br/ideias/moraes-gonet-veja-lista-atualizada-quem-envolveu-vorcaro/): cerca de 50 citados, de vários partidos e do STF, contra a mentira de que o Master é "do PT".
 
 ## Crise no STF
 
-- [Linha do tempo da crise na página de André Mendonça](stf/andre-mendonca.md#crise-de-setembro-de-2026): o encontro de Mendonça com Vorcaro, o afastamento do diretor da PF e a disputa com Moraes.
+- [Linha do tempo da crise na página de André Mendonça](stf/andre-mendonca.md#crise-de-setembro-de-2026): o encontro de Mendonça com Vorcaro, o afastamento do diretor da PF a pedido do Novo e a pressa de Mendonça contra Moraes.
 - [Mendonça mantém em sigilo mais de 30 quebras de sigilo do Master – Bahia Notícias, 14/09/2026](https://www.bahianoticias.com.br/justica/noticia/75380-mendonca-mantem-sob-sigilo-mais-de-30-quebras-bancarias-ligadas-ao-caso-master): dados bancários e fiscais de empresas de Vorcaro e do cunhado dele, Fabiano Zettel, mais completos que o relatório do Coaf que Moraes pediu para ver.
-- [Mensagens de Vorcaro citam filhos de Fux e Nunes Marques – Jornal da Band, 15/09/2026](https://youtu.be/l_dxajbV72Q): reportagem em vídeo sobre os diálogos vazados horas antes da sessão do STF.
+- [Mensagens de Vorcaro citam filhos de Fux e Nunes Marques – Jornal da Band, 15/09/2026](https://youtu.be/l_dxajbV72Q): o caso não chega só a Moraes: as mensagens de Vorcaro vazadas antes da sessão do STF citam os filhos de Fux e de Kassio Nunes Marques.

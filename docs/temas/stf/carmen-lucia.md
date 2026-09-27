@@ -36,7 +36,7 @@
 
 ## Crise do caso Banco Master
 
-- **15/09/2026:** na sessão sobre os casos de Moraes e de Mendonça, votou com Fachin e pediu desculpas "ao povo brasileiro" pela crise no tribunal ([A Tarde, 15/09/2026](https://atarde.com.br/politica/carmen-lucia-pede-desculpas-ao-povo-brasileiro-durante-sessao-sobre-caso-moraes-1402219)). Também disse: "O Poder Judiciário existe para tranquilizar o povo, e nós geramos intranquilidade" ([O Tempo, 15/09/2026](https://www.otempo.com.br/politica/judiciario/2026/9/15/ministra-carmen-lucia-acompanha-fachin-e-pede-desculpas-por-crise-no-stf-geramos-intranquilidade)). A linha do tempo da crise está na página de [André Mendonça](andre-mendonca.md#crise-de-setembro-de-2026).
+- **15/09/2026:** na sessão sobre os casos de Moraes e de Mendonça, votou com Fachin e pediu desculpas "ao povo brasileiro" pela crise no tribunal ([A Tarde, 15/09/2026](https://atarde.com.br/politica/carmen-lucia-pede-desculpas-ao-povo-brasileiro-durante-sessao-sobre-caso-moraes-1402219)). Também disse: "O Poder Judiciário existe para tranquilizar o povo, e nós geramos intranquilidade" ([O Tempo, 15/09/2026](https://www.otempo.com.br/politica/judiciario/2026/9/15/ministra-carmen-lucia-acompanha-fachin-e-pede-desculpas-por-crise-no-stf-geramos-intranquilidade)). A linha do tempo da crise está na página de [André Mendonça](andre-mendonca.md#crise-de-setembro-de-2026). Também disse: "O Poder Judiciário existe para tranquilizar o povo, e nós geramos intranquilidade" ([O Tempo, 15/09/2026](https://www.otempo.com.br/politica/judiciario/2026/9/15/ministra-carmen-lucia-acompanha-fachin-e-pede-desculpas-por-crise-no-stf-geramos-intranquilidade)).
 
 ## Ver também
 
