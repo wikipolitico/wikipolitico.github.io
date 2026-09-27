@@ -1,6 +1,6 @@
 site_name: Wiki Político
 site_url: https://wikipolitico.github.io/
-site_description: Acervo colaborativo sobre política nacional e internacional.
+site_description: "Não é opinião. É o documento. Fatos com fonte contra as narrativas fabricadas pela grande mídia."
 repo_url: https://github.com/wikipolitico/wikipolitico.github.io
 repo_name: wikipolitico/wikipolitico.github.io
 edit_uri: edit/main/docs/
@@ -109,6 +109,7 @@ nav:
               - "Rosa Weber": temas/stf/rosa-weber.md
               - "Teori Zavascki": temas/stf/teori-zavascki.md
               - "Luís Roberto Barroso": temas/stf/luis-roberto-barroso.md
+      - "8 de janeiro": temas/8-de-janeiro.md
       - "Ditadura Militar de 64": temas/ditadura-militar-de-64.md
       - "Internacional / Geopolítica": temas/internacional-geopolitica.md
       - "Hondurasgate": temas/hondurasgate.md

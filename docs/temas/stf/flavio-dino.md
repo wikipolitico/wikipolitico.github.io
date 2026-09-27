@@ -56,3 +56,4 @@ As decisões abaixo estão na linha do tempo do [Congresso em Foco, 09/03/2026](
 - [Luiz Fux](luiz-fux.md): citado nas mensagens de Vorcaro que Dino cobrou em plenário
 - [Caso Banco Master](../banco-master.md)
 - [Flávio Bolsonaro](../flavio-bolsonaro.md): um dos parlamentares que espalharam a fake news da Maré
+- [8 de janeiro](../8-de-janeiro.md): a ordem de Dino para comandar a PM do DF e a noite em que o Exército barrou as prisões

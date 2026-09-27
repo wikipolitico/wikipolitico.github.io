@@ -47,3 +47,4 @@ Link da wiki antiga, mantido como registro.
 - [Edson Fachin](edson-fachin.md): o único voto a favor da candidatura de Lula no TSE em 2018
 - [Cármen Lúcia](carmen-lucia.md): deu o voto de desempate contra o habeas corpus de Lula em 2018
 - [Dias Toffoli](dias-toffoli.md): deu o voto de desempate contra a prisão em segunda instância em 2019
+- [8 de janeiro](../8-de-janeiro.md): o ataque que ela chamou de "dia da infâmia"

@@ -16,7 +16,8 @@ Na reta final do primeiro turno, em 04/10/2026:
 
 No debate, mande o link da página, não um print: quem recebe pode conferir a fonte.
 
-- **"Lula é ex-presidiário."** Veja a [Farsa da Lava Jato](temas/farsa-da-lava-jato.md): o STF anulou as condenações e declarou Moro parcial, e a ONU concluiu que Lula não teve julgamento imparcial.
+- **"Lula é ex-presidiário."** Veja a [Farsa da Lava Jato](temas/farsa-da-lava-jato.md): quem condenou Lula e como, por que o STF anulou as condenações e declarou Moro parcial, e a ONU concluiu que Lula não teve julgamento imparcial. Nenhuma condenação sobreviveu.
+- **"Lula armou o 8 de janeiro."** Veja o [8 de janeiro](temas/8-de-janeiro.md): na mesma noite, Lula mandou prender todos, o comandante do Exército barrou a PM com tropas e blindados, e Bolsonaro acabou condenado pela trama golpista.
 - **"E o mensalão?"** Veja a [Farsa do Mensalão do PT](temas/farsa-do-mensalao.md): a acusação nasceu de Roberto Jefferson, o STF absolveu os réus de quadrilha em 2014, e o esquema de Marcos Valério começou antes, no mensalão tucano.
 - **"O PT roubou os aposentados."** Veja o [Escândalo do INSS](temas/escandalo-do-inss.md): os descontos investigados começam em 2019, a lei que acabou com a revalidação foi assinada por Bolsonaro, e foi a CGU do governo Lula que descobriu a fraude. Até fevereiro de 2026, 4,2 milhões de aposentados tinham sido ressarcidos.
 - **"E o Lulinha?"** Veja o [Caso Lulinha](temas/caso-lulinha.md): o que a investigação tem e as fragilidades da acusação.
@@ -41,12 +42,13 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 ### Lawfare e perseguição a Lula
 
-- [Farsa da Lava Jato](temas/farsa-da-lava-jato.md): o grampo ilegal, o PowerPoint, Moro no governo Bolsonaro e as condenações anuladas
+- [Farsa da Lava Jato](temas/farsa-da-lava-jato.md): o grampo ilegal, o PowerPoint, os juízes que condenaram Lula, Moro no governo Bolsonaro e as condenações anuladas
 - [Farsa do Mensalão do PT](temas/farsa-do-mensalao.md): a acusação de Jefferson, o "domínio do fato", a absolvição de quadrilha e o mensalão tucano
 - [Caso Lulinha](temas/caso-lulinha.md): o que a investigação tem e as fragilidades da acusação
 
 ### Acervo principal
 
+- [8 de janeiro](temas/8-de-janeiro.md): o acampamento que o Exército protegeu, as prisões que Lula mandou fazer e o Exército barrou, e a mentira de que Lula armou o ataque
 - [Corrupção](temas/corrupcao.md): Privataria tucana, Banestado, HSBC, Zelotes, Furnas e outros escândalos
 - [Partidos Políticos](temas/partidos-politicos.md): PT e PSDB comparados, BNDES, Bolsa Família e desempenho econômico
 - [Outras Personalidades (Brasil)](temas/outras-personalidades-brasil.md): Bolsonaro, Garotinho e outros nomes, com processos e declarações

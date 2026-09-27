@@ -69,3 +69,4 @@ Moraes nunca foi relator dos processos do Master. A relatoria foi de Dias Toffol
 - [Cármen Lúcia](carmen-lucia.md): o voto dela formou a maioria que condenou Bolsonaro
 - [Caso Banco Master](../banco-master.md)
 - [Flávio Bolsonaro](../flavio-bolsonaro.md)
+- [8 de janeiro](../8-de-janeiro.md): afastou Ibaneis e mandou prender Anderson Torres e os acampados no QG

@@ -1,6 +1,15 @@
 # Wiki Político
 
-Acervo colaborativo sobre política nacional e internacional, publicado em https://wikipolitico.github.io.
+**Não é opinião. É o documento.**
+
+Acervo para enfrentar, com fatos, as narrativas fabricadas pela grande mídia corporativa e pelas redes de desinformação. Cada afirmação vem com a fonte ao lado, de preferência a fonte primária. Publicado em https://wikipolitico.github.io.
+
+## Como contribuir
+
+- No fim de cada página do site há o botão "Sugerir link ou apontar erro", que abre uma sugestão aqui no GitHub.
+- Mande o link, a página do site onde ele entra e o que ele desmente ou prova. Se houver documento primário (decisão judicial, dado oficial, documento público), mande também.
+- Não servem: print sem fonte, boato, post de rede social sem origem e opinião sem fato.
+- Toda sugestão é verificada e revisada antes de entrar, e pode ser publicada com outra redação.
 
 ## Como editar
 
