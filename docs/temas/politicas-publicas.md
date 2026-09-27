@@ -63,6 +63,17 @@ Em 25/09/2026, Lula assinou a Medida Provisória 1.394/2026, que proíbe as apos
 
 - [Contra reforma política, Globo fomenta corrupção](http://www.brasil247.com/pt/247/midiatech/175788/Contra-reforma-pol%C3%ADtica-Globo-fomenta-corrup%C3%A7%C3%A3o.htm) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/midiatech/175788/Contra-reforma-pol%C3%ADtica-Globo-fomenta-corrup%C3%A7%C3%A3o.htm)
 
+## Penas mais duras no governo Lula
+
+Quem diz que "Lula defende bandido" esconde as leis que ele sancionou para aumentar penas e endurecer o cumprimento delas.
+
+- **12/01/2024 — crimes contra crianças:** Lula sancionou a lei que criou o crime de bullying e tornou hediondos o sequestro de menor de 18 anos, o tráfico de crianças e adolescentes e o induzimento ao suicídio ou à automutilação pela internet ([Lei 14.811/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14811.htm)).
+- **11/04/2024 — saidinha e exame criminológico:** Lula sancionou a lei que restringiu a saída temporária de presos, passou a exigir exame criminológico para a progressão de regime e previu tornozeleira para os presos ([Lei 14.843/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14843.htm)). Vetou só o fim da saída para visitar a família, e o Congresso derrubou o veto. O próprio autor do projeto original, Pedro Paulo (PSD-RJ), achou o texto final "rigoroso demais": dos 34 mil presos que saíram no Natal de 2023 em São Paulo, só 81 cometeram crimes ([Agência Câmara, 28/05/2024](https://www.camara.leg.br/noticias/1067009-congresso-rejeita-veto-de-lula-e-proibe-saidinhas-de-presos-do-regime-semiaberto-para-visitar-suas-familias)).
+- **09/10/2024 — feminicídio:** Lula sancionou a lei que fez do feminicídio um crime autônomo, com pena de 20 a 40 anos. O condenado só progride de regime depois de cumprir 55% da pena, sem liberdade condicional ([Lei 14.994/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14994.htm)).
+- **05/12/2025 — crimes sexuais contra vulneráveis:** Lula sancionou a lei que aumentou a pena do estupro de vulnerável para 10 a 18 anos e previu tornozeleira para os condenados ([Lei 15.280/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15280.htm)).
+- **08/01/2026 — veto ao perdão dos golpistas:** Lula vetou inteiro o projeto da dosimetria, que reduzia as penas dos condenados pelo 8 de janeiro e pela trama golpista. Nas redes, disse que o projeto beneficiaria quem atacou a democracia e que, em nome do futuro, não se tem o direito de esquecer o passado ([Al Jazeera, 09/01/2026](https://www.aljazeera.com/news/2026/1/9/brazils-president-lula-vetoes-bill-to-trim-bolsonaro-prison-sentence)). Em 30/04/2026, o Congresso derrubou o veto, por 318 a 144 na Câmara e 49 a 24 no Senado ([Migalhas, 30/04/2026](https://www.migalhas.com.br/quentes/455046/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria)).
+- **24/03/2026 — a Lei Antifacção:** Lula sancionou a Lei Raul Jungmann, que nasceu de um projeto enviado pelo próprio governo em novembro de 2025. Ela pune os líderes de facções com 20 a 40 anos de prisão e cria mecanismos para asfixiar as finanças do crime organizado ([Senado Notícias, 25/03/2026](https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor)).
+
 ## Redução da maioridade penal
 
 - [Vídeo-poema - Fabio Brazza](https://www.facebook.com/video.php?v=860486167323766)

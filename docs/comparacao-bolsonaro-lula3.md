@@ -4,7 +4,7 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 
 **Legenda:** ✅ melhor no Lula 3 · ⚠️ pior no Lula 3 · ➖ parecido ou misto
 
-**Resumo:** ✅ 38 melhores · ⚠️ 7 piores · ➖ 5 parecidos ou mistos, em 50 indicadores.
+**Resumo:** ✅ 39 melhores · ⚠️ 7 piores · ➖ 5 parecidos ou mistos, em 51 indicadores.
 
 ## Economia
 
@@ -14,6 +14,7 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | ✅ Inflação (IPCA, média ao ano) | 6,2% (2019–2022) | 4,6% (2023–2025) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json&dataInicial=01/12/2019&dataFinal=31/12/2025) |
 | ➖ Dólar | subiu 34,7% (de 3,87 para 5,22 reais) | subiu 5,5% (de 5,22 para 5,50 reais) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=28/12/2018&dataFinal=31/12/2025) |
 | ✅ Reservas internacionais | 324,7 bilhões de dólares (dez/2022) | 358,2 bilhões de dólares (dez/2025) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.13621/dados?formato=json&dataInicial=01/12/2022&dataFinal=31/12/2025) |
+| ✅ Nota de crédito do país (S&P, Fitch e Moody's) | nenhuma elevação: BB-, BB- e Ba2 do início ao fim, com a Fitch em perspectiva negativa de maio de 2020 a julho de 2022 | as três agências elevaram a nota, para BB, BB e Ba1; na Moody's, o Brasil ficou a um degrau do grau de investimento | [Tesouro Nacional](https://www.tesourotransparente.gov.br/consultas/historico-da-classificacao-de-risco-da-divida) |
 
 ## Trabalho e renda
 

@@ -78,49 +78,7 @@
 
 ## Venezuela
 
-- [Deputado Ivan Valente fala sobre a Venezuela e discute com opositor - YouTube](https://www.youtube.com/watch?v=M7ENHQiJc1g)
-- [ONU: Em 10 anos Venezuela reduziu pobreza em 50%](http://www.diarioliberdade.org/america-latina/repressom-e-direitos-humanos/18802-onu-em-10-anos-venezuela-reduziu-pobreza-em-50.html)
-- [Venezuela | Data](http://datos.bancomundial.org/pais/venezuela)
-- [George Galloway Oxford University Venezuela Legendado - YouTube](https://www.youtube.com/watch?v=OIqicTjQG3M) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=OIqicTjQG3M)
-- [O QUE ESTÁ ACONTECENDO NA VENEZUELA?](https://www.facebook.com/watch/?ref=saved&v=439266916534504)
-
-### Sistema Eleitoral
-
-- [Jimmy Carter sobre o melhor sistema eleitoral do mundo](https://www.youtube.com/watch?v=rI4z_N2L3nI)
-- [Opera Mundi - "Processo eleitoral na Venezuela é o melhor do mundo", diz Jimmy Carter](http://operamundi.uol.com.br/conteudo/noticias/24425/processo+eleitoral+na+venezuela+e+o+melhor+do+mundo+diz+jimmy+carter.shtml) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/noticias/24425/processo+eleitoral+na+venezuela+e+o+melhor+do+mundo+diz+jimmy+carter.shtml)
-
-### Hugo Chávez
-
-- [HUGO CHÁVEZ FOI ASSASSINADO assista este vídeo antes que os illuminatis... - YouTube](https://www.youtube.com/watch?v=suqvOnXBZdk&index=3&t=118s&list=PLw7bwcrlLw6Ih9rTTo27EaZMCpgow04bx)
-- [Identifican la Nanoarma con que asesinaron a Hugo Chávez - En el artículo «Firmas por espejitos» publicado por Aporrea el 26/05/2016, se menciona brevemente el: con qué, cómo, cuándo, por qué, para qué y quiénes asesinaron al ex presidente de Venezuela Hugo Rafael Chávez Frías. Las respuestas a estas preguntas fueron obtenidas de una Investigación Documental. A continuación se ampliará el con qué y quiénes.](https://www.facebook.com/permalink.php?story_fbid=766164176878199&id=223843157776973)
-- [Quando o Chávez destruiu o W. Bush](https://www.facebook.com/watch/?ref=saved&v=1465781970099553)
-- [Na Assembleia Geral, ONU homenageia Hugo Chávez e lembra seu compromisso com a justiça social](https://nacoesunidas.org/na-assembleia-geral-onu-homenageia-hugo-chavez-e-lembra-seu-compromisso-com-a-justica-social/)
-
-### Embargos Econômicos / Sabotagem
-
-- [Venezuela denuncia EUA por crimes de lesa-humanidade 📰 - YouTube](https://www.youtube.com/watch?v=e65WVZZKn2Q)
-- [Por que Donald Trump me sanciona? Com a palavra Nicolas Maduro](https://www.facebook.com/watch/?ref=saved&v=1630568893620859)
-- [Portal do Movimento Popular - Aqui você tem voz Venezuela descobre toneladas de alimentos escondidos por empresários para destabilizar governo](http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/) · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/)
-- [Empresas escondem toneladas de alimentos da população para boicotar o governo na Venezuela](http://www.diarioliberdade.org/america-latina/laboral-economia/53683-empresas-escondem-toneladas-de-alimentos-da-popula%C3%A7%C3%A3o-para-boicotar-o-governo-na-venezuela.html)
-- [Venezuela descobre toneladas de alimentos escondidos por empresários para destabilizar governo](https://www.facebook.com/SocialistaMorena/posts/830527017007803)
-- [Em seis anos de bloqueio, Venezuela foi alvo de 150 sanções e 11 tentativas de golpe - Estudos mostram impacto econômico dos embargos contra o país desde 2014; eleições deste ano acirram tensão com os EUA - 20/10/2020](https://www.brasildefato.com.br/2020/10/08/em-seis-anos-de-bloqueio-venezuela-foi-alvo-de-150-sancoes-e-11-tentativas-de-golpe)
-
-### Tentativa de invasão da Embaixada da Venezuela no Brasil
-
-- [Representante do Itamaraty está entre os invasores da embaixada da Venezuela e tenta legitimar agressão](https://www.brasil247.com/brasil/representante-do-itamaraty-esta-entre-os-invasores-da-embaixada-da-venezuela-e-tenta-legitimar-agressao#.XcwNmCrpatE.twitter)
-- [Eduardo Bolsonaro apoia invasão da embaixada da Venezuela em Brasília](https://www.facebook.com/guilhermeboulos/posts/1506017729548773)
-- [Líder da invasão à embaixada da Venezuela foi duas vezes ao Palácio do Planalto.](https://www.facebook.com/Conversa.Afiada.Oficial/posts/3339326916094146)
-
-### Operation Gedeon (Tentativa de invasão em 2020)
-
-- [A GUERRA É SÓ UM  NEGÓCIO - Foi confirmada a identidade de pelo menos dois mercenários oriundos dos Estados Unidos, capturados por pescadores no litoral da Venezuela, na tentativa de formação de núcleo armado de oposição: Luke Denman e Airon Barry, ambos veteranos das guerras contra o Iraque e Afeganistão, ex-integrantes das Forças de Operações Especiais. Segundo informações eles são "instrutores" de grupos de oposição nos países onde os EUA não são os "chefes". Ou seja, são "trabalhadores da guerra", operacionais para a formação de grupos armados. Estão por toda a parte e se movem menos por ideologia, mais por dinheiro. A guerra é um negócio.](https://www.facebook.com/elaine.tavares.520/posts/3061680617222918)
-- [05.04.20: Operation Gedeon | In Venezuela](https://in-venezuela.com/2020/05/05/05-04-20-operation-gedeon/)
-- [Maduro diz que guardas de Trump estariam entre detidos por invasão à Venezuela.](https://www.facebook.com/OfficialSputnikBrasil/posts/918281825261192)
-- [O exército venezuelano capturou oito mercenários armados com laços com o golpe de direita apoiado pelos EUA Juan Guaido. Os mercenários supostamente incluíram dois americanos que estavam tentando se infiltrar no país de barco da Colômbia como parte de um golpe de golpe que envolveria sequestro do presidente Nicolas Maduro.](https://www.facebook.com/Redfishstream/posts/954804368296728)
-- [Estados Unidos, Colômbia e Guaidó envolvidos em golpe na Venezuela 📰 - YouTube](https://www.youtube.com/watch?v=WStI6Bbjmi8)
-- [Venezuela apreende 3 lanchas da Marinha da Colômbia em seu território (FOTOS).](https://www.facebook.com/OfficialSputnikBrasil/posts/921978728224835)
-- [Mercenários presos](https://www.facebook.com/RunildoPinto/posts/10222153647574635)
-- [Venezuela intercepta mercenários norte-americanos que queriam capturar Maduro. É preciso defendê-la. - YouTube](https://www.youtube.com/watch?v=Hv723GtPsNw)
+Os links desta seção foram para o acervo da página [Maduro e a Venezuela](maduro-e-a-venezuela.md#acervo-antigo).
 
 ## EUA
 
