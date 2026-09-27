@@ -55,6 +55,17 @@ Moraes nunca foi relator dos processos do Master. A relatoria foi de Dias Toffol
 - **27/08/2026 — o relatório da PF:** 181 das 218 páginas do relatório sobre o celular de Vorcaro tratam de um contato salvo como "Alexandre de Moraes BRASILIA" ([A Pública, 09/2026](https://apublica.org/2026/09/analise-as-revelacoes-sobre-master-vorcaro-moraes-e-mendonca/)). O relatório "não conclui que Moraes tenha cometido crime ou atuado para beneficiar Vorcaro" ([Congresso em Foco, 01/09/2026](https://www.congressoemfoco.com.br/noticia/121853/relatorio-da-pf-indica-sequencia-de-contatos-entre-vorcaro-e-moraes)).
 - **03/09/2026:** Moraes enviou a Fachin um pedido de investigação contra Mendonça por supostas irregularidades na relatoria das operações Sem Desconto (INSS) e Compliance Zero (Master) ([Agência Brasil, 03/09/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-encaminha-fachin-pedido-de-investigacao-contra-mendonca)). Seis dias depois, perdeu a relatoria do inquérito das fake news ([ver acima](#inquerito-das-fake-news)).
 
+
+### Documentos do caso
+
+Não é opinião, é o documento: as íntegras publicadas pelo Poder360.
+
+- [Relatório da PF sobre o celular de Vorcaro, 218 páginas – Poder360](https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf): o documento que Mendonça levou ao Plenário contra Moraes. 181 páginas tratam dele, e mesmo assim, segundo o Congresso em Foco, o relatório "não conclui que Moraes tenha cometido crime ou atuado para beneficiar Vorcaro".
+- [Despacho de Mendonça que derrubou o sigilo – Poder360, 01/09/2026](https://static.poder360.com.br/uploads/2026/09/pet16662-despacho-mendonca-derruba-sigilo-e-leva-caso-plenario-sigiloderrubado-1set2026.pdf): Mendonça abriu o relatório sobre Moraes, mas manteve fechadas as mais de 30 quebras de sigilo do caso Master ([Bahia Notícias, 14/09/2026](https://www.bahianoticias.com.br/justica/noticia/75380-mendonca-mantem-sob-sigilo-mais-de-30-quebras-bancarias-ligadas-ao-caso-master)).
+- [Decisão de Moraes que pede a Fachin a investigação de Mendonça – Poder360, 03/09/2026](https://static.poder360.com.br/uploads/2026/09/Moraes-pede-acao-de-Fachin-contra-Mendonca-3set2026.pdf): o outro lado que a direita esconde: Mendonça avançou sobre atribuições da PF, participou de tratativas de delação e direcionou investigações contra Moraes e o presidente do Senado, Davi Alcolumbre.
+- [Relatórios da PF contra Mendonça, 50 páginas – Poder360, 04/09/2026](https://static.poder360.com.br/uploads/2026/09/INQ4781-relatorios-Da-PF-contra-Mendonca.pdf): as acusações contra Mendonça não são palavra de Moraes, vêm de relatórios de inteligência da própria PF.
+- [Despacho de Fachin que separou os casos – Poder360, 12/09/2026](https://static.poder360.com.br/uploads/2026/09/decisao-fachin-julgamento-mendonca-12set26.pdf): o caso de Moraes foi a julgamento em 15/09, e o de Mendonça, marcado para 23/09, foi adiado sem data ([Correio Braziliense, 17/09/2026](https://www.correiobraziliense.com.br/politica/2026/09/7502653-fachin-adia-sessao-que-analisaria-caso-mendonca-no-stf.html)).
+
 ## Ver também
 
 - [STF](../stf.md)
