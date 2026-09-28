@@ -39,7 +39,7 @@
 
 - **Relator André Mendonça:** a investigação foi para o STF quando passou a envolver pessoas com foro, com relatoria de Mendonça ([Correio Braziliense, 18/09/2026](https://www.correiobraziliense.com.br/aqui/2026/09/18/entenda-a-operacao-sem-desconto-e-quem-sao-os-alvos-da-pf/)). Em 08/09/2026, ele aliviou as medidas contra seis investigados da operação ([ver a página de Mendonça](stf/andre-mendonca.md#crise-de-setembro-de-2026)).
 - **Agosto de 2026 — Willer Tomaz:** o STF autorizou buscas contra o advogado Willer Tomaz, amigo de Flávio Bolsonaro, numa fase da operação ([ver a página de Flávio](flavio-bolsonaro.md#willer-tomaz)).
-- **12/09/2026:** Edson Fachin suspendeu na Presidência do STF os inquéritos do INSS e do caso Master ([Poder360, 12/09/2026](https://www.poder360.com.br/poder-justica/fachin-assume-relatoria-dos-casos-master-e-inss/)).
+- **12/09/2026:** [Edson Fachin](stf/edson-fachin.md) suspendeu na Presidência do STF os inquéritos do INSS e do [caso Master](banco-master.md) ([Poder360, 12/09/2026](https://www.poder360.com.br/poder-justica/fachin-assume-relatoria-dos-casos-master-e-inss/)).
 
 ## Ver também
 

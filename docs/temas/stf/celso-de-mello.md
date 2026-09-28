@@ -2,14 +2,14 @@
 
 !!! abstract "Resumo"
 
-    Ministro do STF de 1989 a 2020, indicado por José Sarney, e decano do tribunal por 13 anos. Promotor em São Paulo desde 1970, criticou a tortura na ditadura. No mensalão, deu em 2013 o voto de desempate que admitiu os embargos infringentes, o recurso que no ano seguinte levou à absolvição de José Dirceu e José Genoino da acusação de quadrilha. Votou a favor do habeas corpus de Lula em 2018 e contra a prisão depois da segunda instância em 2019. Foi o relator da decisão que equiparou a homofobia e a transfobia ao racismo.
+    Ministro do STF de 1989 a 2020, indicado por José Sarney, e decano do tribunal por 13 anos. Promotor em São Paulo desde 1970, criticou a tortura na ditadura. No [mensalão](../farsa-do-mensalao.md), deu em 2013 o voto de desempate que admitiu os embargos infringentes, o recurso que no ano seguinte levou à absolvição de José Dirceu e José Genoino da acusação de quadrilha. Votou a favor do habeas corpus de Lula em 2018 e contra a prisão depois da segunda instância em 2019. Foi o relator da decisão que equiparou a homofobia e a transfobia ao racismo.
 
-    Em 2020, conduziu o inquérito sobre a denúncia de Sergio Moro de que Bolsonaro tentou interferir na PF e mandou divulgar o vídeo da reunião ministerial de 22 de abril. Numa mensagem pessoal, comparou o Brasil à República de Weimar e escreveu que bolsonaristas queriam "uma desprezível e abjeta ditadura militar". Aposentou-se em outubro de 2020, e a vaga dele foi para Kassio Nunes Marques, o primeiro indicado de Bolsonaro.
+    Em 2020, conduziu o inquérito sobre a denúncia de Sergio Moro de que Bolsonaro tentou interferir na PF e mandou divulgar o vídeo da reunião ministerial de 22 de abril. Numa mensagem pessoal, comparou o Brasil à República de Weimar e escreveu que bolsonaristas queriam "uma desprezível e abjeta [ditadura militar](../ditadura-militar-de-64.md)". Aposentou-se em outubro de 2020, e a vaga dele foi para [Kassio Nunes Marques](kassio-nunes-marques.md), o primeiro indicado de Bolsonaro.
 
 ## Quem é
 
 - Nasceu em Tatuí (SP) em 01/11/1945. Formou-se em Direito pela USP em 1969 ([Wikipedia](https://pt.wikipedia.org/wiki/Celso_de_Mello)).
-- Foi promotor de Justiça do Ministério Público de São Paulo a partir de 1970 e criticou a tortura praticada na ditadura militar ([Wikipedia](https://pt.wikipedia.org/wiki/Celso_de_Mello)).
+- Foi promotor de Justiça do Ministério Público de São Paulo a partir de 1970 e criticou a tortura praticada na [ditadura militar](../ditadura-militar-de-64.md) ([Wikipedia](https://pt.wikipedia.org/wiki/Celso_de_Mello)).
 
 ## Chegada ao STF
 
@@ -37,7 +37,7 @@
 
 ## O "ovo da serpente"
 
-- **Maio de 2020:** numa mensagem pessoal a interlocutores e colegas, comparou o Brasil à República de Weimar, antes do nazismo, disse que o "ovo da serpente" estava prestes a eclodir no país e escreveu que bolsonaristas queriam implantar "uma desprezível e abjeta ditadura militar". O gabinete informou que a manifestação foi "exclusivamente pessoal" ([Correio Braziliense, 01/06/2020](https://www.correiobraziliense.com.br/app/noticia/politica/2020/06/01/interna_politica,859902/mello-repudia-bolsonarismo.shtml)).
+- **Maio de 2020:** numa mensagem pessoal a interlocutores e colegas, comparou o Brasil à República de Weimar, antes do nazismo, disse que o "ovo da serpente" estava prestes a eclodir no país e escreveu que bolsonaristas queriam implantar "uma desprezível e abjeta [ditadura militar](../ditadura-militar-de-64.md)". O gabinete informou que a manifestação foi "exclusivamente pessoal" ([Correio Braziliense, 01/06/2020](https://www.correiobraziliense.com.br/app/noticia/politica/2020/06/01/interna_politica,859902/mello-repudia-bolsonarismo.shtml)).
 
 ## Aposentadoria
 
@@ -47,6 +47,6 @@
 
 - [STF](../stf.md)
 - [Kassio Nunes Marques](kassio-nunes-marques.md): o indicado de Bolsonaro para a vaga de Celso de Mello
-- [Joaquim Barbosa](joaquim-barbosa.md): o relator do mensalão
+- [Joaquim Barbosa](joaquim-barbosa.md): o relator do [mensalão](../farsa-do-mensalao.md)
 - [Ricardo Lewandowski](ricardo-lewandowski.md): votou com Celso de Mello pelo habeas corpus de Lula e contra a prisão em segunda instância
 - [Alexandre de Moraes](alexandre-de-moraes.md): prorrogou o inquérito sobre a interferência na PF depois da aposentadoria de Celso de Mello

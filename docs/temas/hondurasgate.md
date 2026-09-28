@@ -6,7 +6,7 @@ Os áudios teriam sido [gravados entre janeiro e abril de 2026 em aplicativos co
 
 ## Antecedentes
 
-- Em 2024, [Hernández foi condenado nos Estados Unidos a 45 anos de prisão por tráfico de drogas](https://www.cnn.com/2025/12/02/politics/juan-orlando-hernandez-pardon), acusado de usar o cargo para escoar mais de 400 toneladas de cocaína para o país. Em dezembro de 2025, o presidente Donald Trump o indultou.
+- Em 2024, [Hernández foi condenado nos Estados Unidos a 45 anos de prisão por tráfico de drogas](https://www.cnn.com/2025/12/02/politics/juan-orlando-hernandez-pardon), acusado de usar o cargo para escoar mais de 400 toneladas de cocaína para o país. Em dezembro de 2025, o presidente [Donald Trump](donald-trump.md) o indultou.
 - Em julho de 2025, já circulava um áudio atribuído à conselheira eleitoral Cosette López sobre o sistema de transmissão de resultados. Um dos divulgadores era uma página falsa que imitava a Radio Cadena Voces. [O jornal El Heraldo apontou indícios de manipulação por IA](https://www.elheraldo.hn/elheraldoplus/factchecking/analisis/cossette-lopez-trep-audio-manipulacion-ia-MG26646921) naquele arquivo.
 - Em novembro de 2025, [o Ministério Público hondurenho divulgou outros 24 áudios](https://criterio.hn/declarar-ganador-a-salvador-nasralla-y-repetir-comicios-parte-del-plan-revelado-en-audios-del-mp/) que implicavam López e outros atores num plano para boicotar as eleições gerais e forçar sua repetição. Os arquivos foram entregues por um conselheiro eleitoral do partido de esquerda Libre e liberados sem perícia de autenticação.
 
@@ -35,7 +35,7 @@ Segundo o [American Prospect](https://prospect.org/2026/08/05/latin-america-hond
 Os áudios não citam o Brasil como alvo — os dossiês planejados miravam México e Colômbia. Mas a rede exposta no caso tem três pontes documentadas com o país:
 
 - **Fernando Cerimedo**, operador da campanha de Asfura (antes, de Milei na Argentina e de Rodrigo Paz na Bolívia), é o mesmo que [atuou na narrativa de fraude eleitoral para Bolsonaro em 2022](https://contracorriente.red/en/2023/07/31/the-shady-story-of-cerimedo-the-advisor-to-south-americas-trumpist-right-wing/) — ação que, segundo a [Reactionary International](https://reactionary.international/investigations/hondurasgate/en/), a PF concluiu fazer parte da trama para manter Bolsonaro no poder.
-- **Brad Parscale**, ex-coordenador da campanha de Trump, é dono da consultoria Numen, sediada em Buenos Aires e cofundada com Cerimedo, que [prestou serviço à campanha de Asfura](https://www.nytimes.com/2025/12/03/us/politics/brad-parscale-trump-honduras-asfura-pardon.html). A [The Economist o chamou de "o homem do MAGA na América Latina"](https://www.economist.com/the-americas/2025/12/09/magas-man-in-latam).
+- **Brad Parscale**, ex-coordenador da campanha de [Trump](donald-trump.md), é dono da consultoria Numen, sediada em Buenos Aires e cofundada com Cerimedo, que [prestou serviço à campanha de Asfura](https://www.nytimes.com/2025/12/03/us/politics/brad-parscale-trump-honduras-asfura-pardon.html). A [The Economist o chamou de "o homem do MAGA na América Latina"](https://www.economist.com/the-americas/2025/12/09/magas-man-in-latam).
 - **As eleições brasileiras de 2026 aparecem como próximo alvo**: segundo a [investigação da Reactionary International](https://reactionary.international/investigations/hondurasgate/en/), o governo Netanyahu aposta nas eleições do Brasil e da Colômbia para obter governos mais alinhados, repetindo o padrão aplicado em Honduras e na Bolívia.
 
 ## Reações

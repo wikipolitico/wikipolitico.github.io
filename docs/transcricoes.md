@@ -22,7 +22,7 @@ JUCÁ - É. Delimitava onde está, pronto."
 
 ### Parte 2 - Teori Zavascki
 
-MACHADO - Um caminho é buscar alguém que tem ligação com o Teori [Zavascki, relator da Lava Jato], mas parece que não tem ninguém.
+MACHADO - Um caminho é buscar alguém que tem ligação com o [Teori](temas/stf/teori-zavascki.md) [Zavascki, relator da [Lava Jato](temas/farsa-da-lava-jato.md)], mas parece que não tem ninguém.
 
 JUCÁ - Não tem. É um cara fechado, foi ela [Dilma] que botou, um cara... Burocrata da... Ex-ministro do STJ [Superior Tribunal de Justiça].
 

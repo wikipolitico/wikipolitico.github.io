@@ -2,7 +2,7 @@
 
 !!! abstract "Resumo"
 
-    Ministro do STF de 2003 a 2014, indicado por Lula, o primeiro negro no tribunal. Procurador da República por quase duas décadas, foi o relator do mensalão (Ação Penal 470), que condenou José Dirceu, José Genoino e Delúbio Soares com base na teoria do "domínio do fato". O jurista alemão Claus Roxin, que formulou a teoria, disse em 2012 que a posição hierárquica não basta para aplicá-la e que é preciso provar que a pessoa deu a ordem, embora tenha esclarecido depois que não avaliou o caso. Como presidente do STF, expediu os mandados de prisão de Dirceu e Genoino no feriado de 15 de novembro de 2013, com recursos ainda pendentes contra a condenação por quadrilha. Pouco mais de três meses depois, o STF os absolveu desse crime, derrubando a condenação relatada por Barbosa.
+    Ministro do STF de 2003 a 2014, indicado por Lula, o primeiro negro no tribunal. Procurador da República por quase duas décadas, foi o relator do [mensalão](../farsa-do-mensalao.md) (Ação Penal 470), que condenou José Dirceu, José Genoino e Delúbio Soares com base na teoria do "domínio do fato". O jurista alemão Claus Roxin, que formulou a teoria, disse em 2012 que a posição hierárquica não basta para aplicá-la e que é preciso provar que a pessoa deu a ordem, embora tenha esclarecido depois que não avaliou o caso. Como presidente do STF, expediu os mandados de prisão de Dirceu e Genoino no feriado de 15 de novembro de 2013, com recursos ainda pendentes contra a condenação por quadrilha. Pouco mais de três meses depois, o STF os absolveu desse crime, derrubando a condenação relatada por Barbosa.
 
     Aposentou-se em 2014. Apoiou Fernando Haddad em 2018 e, em 2022, gravou vídeos para a campanha de Lula, a quem declarou voto para derrotar Bolsonaro.
 
@@ -18,9 +18,9 @@
 ## O mensalão (Ação Penal 470)
 
 - **2006 a 2012:** foi o relator do processo, com 38 réus, entre eles José Dirceu, José Genoino e Delúbio Soares, condenados no julgamento de 2012 ([Wikipedia](https://pt.wikipedia.org/wiki/Joaquim_Barbosa)).
-- **11/11/2012 — Roxin e o "domínio do fato":** o jurista alemão Claus Roxin, criador da teoria usada para condenar réus do mensalão, disse que "a posição hierárquica não fundamenta, sob nenhuma circunstância, o domínio do fato": é preciso provar que a pessoa emitiu a ordem ([Conjur, 11/11/2012](https://conjur.com.br/2012-nov-11/claus-roxin-teoria-dominio-fato-usada-forma-errada-stf/)). Em 19/11, Roxin esclareceu que falou da teoria em geral, que o título da Folha foi "ambíguo" e que não avaliou o caso do mensalão ([Conjur, 19/11/2012](https://www.conjur.com.br/2012-nov-19/mensalao-esclarecimento-claus-roxin-publico-brasileiro/)).
+- **11/11/2012 — Roxin e o "domínio do fato":** o jurista alemão Claus Roxin, criador da teoria usada para condenar réus do [mensalão](../farsa-do-mensalao.md), disse que "a posição hierárquica não fundamenta, sob nenhuma circunstância, o domínio do fato": é preciso provar que a pessoa emitiu a ordem ([Conjur, 11/11/2012](https://conjur.com.br/2012-nov-11/claus-roxin-teoria-dominio-fato-usada-forma-errada-stf/)). Em 19/11, Roxin esclareceu que falou da teoria em geral, que o título da Folha foi "ambíguo" e que não avaliou o caso do mensalão ([Conjur, 19/11/2012](https://www.conjur.com.br/2012-nov-19/mensalao-esclarecimento-claus-roxin-publico-brasileiro/)).
 - **15/11/2013 — as prisões no feriado:** Barbosa, já presidente do STF, expediu mandados de prisão contra ao menos 12 condenados, entre eles Dirceu, Genoino e Delúbio. O STF tinha decidido executar logo as penas não contestadas, e Dirceu e Genoino ainda tinham recursos pendentes contra a condenação por quadrilha ([Conjur, 15/11/2013](https://conjur.com.br/2013-nov-15/supremo-expede-ordens-prisao-12-condenados-mensalao/)).
-- **27/02/2014 — absolvidos de quadrilha:** nos embargos infringentes, o STF absolveu Dirceu, Genoino e outros seis réus do crime de quadrilha, por 6 a 5. Barroso, Teori Zavascki, Rosa Weber, Dias Toffoli, Ricardo Lewandowski e Cármen Lúcia entenderam que não houve associação prévia para cometer crimes, e caiu nesse ponto a condenação relatada por Barbosa ([Agência Câmara, 27/02/2014](https://www.camara.leg.br/noticias/427724-maioria-do-stf-absolve-dirceu-e-genoino-por-formacao-de-quadrilha)).
+- **27/02/2014 — absolvidos de quadrilha:** nos embargos infringentes, o STF absolveu Dirceu, Genoino e outros seis réus do crime de quadrilha, por 6 a 5. [Barroso](luis-roberto-barroso.md), [Teori Zavascki](teori-zavascki.md), [Rosa Weber](rosa-weber.md), [Dias Toffoli](dias-toffoli.md), [Ricardo Lewandowski](ricardo-lewandowski.md) e [Cármen Lúcia](carmen-lucia.md) entenderam que não houve associação prévia para cometer crimes, e caiu nesse ponto a condenação relatada por Barbosa ([Agência Câmara, 27/02/2014](https://www.camara.leg.br/noticias/427724-maioria-do-stf-absolve-dirceu-e-genoino-por-formacao-de-quadrilha)).
 
 ## Depois do STF
 
@@ -49,5 +49,5 @@ Links da wiki antiga, de 2012 a 2015, mantidos como registro.
 ## Ver também
 
 - [STF](../stf.md)
-- [Rosa Weber](rosa-weber.md): votou pela condenação no mensalão e, em 2014, pela absolvição de quadrilha
+- [Rosa Weber](rosa-weber.md): votou pela condenação no [mensalão](../farsa-do-mensalao.md) e, em 2014, pela absolvição de quadrilha
 - [Cármen Lúcia](carmen-lucia.md) e [Dias Toffoli](dias-toffoli.md): votaram pela absolvição de quadrilha em 2014

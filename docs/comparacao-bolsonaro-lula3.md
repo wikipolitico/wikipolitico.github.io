@@ -115,7 +115,7 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 
 | Indicador | Bolsonaro | Lula 3 | Fonte |
 | --- | --- | --- | --- |
-| ⚠️ Fila do INSS (pedidos pendentes de análise) | caiu de 2,03 milhões (jan/2020, pico) para 1,09 milhão (dez/2022) | 1,282 milhão (ago/2026), menor nível desde 2023, depois do recorde de 3,128 milhões em fev/2026 | [Jovem Pan](https://jovempan.com.br/brasil/fila-de-espera-no-inss-bate-recorde-com-quase-3-milhoes-de-pedidos/) e [Previdenciarista](https://previdenciarista.com/blog/fila-do-inss-zerada-anuncio-vale-para-pedidos-acima-de-45-dias/) |
+| ⚠️ [Fila do INSS](temas/fila-do-inss.md) (pedidos pendentes de análise) | caiu de 2,03 milhões (jan/2020, pico) para 1,09 milhão (dez/2022) | 1,282 milhão (ago/2026), menor nível desde 2023, depois do recorde de 3,128 milhões em fev/2026 | [Jovem Pan](https://jovempan.com.br/brasil/fila-de-espera-no-inss-bate-recorde-com-quase-3-milhoes-de-pedidos/) e [Previdenciarista](https://previdenciarista.com/blog/fila-do-inss-zerada-anuncio-vale-para-pedidos-acima-de-45-dias/) |
 | ✅ Tempo médio de análise de um pedido no INSS | 76 dias (dez/2022), acima do prazo legal de 45 | 34 dias (ago/2026) | [Ministério da Previdência](https://www.gov.br/previdencia/pt-br/noticias/2025/fevereiro/inss-concedeu-1-2-milhao-de-beneficios-e-injetou-quase-r-140-bi-na-economia-em-dois-meses) e [Agência Brasil](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fila-de-espera-por-atendimento-do-INSS-e-zerada-em-agosto) |
 
 ## Obras públicas
