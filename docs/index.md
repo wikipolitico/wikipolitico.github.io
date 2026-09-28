@@ -8,7 +8,7 @@ O **Wiki Político** reúne material para enfrentar, com fatos, as narrativas fa
 
 Na reta final do primeiro turno, em 04/10/2026:
 
-- [Eleições 2026](temas/eleicoes-2026.md): por que não votar na legenda, onde consultar o número do seu candidato e o alerta da Abin sobre grupos extremistas.
+- [Eleições 2026](temas/eleicoes-2026.md): as mentiras de Flávio sobre Vorcaro, os indicados de Bolsonaro no comando do TSE, por que não votar na legenda e o alerta da Abin sobre grupos extremistas.
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): o candidato do PL à Presidência, das homenagens a milicianos ao dinheiro de Vorcaro para o filme sobre o pai.
 - [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 51 indicadores oficiais, com o que melhorou e o que piorou em cada governo.
 
@@ -36,7 +36,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 ### Em pauta agora
 
-- [Eleições 2026](temas/eleicoes-2026.md): por que não votar na legenda, onde consultar o número do seu candidato e o alerta da Abin sobre grupos extremistas
+- [Eleições 2026](temas/eleicoes-2026.md): as mentiras de Flávio sobre Vorcaro, os indicados de Bolsonaro no comando do TSE, por que não votar na legenda e o alerta da Abin sobre grupos extremistas
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): milícias, rachadinha, o filme Dark Horse, o jato de Vorcaro e a emenda pedida por um condenado no caso Marielle
 - [Bolsonarismo contra o Estado laico](temas/bolsonarismo-contra-o-estado-laico.md): do "Estado é cristão" de Jair ao Brasil "do Senhor Jesus Cristo" de Flávio, e o bispo que batizou Flávio e pediu em livro o fim de Aparecida como padroeira
 - [Caso Banco Master](temas/banco-master.md): Vorcaro, o Banco Central de Campos Neto, a Operação Compliance Zero e a crise no STF
@@ -54,6 +54,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 ### Acervo principal
 
+- [Eleições 2022](temas/eleicoes-2022.md): a maior votação da história, o Auxílio Brasil turbinado só até dezembro, as blitze da PRF contra o eleitor do Nordeste e o diretor da PRF condenado e preso na fuga
 - [8 de janeiro](temas/8-de-janeiro.md): o acampamento que o Exército protegeu, as prisões que Lula mandou fazer e o Exército barrou, e a mentira de que Lula armou o ataque
 - [Corrupção](temas/corrupcao.md): o que os governos do PT fizeram contra a corrupção, Privataria tucana, Banestado, HSBC, Zelotes, Furnas e outros escândalos
 - [Corrupção no governo Bolsonaro](temas/corrupcao-no-governo-bolsonaro.md): orçamento secreto, os pastores do MEC, Covaxin, as joias e os imóveis em dinheiro vivo
@@ -73,7 +74,8 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [Violência / Fascismo / Preconceito](temas/violencia-fascismo-preconceito.md): ataques ao MST, nazismo, escravidão, racismo e homofobia
 - [Teorias Conspiratórias](temas/teorias-conspiratorias.md): mortes suspeitas, de JK a Teori Zavascki
 - [CPMI das Fake News (2020)](temas/cpmi-das-fake-news-2020.md): os disparos em massa e os depoimentos da comissão
-- [Eleições 2018](temas/eleicoes-2018.md): quem apoiou Bolsonaro, Steve Bannon, a facada e a decisão da ONU
+- [Eleições 2018](temas/eleicoes-2018.md): Lula barrado contra o pedido da ONU, a delação de Palocci divulgada por Moro seis dias antes do primeiro turno, os disparos no WhatsApp e o que não fecha na facada
+- [Eleições 2014](temas/eleicoes-2014.md): a capa da Veja na véspera, os delegados da Lava Jato em campanha para Aécio e a auditoria do PSDB que não achou fraude
 - [Movimentos Políticos e Ativistas](temas/movimentos-politicos-e-ativistas.md): MST e MTST
 - [Outros / Não classificados](temas/outros-nao-classificados.md): documentários, livros e material avulso
 

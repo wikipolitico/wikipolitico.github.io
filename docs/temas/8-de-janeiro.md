@@ -43,6 +43,7 @@
 
 ## Ver também
 
+- [Eleições 2022](eleicoes-2022.md): a eleição que Bolsonaro não reconheceu, da PRF contra o eleitor do Nordeste à bomba no aeroporto
 - [Alexandre de Moraes](stf/alexandre-de-moraes.md): afastou Ibaneis, mandou prender Torres e relatou a trama golpista
 - [Flávio Dino](stf/flavio-dino.md): o ministro da Justiça que mandou comandar a PM do DF
 - [Rosa Weber](stf/rosa-weber.md): presidia o STF e chamou o ataque de "dia da infâmia"

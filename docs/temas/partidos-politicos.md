@@ -118,8 +118,7 @@ MENTIRA CONTRA O PT: Vendeu os bancos BEC (Ceará) e BEM (Maranhão)
 
 ### Gastos na campanha 2014
 
-- [O custo da eleição de 2014](http://www.pragmatismopolitico.com.br/2014/11/o-custo-da-eleicao-de-2014.html)
-- [Câmara aprova projeto que limita gastos de campanhas eleitorais](http://agenciabrasil.ebc.com.br/politica/noticia/2015-07/camara-aprova-projeto-que-altera-legislacao-eleitoral)
+Esta seção foi para a página [Eleições 2014](eleicoes-2014.md), com a linha do tempo da eleição, as fontes e o acervo de links.
 
 ### Aumentos na conta de luz
 
