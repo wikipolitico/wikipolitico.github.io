@@ -21,7 +21,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - **"E o mensalão?"** Veja a [Farsa do Mensalão do PT](temas/farsa-do-mensalao.md): a acusação nasceu de Roberto Jefferson, o STF absolveu os réus de quadrilha em 2014, e o esquema de Marcos Valério começou antes, no mensalão tucano.
 - **"O PT roubou os aposentados."** Veja o [Escândalo do INSS](temas/escandalo-do-inss.md): os descontos investigados começam em 2019, a lei que acabou com a revalidação foi assinada por Bolsonaro, e foi a CGU do governo Lula que descobriu a fraude. Até fevereiro de 2026, 4,2 milhões de aposentados tinham sido ressarcidos.
 - **"O PT é o partido da corrupção."** Veja [o que os governos do PT fizeram contra a corrupção](temas/corrupcao.md#o-que-os-governos-do-pt-fizeram-contra-a-corrupcao): a CGU, o Portal da Transparência, a Ficha Limpa, a Lei de Acesso à Informação, a lei que pune a empresa corruptora e a lei da delação premiada. E os escândalos do governo Bolsonaro estão em [Corrupção no governo Bolsonaro](temas/corrupcao-no-governo-bolsonaro.md).
-- **"As urnas são fraudadas."** Veja [a mentira da fraude nas urnas](temas/teorias-conspiratorias.md#a-mentira-da-fraude-nas-urnas): Bolsonaro admitiu que não tinha prova, os militares dele fiscalizaram a eleição de 2022 e não acharam fraude, o PL foi multado em R$ 22,9 milhões por má-fé, e a Smartmatic, citada por Flávio, nunca fez urna para o Brasil.
+- **"As urnas são fraudadas."** Veja [a mentira da fraude nas urnas](temas/teorias-conspiratorias.md#a-mentira-da-fraude-nas-urnas): Bolsonaro admitiu que não tinha prova, os militares dele fiscalizaram a [eleição de 2022](temas/eleicoes-2022.md) e não acharam fraude, o PL foi multado em R$ 22,9 milhões por má-fé, e a Smartmatic, citada por Flávio, nunca fez urna para o Brasil.
 - **"Lula defende bandido."** Veja as [penas mais duras no governo Lula](temas/politicas-publicas.md#penas-mais-duras-no-governo-lula): feminicídio com até 40 anos, estupro de vulnerável com até 18, líderes de facção com até 40, e o veto ao projeto que aliviava as penas dos golpistas.
 - **"E o Lulinha?"** Veja o [Caso Lulinha](temas/caso-lulinha.md): o que a investigação tem e as fragilidades da acusação.
 - **"O Master é do PT."** Veja o [Caso Banco Master](temas/banco-master.md): Vorcaro virou banqueiro com o Banco Central de Campos Neto, indicado por Bolsonaro, e foi o Banco Central de Galípolo que liquidou o banco.
@@ -72,10 +72,16 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [Capitalismo](temas/capitalismo.md): neoliberalismo, presídios privatizados e indústria farmacêutica
 - [Comunismo e Socialismo](temas/comunismo-e-socialismo.md): respostas aos mitos mais repetidos sobre os dois termos
 - [Violência / Fascismo / Preconceito](temas/violencia-fascismo-preconceito.md): ataques ao MST, nazismo, escravidão, racismo e homofobia
-- [Teorias Conspiratórias](temas/teorias-conspiratorias.md): mortes suspeitas, de JK a Teori Zavascki
+- [Teorias Conspiratórias](temas/teorias-conspiratorias.md): mortes suspeitas, de JK a [Teori Zavascki](temas/stf/teori-zavascki.md)
 - [CPMI das Fake News (2020)](temas/cpmi-das-fake-news-2020.md): os disparos em massa e os depoimentos da comissão
 - [Eleições 2018](temas/eleicoes-2018.md): Lula barrado contra o pedido da ONU, a delação de Palocci divulgada por Moro seis dias antes do primeiro turno, os disparos no WhatsApp e o que não fecha na facada
-- [Eleições 2014](temas/eleicoes-2014.md): a capa da Veja na véspera, os delegados da Lava Jato em campanha para Aécio e a auditoria do PSDB que não achou fraude
+- [Eleições 2014](temas/eleicoes-2014.md): a capa da Veja na véspera, os delegados da [Lava Jato](temas/farsa-da-lava-jato.md) em campanha para Aécio e a auditoria do PSDB que não achou fraude
+- [Eleições 2010](temas/eleicoes-2010.md): a primeira presidenta, a ficha de Dilma que a Folha não pôde provar, o aborto como arma de Serra e os sete minutos do Jornal Nacional
+- [Eleições 2006](temas/eleicoes-2006.md): a reeleição com o recorde de 58,3 milhões de votos, Alckmin perdendo votos no segundo turno e o delegado gravado vazando as fotos do dinheiro do dossiê
+- [Eleições 2002](temas/eleicoes-2002.md): o "Serra ou o caos" de Soros, o dólar perto de R$ 4 e o "eu tenho medo" de Regina Duarte, e o caos que não veio
+- [Eleições 1998](temas/eleicoes-1998.md): a emenda da reeleição aprovada com votos comprados a R$ 200 mil, o "engavetador-geral" e o real que despencou doze dias depois da segunda posse de FHC
+- [Eleições 1994](temas/eleicoes-1994.md): o real como cabo eleitoral de FHC e o "o que é bom a gente fatura, o que é ruim a gente esconde" do escândalo da parabólica
+- [Eleições 1989](temas/eleicoes-1989.md): o debate que a Globo "produziu" para Collor, a edição do Jornal Nacional, o sequestro de Abilio Diniz jogado no colo do PT e o confisco da poupança
 - [Movimentos Políticos e Ativistas](temas/movimentos-politicos-e-ativistas.md): MST e MTST
 - [Outros / Não classificados](temas/outros-nao-classificados.md): documentários, livros e material avulso
 
