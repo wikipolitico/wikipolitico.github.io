@@ -41,7 +41,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [Bolsonarismo contra o Estado laico](temas/bolsonarismo-contra-o-estado-laico.md): do "Estado é cristão" de Jair ao Brasil "do Senhor Jesus Cristo" de Flávio, e o bispo que batizou Flávio e pediu em livro o fim de Aparecida como padroeira
 - [Caso Banco Master](temas/banco-master.md): Vorcaro, o Banco Central de Campos Neto, a Operação Compliance Zero e a crise no STF
 - [Escândalo do INSS](temas/escandalo-do-inss.md): a fraude dos descontos em aposentadorias, das raízes no governo Bolsonaro ao ressarcimento
-- [STF](temas/stf.md): os dez ministros e seis ex-ministros, quem indicou cada um e a crise do caso Master
+- [STF](temas/stf.md): os dez ministros e seis ex-ministros, quem indicou cada um, a crise do caso Master e os ataques do bolsonarismo ao tribunal, dos fogos de artifício ao homem-bomba
 - [Hondurasgate](temas/hondurasgate.md): os áudios vazados sobre uma suposta articulação da direita das Américas contra governos progressistas, com a autenticidade em disputa
 - [Fila do INSS](temas/fila-do-inss.md): o anúncio da fila zerada, o que ele significa e os números oficiais
 - [Mídia](temas/midia.md): donos das emissoras, verba publicitária, a cobertura da Globo e da Veja e as big techs na eleição de 2026
@@ -69,6 +69,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 ### História e ideias
 
 - [Ditadura Militar de 64](temas/ditadura-militar-de-64.md): o golpe, a Operação Condor, o Riocentro e a corrupção no regime
+- [Golpes contra governos eleitos](temas/golpes-contra-governos-eleitos.md): Vargas em 1954, JK e Jango em 1955, o veto a Jango em 1961, o golpe de 1964, o impeachment de Dilma e a trama contra a posse de Lula
 - [Capitalismo](temas/capitalismo.md): neoliberalismo, presídios privatizados e indústria farmacêutica
 - [Comunismo e Socialismo](temas/comunismo-e-socialismo.md): respostas aos mitos mais repetidos sobre os dois termos
 - [Violência / Fascismo / Preconceito](temas/violencia-fascismo-preconceito.md): ataques ao MST, nazismo, escravidão, racismo e homofobia
