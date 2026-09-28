@@ -38,6 +38,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 - [Eleições 2026](temas/eleicoes-2026.md): por que não votar na legenda, onde consultar o número do seu candidato e o alerta da Abin sobre grupos extremistas
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): milícias, rachadinha, o filme Dark Horse, o jato de Vorcaro e a emenda pedida por um condenado no caso Marielle
+- [Bolsonarismo contra o Estado laico](temas/bolsonarismo-contra-o-estado-laico.md): do "Estado é cristão" de Jair ao Brasil "do Senhor Jesus Cristo" de Flávio, e o bispo que batizou Flávio e pediu em livro o fim de Aparecida como padroeira
 - [Caso Banco Master](temas/banco-master.md): Vorcaro, o Banco Central de Campos Neto, a Operação Compliance Zero e a crise no STF
 - [Escândalo do INSS](temas/escandalo-do-inss.md): a fraude dos descontos em aposentadorias, das raízes no governo Bolsonaro ao ressarcimento
 - [STF](temas/stf.md): os dez ministros e seis ex-ministros, quem indicou cada um e a crise do caso Master

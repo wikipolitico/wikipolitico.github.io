@@ -100,6 +100,7 @@ Segundo o ICL Notícias, Mendonça votou ou decidiu a favor de Castro ao menos q
 ## Vice-presidente do TSE nas eleições de 2026
 
 - **12/05/2026:** Nunes Marques tomou posse como presidente do TSE e deu posse a Mendonça como vice-presidente. Os dois indicados de Bolsonaro ao STF comandam o tribunal eleitoral nas eleições de outubro de 2026 ([Agência Brasil, 05/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/nunes-marques-toma-posse-na-presidencia-do-tse-mendonca-sera-vice)).
+- **25/09/2026 — apaga a crítica a Flávio:** a pedido de Flávio Bolsonaro, Mendonça mandou apagar, sob multa de R$ 30 mil, um post do humorista Antonio Tabet que não citava ninguém pelo nome: "A família miliciana odeia tanto mulher preta, que resolveu atacar Nossa Senhora Aparecida!". Também mandou as plataformas removerem posts que atribuíssem a Flávio ou à família um plano para tirar o título da padroeira ([Poder360, 25/09/2026](https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-redes-remover-posts-sobre-flavio-e-nossa-senhora/)). Em 27/09, Flávio Dino cassou a ordem contra Tabet em defesa da liberdade de expressão e da liberdade religiosa ([Poder360, 27/09/2026](https://www.poder360.com.br/poder-justica/dino-derruba-decisao-de-mendonca-e-libera-post-sobre-nossa-senhora/)). O caso está em [Bolsonarismo contra o Estado laico](../bolsonarismo-contra-o-estado-laico.md#nossa-senhora-aparecida-na-campanha-de-2026).
 
 ## Instituto Iter e a relação com Vorcaro
 

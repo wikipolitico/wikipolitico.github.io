@@ -53,6 +53,7 @@ As decisões abaixo estão na linha do tempo do [Congresso em Foco, 09/03/2026](
 - [STF](../stf.md)
 - [Alexandre de Moraes](alexandre-de-moraes.md): relator da trama golpista, em que Dino votou pela condenação
 - [André Mendonça](andre-mendonca.md): quem afastou o diretor da PF que Dino reintegrou
+- [Bolsonarismo contra o Estado laico](../bolsonarismo-contra-o-estado-laico.md#nossa-senhora-aparecida-na-campanha-de-2026): a decisão de Dino que derrubou a ordem de Mendonça contra um post sobre Nossa Senhora Aparecida
 - [Luiz Fux](luiz-fux.md): citado nas mensagens de Vorcaro que Dino cobrou em plenário
 - [Caso Banco Master](../banco-master.md)
 - [Flávio Bolsonaro](../flavio-bolsonaro.md): um dos parlamentares que espalharam a fake news da Maré
