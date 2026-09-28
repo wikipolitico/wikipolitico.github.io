@@ -46,9 +46,10 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [Fila do INSS](temas/fila-do-inss.md): o anúncio da fila zerada, o que ele significa e os números oficiais
 - [Mídia](temas/midia.md): donos das emissoras, verba publicitária, a cobertura da Globo e da Veja e as big techs na eleição de 2026
 
-### Lawfare e perseguição a Lula
+### Lawfare
 
-- [Farsa da Lava Jato](temas/farsa-da-lava-jato.md): o grampo ilegal, o PowerPoint, os juízes que condenaram Lula, Moro no governo Bolsonaro e as condenações anuladas
+- [Lawfare](temas/lawfare.md): o direito como arma, da condução coercitiva de Lula à delação de Palocci solta na eleição, o reitor que se matou, o FBI em Curitiba e por que o caso de Bolsonaro é o avesso do de Lula
+- [Farsa da Lava Jato](temas/farsa-da-lava-jato.md): o grampo ilegal, o PowerPoint, o juiz premiado e aplaudido pela imprensa, os juízes que condenaram Lula, Moro no governo Bolsonaro e as condenações anuladas
 - [Farsa do Mensalão do PT](temas/farsa-do-mensalao.md): a acusação de Jefferson, o "domínio do fato", a absolvição de quadrilha e o mensalão tucano
 - [Caso Lulinha](temas/caso-lulinha.md): o que a investigação tem e as fragilidades da acusação
 

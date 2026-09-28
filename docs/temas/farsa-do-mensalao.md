@@ -79,6 +79,7 @@ Links da wiki antiga, mantidos como registro.
 
 ## Ver também
 
+- [Lawfare](lawfare.md): do "domínio do fato" à Lava Jato, o direito usado como arma
 - [Farsa da Lava Jato](farsa-da-lava-jato.md)
 - [Joaquim Barbosa](stf/joaquim-barbosa.md): o relator do mensalão
 - [Ricardo Lewandowski](stf/ricardo-lewandowski.md): o revisor, que absolveu Dirceu de corrupção ativa

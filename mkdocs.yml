@@ -85,10 +85,12 @@ nav:
       - "Comunismo e Socialismo": temas/comunismo-e-socialismo.md
       - "Corrupção": temas/corrupcao.md
       - "Corrupção no governo Bolsonaro": temas/corrupcao-no-governo-bolsonaro.md
-      - "Farsa do Mensalão do PT": temas/farsa-do-mensalao.md
-      - "Farsa da Lava Jato": temas/farsa-da-lava-jato.md
+      - "Lawfare":
+          - "Visão geral": temas/lawfare.md
+          - "Farsa do Mensalão do PT": temas/farsa-do-mensalao.md
+          - "Farsa da Lava Jato": temas/farsa-da-lava-jato.md
+          - "Caso Lulinha": temas/caso-lulinha.md
       - "Caso Banco Master": temas/banco-master.md
-      - "Caso Lulinha": temas/caso-lulinha.md
       - "Escândalo do INSS": temas/escandalo-do-inss.md
       - "Fila do INSS": temas/fila-do-inss.md
       - "STF":

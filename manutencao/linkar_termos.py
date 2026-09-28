@@ -37,6 +37,7 @@ TERMOS = [
      r"|Operação Sem Desconto", "temas/escandalo-do-inss.md", ""),
     (r"[Ff]ila do INSS", "temas/fila-do-inss.md", ""),
     (r"Hondurasgate", "temas/hondurasgate.md", ""),
+    (r"(?<!Instituto )[Ll]awfare(?!:)", "temas/lawfare.md", ""),
     (r"CPMI das Fake News", "temas/cpmi-das-fake-news-2020.md", ""),
     (r"ditadura militar|golpe (?:militar )?de (?:19)?64", "temas/ditadura-militar-de-64.md", ""),
     (r"(?:Donald )?Trump", "temas/donald-trump.md", ""),

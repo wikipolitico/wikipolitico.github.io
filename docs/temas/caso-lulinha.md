@@ -56,4 +56,5 @@ Fábio Luís Lula da Silva, o Lulinha, filho mais velho de Lula, e a lobista Rob
 
 ## Ver também
 
+- [Lawfare](lawfare.md): os vazamentos na hora certa, da [Lava Jato](farsa-da-lava-jato.md) ao caso Lulinha
 - [Escândalo do INSS](escandalo-do-inss.md): a fraude dos descontos em aposentadorias, da qual nasceu a investigação sobre o Careca do INSS
