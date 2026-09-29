@@ -28,7 +28,7 @@
 
 ## Caso Banco Master
 
-Toffoli foi relator do caso de 28/11/2025 a 12/02/2026 e deixou a relatoria a pedido próprio. A linha do tempo da crise que veio depois está na página de [André Mendonça](andre-mendonca.md#crise-de-setembro-de-2026).
+Toffoli foi relator do caso de 28/11/2025 a 12/02/2026 e deixou a relatoria a pedido próprio. A linha do tempo da crise que veio depois está na página [Crise no STF (2026)](crise-2026.md).
 
 - **28/11/2025 — a viagem a Lima:** no dia em que foi sorteado relator, Toffoli viajou para a final da Libertadores num jato do empresário Luiz Oswaldo Pastore, com 15 pessoas a bordo. Entre elas estava o advogado Augusto de Arruda Botelho, que defende não Vorcaro, mas o diretor de compliance do Master, Luiz Antonio Bull. O caso foi revelado por Lauro Jardim, de O Globo ([O Tempo, 08/12/2025](https://www.otempo.com.br/politica/judiciario/2025/12/8/relator-do-caso-master-toffoli-viajou-para-final-da-libertadores-com-advogado-de-investigado)).
 - **12/02/2026 — a saída da relatoria:** um relatório da PF citou o nome de Toffoli em mensagens do celular de Vorcaro e apontou que um fundo ligado ao Master comprou participação no resort Tayayá, no Paraná, de familiares do ministro. Depois de uma reunião de três horas convocada por [Fachin](edson-fachin.md), Toffoli pediu para deixar o caso. Confirmou ser sócio do resort e disse que "não recebeu qualquer valor de Daniel Vorcaro". Os ministros do STF declararam em nota a "inexistência de suspeição ou de impedimento", manifestaram apoio pessoal a ele e registraram que ele atendeu a todos os pedidos da PF e da PGR ([Agência Brasil, 12/02/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/toffoli-deixa-relatoria-de-investigacao-sobre-o-banco-master)).

@@ -32,8 +32,8 @@
 
 ## Caso Banco Master
 
-- **13/09/2026:** Zanin deu prazo até as 23h para a PF entregar a cópia dos dados do iPhone de Vorcaro, que traz uma lista de pagamentos não identificados a entidades, políticos e empresários. Argumentou que as provas pertencem ao "Plenário do STF e seus membros", e não só ao relator, e que o gabinete dele não tinha recebido o material, embora Mendonça já tivesse cópia ([Revista Fórum, 13/09/2026](https://revistaforum.com.br/politica/zanin-pf-dado-vorcaro)).
-- **14/09/2026:** a PF liberou a cópia dos dados a Zanin, [Gilmar Mendes](gilmar-mendes.md) e [Moraes](alexandre-de-moraes.md) ([CNN Brasil, 14/09/2026](https://www.cnnbrasil.com.br/politica/pf-libera-dados-de-celular-de-vorcaro-para-ministros-do-stf/)). A linha do tempo da crise está na página de [André Mendonça](andre-mendonca.md#crise-de-setembro-de-2026).
+- **13/09/2026:** Zanin deu prazo até as 23h para a PF entregar a cópia dos dados do iPhone de Vorcaro, que traz uma lista de pagamentos não identificados a entidades, políticos e empresários. Argumentou que as provas pertencem ao "Plenário do STF e seus membros", e não só ao relator, e que o gabinete dele não tinha recebido o material, embora [Mendonça](andre-mendonca.md) já tivesse cópia ([Revista Fórum, 13/09/2026](https://revistaforum.com.br/politica/zanin-pf-dado-vorcaro)).
+- **14/09/2026:** a PF liberou a cópia dos dados a Zanin, [Gilmar Mendes](gilmar-mendes.md) e [Moraes](alexandre-de-moraes.md) ([CNN Brasil, 14/09/2026](https://www.cnnbrasil.com.br/politica/pf-libera-dados-de-celular-de-vorcaro-para-ministros-do-stf/)). A linha do tempo da crise está na página [Crise no STF (2026)](crise-2026.md).
 
 ## Ver também
 

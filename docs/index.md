@@ -42,6 +42,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [Caso Banco Master](temas/banco-master.md): Vorcaro, o Banco Central de Campos Neto, a Operação Compliance Zero e a crise no STF
 - [Escândalo do INSS](temas/escandalo-do-inss.md): a fraude dos descontos em aposentadorias, das raízes no governo Bolsonaro ao ressarcimento
 - [STF](temas/stf.md): os dez ministros e seis ex-ministros, quem indicou cada um, a crise do caso Master e os ataques do bolsonarismo ao tribunal, dos fogos de artifício ao homem-bomba
+- [Crise no STF (2026)](temas/stf/crise-2026.md): [Mendonça](temas/stf/andre-mendonca.md) abriu só o relatório sobre [Moraes](temas/stf/alexandre-de-moraes.md) a seis dias do 7 de Setembro, poupou Castro, Ciro e o entorno de [Nunes Marques](temas/stf/kassio-nunes-marques.md) e [Fux](temas/stf/luiz-fux.md), e o próprio procurador-geral pediu a anulação
 - [Hondurasgate](temas/hondurasgate.md): os áudios vazados sobre uma suposta articulação da direita das Américas contra governos progressistas, com a autenticidade em disputa
 - [Fila do INSS](temas/fila-do-inss.md): o anúncio da fila zerada, o que ele significa e os números oficiais
 - [Mídia](temas/midia.md): donos das emissoras, verba publicitária, a cobertura da Globo e da Veja e as big techs na eleição de 2026

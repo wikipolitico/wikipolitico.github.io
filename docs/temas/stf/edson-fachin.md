@@ -41,9 +41,9 @@
 
 ## Crise do caso Banco Master
 
-A linha do tempo completa está na página de [André Mendonça](andre-mendonca.md#crise-de-setembro-de-2026).
+A linha do tempo completa está na página [Crise no STF (2026)](crise-2026.md).
 
-- **09/09/2026:** seis dias depois de [Moraes](alexandre-de-moraes.md) enviar a ele o pedido de investigação contra Mendonça, Fachin revogou, pela Portaria 189, a designação de Moraes como relator do inquérito das fake news e assumiu o inquérito ([Correio Braziliense, 09/09/2026](https://www.correiobraziliense.com.br/politica/2026/09/7497169-fachin-retira-moraes-da-relatoria-do-inquerito-das-fake-news.html)).
+- **09/09/2026:** seis dias depois de [Moraes](alexandre-de-moraes.md) enviar a ele o pedido de investigação contra [Mendonça](andre-mendonca.md), Fachin revogou, pela Portaria 189, a designação de Moraes como relator do inquérito das fake news e assumiu o inquérito ([Correio Braziliense, 09/09/2026](https://www.correiobraziliense.com.br/politica/2026/09/7497169-fachin-retira-moraes-da-relatoria-do-inquerito-das-fake-news.html)).
 - **12/09/2026:** assumiu a relatoria da Pet 16.662, sobre o relatório da PF que envolve Moraes, e suspendeu na Presidência os inquéritos do Master e do INSS, "sem retirar a relatoria do ministro André Mendonça" ([Poder360, 12/09/2026](https://www.poder360.com.br/poder-justica/fachin-assume-relatoria-dos-casos-master-e-inss/)).
 - **15/09/2026:** na sessão marcada por Fachin, [Dino](flavio-dino.md) disse que ele tinha marcado "esta sessão desastrada" ([O Tempo, 15/09/2026](https://www.otempo.com.br/politica/judiciario/2026/9/15/fux-nega-contato-com-vorcaro-apos-provocacao-de-dino-no-plenario-e-divulgacao-de-mensagens)). A sessão terminou sem decisão, com placar provisório de 4 a 3 para julgar separados os casos de Moraes e de Mendonça, e Dino pediu vista ([O Tempo, 15/09/2026](https://www.otempo.com.br/politica/judiciario/2026/9/15/stf-interrompe-julgamento-e-nao-decide-sobre-investigacao-contra-moraes-e-sobre-mendonca)).
 

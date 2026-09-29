@@ -4,7 +4,7 @@ O STF tem hoje dez ministros. A vaga de [Luís Roberto Barroso](stf/luis-roberto
 
 ## Ministros em exercício
 
-Em ordem de antiguidade no tribunal. Entre parênteses, quem indicou e o ano da posse. A crise de setembro de 2026, ligada ao caso [Banco Master](banco-master.md), está na [linha do tempo da página de André Mendonça](stf/andre-mendonca.md#crise-de-setembro-de-2026).
+Em ordem de antiguidade no tribunal. Entre parênteses, quem indicou e o ano da posse. A crise de setembro de 2026, ligada ao caso [Banco Master](banco-master.md), está na página [Crise no STF (2026)](stf/crise-2026.md).
 
 - [Gilmar Mendes](stf/gilmar-mendes.md) (FHC, 2002): decano; pediu a vista que segurou o afastamento do diretor da PF e recebeu Vorcaro no gabinete em 2024
 - [Cármen Lúcia](stf/carmen-lucia.md) (Lula, 2006): deu o voto que negou o habeas corpus de Lula em 2018, depois declarou Moro parcial e formou a maioria que condenou Bolsonaro
