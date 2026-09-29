@@ -36,3 +36,9 @@
 .md-footer-last-updated::before {
   content: "🕐 ";
 }
+
+/* Nota destacada quando se chega a ela por um link da tabela */
+li:target {
+  background: var(--md-accent-fg-color--transparent);
+  border-radius: 0.2rem;
+}
