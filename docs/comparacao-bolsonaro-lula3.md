@@ -1,10 +1,10 @@
 # Comparação Bolsonaro x Lula 3
 
-Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, investimentos, bolsa de valores, empresas, indústria, infraestrutura, pobreza, desenvolvimento humano, saúde, educação, moradia, previdência, obras, segurança e meio ambiente.
+Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, investimentos, bolsa de valores, empresas, indústria, infraestrutura, pobreza, desenvolvimento humano, saúde, educação, ciência, cultura, turismo, moradia, previdência, obras, segurança, povos indígenas e meio ambiente.
 
 **Legenda:** ✅ melhor no Lula 3 · ⚠️ pior no Lula 3 · ➖ parecido ou misto ([como os ícones são definidos](#nota-icones))
 
-**Resumo:** ✅ 45 melhores · ⚠️ 7 piores · ➖ 5 parecidos ou mistos, em 57 indicadores.
+**Resumo:** ✅ 51 melhores · ⚠️ 7 piores · ➖ 7 parecidos ou mistos, em 65 indicadores.
 
 ## Economia
 
@@ -80,6 +80,7 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | ✅ Extrema pobreza | 5,9% da população (2022) | 3,5% (2024), menor nível da série | [IBGE, 2022](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/42043-em-2023-pobreza-no-pais-cai-ao-menor-nivel-desde-2012) e [IBGE, 2024](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/45344-8-6-milhoes-de-pessoas-sairam-da-pobreza-entre-2023-e-2024) |
 | ✅ Fome ([nota](#nota-fome)) | Brasil voltou ao Mapa da Fome. Insegurança alimentar grave de 6,6% (2021) | Brasil saiu do Mapa da Fome. Insegurança alimentar grave de 3,4% (média 2022–2024) | [FAO/ONU](https://brasil.un.org/pt-br/299851-artigo-brasil-voltou-sair-do-mapa-da-fome) |
 | ➖ Desigualdade de renda (índice de Gini) ([nota](#nota-gini)) | caiu de 0,545 para 0,517 (2018 a 2022) | caiu de 0,517 para 0,511 (2022 a 2025), com 0,504 em 2024, o menor da série | [IBGE](https://sidra.ibge.gov.br/tabela/7435) |
+| ✅ Bolsa Família: benefício mínimo permanente ([nota](#nota-bolsa-familia)) | R$ 400 por família. Os R$ 600 valeram só de agosto a dezembro de 2022, e o Orçamento de 2023 enviado pelo governo previa média de R$ 405 | R$ 600, mais R$ 150 por criança de até 6 anos. O mínimo passa a R$ 691 em out/2026 | [Lei 14.342/2022](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14342.htm), [Emenda 123](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm), [InfoMoney](https://www.infomoney.com.br/politica/governo-manda-orcamento-com-auxilio-brasil-de-r-40500-em-2023-apesar-de-bolsonaro-prometer-r-60000/), [Lei 14.601/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14601.htm) e [MDS](https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro) |
 
 ## Desenvolvimento humano
 
@@ -111,6 +112,14 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | ✅ Universidades federais criadas por lei ([nota](#nota-universidades)) | 1, a do Norte do Tocantins (2019), de projeto do governo Dilma. Outras 5, criadas por leis de 2018, no governo Temer, começaram a funcionar em 2019 | 3 (set/2026): a da Fronteira Norte, no Amapá, e as de Ciência e Inovação de Minas Gerais e do Rio de Janeiro, antigos Cefets. Outras 2, a Indígena e a do Esporte, foram propostas ao Congresso em nov/2025 | [Lei 13.856/2019](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13856.htm), [Aos Fatos](https://www.aosfatos.org/noticias/bolsonaro-universidades-inauguradas/), Leis [15.520](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15520.htm) e [15.521/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15521.htm) e [CartaCapital](https://www.cartacapital.com.br/educacao/lula-anuncia-criacao-de-duas-universidades-federais-e-espera-aval-do-congresso/) |
 | ✅ Novos campi de institutos federais ([nota](#nota-institutos-federais)) | 12 autorizados (2020–2022), 6 funcionando em ago/2022 | 62 dos 111 novos campi autorizados até jul/2026, e mais 19 unidades em set/2026 | [Aos Fatos](https://www.aosfatos.org/noticias/bolsonaro-universidades-inauguradas/), [MEC, jul/2026](https://www.apufsc.org.br/2026/07/07/mec-autoriza-funcionamento-de-24-novos-campi-de-institutos-federais/) e [set/2026](https://www.portaldacapital.com/2026/09/27/lula-assina-portarias-de-autorizacao-para-19-novas-unidades-de-institutos-federais-em-12-estados/) |
 
+## Ciência, cultura e turismo
+
+| Indicador | Bolsonaro | Lula 3 | Fonte |
+| --- | --- | --- | --- |
+| ✅ Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) ([nota](#nota-fndct)) | em 2022, uma medida provisória limitou o uso do fundo a R$ 5,6 bilhões | R$ 10 bilhões (2023) e R$ 12,7 bilhões (2024), usados por inteiro | [Câmara, 30/08/2022](https://www.camara.leg.br/noticias/905819-medida-provisoria-impoe-limites-para-aplicacao-de-recursos-do-fndct) e [Anprotec, 2025](https://anprotec.org.br/site/2025/01/fndct-bate-recordes-seguidos-em-investimentos-em-cti/) |
+| ✅ Leis de fomento à cultura (Paulo Gustavo e Aldir Blanc 2) ([nota](#nota-cultura)) | vetou as duas; derrubados os vetos, uma medida provisória tirou a obrigação de pagar, e o Orçamento de 2023 reservou só 8% dos R$ 3,86 bilhões da Lei Paulo Gustavo | R$ 3,8 bilhões da Lei Paulo Gustavo em 2023 e a Política Nacional Aldir Blanc, com R$ 3 bilhões por ano até 2027 | [Agência Brasil, 2022](https://agenciabrasil.ebc.com.br/politica/noticia/2022-07/congresso-derruba-veto-leis-aldir-blanc-e-paulo-gustavo), [Poder360, 2022](https://www.poder360.com.br/governo/com-mp-orcamento-traz-so-8-do-dinheiro-da-lei-paulo-gustavo/), [Agência Brasil, 2023](https://agenciabrasil.ebc.com.br/politica/noticia/2023-05/com-lei-paulo-gustavo-governo-garante-r-38-bilhoes-para-cultura) e [2023](https://agenciabrasil.ebc.com.br/geral/noticia/2023-10/ministerio-da-cultura-lanca-politica-nacional-aldir-blanc) |
+| ✅ Turistas estrangeiros ([nota](#nota-turismo)) | nenhum ano acima de 6,77 milhões | 9 milhões (2025), recorde, 40% acima de 2024 | [Agência Sebrae](https://agenciasebrae.com.br/economia-e-politica/brasil-alcanca-recorde-de-9-milhoes-de-turistas-estrangeiros-em-2025-com-impacto-positivo-sobre-os-pequenos-negocios/) |
+
 ## Moradia
 
 | Indicador | Bolsonaro | Lula 3 | Fonte |
@@ -136,12 +145,21 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | Indicador | Bolsonaro | Lula 3 | Fonte |
 | --- | --- | --- | --- |
 | ✅ Mortes violentas intencionais ([nota](#nota-seguranca)) | caiu de 27,5 para 23,4 por 100 mil habitantes (2018 a 2022) | caiu de 23,4 para 19,1 por 100 mil habitantes (2022 a 2025), menor taxa em 13 anos | [FBSP, 2018](https://agenciabrasil.ebc.com.br/geral/noticia/2019-09/numero-de-mortes-violentas-no-pais-cai-1043-de-2017-para-2018), [2022](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-07/mortes-violentas-intencionais-no-pais-caem-24-em-2022) e [2025](https://www.cnnbrasil.com.br/nacional/brasil/mortes-violentas-caem-82-no-brasil-em-2025-sete-estados-registram-alta/) |
+| ✅ Armas registradas por CACs (aumento por ano) ([nota](#nota-armas)) | cerca de 230 mil por ano: de 351 mil (2018) para 1,28 milhão (dez/2022) | cerca de 60 mil por ano: 1,37 milhão (jun/2024) | [Nexo, 2022](https://www.nexojornal.com.br/extra/2022/08/31/armas-registradas-por-cacs-ultrapassam-1-milhao-em-3-anos) e [Estadão, via Sou da Paz, 2024](https://soudapaz.org/estadao-decreto-antiarmas-do-governo-lula-surtiu-efeito-numeros-dos-cacs-indicam-que-nao-veja-os-dados/) |
+| ➖ Feminicídios ([nota](#nota-feminicidios)) | subiu de 1.229 para 1.455 (2018 a 2022) | subiu de 1.455 para 1.571 (2022 a 2025), quarto recorde seguido | [FBSP, 2018 a 2022](https://forumseguranca.org.br/wp-content/uploads/2026/03/nota-tecnica-dia-mulher-2026.pdf) e [2025](https://www.cnnbrasil.com.br/nacional/brasil/brasil-bate-recorde-de-feminicidios-pelo-quarto-ano-seguido/) |
+
+## Povos indígenas
+
+| Indicador | Bolsonaro | Lula 3 | Fonte |
+| --- | --- | --- | --- |
+| ✅ Terras indígenas homologadas ([nota](#nota-terras-indigenas)) | nenhuma | 20 (jan/2023 a nov/2025) | [A Pública](https://apublica.org/2023/04/nenhum-centimetro-de-terra-indigena-como-o-governo-bolsonaro-agiu-para-cumprir-promessa/) e [RBA](https://cop.dol.com.br/amazonia/lula-homologa-novas-terras-indigenas-e-gestao-chega-a-20-territorios-reconhecidos-desde-2023/10087/) |
 
 ## Meio ambiente
 
 | Indicador | Bolsonaro | Lula 3 | Fonte |
 | --- | --- | --- | --- |
 | ✅ Desmatamento na Amazônia | 11.594 km² (2022) | 5.796 km² (2025), menor em 11 anos | [Inpe, 2022](https://oeco.org.br/salada-verde/inpe-publica-taxa-consolidada-do-prodes-2022-amazonia-perdeu-11-594-km%C2%B2/) e [Inpe, 2025](https://data.inpe.br/biomasbr/dados-do-prodes-apontam-reducao-no-desmatamento-na-amazonia-e-no-cerrado-brasileiros/) |
+| ➖ Focos de queimadas (média ao ano) ([nota](#nota-queimadas)) | cerca de 201 mil (2019–2022) | cerca de 201 mil (2023–2025): 190 mil em 2023, 278 mil em 2024 e 134 mil em 2025 | [Inpe](https://data.inpe.br/queimadas/bdqueimadas/), [2023 e 2024](https://www.cnnbrasil.com.br/nacional/brasil-registrou-2783-mil-focos-de-incendio-em-2024-diz-inpe/) e [2025](https://www.poder360.com.br/poder-sustentavel/brasil-tem-queda-de-518-no-numero-de-focos-de-queimadas-em-2025/) |
 
 ## Por que a dívida subiu
 
@@ -172,6 +190,8 @@ Fonte: notas de estatísticas fiscais do Banco Central de [2019](https://www.bcb
 - [Caged: troca da coleta pelo eSocial em 2020 – Ipea](https://repositorio.ipea.gov.br/bitstreams/bf4c4482-c056-44c9-88a2-5438594b8d66/download): o eSocial capta contratos temporários que o Caged antigo não registrava. O governo Bolsonaro tem 2019 num método e 2020 a 2022 no outro, então não há total comparável. Os dados de trabalho do IBGE, na seção Trabalho e renda, não têm essa quebra.
 
 - [Fies: adesão cai 94% em 11 anos – O Tempo](https://www.otempo.com.br/economia/2025/6/9/exaustao-adesao-ao-fies-cai-94-em-11-anos-no-brasil-e-inadimplencia-chega-a-60-dos-contratos): o MEC não publica o total de novos contratos de 2022, então não há comparação direta. Segundo o ministério, foram 732.645 em 2014 e 43.827 em 2024. A queda vem de 2015 e se aprofundou com a reforma de 2017, no governo Temer, que criou o Novo Fies.
+
+- [Número de famílias assentadas cresce 612% com Lula – Poder360](https://www.poder360.com.br/governo/np-numero-de-familias-assentadas-cresce-612-com-lula/): o governo diz ter incluído 50.592 famílias na reforma agrária em 2023, contra 7.105 em 2022, e 71 mil em 2024. O próprio MST contesta: segundo o movimento, boa parte é regularização de famílias que já estavam no lote ([Repórter Brasil](https://reporterbrasil.org.br/2025/01/governo-assentado-71-mil-familias-2024-mst-contesta/)). Com o dado contestado até por aliados, o indicador ficou de fora.
 
 - [Participação da indústria de transformação no PIB – IBGE](https://sidra.ibge.gov.br/tabela/1846): em valores correntes, subiu de 10,5% para 13,1% no governo Bolsonaro e caiu para 11,8% no Lula 3, por efeito de preços. A preços constantes ([IBGE](https://sidra.ibge.gov.br/tabela/6612)), a participação caiu nos dois governos.
 
@@ -209,6 +229,8 @@ Fonte: notas de estatísticas fiscais do Banco Central de [2019](https://www.bcb
 {: #nota-fome }
 - Gini: vai de 0 a 1, e quanto menor, menos desigual é a renda. A série do IBGE começa em 2012.
 {: #nota-gini }
+- Bolsa Família: o benefício mínimo é o valor garantido a cada família. No fim de 2018, o Bolsa Família atendia 14,1 milhões de famílias. O Auxílio Brasil chegou a 21,6 milhões em dezembro de 2022, com valor médio de R$ 607,14 ([Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2022-12/pagamento-da-parcela-de-dezembro-do-auxilio-brasil-comeca-hoje)). No Lula 3, o número caiu para 18,71 milhões em dezembro de 2025 ([Poder360](https://www.poder360.com.br/poder-governo/bolsa-familia-volta-a-crescer-em-2026-depois-de-queda-em-2025/)), depois de um pente-fino que cancelou 3,7 milhões de benefícios irregulares em um ano ([Correio Braziliense](https://www.correiobraziliense.com.br/brasil/2024/01/6787285-bolsa-familia-pente-fino-susta-37-milhoes-de-beneficios-em-um-ano.html)). O Poder360 chamou esse pente-fino de "tímido" e registrou que, até o fim de 2024, 1,6 milhão de famílias de uma só pessoa tinham deixado o programa ([Poder360](https://www.poder360.com.br/poder-governo/apos-boom-com-bolsonaro-lula-faz-pente-fino-timido-no-bolsa-familia/)). O resultado que o programa busca, a queda da pobreza, está na linha de extrema pobreza. O reajuste de 15,04% que leva o mínimo a R$ 691 foi anunciado pelo MDS em 17/09/2026.
+{: #nota-bolsa-familia }
 - IDHM: Radar IDHM, do PNUD Brasil com a Fundação João Pinheiro e o IBGE, calculado com a PNAD Contínua desde 2012. Vai de 0 a 1, e a faixa "muito alto" começa em 0,800. É uma faixa do índice, não a classificação de país desenvolvido. Nas dimensões, de 2018 a 2022 e depois até 2024, a renda foi de 0,741 para 0,745 e 0,760, a longevidade de 0,850 para 0,841 e 0,860, e a educação de 0,744 para 0,780 e 0,798, no mesmo ritmo por ano nos dois governos. A perda pela desigualdade é quanto o índice cai quando se descontam as desigualdades dentro de cada dimensão.
 {: #nota-idhm }
 - IDH global: o índice da ONU usa outros indicadores e não se compara com o IDHM. No relatório de 2025, o Brasil tem 0,774 (2018), 0,780 (2022) e 0,786 (2023), em 84º lugar e na faixa "alto" ([PNUD](https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_complete_time_series.csv)). O PNUD recalcula a série a cada relatório, então posições de edições diferentes não se comparam.
@@ -233,6 +255,12 @@ Fonte: notas de estatísticas fiscais do Banco Central de [2019](https://www.bcb
 {: #nota-universidades }
 - Institutos federais: os campi autorizados no governo Bolsonaro são os informados pela Setec, do MEC, ao Aos Fatos em agosto de 2022. No Lula 3, os 111 novos campi fazem parte do Novo PAC. Autorizar o funcionamento não é o mesmo que inaugurar: parte dos campi ainda está em obras.
 {: #nota-institutos-federais }
+- FNDCT: principal fundo de financiamento da ciência no país. A medida provisória 1.136, de agosto de 2022, fixou em R$ 5,555 bilhões o limite para aquele ano ([Câmara](https://www.camara.leg.br/noticias/905819-medida-provisoria-impoe-limites-para-aplicacao-de-recursos-do-fndct)). Em 2023, o fundo foi liberado por inteiro, e o orçamento foi usado integralmente ([Anprotec](https://anprotec.org.br/site/2025/01/fndct-bate-recordes-seguidos-em-investimentos-em-cti/)).
+{: #nota-fndct }
+- Cultura: a Lei Paulo Gustavo destinou R$ 3,86 bilhões ao setor cultural afetado pela pandemia, e a Aldir Blanc 2, R$ 3 bilhões por ano. A medida provisória 1.135/2022 transformou a obrigação de pagar em autorização ([Poder360](https://www.poder360.com.br/governo/com-mp-orcamento-traz-so-8-do-dinheiro-da-lei-paulo-gustavo/)). Contraponto: em 2024, os R$ 3 bilhões previstos para a Política Nacional Aldir Blanc não foram executados no ano, por mudanças de regras e atraso no primeiro ciclo, repassado entre novembro de 2023 e março de 2024 ([TCU](https://sites.tcu.gov.br/relatorio-de-politicas/politica-nacional-aldir-blanc.html)).
+{: #nota-cultura }
+- Turismo: chegadas de turistas internacionais, medidas pela Embratur com a Polícia Federal. O recorde anterior a 2025 era o de 2024, com 6,77 milhões, então nenhum ano do governo Bolsonaro passou desse número. A pandemia derrubou as viagens em 2020 e 2021.
+{: #nota-turismo }
 - Moradia: a Faixa 1 atende as famílias de menor renda, com maior subsídio. Os contratos dessa faixa foram retomados em fevereiro de 2024, após cinco anos parados.
 {: #nota-moradia }
 - Previdência: requerimentos iniciais pendentes de análise, que é uma das três métricas chamadas de "fila". A demanda cresceu 45% no período, de 897 mil pedidos por mês em 2023 para 1,3 milhão em 2026, então o mesmo estoque absoluto significa uma espera menor. O anúncio de fila zerada, em setembro de 2026, usa outro critério: estoque menor que a entrada mensal de novos pedidos. A queda da fila em 2026 veio junto com alta de cerca de 70% nos indeferimentos. A série completa, os critérios e os contrapontos estão em [Fila do INSS](temas/fila-do-inss.md).
@@ -241,3 +269,11 @@ Fonte: notas de estatísticas fiscais do Banco Central de [2019](https://www.bcb
 {: #nota-obras }
 - Segurança: dados do Anuário Brasileiro de Segurança Pública, do Fórum Brasileiro de Segurança Pública (FBSP), que revisa números de anos anteriores. O policiamento cabe principalmente aos estados.
 {: #nota-seguranca }
+- Armas de CACs: acervo de armas registradas por caçadores, atiradores e colecionadores, com dados do Exército obtidos pelos institutos Sou da Paz e Igarapé. O decreto 11.615, de julho de 2023, restabeleceu limites derrubados no governo Bolsonaro, mas não mexeu no acervo existente, e o programa de recompra não saiu do papel. Por isso o acervo continua crescendo, só que bem mais devagar.
+{: #nota-armas }
+- Feminicídios: dados do Anuário Brasileiro de Segurança Pública, que revisa os anos anteriores. O número é pior no Lula 3, mas cresceu mais devagar: 39 casos a mais por ano, contra 57 no governo Bolsonaro. Pela regra dos ícones, isso dá ➖. Todos os anos do Lula 3 bateram recorde, ao mesmo tempo em que as mortes violentas em geral caíram (ver a linha de mortes violentas, em Segurança pública). Em 2025, 44,4% das mulheres assassinadas foram vítimas de feminicídio, a maior proporção desde que o crime entrou no Código Penal, em 2015 ([CNN](https://www.cnnbrasil.com.br/nacional/brasil/brasil-bate-recorde-de-feminicidios-pelo-quarto-ano-seguido/)).
+{: #nota-feminicidios }
+- Terras indígenas: a homologação é a etapa final da demarcação, feita por decreto do presidente. Bolsonaro foi o único presidente desde a redemocratização que não avançou em nenhuma fase da demarcação ([A Pública](https://apublica.org/2023/04/nenhum-centimetro-de-terra-indigena-como-o-governo-bolsonaro-agiu-para-cumprir-promessa/)). O ritmo do Lula 3 é o menor dos três mandatos dele ([Metrópoles](https://www.metropoles.com/brasil/lula-registra-menor-media-de-terras-indigenas-demarcadas-no-3o-mandato)).
+{: #nota-terras-indigenas }
+- Queimadas: focos de calor detectados pelo satélite de referência do Inpe, de 1º de janeiro a 31 de dezembro (em 2025, até 23 de dezembro). Os números mudam muito com o clima: em 2024, a seca extrema levou ao maior número desde 2010; em 2025, com mais chuva, a queda foi de 51,8% ([Poder360](https://www.poder360.com.br/poder-sustentavel/brasil-tem-queda-de-518-no-numero-de-focos-de-queimadas-em-2025/)). O governo Bolsonaro teve 197,6 mil focos em 2019, 222,8 mil em 2020, 184,1 mil em 2021 e 200,8 mil em 2022 ([Inpe](https://data.inpe.br/queimadas/bdqueimadas/)).
+{: #nota-queimadas }
