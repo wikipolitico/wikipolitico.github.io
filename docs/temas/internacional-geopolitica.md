@@ -78,7 +78,7 @@
 
 ## Venezuela
 
-Os links desta seção foram para o acervo da página [Maduro e a Venezuela](maduro-e-a-venezuela.md#acervo-antigo).
+Os links desta seção estão distribuídos pelas seções da página [Maduro e a Venezuela](maduro-e-a-venezuela.md).
 
 ## EUA
 

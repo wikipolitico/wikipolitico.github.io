@@ -26,12 +26,10 @@
 - **09/06/2017 — com Temer no Planalto, a chapa é absolvida:** por 4 votos a 3, o TSE rejeitou a cassação. Gilmar Mendes, então presidente do tribunal, deu o quarto voto e disse: "Não imaginava cassar Dilma Rousseff no TSE" ([TSE, 09/06/2017](https://www.tse.jus.br/comunicacao/noticias/2017/Junho/por-4-votos-a-3-plenario-do-tse-decide-pela-nao-cassacao-da-chapa-dilma-e-temer)). O julgamento manteve Michel Temer na Presidência ([Conjur, 25/12/2017](https://www.conjur.com.br/2017-dez-25/julgamento-absolveu-chapa-dilma-temer-foi-destaque-junho/)).
 - **20/07/2021 — nem Aécio acredita em fraude:** quando Bolsonaro prometeu provar "na semana que vem" uma fraude na eleição de 2014, Aécio disse à CNN que não havia nenhum indício de fraude ([CNN, 20/07/2021](https://www.youtube.com/watch?v=kRllaA4carY)). A prova nunca veio (ver [A mentira da fraude nas urnas](teorias-conspiratorias.md#a-mentira-da-fraude-nas-urnas)).
 
-## Acervo antigo
+## O custo da campanha
 
-Links herdados da seção "Gastos na campanha 2014", da página [Partidos Políticos](partidos-politicos.md).
-
-- [O custo da eleição de 2014](http://www.pragmatismopolitico.com.br/2014/11/o-custo-da-eleicao-de-2014.html)
-- [Câmara aprova projeto que limita gastos de campanhas eleitorais](http://agenciabrasil.ebc.com.br/politica/noticia/2015-07/camara-aprova-projeto-que-altera-legislacao-eleitoral)
+- [O custo da eleição de 2014 – Pragmatismo Político, 14/11/2014](http://www.pragmatismopolitico.com.br/2014/11/o-custo-da-eleicao-de-2014.html): quanto custou a campanha
+- [Câmara aprova projeto que limita gastos de campanhas eleitorais – Agência Brasil, 09/07/2015](http://agenciabrasil.ebc.com.br/politica/noticia/2015-07/camara-aprova-projeto-que-altera-legislacao-eleitoral): o limite de gastos aprovado pela Câmara no ano seguinte
 
 ## Ver também
 

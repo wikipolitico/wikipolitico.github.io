@@ -28,17 +28,15 @@
 - **29/03/2016 — as desculpas de Moro:** em resposta a Teori, Moro admitiu que seu entendimento "possa ser considerado incorreto" e pediu "respeitosas escusas" ao STF ([Agência Brasil, 29/03/2016](https://agenciabrasil.ebc.com.br/politica/noticia/2016-03/moro-admite-ao-stf-equivoco-ao-divulgar-conversa-de-lula-e-dilma)).
 - **05/05/2016:** afastou Eduardo Cunha do mandato de deputado ([Wikipedia](https://pt.wikipedia.org/wiki/Teori_Zavascki)).
 
+### A pressão da extrema direita
+
+- [Protesto do MBL na frente da casa de Teori Zavascki em 22/03/2016 – YouTube](https://www.youtube.com/watch?v=uTxhY4DouXA&feature=push-u-sub&attr_tag=LYpsjbd7mrQ-6): o grupo de direita na porta do ministro · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=uTxhY4DouXA&feature=push-u-sub&attr_tag=LYpsjbd7mrQ-6)
+- [Relembre: intimidação de grupos de extrema direita a Teori Zavascki e sua família – YouTube](https://www.youtube.com/watch?v=BAD6BxP6wx8&feature=push-u-sub&attr_tag=iwX0SV-MzoI-6): as ameaças ao relator da [Lava Jato](../farsa-da-lava-jato.md) e à família dele · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=BAD6BxP6wx8&feature=push-u-sub&attr_tag=iwX0SV-MzoI-6)
+
 ## A morte
 
 - **19/01/2017:** morreu na queda de um avião no mar, perto de Paraty (RJ), com outras quatro pessoas ([Wikipedia](https://pt.wikipedia.org/wiki/Teori_Zavascki)).
 - **22/01/2018:** o relatório final do Cenipa, da FAB, apontou o mau tempo e a desorientação espacial do piloto como causas. Não encontrou falha mecânica, e a PF descartou sabotagem ([Exame, 22/01/2018](https://exame.com/brasil/fab-divulga-relatorio-sobre-acidente-que-matou-zavascki-na-2a/)). As especulações sobre a queda estão em [Teorias Conspiratórias](../teorias-conspiratorias.md#teori-zavascki-ministro-do-stf-e-relator-da-lava-jato-19012017).
-
-## Acervo antigo
-
-Links da wiki antiga, mantidos como registro.
-
-- [Protesto do grupo de direita MBL na frente da casa do Teori Zavascki em 22/03/2016 - YouTube](https://www.youtube.com/watch?v=uTxhY4DouXA&feature=push-u-sub&attr_tag=LYpsjbd7mrQ-6) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=uTxhY4DouXA&feature=push-u-sub&attr_tag=LYpsjbd7mrQ-6)
-- [Relembre: intimidação de grupos de extrema direita a Teori Zavaschi e sua família - YouTube](https://www.youtube.com/watch?v=BAD6BxP6wx8&feature=push-u-sub&attr_tag=iwX0SV-MzoI-6) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=BAD6BxP6wx8&feature=push-u-sub&attr_tag=iwX0SV-MzoI-6)
 
 ## Ver também
 

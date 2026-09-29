@@ -34,11 +34,9 @@
 - **22/09/2023 — o aborto:** como relatora da ADPF 442, apresentada pelo PSOL em 2017, votou pela descriminalização do aborto até a 12ª semana de gestação. [Barroso](luis-roberto-barroso.md) pediu que o caso fosse levado ao plenário presencial, e o julgamento foi suspenso ([Agência Brasil, 22/09/2023](https://agenciabrasil.ebc.com.br/justica/noticia/2023-09/rosa-weber-vota-a-favor-da-descriminalizacao-do-aborto-na-12a-semana)).
 - Aposentou-se em 30/09/2023, antes de completar 75 anos ([CNN, 29/09/2023](https://www.cnnbrasil.com.br/politica/rosa-weber-deixa-stf-apos-liderar-reacao-ao-8-de-janeiro-e-pautar-casos-complexo/)).
 
-## Acervo antigo
+## Outras decisões
 
-Link da wiki antiga, mantido como registro.
-
-- [Rosa Weber concede liminar Trensalão Tucano](https://twitter.com/engajarte/status/581945524913369088?s=04)
+- [Rosa Weber concede liminar no trensalão tucano – Twitter, 28/03/2015](https://twitter.com/engajarte/status/581945524913369088?s=04): a decisão da ministra no caso do cartel de trens de São Paulo
 
 ## Ver também
 

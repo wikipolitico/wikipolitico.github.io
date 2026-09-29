@@ -38,11 +38,9 @@
 - **18/07/2025:** estava entre os ministros que tiveram o visto americano revogado pelo governo [Trump](../donald-trump.md), junto com [Alexandre de Moraes](alexandre-de-moraes.md) ([Migalhas, 19/07/2025](https://www.migalhas.com.br/quentes/435014/alem-de-moraes-outros-7-ministros-tiveram-o-visto-americano-cancelado)).
 - **Outubro de 2025:** anunciou a aposentadoria antecipada em 09/10 e deixou o tribunal em 18/10/2025 ([Wikipedia](https://pt.wikipedia.org/wiki/Lu%C3%ADs_Roberto_Barroso)). Lula indicou Jorge Messias para a vaga, e o Senado o rejeitou em 29/04/2026, por 42 a 34 ([Agência Senado, 29/04/2026](https://www12.senado.leg.br/noticias/materias/2026/04/29/indicacao-de-jorge-messias-ao-stf-e-rejeitada-pelo-senado)).
 
-## Acervo antigo
+## Outros links
 
-Link da wiki antiga, mantido como registro. O título não diz qual ministro teria recebido o dinheiro, e não achamos confirmação do fato em outra fonte.
-
-- [Ao vasculhar computador de Del Nero, PF descobre que Ministro do STF recebeu R$ 1,1 milhão da CBF - 04/11/2013](https://blogdopaulinho.com.br/2013/11/04/ao-vasculhar-computador-de-del-nero-pf-descobre-que-ministro-do-stf-recebeu-r-11-milhao-da-cbf/) · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://blogdopaulinho.com.br/2013/11/04/ao-vasculhar-computador-de-del-nero-pf-descobre-que-ministro-do-stf-recebeu-r-11-milhao-da-cbf/)
+- [Ao vasculhar computador de Del Nero, PF descobre que ministro do STF recebeu R$ 1,1 milhão da CBF – Blog do Paulinho, 04/11/2013](https://blogdopaulinho.com.br/2013/11/04/ao-vasculhar-computador-de-del-nero-pf-descobre-que-ministro-do-stf-recebeu-r-11-milhao-da-cbf/): o título não diz qual ministro teria recebido o dinheiro, e não achamos confirmação do fato em outra fonte · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://blogdopaulinho.com.br/2013/11/04/ao-vasculhar-computador-de-del-nero-pf-descobre-que-ministro-do-stf-recebeu-r-11-milhao-da-cbf/)
 
 ## Ver também
 

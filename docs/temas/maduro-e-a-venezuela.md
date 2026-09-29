@@ -19,6 +19,11 @@
 - **15/09/2021 — as sanções:** a relatora especial da ONU Alena Douhan apresentou o relatório final sobre as sanções contra a Venezuela, de efeito "devastador". Segundo ela, principalmente por causa das sanções dos EUA, o país ficou sem conseguir comprar equipamentos e insumos para manter a eletricidade, o gás, a água, o transporte público e as telecomunicações ([Brasil de Fato, 15/09/2021](https://www.brasildefato.com.br/2021/09/15/relatora-da-onu-defende-suspensao-imediata-das-sancoes-economicas-contra-a-venezuela/)).
 - **16/07/2026 — a fraude que a CIA não confirmou:** o governo Trump divulgou documentos da CIA sobre as eleições venezuelanas de 2004 a 2020 para acusar Maduro de fraude com as máquinas da Smartmatic. Os documentos falam de um plano para alterar votos em 2012, mas concluem que "não houve fraude eletrônica em larga escala, apesar de relatos de planos de manipulação", e que nem a Smartmatic nem o governo venezuelano tinham como manipular eleições fora da Venezuela ([Lupa, 17/07/2026](https://www.agencialupa.org/noticias/2026/07/17/smartmatic-citada-em-relatorio-da-cia-sobre-eleicoes-venezuelanas-nao-desenvolveu-urnas-do-brasil/)). [Flávio Bolsonaro](flavio-bolsonaro.md) usou esses documentos para mentir sobre as urnas brasileiras (ver [A mentira da fraude nas urnas](teorias-conspiratorias.md#a-mentira-da-fraude-nas-urnas)).
 
+### O sistema eleitoral elogiado por Jimmy Carter
+
+- [Jimmy Carter sobre o melhor sistema eleitoral do mundo – YouTube, 15/04/2013](https://www.youtube.com/watch?v=rI4z_N2L3nI): o ex-presidente dos EUA elogia o sistema eleitoral venezuelano
+- ["Processo eleitoral na Venezuela é o melhor do mundo", diz Jimmy Carter – Opera Mundi](http://operamundi.uol.com.br/conteudo/noticias/24425/processo+eleitoral+na+venezuela+e+o+melhor+do+mundo+diz+jimmy+carter.shtml): a mesma declaração de Carter, no Opera Mundi · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/noticias/24425/processo+eleitoral+na+venezuela+e+o+melhor+do+mundo+diz+jimmy+carter.shtml)
+
 ## O calote da Venezuela no BNDES
 
 - **1998 a 2015 — o dinheiro ficou no Brasil:** o financiamento do BNDES à exportação de serviços de engenharia foi criado no governo FHC, em 1998, e o primeiro contrato para a Venezuela saiu em 2001, ainda com FHC ([Brasil de Fato, 08/02/2023](https://www.brasildefato.com.br/2023/02/08/x-brasil-saiu-perdendo-ao-liberar-emprestimos-do-bndes-para-obras-na-venezuela/)). O BNDES não empresta dinheiro a outro país: libera o dinheiro em reais, no Brasil, para a empresa brasileira, depois de comprovada a exportação. Entre 2003 e 2018, esse apoio foi 1,3% do que o banco desembolsou, contra 36% em infraestrutura ([BNDES](https://www.bndes.gov.br/wps/portal/site/home/transparencia/consulta-operacoes-bndes/contratos-exportacao-bens-servicos-engenharia)).
@@ -37,56 +42,51 @@
 
 ## A captura e o processo
 
-- **03/01/2026 — a captura:** forças dos EUA bombardearam a Venezuela e capturaram Maduro e a mulher dele, Cilia Flores ([Brasil de Fato, 03/01/2026](https://www.brasildefato.com.br/2026/01/03/lula-condena-ataque-dos-eua-a-venezuela-e-sequestro-de-maduro-lembra-os-piores-momentos-da-interferencia-na-politica-da-america-latina/)). Em maio de 2020, na Operação Gedeon, mercenários da empresa americana Silvercorp já tinham tentado entrar na Venezuela por mar para capturar Maduro, e dois ex-militares americanos foram presos ([Wikipedia](https://en.wikipedia.org/wiki/Operation_Gideon_%282020%29); mais links no [Acervo antigo](#operation-gedeon-tentativa-de-invasao-em-2020)).
+- **03/01/2026 — a captura:** forças dos EUA bombardearam a Venezuela e capturaram Maduro e a mulher dele, Cilia Flores ([Brasil de Fato, 03/01/2026](https://www.brasildefato.com.br/2026/01/03/lula-condena-ataque-dos-eua-a-venezuela-e-sequestro-de-maduro-lembra-os-piores-momentos-da-interferencia-na-politica-da-america-latina/)). Em maio de 2020, na Operação Gedeon, mercenários da empresa americana Silvercorp já tinham tentado entrar na Venezuela por mar para capturar Maduro, e dois ex-militares americanos foram presos ([Wikipedia](https://en.wikipedia.org/wiki/Operation_Gideon_%282020%29); mais links em [A Operação Gedeon (2020)](#a-operacao-gedeon-2020)).
 - **22/07/2026 — julgamento marcado:** o juiz federal Alvin Hellerstein marcou para 01/06/2027 o julgamento de Maduro e de Cilia Flores em Nova York. A defesa vai pedir o arquivamento, alegando que Maduro tem imunidade de chefe de Estado ([InfoMoney, 22/07/2026](https://www.infomoney.com.br/mundo/juiz-dos-eua-marca-julgamento-de-nicolas-maduro-para-junho-de-2027/)).
 
-## Acervo antigo
+## As sanções e a sabotagem
 
-Links da wiki antiga, mantidos como registro.
+- [Em seis anos de bloqueio, Venezuela foi alvo de 150 sanções e 11 tentativas de golpe – Brasil de Fato, 08/10/2020](https://www.brasildefato.com.br/2020/10/08/em-seis-anos-de-bloqueio-venezuela-foi-alvo-de-150-sancoes-e-11-tentativas-de-golpe): o impacto econômico dos embargos desde 2014
+- [Venezuela denuncia EUA por crimes de lesa-humanidade – Rede TVT (YouTube), 19/02/2020](https://www.youtube.com/watch?v=e65WVZZKn2Q): a acusação venezuelana contra os EUA
+- [Por que Donald Trump me sanciona? Com a palavra, Nicolás Maduro – Facebook](https://www.facebook.com/watch/?ref=saved&v=1630568893620859): Maduro sobre as sanções de [Trump](donald-trump.md)
+- [Venezuela descobre toneladas de alimentos escondidos por empresários para desestabilizar governo – Portal do Movimento Popular](http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/): alimentos estocados por empresários, segundo o site · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/)
+- [Empresas escondem toneladas de alimentos da população para boicotar o governo na Venezuela – Diário Liberdade](http://www.diarioliberdade.org/america-latina/laboral-economia/53683-empresas-escondem-toneladas-de-alimentos-da-popula%C3%A7%C3%A3o-para-boicotar-o-governo-na-venezuela.html): a mesma denúncia, no Diário Liberdade
+- [Venezuela descobre toneladas de alimentos escondidos por empresários – Socialista Morena (Facebook)](https://www.facebook.com/SocialistaMorena/posts/830527017007803): a mesma denúncia, na página Socialista Morena
 
-- [Deputado Ivan Valente fala sobre a Venezuela e discute com opositor - YouTube](https://www.youtube.com/watch?v=M7ENHQiJc1g)
-- [ONU: Em 10 anos Venezuela reduziu pobreza em 50%](http://www.diarioliberdade.org/america-latina/repressom-e-direitos-humanos/18802-onu-em-10-anos-venezuela-reduziu-pobreza-em-50.html)
-- [Venezuela | Data](http://datos.bancomundial.org/pais/venezuela)
-- [George Galloway Oxford University Venezuela Legendado - YouTube](https://www.youtube.com/watch?v=OIqicTjQG3M) · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=OIqicTjQG3M)
-- [O QUE ESTÁ ACONTECENDO NA VENEZUELA?](https://www.facebook.com/watch/?ref=saved&v=439266916534504)
+## As tentativas de derrubar Maduro
 
-### Sistema Eleitoral
+### A invasão da embaixada em Brasília (2019)
 
-- [Jimmy Carter sobre o melhor sistema eleitoral do mundo](https://www.youtube.com/watch?v=rI4z_N2L3nI)
-- [Opera Mundi - "Processo eleitoral na Venezuela é o melhor do mundo", diz Jimmy Carter](http://operamundi.uol.com.br/conteudo/noticias/24425/processo+eleitoral+na+venezuela+e+o+melhor+do+mundo+diz+jimmy+carter.shtml) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://operamundi.uol.com.br/conteudo/noticias/24425/processo+eleitoral+na+venezuela+e+o+melhor+do+mundo+diz+jimmy+carter.shtml)
+- [Representante do Itamaraty está entre os invasores da embaixada da Venezuela – Brasil 247, 13/11/2019](https://www.brasil247.com/brasil/representante-do-itamaraty-esta-entre-os-invasores-da-embaixada-da-venezuela-e-tenta-legitimar-agressao#.XcwNmCrpatE.twitter): um funcionário do governo Bolsonaro entre os invasores, segundo o Brasil 247
+- [Eduardo Bolsonaro apoia invasão da embaixada da Venezuela em Brasília – Facebook de Guilherme Boulos](https://www.facebook.com/guilhermeboulos/posts/1506017729548773): o filho do presidente apoiou a invasão, segundo Boulos
+- [Líder da invasão à embaixada da Venezuela foi duas vezes ao Palácio do Planalto – Conversa Afiada (Facebook)](https://www.facebook.com/Conversa.Afiada.Oficial/posts/3339326916094146): as visitas do líder da invasão ao Planalto, segundo o Conversa Afiada
 
-### Hugo Chávez
+### A Operação Gedeon (2020)
 
-- [HUGO CHÁVEZ FOI ASSASSINADO assista este vídeo antes que os illuminatis... - YouTube](https://www.youtube.com/watch?v=suqvOnXBZdk&index=3&t=118s&list=PLw7bwcrlLw6Ih9rTTo27EaZMCpgow04bx)
-- [Identifican la Nanoarma con que asesinaron a Hugo Chávez - En el artículo «Firmas por espejitos» publicado por Aporrea el 26/05/2016, se menciona brevemente el: con qué, cómo, cuándo, por qué, para qué y quiénes asesinaron al ex presidente de Venezuela Hugo Rafael Chávez Frías. Las respuestas a estas preguntas fueron obtenidas de una Investigación Documental. A continuación se ampliará el con qué y quiénes.](https://www.facebook.com/permalink.php?story_fbid=766164176878199&id=223843157776973)
-- [Quando o Chávez destruiu o W. Bush](https://www.facebook.com/watch/?ref=saved&v=1465781970099553)
-- [Na Assembleia Geral, ONU homenageia Hugo Chávez e lembra seu compromisso com a justiça social](https://nacoesunidas.org/na-assembleia-geral-onu-homenageia-hugo-chavez-e-lembra-seu-compromisso-com-a-justica-social/)
+- [05.04.20: Operation Gedeon – In Venezuela, 05/05/2020](https://in-venezuela.com/2020/05/05/05-04-20-operation-gedeon/): o relato da tentativa de invasão
+- [A guerra é só um negócio – Facebook de Elaine Tavares](https://www.facebook.com/elaine.tavares.520/posts/3061680617222918): dois dos mercenários capturados eram veteranos das forças especiais dos EUA, segundo o post
+- [Maduro diz que guardas de Trump estariam entre detidos por invasão à Venezuela – Sputnik Brasil (Facebook)](https://www.facebook.com/OfficialSputnikBrasil/posts/918281825261192): a acusação de Maduro sobre os capturados
+- [Exército venezuelano captura mercenários ligados a Guaidó – Redfish (Facebook)](https://www.facebook.com/Redfishstream/posts/954804368296728): oito mercenários, entre eles dois americanos, capturados num plano que envolvia sequestrar Maduro, segundo o post
+- [Estados Unidos, Colômbia e Guaidó envolvidos em golpe na Venezuela – Rede TVT (YouTube), 09/05/2020](https://www.youtube.com/watch?v=WStI6Bbjmi8): quem estava por trás da operação, segundo a reportagem
+- [Venezuela apreende 3 lanchas da Marinha da Colômbia em seu território – Sputnik Brasil (Facebook)](https://www.facebook.com/OfficialSputnikBrasil/posts/921978728224835): a apreensão das lanchas colombianas
+- [Mercenários presos – Facebook](https://www.facebook.com/RunildoPinto/posts/10222153647574635): post sobre os mercenários presos
+- [Venezuela intercepta mercenários norte-americanos que queriam capturar Maduro – Causa Operária TV (YouTube), 10/05/2020](https://www.youtube.com/watch?v=Hv723GtPsNw): o PCO sobre a interceptação dos mercenários
 
-### Embargos Econômicos / Sabotagem
+## Hugo Chávez
 
-- [Venezuela denuncia EUA por crimes de lesa-humanidade 📰 - YouTube](https://www.youtube.com/watch?v=e65WVZZKn2Q)
-- [Por que Donald Trump me sanciona? Com a palavra Nicolas Maduro](https://www.facebook.com/watch/?ref=saved&v=1630568893620859)
-- [Portal do Movimento Popular - Aqui você tem voz Venezuela descobre toneladas de alimentos escondidos por empresários para destabilizar governo](http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/) · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/)
-- [Empresas escondem toneladas de alimentos da população para boicotar o governo na Venezuela](http://www.diarioliberdade.org/america-latina/laboral-economia/53683-empresas-escondem-toneladas-de-alimentos-da-popula%C3%A7%C3%A3o-para-boicotar-o-governo-na-venezuela.html)
-- [Venezuela descobre toneladas de alimentos escondidos por empresários para destabilizar governo](https://www.facebook.com/SocialistaMorena/posts/830527017007803)
-- [Em seis anos de bloqueio, Venezuela foi alvo de 150 sanções e 11 tentativas de golpe - Estudos mostram impacto econômico dos embargos contra o país desde 2014; eleições deste ano acirram tensão com os EUA - 20/10/2020](https://www.brasildefato.com.br/2020/10/08/em-seis-anos-de-bloqueio-venezuela-foi-alvo-de-150-sancoes-e-11-tentativas-de-golpe)
+- [Na Assembleia Geral, ONU homenageia Hugo Chávez e lembra seu compromisso com a justiça social – ONU Brasil](https://nacoesunidas.org/na-assembleia-geral-onu-homenageia-hugo-chavez-e-lembra-seu-compromisso-com-a-justica-social/): a homenagem das Nações Unidas a Chávez
+- [Quando Chávez destruiu W. Bush – Facebook](https://www.facebook.com/watch/?ref=saved&v=1465781970099553): o discurso de Chávez contra George W. Bush
+- [Hugo Chávez foi assassinado – SpiritOnlineTv (YouTube), 04/04/2013](https://www.youtube.com/watch?v=suqvOnXBZdk&index=3&t=118s&list=PLw7bwcrlLw6Ih9rTTo27EaZMCpgow04bx): o vídeo defende a tese de que Chávez foi assassinado
+- [Identifican la nanoarma con que asesinaron a Hugo Chávez – Facebook](https://www.facebook.com/permalink.php?story_fbid=766164176878199&id=223843157776973): texto que atribui a morte de Chávez a uma "nanoarma", com base num artigo do site Aporrea
 
-### Tentativa de invasão da Embaixada da Venezuela no Brasil
+## Dados e debates sobre a Venezuela
 
-- [Representante do Itamaraty está entre os invasores da embaixada da Venezuela e tenta legitimar agressão](https://www.brasil247.com/brasil/representante-do-itamaraty-esta-entre-os-invasores-da-embaixada-da-venezuela-e-tenta-legitimar-agressao#.XcwNmCrpatE.twitter)
-- [Eduardo Bolsonaro apoia invasão da embaixada da Venezuela em Brasília](https://www.facebook.com/guilhermeboulos/posts/1506017729548773)
-- [Líder da invasão à embaixada da Venezuela foi duas vezes ao Palácio do Planalto.](https://www.facebook.com/Conversa.Afiada.Oficial/posts/3339326916094146)
-
-### Operation Gedeon (Tentativa de invasão em 2020)
-
-- [A GUERRA É SÓ UM  NEGÓCIO - Foi confirmada a identidade de pelo menos dois mercenários oriundos dos Estados Unidos, capturados por pescadores no litoral da Venezuela, na tentativa de formação de núcleo armado de oposição: Luke Denman e Airon Barry, ambos veteranos das guerras contra o Iraque e Afeganistão, ex-integrantes das Forças de Operações Especiais. Segundo informações eles são "instrutores" de grupos de oposição nos países onde os EUA não são os "chefes". Ou seja, são "trabalhadores da guerra", operacionais para a formação de grupos armados. Estão por toda a parte e se movem menos por ideologia, mais por dinheiro. A guerra é um negócio.](https://www.facebook.com/elaine.tavares.520/posts/3061680617222918)
-- [05.04.20: Operation Gedeon | In Venezuela](https://in-venezuela.com/2020/05/05/05-04-20-operation-gedeon/)
-- [Maduro diz que guardas de Trump estariam entre detidos por invasão à Venezuela.](https://www.facebook.com/OfficialSputnikBrasil/posts/918281825261192)
-- [O exército venezuelano capturou oito mercenários armados com laços com o golpe de direita apoiado pelos EUA Juan Guaido. Os mercenários supostamente incluíram dois americanos que estavam tentando se infiltrar no país de barco da Colômbia como parte de um golpe de golpe que envolveria sequestro do presidente Nicolas Maduro.](https://www.facebook.com/Redfishstream/posts/954804368296728)
-- [Estados Unidos, Colômbia e Guaidó envolvidos em golpe na Venezuela 📰 - YouTube](https://www.youtube.com/watch?v=WStI6Bbjmi8)
-- [Venezuela apreende 3 lanchas da Marinha da Colômbia em seu território (FOTOS).](https://www.facebook.com/OfficialSputnikBrasil/posts/921978728224835)
-- [Mercenários presos](https://www.facebook.com/RunildoPinto/posts/10222153647574635)
-- [Venezuela intercepta mercenários norte-americanos que queriam capturar Maduro. É preciso defendê-la. - YouTube](https://www.youtube.com/watch?v=Hv723GtPsNw)
+- [Venezuela: dados – Banco Mundial](http://datos.bancomundial.org/pais/venezuela): os indicadores oficiais do país
+- [ONU: em 10 anos, Venezuela reduziu pobreza em 50% – Diário Liberdade](http://www.diarioliberdade.org/america-latina/repressom-e-direitos-humanos/18802-onu-em-10-anos-venezuela-reduziu-pobreza-em-50.html): a queda da pobreza no chavismo, segundo dados da ONU citados pelo site
+- [Deputado Ivan Valente fala sobre a Venezuela e discute com opositor – Ivan Valente (YouTube), 26/03/2014](https://www.youtube.com/watch?v=M7ENHQiJc1g): o deputado rebate um opositor ao chavismo
+- [George Galloway em Oxford sobre a Venezuela (legendado) – YouTube](https://www.youtube.com/watch?v=OIqicTjQG3M): o ex-deputado britânico defende a Venezuela num debate em Oxford · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=OIqicTjQG3M)
+- [O que está acontecendo na Venezuela? – Facebook](https://www.facebook.com/watch/?ref=saved&v=439266916534504): vídeo explicativo sobre a crise
 
 ## Ver também
 

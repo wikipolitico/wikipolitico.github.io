@@ -15,6 +15,8 @@
 
 - Lula o indicou em 2003. Tomou posse em 25/06/2003, o primeiro ministro negro do STF. Eleito presidente do tribunal em 10/10/2012, ficou no cargo até se aposentar antecipadamente, em 31/07/2014 ([Wikipedia](https://pt.wikipedia.org/wiki/Joaquim_Barbosa)).
 
+- [Como Lula escolheu Barbosa – Conversa Afiada, 21/12/2012](http://www.conversaafiada.com.br/tv-afiada/2012/12/21/como-lula-escolheu-barbosa): como foi a indicação ao STF
+
 ## O mensalão (Ação Penal 470)
 
 - **2006 a 2012:** foi o relator do processo, com 38 réus, entre eles José Dirceu, José Genoino e Delúbio Soares, condenados no julgamento de 2012 ([Wikipedia](https://pt.wikipedia.org/wiki/Joaquim_Barbosa)).
@@ -28,23 +30,34 @@
 - **27/09/2022 — o voto em Lula:** a pedido de Geraldo Alckmin, gravou 12 vídeos para a campanha de Lula. Defendeu a segurança das urnas, chamou Bolsonaro de perigo para a democracia e disse que Lula era o único capaz de derrotá-lo ([Estado de Minas, 27/09/2022](https://www.em.com.br/app/noticia/politica/2022/09/27/interna_politica,1398502/joaquim-barbosa-algoz-do-pt-no-mensalao-declara-voto-em-lula-e-critica-bo.shtml)).
 - **2026:** filiou-se à Democracia Cristã e anunciou pré-candidatura a presidente, mas desistiu em julho ([Wikipedia](https://pt.wikipedia.org/wiki/Joaquim_Barbosa)).
 
-## Acervo antigo
+## As acusações contra Barbosa
 
-Links da wiki antiga, de 2012 a 2015, mantidos como registro.
+### O filho
 
-- [Joaquim Barbosa escondeu laudo que envolvia seu filho - 08/07/2013](https://www.ocafezinho.com/2013/07/08/barbosa-escondeu-inquerito-que-envolvia-seu-filho/)
-- [O Cafezinho: Barbosa escondeu laudo por filho - 10/07/2013](https://www.brasil247.com/brasil/o-cafezinho-barbosa-escondeu-laudo-por-filho)
-- [Joaquim Barbosa cria empresa em Miami para não pagar imposto de renda de imóvel - 21/07/2013](http://osamigosdopresidentelula.blogspot.com.br/2013/07/joaquim-barbosa-cria-empresa-em-miami.html)
-- [Barbosa: filho na Globo e viagens pagas pelo STF - 05/07/2013](http://www.brasil247.com/pt/247/brasil/107582/Barbosa-filho-na-Globo-e-viagens-pagas-pelo-STF.htm) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/brasil/107582/Barbosa-filho-na-Globo-e-viagens-pagas-pelo-STF.htm)
-- [Barbosa compra apê de R$ 1 mi em Miami e foge do Leão - 20/07/2013](http://www.brasil247.com/pt/247/poder/109166/Barbosa-compra-ap%C3%AA-de-R$-1-mi-em-Miami-e-foge-do-Le%C3%A3o.htm) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/poder/109166/Barbosa-compra-ap%C3%AA-de-R$-1-mi-em-Miami-e-foge-do-Le%C3%A3o.htm)
-- [A empresa e o apartamento de Joaquim Barbosa em Miami - 20/11/2013](http://www.diariodocentrodomundo.com.br/a-empresa-e-o-apartamento-de-joaquim-barbosa-em-miami/)
-- [o direito, o avesso e alguma poesia: POR QUE MENTIU EXCELÊNCIA? - 26/01/2014](http://odireito-oavesso.blogspot.com.br/2014/01/por-que-mentiu-excelencia.html)
-- [O Cafezinho apresenta provas contra Barbosa - 23/07/2013](http://www.brasil247.com/pt/247/brasil/109315/O-Cafezinho-apresenta-provas-contra-Barbosa.htm) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/brasil/109315/O-Cafezinho-apresenta-provas-contra-Barbosa.htm)
-- [Reforma no banheiro de Joaquim Barbosa custará R$ 90 mil aos cofres públicos - 22/04/2013](http://www.pragmatismopolitico.com.br/2013/04/reforma-no-banheiro-de-joaquim-barbosa-custara-r-90-mil-aos-cofres-publicos.html)
-- [Unânime, OAB pede ao CNJ que investigue Barbosa - 25/11/2013](http://www.brasil247.com/pt/247/brasil/121901/Un%C3%A2nime-OAB-pede-ao-CNJ-que-investigue-Barbosa.htm) · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/brasil/121901/Un%C3%A2nime-OAB-pede-ao-CNJ-que-investigue-Barbosa.htm)
-- [Conheça o modesto apartamento que Joaquim Barbosa comprou por 1 milhão de reais em Miami - 17/12/2013](https://www.plantaobrasil.net/news.asp?nID=74343)
-- [Como Lula escolheu Barbosa - 21/12/2012](http://www.conversaafiada.com.br/tv-afiada/2012/12/21/como-lula-escolheu-barbosa)
-- [Barbosa protegendo Cunha (PGR e STF deixam na gaveta por 8 anos) - 06/10/2015](https://www.redebrasilatual.com.br/blogs/2015/10/investigacao-sobre-contas-suicas-de-cunha-estavam-na-gaveta-desde-2006-4631/)
+- [Joaquim Barbosa escondeu laudo que envolvia seu filho – O Cafezinho, 08/07/2013](https://www.ocafezinho.com/2013/07/08/barbosa-escondeu-inquerito-que-envolvia-seu-filho/): segundo o blog, o ministro escondeu um laudo que envolvia o filho
+- [O Cafezinho: Barbosa escondeu laudo por filho – Brasil 247, 10/07/2013](https://www.brasil247.com/brasil/o-cafezinho-barbosa-escondeu-laudo-por-filho): a mesma denúncia, no Brasil 247
+- [Barbosa: filho na Globo e viagens pagas pelo STF – Brasil 247, 05/07/2013](http://www.brasil247.com/pt/247/brasil/107582/Barbosa-filho-na-Globo-e-viagens-pagas-pelo-STF.htm): o emprego do filho na Globo e as viagens pagas pelo tribunal · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/brasil/107582/Barbosa-filho-na-Globo-e-viagens-pagas-pelo-STF.htm)
+
+### O apartamento em Miami
+
+- [Joaquim Barbosa cria empresa em Miami para não pagar imposto de renda de imóvel – blog Os Amigos do Presidente Lula, 21/07/2013](http://osamigosdopresidentelula.blogspot.com.br/2013/07/joaquim-barbosa-cria-empresa-em-miami.html): a empresa aberta para comprar o apartamento, segundo o blog
+- [Barbosa compra apê de R$ 1 mi em Miami e foge do Leão – Brasil 247, 20/07/2013](http://www.brasil247.com/pt/247/poder/109166/Barbosa-compra-ap%C3%AA-de-R$-1-mi-em-Miami-e-foge-do-Le%C3%A3o.htm): o apartamento de R$ 1 milhão em Miami · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/poder/109166/Barbosa-compra-ap%C3%AA-de-R$-1-mi-em-Miami-e-foge-do-Le%C3%A3o.htm)
+- [A empresa e o apartamento de Joaquim Barbosa em Miami – DCM, 20/11/2013](http://www.diariodocentrodomundo.com.br/a-empresa-e-o-apartamento-de-joaquim-barbosa-em-miami/): a compra do imóvel por meio de uma empresa
+- [Conheça o modesto apartamento que Joaquim Barbosa comprou por 1 milhão de reais em Miami – Plantão Brasil, 17/12/2013](https://www.plantaobrasil.net/news.asp?nID=74343): o imóvel em Miami
+
+### Os gastos e a OAB
+
+- [Reforma no banheiro de Joaquim Barbosa custará R$ 90 mil aos cofres públicos – Pragmatismo Político, 22/04/2013](http://www.pragmatismopolitico.com.br/2013/04/reforma-no-banheiro-de-joaquim-barbosa-custara-r-90-mil-aos-cofres-publicos.html): o gasto público com a reforma
+- [Unânime, OAB pede ao CNJ que investigue Barbosa – Brasil 247, 25/11/2013](http://www.brasil247.com/pt/247/brasil/121901/Un%C3%A2nime-OAB-pede-ao-CNJ-que-investigue-Barbosa.htm): a OAB pediu por unanimidade que o CNJ investigasse o presidente do STF · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/brasil/121901/Un%C3%A2nime-OAB-pede-ao-CNJ-que-investigue-Barbosa.htm)
+
+### O inquérito de Cunha na gaveta
+
+- [Investigação sobre contas suíças de Cunha estava na gaveta desde 2006 – RBA, 06/10/2015](https://www.redebrasilatual.com.br/blogs/2015/10/investigacao-sobre-contas-suicas-de-cunha-estavam-na-gaveta-desde-2006-4631/): segundo a RBA, a investigação sobre as contas de Eduardo Cunha ficou parada na PGR e no STF por oito anos
+
+### Outros links
+
+- [Por que mentiu, Excelência? – blog O Direito, o Avesso e Alguma Poesia, 26/01/2014](http://odireito-oavesso.blogspot.com.br/2014/01/por-que-mentiu-excelencia.html): o blog questiona uma declaração de Barbosa
+- [O Cafezinho apresenta provas contra Barbosa – Brasil 247, 23/07/2013](http://www.brasil247.com/pt/247/brasil/109315/O-Cafezinho-apresenta-provas-contra-Barbosa.htm): as provas reunidas pelo blog O Cafezinho · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/brasil/109315/O-Cafezinho-apresenta-provas-contra-Barbosa.htm)
 
 ## Ver também
 
