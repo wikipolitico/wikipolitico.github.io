@@ -69,6 +69,7 @@ hooks:
   - hooks/ultimas_atualizacoes.py
   - hooks/destaques.py
   - hooks/esconder_data_migracao.py
+  - hooks/busca_sem_acento.py
 
 markdown_extensions:
   - admonition
