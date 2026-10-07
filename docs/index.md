@@ -8,9 +8,9 @@ O **Wiki Político** reúne material para enfrentar, com fatos, as narrativas fa
 
 Rumo ao segundo turno, em 25/10/2026:
 
-- [Eleições 2026](temas/eleicoes-2026.md): Flávio sem maioria no primeiro turno, os governadores do PT reeleitos na Bahia, no Ceará e no Piauí, as mentiras de Flávio sobre Vorcaro e os indicados de Bolsonaro no comando do TSE.
+- [Eleições 2026](temas/eleicoes-2026.md): Flávio sem maioria no primeiro turno, os governadores do PT reeleitos na Bahia, no Ceará e no Piauí, os 70 deputados do PT na nova Câmara, as mentiras de Flávio sobre Vorcaro e os indicados de Bolsonaro no comando do TSE.
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): o candidato do PL à Presidência, das homenagens a milicianos ao dinheiro de Vorcaro para o filme sobre o pai.
-- [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 68 indicadores oficiais, com o que melhorou e o que piorou em cada governo.
+- [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 77 indicadores oficiais, com o que melhorou e o que piorou em cada governo.
 
 ## Para responder em debate
 
@@ -25,10 +25,11 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - **"Lula defende bandido."** Veja as [penas mais duras no governo Lula](temas/politicas-publicas.md#penas-mais-duras-no-governo-lula): feminicídio com até 40 anos, estupro de vulnerável com até 18, líderes de facção com até 40, e o veto ao projeto que aliviava as penas dos golpistas.
 - **"E o Lulinha?"** Veja o [Caso Lulinha](temas/caso-lulinha.md): o que a investigação tem e as fragilidades da acusação.
 - **"O Master é do PT."** Veja o [Caso Banco Master](temas/banco-master.md): Vorcaro virou banqueiro com o Banco Central de Campos Neto, indicado por Bolsonaro, e foi o Banco Central de Galípolo que liquidou o banco.
+- **"Lula criou 37 impostos."** Veja [Os impostos do Lula 3](temas/impostos-do-lula-3.md): o número vem de uma lista da Exame em que 10 itens nunca valeram e outros são a reforma tributária e a volta dos impostos que Bolsonaro zerou na eleição. A maior parte do resto recai sobre fundos dos super-ricos, offshores, bancos, bets e multinacionais, e 10 milhões de pessoas deixaram de pagar Imposto de Renda em 2026.
 - **"Lula é amigo do Maduro, que financiou o PT."** Veja [Maduro e a Venezuela](temas/maduro-e-a-venezuela.md): a acusação de Carvajal foi arquivada na Espanha por falta de provas, a delação dele nos EUA não cita Lula, e Lula não reconheceu a eleição de Maduro sem as atas.
 - **"O BNDES deu dinheiro para a Venezuela."** Veja [o calote da Venezuela no BNDES](temas/maduro-e-a-venezuela.md#o-calote-da-venezuela-no-bndes): o dinheiro foi pago em reais, no Brasil, a empresas brasileiras, num programa criado por FHC, e o Brasil acumulou com a Venezuela um superávit 60 vezes maior que a dívida.
 - **"O STF é do PT."** Veja o [STF](temas/stf.md): quem indicou cada um dos dez ministros e como cada um votou nos casos de Lula e de Bolsonaro.
-- **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 68 indicadores oficiais, com o que melhorou e o que piorou.
+- **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 77 indicadores oficiais, com o que melhorou e o que piorou.
 
 <!-- ultimas-atualizacoes -->
 

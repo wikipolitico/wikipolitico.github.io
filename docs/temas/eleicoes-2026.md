@@ -2,13 +2,13 @@
 
 !!! abstract "Resumo"
 
-    Lula disputa a reeleição contra [Flávio Bolsonaro](flavio-bolsonaro.md), o candidato do PL, filho do ex-presidente condenado e inelegível. No primeiro turno, em 04/10/2026, Flávio ficou sem a maioria, com 47,03% dos votos válidos contra 45,16% de Lula, e a decisão foi para 25/10. O PT reelegeu no primeiro turno os governadores da Bahia, do Ceará e do Piauí, onde Rafael Fonteles teve a maior votação proporcional do primeiro turno, e elegeu seis senadores, dois deles na Bahia. No Paraná, foram eleitos Sergio Moro, o juiz que o STF declarou parcial ao condenar Lula, e Deltan Dallagnol, cassado pelo TSE em 2023 (ver [Lava Jato](farsa-da-lava-jato.md)). O TSE é comandado pelos dois ministros que Jair Bolsonaro levou ao STF, [Nunes Marques](stf/kassio-nunes-marques.md) e [André Mendonça](stf/andre-mendonca.md). Na reta final, Mendonça mandou apagar um post que nem citava Flávio pelo nome, e [Flávio Dino](stf/flavio-dino.md) derrubou a ordem.
+    Lula disputa a reeleição contra [Flávio Bolsonaro](flavio-bolsonaro.md), o candidato do PL, filho do ex-presidente condenado e inelegível. No primeiro turno, em 04/10/2026, Flávio ficou sem a maioria, com 47,03% dos votos válidos contra 45,16% de Lula, e a decisão foi para 25/10. O PT reelegeu no primeiro turno os governadores da Bahia, do Ceará e do Piauí, onde Rafael Fonteles teve a maior votação proporcional do primeiro turno, e elegeu seis senadores, dois deles na Bahia. Na Câmara, o PT elegeu 70 deputados, dois a mais que em 2022, e a federação dele, com PCdoB e PV, chegou a 88. O PL elegeu 121, e os cinco partidos da direita somam 259 das 513 cadeiras. No Paraná, foram eleitos Sergio Moro, o juiz que o STF declarou parcial ao condenar Lula, e Deltan Dallagnol, cassado pelo TSE em 2023 (ver [Lava Jato](farsa-da-lava-jato.md)). O TSE é comandado pelos dois ministros que Jair Bolsonaro levou ao STF, [Nunes Marques](stf/kassio-nunes-marques.md) e [André Mendonça](stf/andre-mendonca.md). Na reta final, Mendonça mandou apagar um post que nem citava Flávio pelo nome, e [Flávio Dino](stf/flavio-dino.md) derrubou a ordem.
 
     Flávio dizia que nunca tinha entrado em avião de Daniel Vorcaro, mas voou com a família num jato ligado ao dono do [Banco Master](banco-master.md), e o Aos Fatos contou ao menos 43 declarações enganosas dele sobre o caso. Ele promete decretar que o Brasil é "do Senhor Jesus Cristo", repetiu a mentira de que as urnas brasileiras são da Smartmatic, divulgou apostas do Polymarket como se fossem pesquisa e culpou a CNBB pela polêmica sobre [Nossa Senhora Aparecida](bolsonarismo-contra-o-estado-laico.md#nossa-senhora-aparecida-na-campanha-de-2026). A Abin classificou como alto o risco de ameaças à segurança da eleição.
 
 !!! warning "Eleição em andamento"
 
-    O segundo turno é em 25/10/2026. A página está atualizada até 05/10/2026. Em São Paulo e em Minas Gerais, o TSE ainda não definiu os deputados federais eleitos, e a nova Câmara entra aqui quando sair o resultado final.
+    O segundo turno é em 25/10/2026. A página está atualizada até 07/10/2026.
 
 ## O resultado do primeiro turno
 
@@ -62,25 +62,38 @@
 <span class="wp-seg wp-seg--direita" style="--n: 30" title="Direita: 30 senadores">30</span>
 </div>
 </div>
+<div class="wp-grafico">
+<p class="wp-grafico__titulo">Câmara: o PT elegeu 70 deputados, dois a mais que em 2022</p>
+<p class="wp-grafico__nota">As 513 cadeiras. A linha marca a metade: a maioria absoluta é de 257 deputados.</p>
+<div class="wp-barra" role="img" aria-label="Deputados federais eleitos: PT 70, aliados 54, centro e outros 130, direita 259">
+<span class="wp-metade" aria-hidden="true"></span>
+<span class="wp-seg wp-seg--pt" style="--n: 70" title="PT: 70 deputados">70</span>
+<span class="wp-seg wp-seg--aliados" style="--n: 54" title="Aliados de Lula: 54 deputados">54</span>
+<span class="wp-seg wp-seg--centro" style="--n: 130" title="Centro e outros: 130 deputados">130</span>
+<span class="wp-seg wp-seg--direita" style="--n: 259" title="Direita: 259 deputados">259</span>
+</div>
+</div>
 <p class="wp-grafico__titulo">PT e PL, antes e agora</p>
-<p class="wp-grafico__nota">Senado comparado com 2018, quando também foram eleitas duas vagas por estado. Governadores comparados com 2022.</p>
+<p class="wp-grafico__nota">Senado comparado com 2018, quando também foram eleitas duas vagas por estado. Governadores e Câmara comparados com 2022.</p>
 <div class="wp-numeros">
 <div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-pt)"></span>Senadores do PT</span><span class="wp-numero__valor">6</span><span class="wp-numero__comparacao">eram 4 em 2018</span></div>
 <div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-pt)"></span>Governadores do PT</span><span class="wp-numero__valor">3</span><span class="wp-numero__comparacao">e mais 2 no segundo turno; eram 4 em 2022</span></div>
 <div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-direita)"></span>Senadores do PL</span><span class="wp-numero__valor">19</span><span class="wp-numero__comparacao">era 1 em 2018, quando o partido se chamava PR</span></div>
 <div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-direita)"></span>Governadores do PL</span><span class="wp-numero__valor">5</span><span class="wp-numero__comparacao">e mais 2 no segundo turno; eram 2 em 2022</span></div>
+<div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-pt)"></span>Deputados do PT</span><span class="wp-numero__valor">70</span><span class="wp-numero__comparacao">eram 68 em 2022</span></div>
+<div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-direita)"></span>Deputados do PL</span><span class="wp-numero__valor">121</span><span class="wp-numero__comparacao">eram 99 em 2022</span></div>
 </div>
-<p class="wp-grafico__nota">Aliados de Lula são os partidos da coligação registrada no TSE: PSB, PDT, PCdoB, PV, PSOL e Rede. Direita: PL, Novo, Republicanos, PP e União. Centro e outros: MDB, PSD, PSDB e Podemos. A Câmara entra quando o TSE terminar a totalização em São Paulo e Minas Gerais. Fontes: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6257;uf=br;cargo=1/resultados">TSE, resultados de 2026</a>; <a href="https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno">TSE, primeiro turno de 2022</a>; TSE, dados abertos de candidatos de <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2018">2018</a> e <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2022">2022</a>.</p>
+<p class="wp-grafico__nota">Aliados de Lula são os partidos da coligação registrada no TSE: PSB, PDT, PCdoB, PV, PSOL e Rede. Direita: PL, Novo, Republicanos, PP e União. Centro e outros: MDB, PSD, PSDB, Podemos e, na Câmara, Avante, PRD, Solidariedade e Missão. Fontes: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6257;uf=br;cargo=1/resultados">TSE, resultados de 2026</a>; <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=sp;cargo=6/resultados">TSE, deputados federais por estado</a>; <a href="https://www.cnnbrasil.com.br/politica/pl-e-o-partido-que-mais-cresceu-na-camara-e-no-senado-veja-lista/">CNN, Câmara eleita em 2022</a>; <a href="https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno">TSE, primeiro turno de 2022</a>; TSE, dados abertos de candidatos de <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2018">2018</a> e <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2022">2022</a>.</p>
 <details class="info">
 <summary>Ver os números em tabela</summary>
 <table>
-<thead><tr><th>Eleitos em 2026</th><th>Governadores</th><th>Senadores</th></tr></thead>
+<thead><tr><th>Eleitos em 2026</th><th>Governadores</th><th>Senadores</th><th>Deputados federais</th></tr></thead>
 <tbody>
-<tr><td>PT</td><td>3</td><td>6</td></tr>
-<tr><td>Aliados de Lula</td><td>0</td><td>5</td></tr>
-<tr><td>Centro e outros</td><td>7</td><td>13</td></tr>
-<tr><td>Direita</td><td>10</td><td>30</td></tr>
-<tr><td>Segundo turno</td><td>7 estados</td><td>—</td></tr>
+<tr><td>PT</td><td>3</td><td>6</td><td>70</td></tr>
+<tr><td>Aliados de Lula</td><td>0</td><td>5</td><td>54</td></tr>
+<tr><td>Centro e outros</td><td>7</td><td>13</td><td>130</td></tr>
+<tr><td>Direita</td><td>10</td><td>30</td><td>259</td></tr>
+<tr><td>Segundo turno</td><td>7 estados</td><td>—</td><td>—</td></tr>
 </tbody>
 </table>
 <table>
@@ -98,6 +111,8 @@
 <tr><td>Senadores do PL</td><td>1 (2018, como PR)</td><td>19</td></tr>
 <tr><td>Governadores do PT</td><td>4 (2022)</td><td>3, e mais 2 no segundo turno</td></tr>
 <tr><td>Governadores do PL</td><td>2 (2022)</td><td>5, e mais 2 no segundo turno</td></tr>
+<tr><td>Deputados do PT</td><td>68 (2022)</td><td>70</td></tr>
+<tr><td>Deputados do PL</td><td>99 (2022)</td><td>121</td></tr>
 </tbody>
 </table>
 </details>
@@ -107,6 +122,7 @@
 
 - **04/10/2026 — Bahia, Ceará e Piauí reelegem o PT no primeiro turno:** na Bahia, Jerônimo Rodrigues venceu com 55,80% dos votos válidos e derrotou ACM Neto, o candidato que [Mendonça poupou](stf/crise-2026.md#os-dois-pesos-de-mendonca) num caso que a PF comparou ao de [Lulinha](caso-lulinha.md). No Ceará, Elmano de Freitas derrotou Ciro Gomes, candidato do PSDB, com 53,19%. No Piauí, Rafael Fonteles foi reeleito com 70,90%, a maior votação proporcional entre os 20 governadores eleitos no primeiro turno ([TSE, Bahia](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=ba;cargo=3/resultados); [TSE, Ceará](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=ce;cargo=3/resultados); [TSE, Piauí](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=pi;cargo=3/resultados)).
 - **04/10/2026 — seis senadores, com as duas vagas da Bahia:** na Bahia, Rui Costa (30,07%) e Jaques Wagner (27,65%) deixaram para trás Angelo Coronel, do Republicanos (20,11%), e João Roma, do PL de Bolsonaro (19,97%). Wagner é investigado no [caso Master](banco-master.md#jaques-wagner-pt), sem denúncia, e foi reeleito. O PT também elegeu Humberto Costa em Pernambuco, Marília Campos em Minas Gerais, Samanda de Lula no Rio Grande do Norte e Rogério Carvalho em Sergipe ([TSE: BA](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=ba;cargo=5/resultados), [PE](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=pe;cargo=5/resultados), [MG](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=mg;cargo=5/resultados), [RN](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=rn;cargo=5/resultados), [SE](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=se;cargo=5/resultados); [Brasil de Fato, 04/10/2026](https://www.brasildefato.com.br/2026/10/04/rui-costa-e-jaques-wagner-sao-eleitos-senadores-pela-bahia/)).
+- **04/10/2026 — 70 deputados, e a federação do PT cresce:** o PT elegeu 70 deputados federais, dois a mais que os 68 de 2022, e a Federação Brasil da Esperança, que reúne PT, PCdoB e PV, passou de 80 para 88 cadeiras. O PL, de Bolsonaro, foi de 99 para 121, e PL, União, PP, Republicanos e Novo somam 259 deputados, duas cadeiras acima da maioria absoluta. O PT e os aliados de Lula somam 124 ([TSE, deputados federais por estado](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=sp;cargo=6/resultados); [CNN, 04/10/2022](https://www.cnnbrasil.com.br/politica/pl-e-o-partido-que-mais-cresceu-na-camara-e-no-senado-veja-lista/); [Poder360, 07/10/2022](https://www.poder360.com.br/eleicoes/raio-x-das-eleicoes-leia-tudo-das-disputas-para-a-camara/)).
 - **04/10/2026 — segundo turno no Rio Grande do Norte e no DF:** no Rio Grande do Norte, Cadu de Lula (36,16%) terminou a 0,78 ponto de Allyson, do União (36,94%). No Distrito Federal, Leandro Grass (34,47%) enfrenta Celina Leão, do PP (49,93%), que não chegou à maioria ([TSE, Rio Grande do Norte](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=rn;cargo=3/resultados); [TSE, Distrito Federal](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=df;cargo=3/resultados)).
 
 ### O Paraná da Lava Jato

@@ -1,10 +1,12 @@
 # Comparação Bolsonaro x Lula 3
 
-Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, investimentos, bolsa de valores, empresas, indústria, infraestrutura, pobreza, desenvolvimento humano, saúde, educação, ciência, cultura, turismo, moradia, previdência, obras, segurança, povos indígenas e meio ambiente.
+Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, impostos, investimentos, bolsa de valores, empresas, indústria, agro e petróleo, infraestrutura, pobreza, desenvolvimento humano, saúde, educação, ciência, cultura, turismo, moradia, previdência, obras, segurança, povos indígenas e meio ambiente.
 
 **Legenda:** ✅ melhor no Lula 3 · ⚠️ pior no Lula 3 · ➖ parecido ou misto · 🏆 recorde da série histórica no Lula 3 ([como os ícones são definidos](#nota-icones))
 
-**Resumo:** ✅ 53 melhores · ⚠️ 7 piores · ➖ 8 parecidos ou mistos, em 68 indicadores. 🏆 17 recordes históricos no Lula 3.
+**Resumo:** ✅ 59 melhores · ⚠️ 9 piores · ➖ 9 parecidos ou mistos, em 77 indicadores. 🏆 21 recordes históricos no Lula 3.
+
+Os impostos criados e aumentados e a carga tributária ano a ano estão em [Os impostos do Lula 3](temas/impostos-do-lula-3.md).
 
 ## Economia
 
@@ -29,6 +31,8 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | ✅ Contribuintes da Previdência, entre quem trabalha ([nota](#nota-trabalho)) | subiu de 63,4% para 64,6% | subiu de 64,6% para 66,5% | [IBGE](https://sidra.ibge.gov.br/tabela/3919) |
 | ✅ Renda média real do trabalho ([nota](#nota-trabalho)) | caiu 1,0% (de 3.352 para 3.319 reais) | subiu 12,8% (de 3.319 para 3.743 reais), 🏆 recorde da série na média de 2025 | [IBGE](https://sidra.ibge.gov.br/tabela/6390) e [CNN, 30/01/2026](https://www.cnnbrasil.com.br/economia/macroeconomia/desemprego-cai-para-51-no-trimestre-ate-dezembro-mostra-ibge/) |
 | ✅ Ganho real do salário mínimo, acima da inflação ([nota](#nota-salario-minimo)) | 1,2% (2019–2022) | 11,8% (2023–2026) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json&dataInicial=01/01/2018&dataFinal=31/12/2026) |
+| ✅ Renda por pessoa nas famílias (média mensal, em reais de 2025) ([nota](#nota-renda-familia)) | caiu de 1.879 para 1.809 reais (2018 a 2022) | subiu de 1.809 para 2.264 reais (2022 a 2025), 🏆 a maior da série iniciada em 2012 | [IBGE](https://sidra.ibge.gov.br/tabela/7533) |
+| ➖ Endividamento das famílias com bancos (em % da renda de 12 meses) | subiu de 39,0% para 49,1% (dez/2018 a dez/2022) | subiu de 49,1% para 49,7% (dez/2022 a dez/2025) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.29037/dados?formato=json&dataInicial=01/12/2018&dataFinal=31/12/2025) |
 
 ## Contas públicas e juros
 
@@ -36,6 +40,14 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | --- | --- | --- | --- |
 | ⚠️ Dívida bruta do governo ([por que subiu](#por-que-a-divida-subiu)) | caiu de 75,3% para 71,7% do PIB (dez/2018 a dez/2022), com pico de 86,9% em 2020 | subiu de 71,7% para 78,6% do PIB (dez/2022 a dez/2025) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json&dataInicial=01/12/2018&dataFinal=31/12/2025) |
 | ➖ Taxa básica de juros (Selic) ([nota](#nota-divida-selic)) | subiu de 6,5% para 13,75% (dez/2018 a dez/2022), com mínima de 2% em 2020 | subiu de 13,75% para 15% (dez/2022 a dez/2025) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/12/2018&dataFinal=31/12/2025) |
+| ⚠️ Resultado primário do setor público ([nota](#nota-primario)) | passou de déficit de 1,55% para superávit de 1,25% do PIB (2018 a 2022), com déficit de 9,24% em 2020, na pandemia | passou de superávit de 1,25% para déficit de 0,43% do PIB (2022 a 2025), com déficit de 2,28% em 2023, quando o governo pagou os precatórios atrasados | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json&dataInicial=01/12/2018&dataFinal=31/12/2025) |
+
+## Impostos
+
+| Indicador | Bolsonaro | Lula 3 | Fonte |
+| --- | --- | --- | --- |
+| ✅ Faixa de isenção do Imposto de Renda ([nota](#nota-ir)) | congelada em R$ 1.903,98 por mês, valor de 2015 | subiu para R$ 2.112 (2023), R$ 2.259,20 (2024) e R$ 2.428,80 (2025), e a partir de 2026 quem ganha até R$ 5 mil por mês não paga | [Lei 11.482/2007](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11482.htm), [Lei 14.663/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14663.htm), [Lei 14.848/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14848.htm), [Lei 15.191/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15191.htm) e [Lei 15.270/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm) |
+| ⚠️ Carga tributária ([nota](#nota-carga)) | subiu de 30,4% para 31,2% do PIB (2018 a 2022) | subiu de 31,2% para 32,4% do PIB (2022 a 2025), a maior da série iniciada em 2010 | [Tesouro Nacional](https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/avaliacao-da-gestao-dos-administradores/prestacao-de-contas-do-presidente-da-republica/2025/AnexoEstimativadaCargaTributriaBoletim_CTB_20251.pdf) |
 
 ## Investimentos, bolsa e comércio exterior
 
@@ -63,6 +75,13 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | ✅ Produção industrial (acumulado) ([nota](#nota-industria)) | caiu 2,6% (2019–2022) | subiu 3,8% (2023–2025) | [IBGE](https://sidra.ibge.gov.br/tabela/8888) |
 | ✅ Produção da indústria de transformação (acumulado) ([nota](#nota-industria)) | caiu 0,7% (2019–2022) | subiu 2,4% (2023–2025) | [IBGE](https://sidra.ibge.gov.br/tabela/8888) |
 | ✅ Venda de carros novos (automóveis e comerciais leves) ([nota](#nota-veiculos)) | caiu de 2,47 milhões (2018) para 1,96 milhão (2022) | subiu de 1,96 milhão (2022) para 2,55 milhões (2025) | [Fenabrave, 2018](https://monitormercantil.com.br/emplacamentos-de-ve-culos-tiveram-alta-de-13-58-em-2018-2/), [2022](https://www.autodata.com.br/noticias/2023/01/05/vendas-de-veiculos-caem-07-dentro-da-expectativa-da-fenabrave/49862/) e [2025](https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/venda-de-automoveis-e-comerciais-leves-cresce-258-em-2025) |
+
+## Agro e petróleo
+
+| Indicador | Bolsonaro | Lula 3 | Fonte |
+| --- | --- | --- | --- |
+| ✅ Safra de grãos ([nota](#nota-agro)) | subiu de 231,7 para 272,6 milhões de toneladas (safras 2017/18 a 2021/22) | subiu de 272,6 para 352,5 milhões de toneladas (safra 2024/25), 🏆 recorde, e a previsão para 2025/26 é de 361,7 milhões | [Conab, série até 2023/24](https://static.poder360.com.br/2024/08/Producao_Graos_Conab_19.ago_.2024.pdf) e [Conab, setembro de 2026](https://www.gov.br/conab/pt-br/atuacao/informacoes-agropecuarias/safras/safra-de-graos/boletim-da-safra-de-graos/12o-levantamento-safra-2025-26/site_previsao_de_safra-por_produto-set-2026.xlsx) |
+| ✅ Produção de petróleo (média ao dia) | subiu de 2,586 para 3,021 milhões de barris (2018 a 2022) | subiu de 3,021 para 3,770 milhões de barris (2022 a 2025), 🏆 recorde | [ANP, 2018](https://www.suno.com.br/noticias/petroleo-producao-caiu-anp/), [ANP, 2022](https://www.gov.br/anp/pt-br/centrais-de-conteudo/publicacoes/boletins-anp/boletins/arquivos-bmppgn/2022/encarte-e-boletim-dezembro-2022.pdf) e [ANP, 2025](https://www.gov.br/anp/pt-br/centrais-de-conteudo/publicacoes/boletins-anp/arquivos-bmppgn/2025/dezembro.pdf) |
 
 ## Infraestrutura
 
@@ -98,6 +117,7 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | ✅ Médicos do Mais Médicos | 13,1 mil (2022) | 26 mil (2025) | [Ministério da Saúde](https://www.unasus.gov.br/noticia/ministerio-da-saude-anuncia-expansao-do-mais-medicos-e-integracao-com-atendimento-especializado) |
 | ✅ Vacinação infantil: tríplice viral, 1ª dose ([nota](#nota-vacinacao)) | 80,7% (2022) | 95,7% (2024) | [Ministério da Saúde](https://jornaldebrasilia.com.br/noticias/saude/brasil-mantem-tendencia-de-aumento-de-cobertura-vacinal-infantil-diz-ministerio/) |
 | ✅ Vacinação infantil: poliomielite ([nota](#nota-vacinacao)) | 67,7% (2022) | 95,6% (2024) | [Ministério da Saúde](https://jornaldebrasilia.com.br/noticias/saude/brasil-mantem-tendencia-de-aumento-de-cobertura-vacinal-infantil-diz-ministerio/) |
+| ✅ Farmácia Popular: pessoas atendidas | 20,7 milhões (2022) | 24,7 milhões (2024), 🏆 o maior número desde a criação do programa, em 2006, e desde 2025 os 41 itens da lista são de graça | [Poder360, 13/02/2025](https://www.poder360.com.br/poder-saude/governo-anuncia-gratuidade-dos-41-medicamentos-no-farmacia-popular/) e [Paraíba Business, 19/02/2025](https://paraibabusiness.com.br/farmacia-popular-atinge-maior-numero-de-ben/) |
 
 ## Educação
 
@@ -162,6 +182,7 @@ Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula 
 | Indicador | Bolsonaro | Lula 3 | Fonte |
 | --- | --- | --- | --- |
 | ✅ Desmatamento na Amazônia | 11.594 km² (2022) | 5.796 km² (2025), menor em 11 anos | [Inpe, 2022](https://oeco.org.br/salada-verde/inpe-publica-taxa-consolidada-do-prodes-2022-amazonia-perdeu-11-594-km%C2%B2/) e [Inpe, 2025](https://data.inpe.br/biomasbr/dados-do-prodes-apontam-reducao-no-desmatamento-na-amazonia-e-no-cerrado-brasileiros/) |
+| ✅ Desmatamento no Cerrado | 10.689 km² (2022), terceiro ano seguido de alta | 7.235 km² (2025), com quedas em 2024 e 2025, depois de mais uma alta em 2023 | [Inpe, 2022](https://www.correiobraziliense.com.br/brasil/2022/12/5059069-desmate-no-cerrado-cresce-253-em-2022-e-atinge-maior-patamar-em-sete-anos.html) e [Inpe, 2025](https://data.inpe.br/biomasbr/dados-do-prodes-apontam-reducao-no-desmatamento-na-amazonia-e-no-cerrado-brasileiros/) |
 | ➖ Focos de queimadas (média ao ano) ([nota](#nota-queimadas)) | cerca de 201 mil (2019–2022) | cerca de 201 mil (2023–2025): 190 mil em 2023, 278 mil em 2024 e 134 mil em 2025 | [Inpe](https://data.inpe.br/queimadas/bdqueimadas/), [2023 e 2024](https://www.cnnbrasil.com.br/nacional/brasil-registrou-2783-mil-focos-de-incendio-em-2024-diz-inpe/) e [2025](https://www.poder360.com.br/poder-sustentavel/brasil-tem-queda-de-518-no-numero-de-focos-de-queimadas-em-2025/) |
 
 ## Por que a dívida subiu
@@ -187,6 +208,10 @@ Fonte: notas de estatísticas fiscais do Banco Central de [2019](https://www.bcb
 - **Comparação com outros países.** O problema do Brasil não é o tamanho da dívida, mas o preço dela. Pelo critério do Conselho de Estabilidade Financeira (FSB), a dívida brasileira é de 88% do PIB, a 8ª maior do G20, mas os juros custaram 8,8% do PIB em 2024, o maior gasto do grupo. O Japão deve cerca de 220% do PIB e gasta cerca de 2,5% com juros ([Poder360, 04/07/2026](https://www.poder360.com.br/poder-economia/brasil-e-o-pais-do-g20-que-mais-gasta-com-juros-em-relacao-ao-pib/)).
 
 ## Indicadores que ficaram de fora
+
+- [Risco-país (EMBI+) – Ipeadata](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='JPM366_EMBI366')): caiu de 276 pontos (dez/2018) para 256 (dez/2022) e 195 (dez/2023). A série pública termina em julho de 2024, com 228 pontos, então não há dado do fim de 2024 e de 2025.
+
+- [Emissões de gases caem em 2024 – Agência Brasil](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/emissoes-de-gases-caem-em-2024-mas-meta-climatica-segue-em-risco): segundo o SEEG, as emissões brutas caíram 16,7% em 2024, para 2,145 bilhões de toneladas de CO2 equivalente, a segunda maior queda da série iniciada em 1990. O SEEG revê a série inteira a cada edição, e o relatório completo não estava acessível, então não há comparação com 2018 e 2022 no mesmo critério.
 
 - [Ideb 2021: aprovação automática na pandemia distorce resultado – Jornal de Brasília](https://jornaldebrasilia.com.br/noticias/brasil/aprovacao-automatica-na-pandemia-distorce-resultado-do-ideb-2021/): a última edição do governo Bolsonaro foi inflada pela aprovação automática, e a presidente do Conselho Nacional de Educação disse que a comparação com anos anteriores "deve ser evitada". De 2023 a 2025, o Ideb subiu em todas as etapas ([Inep](https://agenciagov.ebc.com.br/noticias/202608/ideb-avanca-em-todas-as-etapas-da-educacao-basica)).
 
@@ -214,6 +239,16 @@ Fonte: notas de estatísticas fiscais do Banco Central de [2019](https://www.bcb
 {: #nota-dolar }
 - Dívida e Selic: o Banco Central é autônomo desde 2021 ([Lei Complementar 179](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp179.htm)). Roberto Campos Neto, indicado por Bolsonaro, presidiu o banco até dezembro de 2024, e Gabriel Galípolo, indicado por Lula, assumiu em janeiro de 2025 ([Poder360](https://www.poder360.com.br/poder-economia/em-despedida-campos-neto-diz-que-cumpriu-mandato-apesar-de-pressoes/)). Em 2025, os juros da dívida foram o gasto que mais cresceu, por causa da Selic alta ([Tesouro Nacional](https://www.gov.br/tesouronacional/pt-br/noticias/necessidade-liquida-de-financiamento-do-governo-geral-alcanca-7-4-do-pib-em-2025)). A dívida foi de 82,6% do PIB em julho de 2026, e a Selic, de 14% em setembro.
 {: #nota-divida-selic }
+- Carga tributária: tributos do governo federal, dos estados e dos municípios em % do PIB, no boletim do Tesouro de 2025, com a série revista em 2026, quando o FGTS e o Sistema S deixaram de contar como tributo. Segundo o Tesouro, a alta de 2025 veio sobretudo do imposto de renda retido na fonte, com a expansão da massa salarial, do IOF e das contribuições ao INSS, com mais empregos formais e a volta gradual da contribuição sobre a folha. Os impostos sobre consumo ficaram em 13,8% do PIB em 2025, contra 13,2% em 2022 e 14,2% em 2018. Os impostos criados e aumentados estão em [Os impostos do Lula 3](temas/impostos-do-lula-3.md#a-carga-tributaria).
+{: #nota-carga }
+- Imposto de Renda: faixa isenta da tabela mensal. A Lei 15.270/2025 isenta quem ganha até R$ 5 mil por mês a partir de 2026, com desconto até R$ 7.350, e 10 milhões de pessoas deixam de pagar ([Diario de Pernambuco, 26/11/2025](https://www.diariodepernambuco.com.br/economia/2025/11/11701468-lula-sanciona-lei-que-isenta-do-imposto-de-renda-quem-ganha-ate-rs-5-mil.html)). Bolsonaro prometeu isentar quem ganhasse até cinco salários mínimos, e Paulo Guedes admitiu em 2021 que a promessa não foi cumprida ([Jovem Pan, 17/12/2021](https://jovempan.com.br/economia/macroeconomia/guedes-diz-que-bolsonaro-nao-conseguiu-cumprir-promessa-de-isencao-no-ir-para-quem-recebe-ate-5-salarios-minimos/)).
+{: #nota-ir }
+- Resultado primário: receitas menos despesas, sem contar os juros, do setor público consolidado, que reúne União, estados, municípios e estatais, em % do PIB no acumulado do ano. Em 2022, o resultado teve a ajuda do limite ao pagamento de precatórios. Em 2023, o governo pagou 92,4 bilhões de reais em precatórios atrasados e antecipados (ver [Por que a dívida subiu](#por-que-a-divida-subiu)).
+{: #nota-primario }
+- Renda por pessoa nas famílias: soma dos rendimentos de todos os moradores, de todas as fontes, dividida pelo número de moradores, na PNAD Contínua anual do IBGE, em reais de 2025.
+{: #nota-renda-familia }
+- Safra de grãos: a safra 2021/22 foi a última colhida no governo Bolsonaro, e a 2022/23, a primeira do Lula 3. A série até 2023/24 é a da Conab de agosto de 2024. As safras 2024/25 e 2025/26 são do levantamento de setembro de 2026, em que a 2025/26 ainda é previsão.
+{: #nota-agro }
 - Taxa de investimento: formação bruta de capital fixo dividida pelo PIB, a preços correntes. O número do governo Bolsonaro é o oficial, mas foi inflado por uma mudança contábil. Plataformas de petróleo que já operavam no Brasil estavam registradas em subsidiárias da Petrobras no exterior, para ter isenção de impostos. Com o regime aduaneiro Repetro-Sped, de 2018, elas passaram a ser nacionalizadas, e cada nacionalização entrou nas contas como importação de bem de capital, que conta como investimento. No caso das plataformas que já operavam aqui, isso virou investimento sem que nenhum equipamento novo chegasse ([FGV, via Estado de Minas, 15/06/2020](https://www.em.com.br/app/noticia/economia/2020/06/15/internas_economia,1156631/importacoes-fictas-de-plataformas-de-petroleo-inflam-importacao-de-ben.shtml)). O Banco Central registrou que essas "importações fictas" ajudaram a elevar o investimento em 2020, mas que, mesmo sem elas, o investimento do início de 2021 estava mais de 15% acima da média de 2019 ([Banco Central](https://www.bcb.gov.br/content/ri/relatorioinflacao/202203/ri202203b1p.pdf)). Não há cálculo oficial de quanto a taxa anual foi inflada, por isso a tabela usa o número do IBGE sem ajuste.
 {: #nota-taxa-investimento }
 - Investimento estrangeiro e balança comercial: média dos saldos anuais. Os 77,7 bilhões de dólares de investimento estrangeiro em 2025 foram o maior valor desde 2018 ([Poder360](https://www.poder360.com.br/poder-economia/investimento-direto-soma-us-777-bi-em-2025-maior-em-7-anos/)).
