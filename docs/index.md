@@ -6,11 +6,11 @@ O **Wiki Político** reúne material para enfrentar, com fatos, as narrativas fa
 
 ## Comece por aqui
 
-Na reta final do primeiro turno, em 04/10/2026:
+Rumo ao segundo turno, em 25/10/2026:
 
-- [Eleições 2026](temas/eleicoes-2026.md): as mentiras de Flávio sobre Vorcaro, os indicados de Bolsonaro no comando do TSE, por que não votar na legenda e o alerta da Abin sobre grupos extremistas.
+- [Eleições 2026](temas/eleicoes-2026.md): Flávio sem maioria no primeiro turno, os governadores do PT reeleitos na Bahia, no Ceará e no Piauí, as mentiras de Flávio sobre Vorcaro e os indicados de Bolsonaro no comando do TSE.
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): o candidato do PL à Presidência, das homenagens a milicianos ao dinheiro de Vorcaro para o filme sobre o pai.
-- [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 65 indicadores oficiais, com o que melhorou e o que piorou em cada governo.
+- [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 68 indicadores oficiais, com o que melhorou e o que piorou em cada governo.
 
 ## Para responder em debate
 
@@ -28,7 +28,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - **"Lula é amigo do Maduro, que financiou o PT."** Veja [Maduro e a Venezuela](temas/maduro-e-a-venezuela.md): a acusação de Carvajal foi arquivada na Espanha por falta de provas, a delação dele nos EUA não cita Lula, e Lula não reconheceu a eleição de Maduro sem as atas.
 - **"O BNDES deu dinheiro para a Venezuela."** Veja [o calote da Venezuela no BNDES](temas/maduro-e-a-venezuela.md#o-calote-da-venezuela-no-bndes): o dinheiro foi pago em reais, no Brasil, a empresas brasileiras, num programa criado por FHC, e o Brasil acumulou com a Venezuela um superávit 60 vezes maior que a dívida.
 - **"O STF é do PT."** Veja o [STF](temas/stf.md): quem indicou cada um dos dez ministros e como cada um votou nos casos de Lula e de Bolsonaro.
-- **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 65 indicadores oficiais, com o que melhorou e o que piorou.
+- **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 68 indicadores oficiais, com o que melhorou e o que piorou.
 
 <!-- ultimas-atualizacoes -->
 
@@ -36,7 +36,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 ### Em pauta agora
 
-- [Eleições 2026](temas/eleicoes-2026.md): as mentiras de Flávio sobre Vorcaro, os indicados de Bolsonaro no comando do TSE, por que não votar na legenda e o alerta da Abin sobre grupos extremistas
+- [Eleições 2026](temas/eleicoes-2026.md): o resultado do primeiro turno, o juiz parcial e o procurador cassado eleitos no Paraná, as mentiras de Flávio sobre Vorcaro, os indicados de Bolsonaro no comando do TSE e o alerta da Abin sobre grupos extremistas
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): milícias, rachadinha, o filme Dark Horse, o jato de Vorcaro e a emenda pedida por um condenado no caso Marielle
 - [Bolsonarismo contra o Estado laico](temas/bolsonarismo-contra-o-estado-laico.md): do "Estado é cristão" de Jair ao Brasil "do Senhor Jesus Cristo" de Flávio, e o bispo que batizou Flávio e pediu em livro o fim de Aparecida como padroeira
 - [Caso Banco Master](temas/banco-master.md): Vorcaro, o Banco Central de Campos Neto, a Operação Compliance Zero e a crise no STF

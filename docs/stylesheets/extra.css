@@ -42,3 +42,155 @@ li:target {
   background: var(--md-accent-fg-color--transparent);
   border-radius: 0.2rem;
 }
+
+/* Placar das eleições: barras de composição e números de destaque.
+   Cores validadas pelo validate_palette.js (claro e escuro); o número vai
+   escrito em cada barra, porque o amarelo tem pouco contraste com o fundo. */
+.wp-placar {
+  --wp-pt: #e34948;
+  --wp-aliados: #eda100;
+  --wp-centro: #898781;
+  --wp-direita: #2a78d6;
+  --wp-pendente: #e1e0d9;
+  --wp-tinta: #0b0b0b;
+  --wp-tinta-direita: #ffffff;
+  --wp-tinta-pendente: #0b0b0b;
+  margin: 1.5em 0;
+}
+
+[data-md-color-scheme="slate"] .wp-placar {
+  --wp-aliados: #c98500;
+  --wp-direita: #3987e5;
+  --wp-pendente: #55544f;
+  --wp-tinta-direita: #0b0b0b;
+  --wp-tinta-pendente: #ffffff;
+}
+
+.wp-legenda {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1rem;
+  margin-bottom: 1.2rem;
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.wp-legenda > span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.wp-cor {
+  display: inline-block;
+  flex: none;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 2px;
+  background: var(--c);
+}
+
+.md-typeset .wp-grafico__titulo {
+  margin: 0;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset .wp-grafico__nota {
+  margin: 0.1rem 0 0.6rem;
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.wp-grafico {
+  margin-bottom: 1.6rem;
+}
+
+.wp-linha {
+  margin: 0.4rem 0;
+}
+
+.wp-linha__rotulo {
+  display: block;
+  margin-bottom: 0.15rem;
+  font-size: 0.65rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.wp-barra {
+  position: relative;
+  display: flex;
+  gap: 2px;
+  height: 24px;
+}
+
+.wp-seg {
+  flex: var(--n) 1 0;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--c);
+  color: var(--wp-tinta);
+  font-size: 0.65rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.wp-seg:last-child {
+  border-radius: 0 4px 4px 0;
+}
+
+.wp-seg--pt { --c: var(--wp-pt); }
+.wp-seg--aliados { --c: var(--wp-aliados); }
+.wp-seg--centro { --c: var(--wp-centro); }
+.wp-seg--direita { --c: var(--wp-direita); color: var(--wp-tinta-direita); }
+.wp-seg--pendente { --c: var(--wp-pendente); color: var(--wp-tinta-pendente); }
+
+/* Linha da metade dos votos válidos */
+.wp-metade {
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  top: -5px;
+  bottom: -5px;
+  width: 2px;
+  margin-left: -1px;
+  background: var(--md-default-fg-color);
+}
+
+.wp-numeros {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(6.5rem, 1fr));
+  gap: 0.6rem;
+  margin-bottom: 1.6rem;
+}
+
+.wp-numero {
+  padding: 0.6rem 0.7rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.3rem;
+}
+
+.wp-numero__rotulo {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.65rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.wp-numero__valor {
+  display: block;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--md-default-fg-color);
+}
+
+.wp-numero__comparacao {
+  display: block;
+  font-size: 0.65rem;
+  color: var(--md-default-fg-color--light);
+}

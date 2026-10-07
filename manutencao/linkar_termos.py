@@ -47,6 +47,7 @@ TERMOS = [
     (r"Nossa Senhora Aparecida", "temas/bolsonarismo-contra-o-estado-laico.md",
      "#nossa-senhora-aparecida-na-campanha-de-2026"),
     (r"Flávio Bolsonaro", "temas/flavio-bolsonaro.md", ""),
+    (r"Jones Manoel", "temas/jones-manoel.md", ""),
     # Ministros e ex-ministros do STF. Parentes com o mesmo sobrenome (a mulher de Moraes,
     # os filhos de Fux, a mulher de Zanin) e homônimos ficam de fora pelas exclusões.
     (r"Gilmar(?: Mendes)?", "temas/stf/gilmar-mendes.md", ""),

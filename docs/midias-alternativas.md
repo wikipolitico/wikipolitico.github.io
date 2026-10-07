@@ -114,7 +114,6 @@ Canais que nascem e vivem no YouTube, sem site próprio.
 - ⭐ [Desmascarando](https://www.youtube.com/channel/UCO6j6cqBhi2TWVxfcn6t23w) · [Facebook](https://www.facebook.com/desmascarandooficial/), *página derrubada em 2022, segundo o próprio canal* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/desmascarandooficial/)
 - [Galãs Feios](https://www.youtube.com/channel/UC2bZgihqibFD_vhaYEXQZFg) · [Facebook](https://www.facebook.com/galasfeios/)
 - [Greg News (HBO Brasil)](https://www.youtube.com/user/HBOnoBrasil) · [Facebook](https://www.facebook.com/GregNews/)
-- [Jones Manoel](https://www.youtube.com/channel/UC02coXfDPjEmU8uDT2G8Z2A)
 - [Lado B do Rio](https://www.youtube.com/channel/UCWK53Hig5sbMZssEJPDxDEw) · [podcast](https://podcastaddict.com/podcast/2057878)
 - [Marx Comenta](https://www.youtube.com/channel/UC1W_tzhnzojWwo68qXtC8dg) · [Facebook](https://www.facebook.com/marxcomentaoficial/)
 - [Meteoro Brasil](https://www.youtube.com/channel/UCk5BcU1rOy6hepflk7_q_Pw) · [Facebook](https://www.facebook.com/meteorobr/)
