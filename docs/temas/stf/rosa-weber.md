@@ -40,7 +40,7 @@
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [Joaquim Barbosa](joaquim-barbosa.md): relator do [mensalão](../farsa-do-mensalao.md)
 - [Edson Fachin](edson-fachin.md): o único voto a favor da candidatura de Lula no TSE em 2018
 - [Cármen Lúcia](carmen-lucia.md): deu o voto de desempate contra o habeas corpus de Lula em 2018

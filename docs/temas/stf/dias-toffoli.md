@@ -35,7 +35,7 @@ Toffoli foi relator do caso de 28/11/2025 a 12/02/2026 e deixou a relatoria a pe
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [Alexandre de Moraes](alexandre-de-moraes.md): relator do inquérito das fake news que Toffoli abriu
 - [André Mendonça](andre-mendonca.md): quem herdou a relatoria do caso Master
 - [Gilmar Mendes](gilmar-mendes.md): votou com Toffoli pelo habeas corpus de Lula e contra a prisão em segunda instância

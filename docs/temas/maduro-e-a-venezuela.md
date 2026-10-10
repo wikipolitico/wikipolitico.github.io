@@ -17,7 +17,7 @@
 - **07/01/2026 — o fentanil e a cocaína:** nenhum relatório anual da DEA de 2017 a 2025 lista a Venezuela como produtora ou rota de fentanil, que vem do México com insumos da China. A Venezuela é rota de passagem de parte da cocaína colombiana, mas a maior parte da cocaína que entra nos EUA não passa por lá ([PolitiFact, 07/01/2026](https://politifact.com/factchecks/2026/jan/07/donald-trump/Maduro-fentanyl-venezuela-mexico-trump/)).
 - **13/03/2026 — os barcos bombardeados:** o relator especial da ONU para o combate ao terrorismo, Ben Saul, acusou os EUA de "execuções extrajudiciais em série" nos bombardeios contra barcos no Caribe e no Pacífico, que tinham deixado 151 mortos. O governo Trump nunca apresentou provas de que os barcos levavam drogas ([CartaCapital, 13/03/2026](https://www.cartacapital.com.br/mundo/relator-da-onu-diz-que-eua-faz-execucoes-extrajudiciais-com-bombardeios-no-caribe/)).
 - **15/09/2021 — as sanções:** a relatora especial da ONU Alena Douhan apresentou o relatório final sobre as sanções contra a Venezuela, de efeito "devastador". Segundo ela, principalmente por causa das sanções dos EUA, o país ficou sem conseguir comprar equipamentos e insumos para manter a eletricidade, o gás, a água, o transporte público e as telecomunicações ([Brasil de Fato, 15/09/2021](https://www.brasildefato.com.br/2021/09/15/relatora-da-onu-defende-suspensao-imediata-das-sancoes-economicas-contra-a-venezuela/)).
-- **16/07/2026 — a fraude que a CIA não confirmou:** o governo Trump divulgou documentos da CIA sobre as eleições venezuelanas de 2004 a 2020 para acusar Maduro de fraude com as máquinas da Smartmatic. Os documentos falam de um plano para alterar votos em 2012, mas concluem que "não houve fraude eletrônica em larga escala, apesar de relatos de planos de manipulação", e que nem a Smartmatic nem o governo venezuelano tinham como manipular eleições fora da Venezuela ([Lupa, 17/07/2026](https://www.agencialupa.org/noticias/2026/07/17/smartmatic-citada-em-relatorio-da-cia-sobre-eleicoes-venezuelanas-nao-desenvolveu-urnas-do-brasil/)). [Flávio Bolsonaro](flavio-bolsonaro.md) usou esses documentos para mentir sobre as urnas brasileiras (ver [A mentira da fraude nas urnas](teorias-conspiratorias.md#a-mentira-da-fraude-nas-urnas)).
+- **16/07/2026 — a fraude que a CIA não confirmou:** o governo Trump divulgou documentos da CIA sobre as eleições venezuelanas de 2004 a 2020 para acusar Maduro de fraude com as máquinas da Smartmatic. Os documentos falam de um plano para alterar votos em 2012, mas concluem que "não houve fraude eletrônica em larga escala, apesar de relatos de planos de manipulação", e que nem a Smartmatic nem o governo venezuelano tinham como manipular eleições fora da Venezuela ([Lupa, 17/07/2026](https://www.agencialupa.org/noticias/2026/07/17/smartmatic-citada-em-relatorio-da-cia-sobre-eleicoes-venezuelanas-nao-desenvolveu-urnas-do-brasil/)). [Flávio Bolsonaro](flavio-bolsonaro.md) usou esses documentos para mentir sobre as urnas brasileiras (ver [A mentira da fraude nas urnas](fraude-nas-urnas.md)).
 
 ### O sistema eleitoral elogiado por Jimmy Carter
 
@@ -90,6 +90,6 @@
 
 ## Ver também
 
-- [Internacional / Geopolítica](internacional-geopolitica.md)
+- [Internacional e geopolítica](internacional-geopolitica.md)
 - [Donald Trump e o trumpismo](donald-trump.md)
-- [A mentira da fraude nas urnas](teorias-conspiratorias.md#a-mentira-da-fraude-nas-urnas)
+- [A mentira da fraude nas urnas](fraude-nas-urnas.md)

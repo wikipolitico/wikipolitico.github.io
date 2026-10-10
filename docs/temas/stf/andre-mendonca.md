@@ -156,4 +156,12 @@ A crise que Mendonça abriu ao tornar público só o relatório sobre [Moraes](a
 
 ---
 
-Voltar para [STF](../stf.md).
+Voltar para [STF](index.md).
+
+## Ver também
+
+- [Crise no STF (2026)](crise-2026.md)
+- [Caso Banco Master](../banco-master.md)
+- [Nossa Senhora Aparecida na campanha de 2026](../bolsonarismo-contra-o-estado-laico.md#nossa-senhora-aparecida-na-campanha-de-2026)
+- [Kassio Nunes Marques](kassio-nunes-marques.md), o outro indicado de Bolsonaro
+- [STF](index.md)

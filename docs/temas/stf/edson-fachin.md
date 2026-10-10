@@ -49,7 +49,7 @@ A linha do tempo completa está na página [Crise no STF (2026)](crise-2026.md).
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [Cristiano Zanin](cristiano-zanin.md): o advogado de Lula no habeas corpus em que Fachin anulou as condenações
 - [Alexandre de Moraes](alexandre-de-moraes.md): vice de Fachin, que perdeu para ele a relatoria do inquérito das fake news
 - [André Mendonça](andre-mendonca.md): relator do caso Master

@@ -37,8 +37,8 @@
 
 ## Ver também
 
-- [Lawfare](../lawfare.md): o conceito do livro de Zanin aplicado aos casos de Lula
-- [STF](../stf.md)
+- [Lawfare](../lawfare/index.md): o conceito do livro de Zanin aplicado aos casos de Lula
+- [STF](index.md)
 - [Edson Fachin](edson-fachin.md): anulou as condenações de Lula no habeas corpus da defesa de Zanin
 - [Gilmar Mendes](gilmar-mendes.md): um dos três votos pela parcialidade de Moro
 - [Kassio Nunes Marques](kassio-nunes-marques.md): votou contra a parcialidade de Moro

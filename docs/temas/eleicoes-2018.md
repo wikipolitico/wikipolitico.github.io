@@ -47,13 +47,22 @@
 
 ## Os disparos no WhatsApp
 
-- **Outubro de 2018 — empresários contra Haddad:** reportagens da Folha de S.Paulo mostraram disparos em massa no WhatsApp, financiados por empresários, para prejudicar a candidatura de Haddad. Em 28/10/2021, o TSE concluiu que os disparos, impulsionados pelo "gabinete do ódio", visaram atacar adversários em benefício de Bolsonaro e Mourão. Mesmo assim, não cassou a chapa, por não ver "com segurança" a gravidade dos fatos ([Conjur, 28/10/2021](https://www.conjur.com.br/2021-out-28/tse-forma-maioria-nao-cassar-bolsonaro-disparos-massa/)). A comissão do Congresso que investigou o caso está em [CPMI das Fake News (2020)](cpmi-das-fake-news-2020.md).
+- **Outubro de 2018 — empresários contra Haddad:** reportagens da Folha de S.Paulo mostraram disparos em massa no WhatsApp, financiados por empresários, para prejudicar a candidatura de Haddad. Em 28/10/2021, o TSE concluiu que os disparos, impulsionados pelo "gabinete do ódio", visaram atacar adversários em benefício de Bolsonaro e Mourão. Mesmo assim, não cassou a chapa, por não ver "com segurança" a gravidade dos fatos ([Conjur, 28/10/2021](https://www.conjur.com.br/2021-out-28/tse-forma-maioria-nao-cassar-bolsonaro-disparos-massa/)). A comissão do Congresso que investigou o caso está em [CPMI das Fake News (2020)](eleicoes-2018.md#a-cpmi-das-fake-news-2020).
 
 ### Steve Bannon
 
 - [Bolsonaro e o apoio de Steve Bannon, o sabotador de democracias – RBA, 17/10/2018](https://www.redebrasilatual.com.br/eleicoes-2018/2018/10/bolsonaro-e-o-apoio-de-steve-bannon-o-sabotador-de-democracias-1/): o estrategista da extrema direita americana, conhecido pelo uso de fake news, e a campanha de Bolsonaro
 - [CPMI vai revelar fábrica de fake news de Bolsonaro e Steve Bannon, diz Zarattini – Diálogos do Sul, 20/09/2019](https://dialogosdosul.operamundi.uol.com.br/brasil/60634/cpmi-vai-revelar-fabrica-de-fake-news-de-bolsonaro-e-steve-bannon-diz-zarattini): o deputado sobre a máquina de mentiras que atingia políticos e artistas
 - [Agenda de Eduardo Bolsonaro como embaixador nos EUA vai ser dedicada ao bolsonarismo – Intercept, 21/07/2019](https://theintercept.com/2019/07/21/eduardo-bolsonaro-embaixador-eua-bannon-extrema-direita/): Eduardo era o principal representante de Bannon na América Latina, segundo o Intercept
+
+### A CPMI das Fake News (2020)
+
+Em 2020, a CPMI das Fake News investigou os disparos em massa e a rede de desinformação bolsonarista.
+
+- [Hans River, ex-funcionário da Yacows, mentiu na CPMI das Fake News – Natália Bonavides (Twitter), 11/02/2020](https://twitter.com/natbonavides/status/1227363953833054210): a deputada aponta as contradições do depoimento, em que ele disse ter trabalhado na campanha de alguém que nem foi candidato
+- [Natália Bonavides desmascara empresa contratada por Bolsonaro – Gleisi Hoffmann (YouTube)](https://www.youtube.com/watch?v=TF3k38NPHiw): a deputada confronta a empresa de disparos na comissão
+- [Gustavo Bebianno e a "Abin paralela" – Facebook](https://www.facebook.com/dagoiabeira/posts/585893445399300): "Um belo dia o Carlos me aparece com nome de um delegado federal e três agentes que seria uma Abin paralela, porque ele não confiava na Abin"
+- [O artigo de Marcos Carvalho, ex-marqueteiro de Bolsonaro, sobre o uso de robôs – Instagram](https://www.instagram.com/tv/CBTJYcmnTUV/?igshid=1ilsgj9vkesyh): ele esteve na CPMI num dos dias em que veio à tona o caixa 2 da campanha de Bolsonaro e Mourão, segundo o post
 
 ## A PF, o Ministério Público e a campanha
 
@@ -88,7 +97,6 @@ A PF concluiu três vezes, em 2018, 2020 e 2024, que Adélio agiu sozinho. Os fa
 ## Ver também
 
 - [Farsa da Lava Jato](farsa-da-lava-jato.md): a condenação de Lula, a prisão e a parcialidade de Moro reconhecida pelo STF
-- [CPMI das Fake News (2020)](cpmi-das-fake-news-2020.md): os disparos em massa e os depoimentos da comissão
 - [Edson Fachin](stf/edson-fachin.md) e [Luiz Fux](stf/luiz-fux.md): o único voto pela candidatura de Lula no TSE e o ministro que proibiu Lula de dar entrevista
 - [Edir Macedo](outras-personalidades-brasil.md#edir-macedo-igreja-universal-tv-record): o dono da Record, que apoiou Bolsonaro
 - [Eleições 2014](eleicoes-2014.md) e [Eleições 2022](eleicoes-2022.md)

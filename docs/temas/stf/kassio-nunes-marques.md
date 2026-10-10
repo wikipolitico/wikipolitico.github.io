@@ -43,7 +43,7 @@
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [André Mendonça](andre-mendonca.md): o outro indicado de Bolsonaro, relator do caso Master e vice de Nunes Marques no TSE
 - [Alexandre de Moraes](alexandre-de-moraes.md): relator da trama golpista em que Bolsonaro foi condenado
 - [Caso Banco Master](../banco-master.md)

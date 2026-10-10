@@ -48,7 +48,7 @@
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [Alexandre de Moraes](alexandre-de-moraes.md): relator da trama golpista, em que Fux foi o único voto pela absolvição de Bolsonaro
 - [André Mendonça](andre-mendonca.md): colega de Fux na Segunda Turma e relator do caso Master
 - [Kassio Nunes Marques](kassio-nunes-marques.md): também poupado pelos EUA e citado nas mensagens de Vorcaro

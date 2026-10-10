@@ -71,7 +71,7 @@ Não é opinião, é o documento: as íntegras publicadas pelo Poder360.
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [André Mendonça](andre-mendonca.md): relator do caso Master, contra quem Moraes pediu investigação
 - [Kassio Nunes Marques](kassio-nunes-marques.md): presidente do TSE, a quem Bolsonaro pediu a suspensão da pena
 - [Gilmar Mendes](gilmar-mendes.md): decano do STF

@@ -36,12 +36,12 @@
 ## A morte
 
 - **19/01/2017:** morreu na queda de um avião no mar, perto de Paraty (RJ), com outras quatro pessoas ([Wikipedia](https://pt.wikipedia.org/wiki/Teori_Zavascki)).
-- **22/01/2018:** o relatório final do Cenipa, da FAB, apontou o mau tempo e a desorientação espacial do piloto como causas. Não encontrou falha mecânica, e a PF descartou sabotagem ([Exame, 22/01/2018](https://exame.com/brasil/fab-divulga-relatorio-sobre-acidente-que-matou-zavascki-na-2a/)). As especulações sobre a queda estão em [Teorias Conspiratórias](../teorias-conspiratorias.md#teori-zavascki-ministro-do-stf-e-relator-da-lava-jato-19012017).
+- **22/01/2018:** o relatório final do Cenipa, da FAB, apontou o mau tempo e a desorientação espacial do piloto como causas. Não encontrou falha mecânica, e a PF descartou sabotagem ([Exame, 22/01/2018](https://exame.com/brasil/fab-divulga-relatorio-sobre-acidente-que-matou-zavascki-na-2a/)). As especulações sobre a queda estão em [Mortes suspeitas](../mortes-suspeitas.md#teori-zavascki-ministro-do-stf-e-relator-da-lava-jato-19012017).
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [Edson Fachin](edson-fachin.md): herdou a relatoria da [Lava Jato](../farsa-da-lava-jato.md) depois da morte de Teori
 - [Alexandre de Moraes](alexandre-de-moraes.md): indicado por Temer para a vaga de Teori
 - [Luís Roberto Barroso](luis-roberto-barroso.md): votou com Teori pela absolvição de quadrilha em 2014
-- [Teorias Conspiratórias](../teorias-conspiratorias.md#teori-zavascki-ministro-do-stf-e-relator-da-lava-jato-19012017)
+- [Mortes suspeitas](../mortes-suspeitas.md#teori-zavascki-ministro-do-stf-e-relator-da-lava-jato-19012017)

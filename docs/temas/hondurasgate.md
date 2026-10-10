@@ -51,13 +51,13 @@ Os áudios não citam o Brasil como alvo — os dossiês planejados miravam Méx
 
 ## Cobertura no Brasil
 
-- [Brasil 247 — coletânea de notícias sobre Hondurasgate](https://www.brasil247.com/tag/hondurasgate/)
-- [MSN Brasil — Hondurasgate, Polymarket e a desinformação nas eleições latino-americanas](https://www.msn.com/pt-br/noticias/brasil/hondurasgate-polymarket-e-frutinovelas-a-desinformação-nas-eleições-latino-americanas/ar-AA2aQCRr)
-- [Latinoamérica 21 — Hondurasgate e a tragédia do alinhamento automático na América Latina](https://latinoamerica21.com/pt-br/hondurasgate-e-a-tragedia-do-alinhamento-automatico-na-america-latina/)
+- [Hondurasgate – coletânea de notícias do Brasil 247](https://www.brasil247.com/tag/hondurasgate/): a cobertura do site
+- [Hondurasgate, Polymarket e "frutinovelas": a desinformação nas eleições latino-americanas – MSN Brasil](https://www.msn.com/pt-br/noticias/brasil/hondurasgate-polymarket-e-frutinovelas-a-desinformação-nas-eleições-latino-americanas/ar-AA2aQCRr): o caso entre outras campanhas de desinformação
+- ["Hondurasgate" e a tragédia do alinhamento automático na América Latina – Latinoamérica 21, 14/05/2026](https://latinoamerica21.com/pt-br/hondurasgate-e-a-tragedia-do-alinhamento-automatico-na-america-latina/): uma rede transnacional de desinformação, segundo a análise
 
 ## Ver também
 
 - [Donald Trump e o trumpismo](donald-trump.md)
-- [Internacional / Geopolítica](internacional-geopolitica.md)
+- [Internacional e geopolítica](internacional-geopolitica.md)
 - [Eleições 2026](eleicoes-2026.md)
-- [Teorias Conspiratórias](teorias-conspiratorias.md)
+- [Golpes contra governos eleitos](golpes-contra-governos-eleitos.md)

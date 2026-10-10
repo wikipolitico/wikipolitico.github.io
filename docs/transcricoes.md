@@ -109,3 +109,8 @@ LULA: Doutor Moro, o Renato Duque não é seu filho.
 ++++
 
 Não é ficção, não é piada, embora pareça.
+
+## Ver também
+
+- [Golpes contra governos eleitos](temas/golpes-contra-governos-eleitos.md#2016-o-impeachment-de-dilma): o "grande acordo nacional" de Jucá
+- [Farsa da Lava Jato](temas/farsa-da-lava-jato.md)

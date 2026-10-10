@@ -30,6 +30,6 @@
 ## Ver também
 
 - [Bolsonarismo contra o Estado laico](bolsonarismo-contra-o-estado-laico.md): a religião como arma eleitoral hoje, da promessa de Flávio ao caso de Nossa Senhora Aparecida
-- [Rede Globo](midia.md#rede-globo): outros casos de manipulação da emissora
+- [Rede Globo](rede-globo.md): outros casos de manipulação da emissora
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md): os números dos governos do PT
 - [Eleições 1989](eleicoes-1989.md), [Eleições 1994](eleicoes-1994.md), [Eleições 1998](eleicoes-1998.md), [Eleições 2002](eleicoes-2002.md), [Eleições 2006](eleicoes-2006.md), [Eleições 2014](eleicoes-2014.md), [Eleições 2018](eleicoes-2018.md) e [Eleições 2022](eleicoes-2022.md)

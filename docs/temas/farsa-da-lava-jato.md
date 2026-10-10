@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Farsa da Lava Jato
 
 !!! abstract "Resumo"
@@ -205,7 +210,7 @@ A Lava Jato se inspirou na Operação Mãos Limpas, que Moro estudou num artigo 
 
 ## Os métodos da força-tarefa
 
-O método completo, passo a passo, está na página [Lawfare](lawfare.md).
+O método completo, passo a passo, está na página [Lawfare](lawfare/index.md).
 
 - [Você sabe o que é lawfare? – Facebook](https://www.facebook.com/watch/?v=1995442770471216): vídeo que explica o conceito
 
@@ -214,7 +219,7 @@ O método completo, passo a passo, está na página [Lawfare](lawfare.md).
 - ["O que diz o delegado que denunciou os grampeadores do Youssef" – Facebook](https://www.facebook.com/permalink.php?story_fbid=472260919601861&id=223843157776973): o delegado que acusou colegas da Lava Jato de grampear a cela do doleiro
 - [Mário Fanton denuncia delegados da PF que investigam a Lava Jato – Facebook](https://www.facebook.com/permalink.php?story_fbid=472262176268402&id=223843157776973): o delegado da PF que acusou colegas da operação
 - ["O que diz o delegado que denunciou os grampeadores do Youssef" – Facebook, 28/09/2015](https://www.facebook.com/permalink.php?story_fbid=472260919601861&id=223843157776973): o delegado que acusou colegas da Lava Jato de grampear a cela do doleiro
-- [Delegados da PF vão calar em CPI. É medo do seu colega Fanton? – Tijolaço, 28/09/2015](http://tijolaco.net/blog/delegados-da-pf-vao-calar-em-cpi-e-medo-do-seu-colega-fanton-leia-o-que-ele-diz/): os delegados da Lava Jato se preparavam para não falar na CPI da Petrobras, segundo o Valor
+- [Delegados da PF vão calar em CPI. É medo do seu colega Fanton? – Tijolaço, 28/09/2015](http://tijolaco.net/blog/delegados-da-pf-vao-calar-em-cpi-e-medo-do-seu-colega-fanton-leia-o-que-ele-diz/): os delegados da Lava Jato se preparavam para não falar na CPI da Petrobras, segundo o Valor · *fora do ar em 10/10/2026, o domínio tijolaco.net responde 502* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://tijolaco.net/blog/delegados-da-pf-vao-calar-em-cpi-e-medo-do-seu-colega-fanton-leia-o-que-ele-diz/)
 - [Delegados deixaram digitais: achavam que o golpe ia dar certo – Viomundo, 14/11/2014](http://www.viomundo.com.br/denuncias/os-delegados-da-pf-tinham-tanta-certeza-de-que-o-golpe-daria-certo-que-deixaram-digitais.html): na campanha de 2014, delegados da Lava Jato elogiaram Aécio e atacaram Lula e Dilma nas redes, como revelou o Estadão (ver [Eleições 2014](eleicoes-2014.md))
 - [O depoimento que vai anular a Lava Jato – Luíz Müller Blog, 22/09/2015](https://luizmullerpt.wordpress.com/2015/09/22/o-depoimento-que-vai-anular-a-lava-jato-por-paulo-henrique-amorim/): o depoimento do analista de inteligência da PF Dalmey Fernando a Moro sobre o grampo ilegal na cela de Youssef
 - [Lava Jato: delegado da PF denuncia adulteração de provas – blog Correntes da Escravidão, 08/2015](http://correntesdaescravidao.blogspot.com.br/2015/08/lava-jato-delegado-da-pf-denuncia.html?m=1): um delegado da PF denuncia adulteração de provas na operação, segundo o blog
@@ -232,7 +237,7 @@ O método completo, passo a passo, está na página [Lawfare](lawfare.md).
 
 ### O reitor Cancellier
 
-A história do reitor está na página [Lawfare](lawfare.md#os-casos-no-brasil).
+A história do reitor está na página [Lawfare](lawfare/index.md#os-casos-no-brasil).
 
 - [Delegada Érika Marena, amiga de Moro na Lava Jato, é exonerada do Ministério da Justiça – Revista Fórum, 26/06/2020](https://revistaforum.com.br/politica/delegada-erika-marena-amiga-de-moro-na-lava-jato-e-exonerada-do-ministerio-da-justica/): a delegada da operação que levou o reitor Cancellier à prisão
 - [Sem provas, PF encerra inquérito que levou reitor Cancellier ao suicídio – Abrasco](https://www.abrasco.org.br/site/noticias/sem-provas-pf-encerra-inquerito-que-levou-reitor-cancellier-ao-suicidio/37766/): o inquérito terminou sem provas contra o reitor, segundo a Abrasco · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.abrasco.org.br/site/noticias/sem-provas-pf-encerra-inquerito-que-levou-reitor-cancellier-ao-suicidio/37766/)
@@ -279,7 +284,7 @@ A história do reitor está na página [Lawfare](lawfare.md#os-casos-no-brasil).
 
 ### Almirante Othon (engenheiro nuclear)
 
-- [A estranha história do Almirante Othon – Tijolaço](http://www.tijolaco.net/blog/a-estranha-historia-do-almirante-othon-que-dedicou-a-vida-a-soberania-do-brasil/): o pioneiro do programa nuclear brasileiro preso pela Lava Jato
+- [A estranha história do Almirante Othon – Tijolaço](http://www.tijolaco.net/blog/a-estranha-historia-do-almirante-othon-que-dedicou-a-vida-a-soberania-do-brasil/): o pioneiro do programa nuclear brasileiro preso pela Lava Jato · *fora do ar em 10/10/2026, o domínio tijolaco.net responde 502* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.tijolaco.net/blog/a-estranha-historia-do-almirante-othon-que-dedicou-a-vida-a-soberania-do-brasil/)
 - [Moro burlou a lei para prender Almirante Othon – O Cafezinho, 05/07/2019](https://www.ocafezinho.com/2019/07/05/moro-burlou-a-lei-para-prender-almirante-othon/): idoso, com endereço fixo e sem necessidade de prisão provisória, segundo o blog
 - [O caso do vice-almirante Othon – Portal Desacato (YouTube), 07/08/2019](https://www.youtube.com/watch?v=U4rJdRgassw): José Álvaro Cardoso sobre o interesse estrangeiro contra o programa nuclear brasileiro
 
@@ -328,12 +333,27 @@ A história do reitor está na página [Lawfare](lawfare.md#os-casos-no-brasil).
 - [Propinas na Petrobras remontam à década de 1970, diz ex-gerente – Congresso em Foco, 24/10/2015](https://congressoemfoco.uol.com.br/especial/noticias/propinas-na-petrobras-comecaram-em-1978-diz-ex-gerente/): Eduardo Musa relatou ter ouvido que Eduardo Cunha dava a "palavra final" na diretoria Internacional, do PMDB
 - [Ex-gerente diz que propinas na Petrobras remontam a 1978 – Estadão, 24/10/2015](http://politica.estadao.com.br/blogs/fausto-macedo/ex-gerente-diz-que-propinas-na-petrobras-remontam-a-1978/): o mesmo depoimento de Musa, no Estadão
 
+### João Vaccari Neto (ex-tesoureiro do PT)
+
+- ["Relatos de delatores que isentam Vaccari de crime foram desconsiderados", diz D'Urso – Rede Brasil Atual, 09/2015](http://www.redebrasilatual.com.br/politica/2015/09/relatos-de-delatores-que-isentam-vaccari-de-crime-foram-desconsiderados-diz-durso-6001.html): o advogado aponta as delações que inocentavam o ex-tesoureiro
+- [Processo contra Vaccari caminha para a absolvição, defende advogado – Rede Brasil Atual, 08/2015](http://www.redebrasilatual.com.br/politica/2015/08/processo-contra-vaccari-caminha-para-a-absolvicao-defende-advogado-6063.html): a defesa antes da sentença de Moro
+- [Alegações finais da defesa comprovam que Vaccari é inocente – blog A Verdade sobre Vaccari, 26/08/2015](https://verdadesobrevaccari.wordpress.com/2015/08/26/alegacoes-finais-da-defesa-comprovam-que-vaccari-e-inocente/): os argumentos finais da defesa, segundo o blog
+- [A verdade sobre Vaccari – blog A Verdade sobre Vaccari](https://verdadesobrevaccari.wordpress.com/): o blog da campanha em defesa do ex-tesoureiro
+- [Estadão inventa renda mensal de R$ 300 mil de mulher de Vaccari – Revista Fórum, blog do Rovai, 18/04/2015](http://www.revistaforum.com.br/blogdorovai/2015/04/18/estadao-inventa-renda-mensal-de-300-mil-de-mulher-de-vaccari/): o jornal errou a renda da mulher de Vaccari, segundo o blog
+- [Por que Moro não mandou prender a irmã de Aécio? – GGN, 25/04/2015](https://jornalggn.com.br/noticia/porque-moro-nao-mandou-prender-a-irma-de-aecio-ela-tem-foro-privilegiado/): Vaccari foi preso só com base em delações, segundo o site
+- [Vaccari preso e Perrella solto – Paulo Nogueira, DCM](http://www.diariodocentrodomundo.com.br/vaccari-preso-e-perrela-solto-por-paulo-nogueira/): os dois pesos da Justiça, segundo o blog
+- [Vaccari não tem patrimônio, nada foi provado – Plantão Brasil](https://www.plantaobrasil.net/news.asp?nID=90086): o ex-tesoureiro sem bens que justificassem a acusação, segundo o site
+- [Dallari, presidente da CUT e D'Urso: Moro condenou Vaccari sem provas – Viomundo](http://www.viomundo.com.br/denuncias/dallari-presidente-da-cut-e-durso-sergio-moro-condenou-vaccari-sem-provas-juiz-desmoraliza-a-justica.html): juristas e sindicalistas contra a condenação
+- [Em nota, PT afirma que condenação de Vaccari é um "equívoco" – site do PT](http://www.pt.org.br/em-nota-pt-afirma-que-condenacao-de-vaccari-e-um-equivoco/): a resposta do partido à sentença de Moro · *fora do ar em 13/09/2026, timeout* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.pt.org.br/em-nota-pt-afirma-que-condenacao-de-vaccari-e-um-equivoco/)
+- [Bancoop: Vaccari é inocentado pela Justiça – blog Luiz Müller, 21/11/2016](https://luizmuller.com/2016/11/21/bancoop-vaccari-e-inocentado-pela-justica/): a absolvição no caso da cooperativa, segundo o blog
+
 ## A Lava Jato, o PSDB, FHC e Cunha
 
 - [PT pede que investigações da Lava Jato se estendam ao governo FHC – Viomundo, 12/02/2015](http://www.viomundo.com.br/politica/lava-jato.html): o partido pediu que a investigação alcançasse também o governo tucano
 - [Janio de Freitas: quem fatiou o Banestado? – Facebook](https://www.facebook.com/permalink.php?story_fbid=472040982957188&id=223843157776973): Moro e a imprensa reclamaram do fatiamento da Lava Jato pelo STF, mas os mesmos procuradores e Moro fatiaram o caso Banestado (link original: goo.gl/m1qVAM)
 - [Moro nega acesso a doações de empresas para institutos de FHC, Sarney e Itamar – Estadão, 17/02/2017](https://politica.estadao.com.br/blogs/fausto-macedo/moro-nega-pedido-para-acessar-doacoes-de-empresas-para-institutos-de-fhc-sarney-e-itamar/): o juiz negou o pedido de acesso às doações para os institutos de outros ex-presidentes
 - [Moro tentou poupar Cunha – Plantão Brasil](http://www.plantaobrasil.com.br/news.asp?nID=91384): o tratamento dado a Eduardo Cunha, segundo o site · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.plantaobrasil.com.br/news.asp?nID=91384)
+- [Moro orientou Lava Jato a evitar apreensão de celular de Eduardo Cunha – Opera Mundi (Facebook), 12/06/2019](https://www.facebook.com/operamundi.br/posts/10157476006519120): nas mensagens, o ex-juiz orienta Deltan Dallagnol a não pedir a apreensão do celular de Cunha um dia antes da prisão dele, segundo o Opera Mundi
 
 ### A refinaria Abreu e Lima (PSDB/PP/PSB)
 
@@ -343,7 +363,7 @@ A história do reitor está na página [Lawfare](lawfare.md#os-casos-no-brasil).
 
 ## A Lava Jato e os Estados Unidos
 
-A cooperação do FBI com a força-tarefa, por fora do Ministério da Justiça, está na página [Lawfare](lawfare.md#na-america-latina).
+A cooperação do FBI com a força-tarefa, por fora do Ministério da Justiça, está na página [Lawfare](lawfare/index.md#na-america-latina).
 
 - [Lava Jato: tudo começou em junho de 2013 – GGN, 09/03/2016](http://jornalggn.com.br/noticia/lava-jato-tudo-comecou-em-junho-de-2013): o GGN reconstitui a origem da operação
 - [A geopolítica da Lava Jato – Outras Palavras](http://outraspalavras.net/outrasmidias/destaque-outras-midias/a-geopolitica-da-lava-jato/): os interesses internacionais por trás da operação · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://outraspalavras.net/outrasmidias/destaque-outras-midias/a-geopolitica-da-lava-jato/)
@@ -360,13 +380,13 @@ A cooperação do FBI com a força-tarefa, por fora do Ministério da Justiça, 
 - [Destruição a jato (documentário) – YouTube](https://www.youtube.com/watch?v=o_c_-9uso4c#t=784): o estrago da operação na economia · *fora do ar em 13/09/2026, vídeo indisponível (403)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=o_c_-9uso4c#t=784)
 - [Lava Jato torra a riqueza e os empregos – Reinaldo Azevedo, UOL, 17/06/2019](https://reinaldoazevedo.blogosfera.uol.com.br/2019/06/17/a-lava-jato-torra-a-riqueza-e-os-empregos-odebrecht-em-recuperacao-judicia/): a recuperação judicial da Odebrecht como retrato do custo da operação
 - [Lava Jato afeta 51 mil empresas e 500 mil empregos – Exame, 07/05/2015](https://exame.com/negocios/lava-jato-afeta-51-mil-empresas-e-500-mil-empregos/): o tamanho do estrago na cadeia de fornecedores
-- [O Dr. Moro fez diferença: 250 mil operários desempregados – Tijolaço](http://www.tijolaco.net/blog/o-dr-moro-fez-diferenca-fez-na-vida-de-250-mil-operarios-humildes-e-agora-desempregados/): os empregos perdidos com a operação, segundo o blog
-- [O Dr. Moro fez diferença: 250 mil operários desempregados – Tijolaço](http://tijolaco.net/blog/?p=25828): a mesma postagem, em outro endereço do blog
+- [O Dr. Moro fez diferença: 250 mil operários desempregados – Tijolaço](http://www.tijolaco.net/blog/o-dr-moro-fez-diferenca-fez-na-vida-de-250-mil-operarios-humildes-e-agora-desempregados/): os empregos perdidos com a operação, segundo o blog · *fora do ar em 10/10/2026, o domínio tijolaco.net responde 502* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.tijolaco.net/blog/o-dr-moro-fez-diferenca-fez-na-vida-de-250-mil-operarios-humildes-e-agora-desempregados/)
+- [O Dr. Moro fez diferença: 250 mil operários desempregados – Tijolaço](http://tijolaco.net/blog/?p=25828): a mesma postagem, em outro endereço do blog · *fora do ar em 10/10/2026, o domínio tijolaco.net responde 502* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://tijolaco.net/blog/?p=25828)
 - [Números da Lava Jato – Facebook](https://www.facebook.com/permalink.php?story_fbid=478029862358300&id=223843157776973): um balanço da operação
 
 ## Ver também
 
-- [Lawfare](lawfare.md): o método da Lava Jato, passo a passo, e o mesmo roteiro na América Latina
+- [Lawfare](lawfare/index.md): o método da Lava Jato, passo a passo, e o mesmo roteiro na América Latina
 - [Farsa do Mensalão do PT](farsa-do-mensalao.md)
 - [Cristiano Zanin](stf/cristiano-zanin.md): o advogado de Lula que provou a parcialidade de Moro
 - [Teori Zavascki](stf/teori-zavascki.md): declarou ilegal o grampo de Dilma e Lula
@@ -374,5 +394,5 @@ A cooperação do FBI com a força-tarefa, por fora do Ministério da Justiça, 
 - [Dias Toffoli](stf/dias-toffoli.md): anulou as provas da Odebrecht
 - [Ricardo Lewandowski](stf/ricardo-lewandowski.md): deu à defesa de Lula as mensagens da Spoofing
 - [Luiz Fux](stf/luiz-fux.md): o "In Fux we trust"
-- [Petrobrás](petrobras.md)
+- [Petrobras](petrobras.md)
 - [Corrupção](corrupcao.md)

@@ -44,7 +44,7 @@
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [Edson Fachin](edson-fachin.md): o único voto a favor da candidatura de Lula no TSE em 2018
 - [Rosa Weber](rosa-weber.md): presidia o TSE quando Barroso relatou o caso de Lula
 - [Teori Zavascki](teori-zavascki.md): votou com Barroso pela absolvição de quadrilha em 2014

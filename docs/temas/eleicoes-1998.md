@@ -18,6 +18,10 @@
 - **04/06/1997 — o "engavetador-geral":** o Senado aprovou a emenda, que foi promulgada. O procurador-geral da República, Geraldo Brindeiro, recusou todos os pedidos para denunciar o caso ao STF e ficou conhecido como "engavetador-geral da República". A PF só ouviu o repórter em 2001, num inquérito que "não deu em absolutamente nada" ([Poder360, 08/09/2020](https://www.poder360.com.br/midia/entenda-como-foi-a-compra-de-votos-a-favor-da-emenda-da-reeleicao-em-1997/)).
 - **2007 e 2020 — FHC admite:** num evento da Folha, em 2007, FHC disse: "Houve compra de votos? Provavelmente. Foi feita pelo governo federal? Não foi. Pelo PSDB: não foi. Por mim, muito menos". Para o Poder360, a negativa "não apaga o fato de que o caso esteja repleto de provas documentais, materiais". Em artigo no Estadão, em 06/09/2020, FHC escreveu: "Devo reconhecer que historicamente foi um erro" ([Poder360, 08/09/2020](https://www.poder360.com.br/midia/entenda-como-foi-a-compra-de-votos-a-favor-da-emenda-da-reeleicao-em-1997/)).
 
+### Mais sobre a compra da reeleição
+
+- [Compra da reeleição: FHC desafiou, então aqui está o vídeo – blog Limpinho e Cheiroso, 08/05/2015](https://limpinhoecheiroso.com/2015/05/08/compra-da-reeleicao-fhc-desafiou-entao-aqui-esta-o-video/): o vídeo sobre a compra de votos para a emenda da reeleição, segundo o blog · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://limpinhoecheiroso.com/2015/05/08/compra-da-reeleicao-fhc-desafiou-entao-aqui-esta-o-video/)
+
 ## O real segurado até a eleição
 
 - **13/01/1999 — a conta chega depois da posse:** doze dias depois da segunda posse de FHC, o presidente do Banco Central, Gustavo Franco, o maior defensor do real fortemente valorizado, pediu demissão. A faixa em que o Banco Central mantinha o dólar, de R$ 1,12 a R$ 1,22, foi alargada e, em 15/01, abandonada. O dólar chegou a R$ 1,98 em 28/01 e a R$ 2,16 em 03/03/1999. Parte do dinheiro para sustentar o real valorizado veio da dívida externa, que saltou de US$ 120 bilhões em 1994 para US$ 250 bilhões em 2000 ([Wikipedia](https://pt.wikipedia.org/wiki/Desvaloriza%C3%A7%C3%A3o_do_real_em_1999)).
@@ -25,7 +29,7 @@
 
 ## Ver também
 
-- [PSDB](partidos-politicos.md#psdb): o partido de FHC no acervo, com o vídeo sobre a compra da reeleição
+- [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md#fhc): os links do acervo sobre FHC
 - [Farsa do Mensalão do PT](farsa-do-mensalao.md): o esquema de Marcos Valério, que nasceu em 1998 na campanha de reeleição do tucano Eduardo Azeredo
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md): os números dos governos
 - [Eleições 1989](eleicoes-1989.md), [Eleições 1994](eleicoes-1994.md), [Eleições 2010](eleicoes-2010.md) e [Eleições 2014](eleicoes-2014.md)

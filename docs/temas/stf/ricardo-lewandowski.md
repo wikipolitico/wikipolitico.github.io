@@ -39,7 +39,7 @@
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [Joaquim Barbosa](joaquim-barbosa.md): o relator do [mensalão](../farsa-do-mensalao.md), de quem Lewandowski divergiu
 - [Cristiano Zanin](cristiano-zanin.md): o advogado de Lula nos habeas corpus e no acesso às mensagens da Spoofing
 - [Luiz Fux](luiz-fux.md): derrubou a entrevista de Lula que Lewandowski autorizou

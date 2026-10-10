@@ -50,5 +50,5 @@
 - [Cármen Lúcia](stf/carmen-lucia.md): formou a maioria que condenou Bolsonaro
 - [André Mendonça](stf/andre-mendonca.md) e [Kassio Nunes Marques](stf/kassio-nunes-marques.md): votaram para absolver réus do 8 de janeiro
 - [Luiz Fux](stf/luiz-fux.md): o único voto pela absolvição de Bolsonaro na trama golpista
-- [A mentira da fraude nas urnas](teorias-conspiratorias.md#a-mentira-da-fraude-nas-urnas): as acusações sem prova de Bolsonaro contra as urnas, antes e depois da eleição de 2022
+- [A mentira da fraude nas urnas](fraude-nas-urnas.md): as acusações sem prova de Bolsonaro contra as urnas, antes e depois da eleição de 2022
 - [Penas mais duras no governo Lula](politicas-publicas.md#penas-mais-duras-no-governo-lula): o veto ao projeto que aliviava as penas dos golpistas

@@ -45,7 +45,7 @@
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [Kassio Nunes Marques](kassio-nunes-marques.md): o indicado de Bolsonaro para a vaga de Celso de Mello
 - [Joaquim Barbosa](joaquim-barbosa.md): o relator do [mensalão](../farsa-do-mensalao.md)
 - [Ricardo Lewandowski](ricardo-lewandowski.md): votou com Celso de Mello pelo habeas corpus de Lula e contra a prisão em segunda instância

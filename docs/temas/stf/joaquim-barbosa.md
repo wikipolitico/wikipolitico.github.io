@@ -61,6 +61,6 @@
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [Rosa Weber](rosa-weber.md): votou pela condenação no [mensalão](../farsa-do-mensalao.md) e, em 2014, pela absolvição de quadrilha
 - [Cármen Lúcia](carmen-lucia.md) e [Dias Toffoli](dias-toffoli.md): votaram pela absolvição de quadrilha em 2014

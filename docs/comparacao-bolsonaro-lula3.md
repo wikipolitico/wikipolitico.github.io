@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Comparação Bolsonaro x Lula 3
 
 Números oficiais do governo Bolsonaro (2019–2022) e do terceiro governo Lula (a partir de 2023, até o último dado disponível), em economia, trabalho, contas públicas, impostos, investimentos, bolsa de valores, empresas, indústria, agro e petróleo, infraestrutura, pobreza, desenvolvimento humano, saúde, educação, ciência, cultura, turismo, moradia, previdência, obras, segurança, povos indígenas e meio ambiente.
@@ -319,3 +324,10 @@ Fonte: notas de estatísticas fiscais do Banco Central de [2019](https://www.bcb
 {: #nota-terras-indigenas }
 - Queimadas: focos de calor detectados pelo satélite de referência do Inpe, de 1º de janeiro a 31 de dezembro (em 2025, até 23 de dezembro). Os números mudam muito com o clima: em 2024, a seca extrema levou ao maior número desde 2010; em 2025, com mais chuva, a queda foi de 51,8% ([Poder360](https://www.poder360.com.br/poder-sustentavel/brasil-tem-queda-de-518-no-numero-de-focos-de-queimadas-em-2025/)). O governo Bolsonaro teve 197,6 mil focos em 2019, 222,8 mil em 2020, 184,1 mil em 2021 e 200,8 mil em 2022 ([Inpe](https://data.inpe.br/queimadas/bdqueimadas/)).
 {: #nota-queimadas }
+
+## Ver também
+
+- [Os impostos do Lula 3](temas/impostos-do-lula-3.md)
+- [Comparação FHC x Lula e Dilma](comparacao-fhc-lula-dilma.md)
+- [Lula](temas/lula.md) e [Jair Bolsonaro](temas/jair-bolsonaro.md)
+- [Corrupção no governo Bolsonaro](temas/corrupcao-no-governo-bolsonaro.md)

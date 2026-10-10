@@ -42,4 +42,4 @@
 - [Flávio Dino](stf/flavio-dino.md): o ministro que derrubou a ordem de Mendonça.
 - [Eleições 2026](eleicoes-2026.md)
 - [Outras Personalidades (Brasil): Edir Macedo](outras-personalidades-brasil.md#edir-macedo-igreja-universal-tv-record) e [Marco Feliciano](outras-personalidades-brasil.md#marco-feliciano-pastor-psc)
-- [Violência / Fascismo / Preconceito](violencia-fascismo-preconceito.md)
+- [Violência, fascismo e preconceito](violencia-fascismo-preconceito.md)

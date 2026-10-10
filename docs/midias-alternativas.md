@@ -326,4 +326,9 @@ Páginas que só têm endereço no Facebook e que não foi possível identificar
 - **Sites conferidos um por um em 17/09/2026.** Quatro veículos tinham site e ele saiu do ar: Brasil Debate, Carta Maior, Falando Verdades e Justificando. Esses ficaram com o aviso e o atalho para o Internet Archive, que tem cópia dos quatro. Outros três — Jornal A Pátria, Teoria Versus Prática e Em Defesa da Petrobras — aparecem como "sem site próprio localizado", porque não achei site nem registro de que tenham tido um, e afirmar que caiu seria afirmar o que não se conferiu.
 - **Perfis de rede conferidos por [manutencao/conferir_redes.py](https://github.com/wikipolitico/wikipolitico.github.io/blob/main/manutencao/conferir_redes.py)**, que checa cada rede pelo método que funciona nela. Dos 158 perfis, 110 estavam no ar, 1 fora (o canal antigo do teleSUR, já marcado) e 47 ficaram inconclusivos, todos do Instagram, que responde com a casca de login quando a checagem é em lote.
 - **Mudanças de endereço encontradas na conferência**: a Rede Brasil Atual e a Rede TVT publicam hoje no TVT News; a Revista Piauí saiu da Folha para piaui.uol.com.br; o Sputnik Brasil redireciona para noticiabrasil.net.br; o Escrevinhador virou uma seção da Revista Fórum.
-- **Assuntos tratados em outras páginas**: teses sobre o 11 de setembro têm verbete próprio em [Teorias Conspiratórias](temas/teorias-conspiratorias.md).
+- **Assuntos tratados em outras páginas**: teses sobre o 11 de setembro estão em [Internacional e geopolítica](temas/internacional-geopolitica.md#11-de-setembro).
+
+## Ver também
+
+- [Mídia](temas/midia.md): a grande imprensa
+- [Políticos e Autoridades nas Redes](politicos-nas-redes.md)

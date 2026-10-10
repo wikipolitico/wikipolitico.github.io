@@ -55,7 +55,15 @@ Fábio Luís Lula da Silva, o Lulinha, filho mais velho de Lula, e a lobista Rob
 - [Linha do tempo da crise no STF](stf/crise-2026.md#cronologia): a crise de setembro de 2026 e as decisões dele no caso do INSS.
 - [Defesa de Moraes, com o relatório de inteligência da PF – Poder360, 15/09/2026](https://static.poder360.com.br/uploads/2026/09/peca-moraes-fachin-resposta-mendonca.pdf): segundo a PF, Mendonça viu ACM Neto, candidato ao governo da Bahia, agindo "dentro dos limites do permitido" num caso que "guarda similaridade relevante" com o de Lulinha, o que "sugere a adoção de standards probatórios distintos conforme o espectro político". É uma avaliação da unidade de inteligência da PF, transcrita por [Moraes](stf/alexandre-de-moraes.md) na defesa. Mendonça responde que ACM Neto também teve os sigilos quebrados por decisão dele. Mas, pelo próprio texto dele, as quebras de Lulinha viraram "fato público e notório", e as de ACM Neto ficaram em sigilo ([resposta de Mendonça, 21/09/2026](https://static.poder360.com.br/uploads/2026/09/resposta-andre-mendonca-stf-pedido-moraes-inquerito-fake-news-22set2026.pdf))
 
+## As mentiras antigas sobre Lulinha
+
+Muito antes dos inquéritos de 2026, Lulinha já era alvo de boatos: o "casarão", a fazenda e os aviões das correntes de internet.
+
+- [Polícia apura mentiras na rede contra filho de Lula – Brasil 247](http://www.brasil247.com/pt/247/brasil/117566/Pol%C3%ADcia-apura-mentiras-na-rede-contra-filho-de-Lula.htm): a investigação sobre os boatos · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/brasil/117566/Pol%C3%ADcia-apura-mentiras-na-rede-contra-filho-de-Lula.htm)
+- [A ação de Lulinha contra os que o atacam na rede – Viomundo, 12/10/2013](http://www.viomundo.com.br/denuncias/a-acao-de-lulinha-contra-os-que-o-atacam-na-rede.html): o "casarão" das correntes de internet é a sede da Esalq, a escola de agricultura da USP em Piracicaba, e a fazenda e os aviões também eram inventados
+- [A farsa midiática contra o filho de Lula – Nossa Política, 10/2015](http://nossapolitica.net/2015/10/farsa-midiatica-contra-filho-lula/): a cobertura da imprensa, segundo o site · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://nossapolitica.net/2015/10/farsa-midiatica-contra-filho-lula/)
+
 ## Ver também
 
-- [Lawfare](lawfare.md): os vazamentos na hora certa, da [Lava Jato](farsa-da-lava-jato.md) ao caso Lulinha
+- [Lawfare](lawfare/index.md): os vazamentos na hora certa, da [Lava Jato](farsa-da-lava-jato.md) ao caso Lulinha
 - [Escândalo do INSS](escandalo-do-inss.md): a fraude dos descontos em aposentadorias, da qual nasceu a investigação sobre o Careca do INSS

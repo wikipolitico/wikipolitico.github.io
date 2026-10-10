@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Flávio Bolsonaro
 
 !!! abstract "Resumo"
@@ -215,7 +220,7 @@ Em 21/07/2026, num encontro com diplomatas, Flávio disse que "muitas dessas má
 
 - [TSE reforça que empresa venezuelana não forneceu urnas ao Brasil – Agência Brasil, 22/07/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/tse-reforca-que-empresa-venezuelana-nao-forneceu-urnas-ao-brasil): a fala de Flávio, a resposta do TSE e o documento da CIA, que não concluiu que houve fraude na Venezuela.
 - [É falso que Smartmatic desenvolveu as urnas eletrônicas brasileiras – Aos Fatos, 24/07/2026](https://www.aosfatos.org/noticias/smartmatic-urnas-eletronicas-brasileiras/): a urna brasileira é de 1996, e a Smartmatic só foi fundada em 2000.
-- [A mentira da fraude nas urnas](teorias-conspiratorias.md#a-mentira-da-fraude-nas-urnas): a campanha de Bolsonaro contra as urnas desde 2021.
+- [A mentira da fraude nas urnas](fraude-nas-urnas.md): a campanha de Bolsonaro contra as urnas desde 2021.
 
 ## Articulação com o governo Trump
 
@@ -233,7 +238,7 @@ O projeto de um ex-assessor de Jair contra a padroeira e a ordem de [Mendonça](
 
 ## Ver também
 
-- [Teorias Conspiratórias: Adriano da Nóbrega](teorias-conspiratorias.md): a morte do miliciano que Flávio homenageou.
+- [Mortes suspeitas: Adriano da Nóbrega](mortes-suspeitas.md#adriano-magalhaes-da-nobrega-miliciano-ligado-a-familia-bolsonaro-09022020): a morte do miliciano que Flávio homenageou.
 - [Caso Banco Master](banco-master.md): o dinheiro de Vorcaro para o filme sobre Jair Bolsonaro.
 - [Outras Personalidades (Brasil)](outras-personalidades-brasil.md): os processos e as mentiras de Jair Bolsonaro.
 - [Bolsonarismo contra o Estado laico](bolsonarismo-contra-o-estado-laico.md): do "Estado é cristão" de Jair ao Brasil "do Senhor Jesus Cristo" de Flávio.

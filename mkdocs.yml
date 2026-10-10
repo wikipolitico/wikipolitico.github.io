@@ -51,6 +51,8 @@ theme:
         name: Mudar para o modo claro
   features:
     - navigation.top
+    - navigation.footer
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - toc.follow
@@ -64,9 +66,14 @@ plugins:
       type: date
       locale: pt_BR
       fallback_to_build_date: true
+  - redirects:
+      redirect_maps:
+        temas/teorias-conspiratorias.md: temas/mortes-suspeitas.md
+        temas/cpmi-das-fake-news-2020.md: temas/eleicoes-2018.md#a-cpmi-das-fake-news-2020
 
 hooks:
   - hooks/ultimas_atualizacoes.py
+  - hooks/linha_do_tempo.py
   - hooks/destaques.py
   - hooks/esconder_data_migracao.py
   - hooks/busca_sem_acento.py
@@ -80,22 +87,36 @@ markdown_extensions:
 
 nav:
   - Início: index.md
+  - "Respostas para debate": respostas-para-debate.md
+  - "Linha do tempo": linha-do-tempo.md
   - Temas:
-      - "Petrobrás": temas/petrobras.md
-      - "Capitalismo": temas/capitalismo.md
-      - "Comunismo e Socialismo": temas/comunismo-e-socialismo.md
-      - "Corrupção": temas/corrupcao.md
-      - "Corrupção no governo Bolsonaro": temas/corrupcao-no-governo-bolsonaro.md
+      - "Eleições":
+          - "Eleições 2026": temas/eleicoes-2026.md
+          - "Eleições 2022": temas/eleicoes-2022.md
+          - "Eleições 2018": temas/eleicoes-2018.md
+          - "Eleições 2014": temas/eleicoes-2014.md
+          - "Eleições 2010": temas/eleicoes-2010.md
+          - "Eleições 2006": temas/eleicoes-2006.md
+          - "Eleições 2002": temas/eleicoes-2002.md
+          - "Eleições 1998": temas/eleicoes-1998.md
+          - "Eleições 1994": temas/eleicoes-1994.md
+          - "Eleições 1989": temas/eleicoes-1989.md
+      - "Pessoas":
+          - "Lula": temas/lula.md
+          - "Dilma Rousseff": temas/dilma-rousseff.md
+          - "Fernando Haddad": temas/fernando-haddad.md
+          - "Jair Bolsonaro": temas/jair-bolsonaro.md
+          - "Flávio Bolsonaro": temas/flavio-bolsonaro.md
+          - "Ciro Gomes": temas/ciro-gomes.md
+          - "Jones Manoel": temas/jones-manoel.md
+          - "Outras Personalidades (Brasil)": temas/outras-personalidades-brasil.md
       - "Lawfare":
-          - "Visão geral": temas/lawfare.md
+          - temas/lawfare/index.md
           - "Farsa do Mensalão do PT": temas/farsa-do-mensalao.md
           - "Farsa da Lava Jato": temas/farsa-da-lava-jato.md
           - "Caso Lulinha": temas/caso-lulinha.md
-      - "Caso Banco Master": temas/banco-master.md
-      - "Escândalo do INSS": temas/escandalo-do-inss.md
-      - "Fila do INSS": temas/fila-do-inss.md
       - "STF":
-          - "Visão geral": temas/stf.md
+          - temas/stf/index.md
           - "Crise no STF (2026)": temas/stf/crise-2026.md
           - "Gilmar Mendes": temas/stf/gilmar-mendes.md
           - "Cármen Lúcia": temas/stf/carmen-lucia.md
@@ -114,41 +135,46 @@ nav:
               - "Rosa Weber": temas/stf/rosa-weber.md
               - "Teori Zavascki": temas/stf/teori-zavascki.md
               - "Luís Roberto Barroso": temas/stf/luis-roberto-barroso.md
-      - "8 de janeiro": temas/8-de-janeiro.md
-      - "Ditadura Militar de 64": temas/ditadura-militar-de-64.md
-      - "Golpes contra governos eleitos": temas/golpes-contra-governos-eleitos.md
-      - "Internacional / Geopolítica": temas/internacional-geopolitica.md
-      - "Maduro e a Venezuela": temas/maduro-e-a-venezuela.md
-      - "Hondurasgate": temas/hondurasgate.md
-      - "Donald Trump e o trumpismo": temas/donald-trump.md
-      - "Teorias Conspiratórias": temas/teorias-conspiratorias.md
-      - "Mídia": temas/midia.md
-      - "Violência / Fascismo / Preconceito": temas/violencia-fascismo-preconceito.md
-      - "Bolsonarismo contra o Estado laico": temas/bolsonarismo-contra-o-estado-laico.md
-      - "Partidos Políticos": temas/partidos-politicos.md
-      - "Outras Personalidades (Brasil)": temas/outras-personalidades-brasil.md
-      - "Flávio Bolsonaro": temas/flavio-bolsonaro.md
-      - "Jones Manoel": temas/jones-manoel.md
-      - "Políticas Públicas": temas/politicas-publicas.md
-      - "Os impostos do Lula 3": temas/impostos-do-lula-3.md
-      - "Movimentos Políticos e Ativistas": temas/movimentos-politicos-e-ativistas.md
-      - "Eleições":
-          - "Eleições 2026": temas/eleicoes-2026.md
-          - "Eleições 2022": temas/eleicoes-2022.md
-          - "Eleições 2018": temas/eleicoes-2018.md
-          - "Eleições 2014": temas/eleicoes-2014.md
-          - "Eleições 2010": temas/eleicoes-2010.md
-          - "Eleições 2006": temas/eleicoes-2006.md
-          - "Eleições 2002": temas/eleicoes-2002.md
-          - "Eleições 1998": temas/eleicoes-1998.md
-          - "Eleições 1994": temas/eleicoes-1994.md
-          - "Eleições 1989": temas/eleicoes-1989.md
-      - "CPMI das Fake News (2020)": temas/cpmi-das-fake-news-2020.md
+      - "Corrupção e escândalos":
+          - "Corrupção": temas/corrupcao.md
+          - "Corrupção no governo Bolsonaro": temas/corrupcao-no-governo-bolsonaro.md
+          - "Caso Banco Master": temas/banco-master.md
+          - "Escândalo do INSS": temas/escandalo-do-inss.md
+          - "Hondurasgate": temas/hondurasgate.md
+      - "Golpes e democracia":
+          - "Golpes contra governos eleitos": temas/golpes-contra-governos-eleitos.md
+          - "Ditadura Militar de 64": temas/ditadura-militar-de-64.md
+          - "A mentira da fraude nas urnas": temas/fraude-nas-urnas.md
+          - "8 de janeiro": temas/8-de-janeiro.md
+          - "Mortes suspeitas": temas/mortes-suspeitas.md
+      - "Governo e economia":
+          - "Políticas Públicas": temas/politicas-publicas.md
+          - "Os impostos do Lula 3": temas/impostos-do-lula-3.md
+          - "Fila do INSS": temas/fila-do-inss.md
+          - "Petrobras": temas/petrobras.md
+      - "Mundo":
+          - "Internacional e geopolítica": temas/internacional-geopolitica.md
+          - "Maduro e a Venezuela": temas/maduro-e-a-venezuela.md
+          - "Donald Trump e o trumpismo": temas/donald-trump.md
+      - "Mídia e desinformação":
+          - "Mídia": temas/midia.md
+          - "Rede Globo": temas/rede-globo.md
+      - "Ideias e sociedade":
+          - "Capitalismo": temas/capitalismo.md
+          - "Comunismo e Socialismo": temas/comunismo-e-socialismo.md
+          - "Violência, fascismo e preconceito": temas/violencia-fascismo-preconceito.md
+          - "Bolsonarismo contra o Estado laico": temas/bolsonarismo-contra-o-estado-laico.md
+          - "Movimentos Políticos e Ativistas": temas/movimentos-politicos-e-ativistas.md
+      - "Partidos":
+          - "Partidos Políticos": temas/partidos-politicos.md
+          - "PSDB e os tucanos": temas/psdb.md
       - "Outros / Não classificados": temas/outros-nao-classificados.md
-  - "Mídias Alternativas": midias-alternativas.md
-  - "Políticos e Autoridades nas Redes": politicos-nas-redes.md
-  - "Bares e Pontos de Encontro": bares-e-pontos-de-encontro.md
-  - "Comparação FHC x Lula e Dilma": comparacao-fhc-lula-dilma.md
-  - "Comparação Bolsonaro x Lula 3": comparacao-bolsonaro-lula3.md
-  - "Transcrições e Grampos Telefônicos": transcricoes.md
-  - "Frases e Pensamentos": frases-e-pensamentos.md
+  - "Comparações":
+      - "Bolsonaro x Lula 3": comparacao-bolsonaro-lula3.md
+      - "FHC x Lula e Dilma": comparacao-fhc-lula-dilma.md
+  - "Mais":
+      - "Mídias Alternativas": midias-alternativas.md
+      - "Políticos e Autoridades nas Redes": politicos-nas-redes.md
+      - "Transcrições e Grampos Telefônicos": transcricoes.md
+      - "Frases e Pensamentos": frases-e-pensamentos.md
+      - "Bares e Pontos de Encontro": bares-e-pontos-de-encontro.md

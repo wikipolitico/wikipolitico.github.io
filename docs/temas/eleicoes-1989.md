@@ -32,7 +32,7 @@
 
 ## Ver também
 
-- [Rede Globo](midia.md#rede-globo): outros casos de manipulação da emissora, com o vídeo de Boni sobre o debate
+- [Rede Globo](rede-globo.md): outros casos de manipulação da emissora, com o vídeo de Boni sobre o debate
 - [Fernando Collor de Mello](outras-personalidades-brasil.md#fernando-collor-de-mello)
-- [PT](partidos-politicos.md#pt): o partido no acervo, com a pesquisa que mostrou como o sequestro de Abilio Diniz foi ligado ao partido
+- [Lula](lula.md#o-sequestro-de-abilio-diniz): as mentiras contra Lula, com a pesquisa que mostrou como o sequestro de Abilio Diniz foi ligado ao PT
 - [Eleições 1994](eleicoes-1994.md), [Eleições 2014](eleicoes-2014.md), [Eleições 2018](eleicoes-2018.md), [Eleições 2022](eleicoes-2022.md) e [Eleições 2026](eleicoes-2026.md)

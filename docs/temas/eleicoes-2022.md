@@ -21,7 +21,7 @@
 ## O ataque às urnas
 
 - **18/07/2022 — os embaixadores:** Bolsonaro reuniu embaixadores no Palácio da Alvorada para atacar as urnas, com transmissão da TV Brasil. Por essa reunião, o TSE o tornou inelegível até 2030, por 5 votos a 2 ([Agência Brasil, 30/06/2023](https://agenciabrasil.ebc.com.br/justica/noticia/2023-06/por-5-votos-2-tse-torna-bolsonaro-inelegivel-por-oito-anos)).
-- **Novembro de 2022 — nenhuma fraude:** a fiscalização das Forças Armadas, sob o ministro da Defesa de Bolsonaro, não apontou fraude, e o PL foi multado em R$ 22,9 milhões por litigância de má-fé ao pedir a anulação de votos só do segundo turno ([Agência Brasil, 09/11/2022](https://agenciabrasil.ebc.com.br/politica/noticia/2022-11/ministerio-da-defesa-entrega-relatorio-sobre-urnas-eletronicas-ao-tse); [Migalhas, 24/11/2022](https://www.migalhas.com.br/quentes/377514/moraes-nega-acao-do-pl-que-questiona-urnas-e-aplica-multa-de-r-22-mi)). A linha do tempo completa está em [A mentira da fraude nas urnas](teorias-conspiratorias.md#a-mentira-da-fraude-nas-urnas).
+- **Novembro de 2022 — nenhuma fraude:** a fiscalização das Forças Armadas, sob o ministro da Defesa de Bolsonaro, não apontou fraude, e o PL foi multado em R$ 22,9 milhões por litigância de má-fé ao pedir a anulação de votos só do segundo turno ([Agência Brasil, 09/11/2022](https://agenciabrasil.ebc.com.br/politica/noticia/2022-11/ministerio-da-defesa-entrega-relatorio-sobre-urnas-eletronicas-ao-tse); [Migalhas, 24/11/2022](https://www.migalhas.com.br/quentes/377514/moraes-nega-acao-do-pl-que-questiona-urnas-e-aplica-multa-de-r-22-mi)). A linha do tempo completa está em [A mentira da fraude nas urnas](fraude-nas-urnas.md).
 
 ## Pressão e violência na reta final
 
@@ -50,7 +50,7 @@
 
 ## Ver também
 
-- [A mentira da fraude nas urnas](teorias-conspiratorias.md#a-mentira-da-fraude-nas-urnas): as acusações sem prova de Bolsonaro contra as urnas, antes e depois da eleição
+- [A mentira da fraude nas urnas](fraude-nas-urnas.md): as acusações sem prova de Bolsonaro contra as urnas, antes e depois da eleição
 - [8 de janeiro](8-de-janeiro.md): o ataque aos Três Poderes, uma semana depois da posse de Lula
 - [Alexandre de Moraes](stf/alexandre-de-moraes.md): presidiu o TSE na eleição e relatou a trama golpista
 - [Edson Fachin](stf/edson-fachin.md) e [Luís Roberto Barroso](stf/luis-roberto-barroso.md): os presidentes do TSE que enfrentaram os ataques de Bolsonaro às urnas antes da campanha

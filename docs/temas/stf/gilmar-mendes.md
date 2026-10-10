@@ -89,7 +89,7 @@ Links da wiki antiga, de 2009 a 2016. Várias acusações vêm só de blogs, e o
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [André Mendonça](andre-mendonca.md): relator do caso Master e adversário de Gilmar no bate-boca de 15/09
 - [Kassio Nunes Marques](kassio-nunes-marques.md): presidente do TSE, também citado nas mensagens de Vorcaro
 - [Alexandre de Moraes](alexandre-de-moraes.md): relator da trama golpista e alvo da direita no caso Master

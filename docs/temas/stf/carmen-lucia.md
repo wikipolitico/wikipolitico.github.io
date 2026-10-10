@@ -40,7 +40,7 @@
 
 ## Ver também
 
-- [STF](../stf.md)
+- [STF](index.md)
 - [Edson Fachin](edson-fachin.md): relator do habeas corpus de Lula em 2018, votou com ela contra o pedido
 - [Cristiano Zanin](cristiano-zanin.md): o advogado de Lula no habeas corpus que declarou Moro parcial
 - [Alexandre de Moraes](alexandre-de-moraes.md): relator da trama golpista, em que o voto dela formou a maioria

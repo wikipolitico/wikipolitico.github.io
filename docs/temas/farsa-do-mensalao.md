@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Farsa do Mensalão do PT
 
 !!! abstract "Resumo"
@@ -89,9 +94,34 @@ O relator foi Joaquim Barbosa, e os votos de cada ministro estão nas páginas d
 - [A verdade da AP 470, doa a quem doer – YouTube, 22/09/2012](https://www.youtube.com/watch?v=V8a9Bo20ios&list=PLw7bwcrlLw6K-I6BZVVE9ba_BYM1PfN3P&index=14): vídeo que contesta o julgamento
 - [Miruna: "Meu pai foi preso porque era preciso criminalizar a esquerda" – DCM na TVT, programa 27 (YouTube)](https://www.youtube.com/watch?v=2OwJD-LIvzI&list=PLw7bwcrlLw6K-I6BZVVE9ba_BYM1PfN3P&index=27): a filha de José Genoino sobre a prisão do pai
 
+## Mais sobre José Dirceu, Genoíno e Delúbio
+
+### José Dirceu
+
+- [A prova concreta de que José Dirceu foi condenado sem provas – blog Mico Leão Dourado, 12/2014](https://micoleaodourado.blogspot.com.br/2014/12/a-prova-concreta-que-jose-dirceu-foi.html): a condenação no mensalão contra o "in dubio pro réu", segundo o blog
+- [Defesa de José Dirceu entregue ao STF desmonta acusações – blog Limpinho e Cheiroso, 27/07/2012](https://limpinhoecheiroso.com/2012/07/27/defesa-de-jose-dirceu-entregue-ao-stf-desmonta-acusacoes/): os argumentos da defesa antes do julgamento, segundo o blog · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://limpinhoecheiroso.com/2012/07/27/defesa-de-jose-dirceu-entregue-ao-stf-desmonta-acusacoes/)
+- [10 motivos para a Globo odiar José Dirceu – Facebook](https://www.facebook.com/permalink.php?story_fbid=471996619628291&id=223843157776973): por que a emissora mirava Dirceu, segundo o post
+- [Antes de José Dirceu, a Globo ficava com 80% das verbas publicitárias do governo – blog de Teresa Medeiros, 13/10/2015](https://blogdeteresamedeiros.blogspot.com/2015/10/antes-de-jose-dirceu-globo-ficava-com.html): as doze razões da imprensa para odiar Dirceu, segundo o blog
+- [O futuro – Apoiadores de Dirceu (YouTube), 11/06/2012](https://www.youtube.com/watch?v=j0mrWZu0-LU&list=FLHiQIvWYPvwrUJBuBxV0SKQ): José Dirceu fala sobre o seu futuro político, às vésperas do julgamento
+- [Moro e PF "prendem o preso", mas não acham o dinheiro? – blog Luiz Müller, 23/08/2015](https://luizmuller.com/2015/08/23/moro-e-pf-prendem-o-preso-mas-nao-acham-o-dinheiro-como-assim/): na prisão de Dirceu pela [Lava Jato](farsa-da-lava-jato.md), em 2015, o dinheiro não apareceu, segundo o blog
+- [Moro e PF "prendem o preso", mas não acham o dinheiro? – Tijolaço](http://www.tijolaco.net/blog/moro-e-pf-prendem-o-preso-mas-nao-acham-o-dinheiro/): o mesmo caso, segundo o blog · *fora do ar em 10/10/2026, o domínio tijolaco.net responde 502* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.tijolaco.net/blog/moro-e-pf-prendem-o-preso-mas-nao-acham-o-dinheiro/)
+- [Moro descobriu que José Dirceu tem R$ 104 mil na conta – X, @Helenasth](https://twitter.com/Helenasth/status/656117584744595456/photo/1): nenhuma conta no exterior foi achada, segundo o post
+- [Moro não sabe como condenar Dirceu – TV Afiada (YouTube), 25/02/2016](https://www.youtube.com/watch?v=qRr1g147VEg): Paulo Henrique Amorim sobre o processo de Dirceu na Lava Jato
+- [Promotor do MP-SP pede para matarem petistas – Plantão Brasil](http://www.plantaobrasil.net/news.asp?nID=93201): o ódio a petistas dentro do Ministério Público, segundo o site
+- [Na guerra e na política, a primeira vítima é a verdade – Facebook de Assis Chicão, 09/01/2016](https://www.facebook.com/photo.php?fbid=10201435886216059&set=a.1943974976033.54626.1742273187&type=3): o post em defesa de Dirceu
+
+### José Genoíno
+
+- [Miruna: "Meu pai foi preso porque era preciso criminalizar a esquerda" – DCM na TVT (YouTube)](https://www.youtube.com/watch?v=2OwJD-LIvzI): a filha de Genoíno sobre a prisão do pai · *fora do ar em 08/10/2026, vídeo privado* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=2OwJD-LIvzI)
+
+### Delúbio Soares
+
+- [Depoimento de Delúbio Soares a Sérgio Moro na Lava Jato – YouTube](https://www.youtube.com/watch?v=oYbMxsgoGP4): o ex-tesoureiro diante de Moro · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=oYbMxsgoGP4)
+- [O erro de Delúbio – Apoiadores de Dirceu (YouTube), 11/06/2012](https://www.youtube.com/watch?v=d0aUK2864LQ): José Dirceu, no Roda Viva, sobre o caixa dois e o erro de Delúbio
+
 ## Ver também
 
-- [Lawfare](lawfare.md): do "domínio do fato" à Lava Jato, o direito usado como arma
+- [Lawfare](lawfare/index.md): do "domínio do fato" à Lava Jato, o direito usado como arma
 - [Farsa da Lava Jato](farsa-da-lava-jato.md)
 - [Joaquim Barbosa](stf/joaquim-barbosa.md): o relator do mensalão
 - [Ricardo Lewandowski](stf/ricardo-lewandowski.md): o revisor, que absolveu Dirceu de corrupção ativa

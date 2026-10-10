@@ -186,8 +186,8 @@ Não é opinião, é o documento: as íntegras abaixo permitem conferir na fonte
 - [Caso Banco Master](../banco-master.md): o caso que deu origem à crise
 - [Caso Lulinha](../caso-lulinha.md): os inquéritos contra o filho de Lula, abertos pelo mesmo relator a dois meses da eleição
 - [Eleições 2026](../eleicoes-2026.md): a campanha em que a crise estourou
-- [Lawfare](../lawfare.md): o direito usado como arma
+- [Lawfare](../lawfare/index.md): o direito usado como arma
 
 ---
 
-Voltar para [STF](../stf.md).
+Voltar para [STF](index.md).

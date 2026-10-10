@@ -52,7 +52,7 @@ def on_page_markdown(markdown, page, config, files):
     itens = []
     for relativo, data in _datas_do_git().items():
         caminho = RAIZ / relativo
-        if not caminho.exists() or caminho.name == "index.md":
+        if not caminho.exists() or relativo == "docs/index.md":
             continue
         destino = relativo[len("docs/"):]
         dia = datetime.strptime(data, "%Y-%m-%d").strftime("%d/%m/%Y")

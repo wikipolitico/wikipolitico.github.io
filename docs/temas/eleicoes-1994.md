@@ -21,6 +21,6 @@
 ## Ver também
 
 - [Paternidade do Plano Real](politicas-publicas.md#paternidade-do-plano-real): Itamar Franco, Ciro Gomes e a disputa pelo crédito do real
-- [Rede Globo](midia.md#rede-globo): outros casos da emissora
+- [Rede Globo](rede-globo.md): outros casos da emissora
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md): os números dos governos
 - [Eleições 1989](eleicoes-1989.md) e [Eleições 1998](eleicoes-1998.md)
