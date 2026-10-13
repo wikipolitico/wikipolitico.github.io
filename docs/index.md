@@ -10,7 +10,7 @@ Rumo ao segundo turno, em 25/10/2026:
 
 - [Eleições 2026](temas/eleicoes-2026.md): Flávio sem maioria no primeiro turno, os governadores do PT reeleitos na Bahia, no Ceará e no Piauí, os 70 deputados do PT na nova Câmara, as mentiras de Flávio sobre Vorcaro e os indicados de Bolsonaro no comando do TSE.
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): o candidato do PL à Presidência, das homenagens a milicianos ao dinheiro de Vorcaro para o filme sobre o pai.
-- [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 77 indicadores oficiais, com o que melhorou e o que piorou em cada governo.
+- [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou em cada governo.
 
 ## Para responder em debate
 
@@ -21,7 +21,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - **"O PT é o partido da corrupção."** Veja [o que os governos do PT fizeram contra a corrupção](temas/corrupcao.md#o-que-os-governos-do-pt-fizeram-contra-a-corrupcao): a CGU, o Portal da Transparência, a Ficha Limpa, a Lei de Acesso à Informação, a lei que pune a empresa corruptora e a lei da delação premiada. E os escândalos do governo Bolsonaro estão em [Corrupção no governo Bolsonaro](temas/corrupcao-no-governo-bolsonaro.md).
 - **"As urnas são fraudadas."** Veja [a mentira da fraude nas urnas](temas/fraude-nas-urnas.md): Bolsonaro admitiu que não tinha prova, os militares dele fiscalizaram a [eleição de 2022](temas/eleicoes-2022.md) e não acharam fraude, o PL foi multado em R$ 22,9 milhões por má-fé, e a Smartmatic, citada por Flávio, nunca fez urna para o Brasil.
 - **"Lula criou 37 impostos."** Veja [Os impostos do Lula 3](temas/impostos-do-lula-3.md): o número vem de uma lista da Exame em que 10 itens nunca valeram e outros são a reforma tributária e a volta dos impostos que Bolsonaro zerou na eleição. A maior parte do resto recai sobre fundos dos super-ricos, offshores, bancos, bets e multinacionais, e 10 milhões de pessoas deixaram de pagar Imposto de Renda em 2026.
-- **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 77 indicadores oficiais, com o que melhorou e o que piorou.
+- **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou.
 
 [Veja as 21 respostas, por assunto →](respostas-para-debate.md)
 

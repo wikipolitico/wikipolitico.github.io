@@ -33,7 +33,7 @@ As frases que mais aparecem nas discussões, cada uma com a página que a respon
 
 ## Governo e economia
 
-- **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 77 indicadores oficiais, com o que melhorou e o que piorou.
+- **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou.
 - **"Lula criou 37 impostos."** Veja [Os impostos do Lula 3](temas/impostos-do-lula-3.md): o número vem de uma lista da Exame em que 10 itens nunca valeram e outros são a reforma tributária e a volta dos impostos que Bolsonaro zerou na eleição. A maior parte do resto recai sobre fundos dos super-ricos, offshores, bancos, bets e multinacionais, e 10 milhões de pessoas deixaram de pagar Imposto de Renda em 2026.
 - **"Haddad é o Taxad."** Veja [Fernando Haddad](temas/fernando-haddad.md): na Fazenda, ele conduziu a isenção do Imposto de Renda para quem ganha até R$ 5 mil, e o "37 impostos" é uma lista em que 10 itens nunca valeram.
 - **"Lula defende bandido."** Veja as [penas mais duras no governo Lula](temas/politicas-publicas.md#penas-mais-duras-no-governo-lula): feminicídio com até 40 anos, estupro de vulnerável com até 18, líderes de facção com até 40, e o veto ao projeto que aliviava as penas dos golpistas.

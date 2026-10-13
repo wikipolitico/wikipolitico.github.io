@@ -44,6 +44,9 @@
 
 - [Diálogos sugerem que eleição teria influenciado divulgação de delação de Palocci – Jornal da Gazeta (YouTube), 29/07/2019](https://www.youtube.com/watch?v=Px1o5iLFYmM): a Vaza Jato sobre a delação solta na campanha
 - [Moro divulga delação rejeitada pela Lava Jato por falta de provas – PT, 01/10/2018](https://pt.org.br/moro-divulga-delacao-rejeitada-pela-lava-jato-por-falta-de-provas/): a delação que os procuradores tinham recusado, solta seis dias antes do primeiro turno
+- [Moro tentou interferir na eleição ao julgar Lula, diz Lewandowski – Poder360, 04/08/2020](https://www.poder360.com.br/justica/moro-tentou-interferir-na-eleicao-ao-julgar-lula-diz-lewandowski/): o STF tirou a delação da ação contra Lula, e [Gilmar Mendes](stf/gilmar-mendes.md) viu a juntada às vésperas do primeiro turno como "cuidadosamente planejada"
+- [Delação de Palocci sobre BTG e Lula não tem provas e foi baseada em notícias de jornais, diz PF – Folha de Pernambuco, 16/08/2020](https://www.folhape.com.br/politica/delacao-de-palocci-sobre-btg-e-lula-nao-tem-provas-e-foi-baseada-em/151065/): a delação solta na campanha "parece" ter saído de "pesquisas de internet", segundo o delegado que encerrou o inquérito sem indiciar ninguém
+- [Em agosto, relatório apontou que delação de Palocci foi inventada – Conjur, 28/12/2020](https://conjur.com.br/2020-dez-28/agosto-relatorio-apontou-delacao-palocci-foi-inventada/): a PF concluiu que o episódio narrado por Palocci "não aconteceu"
 
 ## Os disparos no WhatsApp
 

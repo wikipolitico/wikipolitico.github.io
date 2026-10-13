@@ -81,7 +81,7 @@ Fonte: [Tesouro Nacional, boletim de 2025](https://www.gov.br/cgu/pt-br/assuntos
 
 ## Ver também
 
-- [Comparação Bolsonaro x Lula 3](../comparacao-bolsonaro-lula3.md): 77 indicadores oficiais dos dois governos, entre eles a carga tributária e a faixa de isenção do IR.
+- [Comparação Bolsonaro x Lula 3](../comparacao-bolsonaro-lula3.md): 82 indicadores oficiais dos dois governos, entre eles a carga tributária e a faixa de isenção do IR.
 - [Fim das bets](politicas-publicas.md#fim-das-bets): Lula proibiu as apostas on-line em 2026.
 - [Jones Manoel](jones-manoel.md): ele chamou de "cortina de fumaça" a taxação dos mais ricos que pagou a isenção do IR.
 - [Eleições 2026](eleicoes-2026.md): o segundo turno, em 25/10/2026.
