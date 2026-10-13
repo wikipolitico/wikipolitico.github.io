@@ -79,4 +79,4 @@ Nem toda acusação contra a Globo procede, e repetir boato só ajuda a emissora
 - [Eleições 1989](eleicoes-1989.md#a-globo-do-lado-de-collor): o debate e a edição do Jornal Nacional
 - [As mentiras da Globo contra Lula](lula.md#da-globo)
 - [Moro e a imprensa](farsa-da-lava-jato.md#moro-e-a-imprensa)
-- [Mídias Alternativas](../midias-alternativas.md)
+- [Além da grande mídia](../alem-da-grande-midia.md)

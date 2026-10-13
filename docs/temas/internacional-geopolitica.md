@@ -127,6 +127,10 @@ Desde 2001 circulam vídeos e textos dizendo que os atentados de 11 de setembro 
 - [Instituto Científico Europeu conclui após 15 anos de investigações que a queda das torres tratou-se de uma demolição controlada - Sempre Questione – Sempre Questione](http://www.semprequestione.com/2017/02/instituto-cientifico-europeu-conclui.html?m=1): a tese, segundo o site · *fora do ar em 08/10/2026, redireciona para outro site* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.semprequestione.com/2017/02/instituto-cientifico-europeu-conclui.html?m=1)
 - [A Farsa do 11 de Setembro - COMPLETO - Jornal da Matrix – YouTube](https://www.youtube.com/watch?v=h5YiaDU4fgs): a tese, segundo o vídeo · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=h5YiaDU4fgs)
 - [9/11 Facts: the World Trade Center and the 9/11 Attacks | 911Truth.Org – 911Truth.org](http://911truth.org/): a tese, segundo o site
+- [9/11 An Inside Job – Facebook](https://www.facebook.com/911-An-Inside-Job-464079246963192/): a tese, segundo a página
+- [Architects & Engineers for 9/11 Truth – Facebook](https://www.facebook.com/ae911truth/): a tese, segundo a página
+- [U.S. Military Officers for 9/11 Truth – Facebook](https://www.facebook.com/US-Military-Officers-for-911-Truth-159267480754006/): a tese, segundo a página
+- [World for 9/11 Truth – Facebook](https://www.facebook.com/world911truth/): a tese, segundo a página
 
 ### Golpes dos Estados Unidos
 

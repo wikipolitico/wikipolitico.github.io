@@ -92,8 +92,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 ## Outras páginas
 
-- [Mídias Alternativas](midias-alternativas.md): veículos, canais e jornalistas do campo progressista
-- [Políticos e Autoridades nas Redes](politicos-nas-redes.md): perfis oficiais, que são fonte oficial e não imprensa
+- [Além da grande mídia](alem-da-grande-midia.md): veículos, canais, jornalistas, influenciadores e perfis oficiais de políticos, fora do circuito das grandes emissoras e dos grandes jornais
 - [Bares e Pontos de Encontro](bares-e-pontos-de-encontro.md): lugares onde a esquerda se encontra, com endereço e fonte
 - [Comparação FHC x Lula e Dilma](comparacao-fhc-lula-dilma.md)
 - [Transcrições e Grampos Telefônicos](transcricoes.md)

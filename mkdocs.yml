@@ -70,6 +70,8 @@ plugins:
       redirect_maps:
         temas/teorias-conspiratorias.md: temas/mortes-suspeitas.md
         temas/cpmi-das-fake-news-2020.md: temas/eleicoes-2018.md#a-cpmi-das-fake-news-2020
+        midias-alternativas.md: alem-da-grande-midia.md
+        politicos-nas-redes.md: alem-da-grande-midia.md#politicos-e-autoridades
 
 hooks:
   - hooks/ultimas_atualizacoes.py
@@ -173,8 +175,7 @@ nav:
       - "Bolsonaro x Lula 3": comparacao-bolsonaro-lula3.md
       - "FHC x Lula e Dilma": comparacao-fhc-lula-dilma.md
   - "Mais":
-      - "Mídias Alternativas": midias-alternativas.md
-      - "Políticos e Autoridades nas Redes": politicos-nas-redes.md
+      - "Além da grande mídia": alem-da-grande-midia.md
       - "Transcrições e Grampos Telefônicos": transcricoes.md
       - "Frases e Pensamentos": frases-e-pensamentos.md
       - "Bares e Pontos de Encontro": bares-e-pontos-de-encontro.md

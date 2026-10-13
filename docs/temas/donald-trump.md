@@ -57,4 +57,4 @@ O trumpismo não ficou restrito aos Estados Unidos. Steve Bannon, ex-estrategist
 - [Eleições 2018](eleicoes-2018.md)
 - [CPMI das Fake News (2020)](eleicoes-2018.md#a-cpmi-das-fake-news-2020)
 - [Internacional e geopolítica](internacional-geopolitica.md)
-- [Mídias Alternativas](../midias-alternativas.md)
+- [Além da grande mídia](../alem-da-grande-midia.md)

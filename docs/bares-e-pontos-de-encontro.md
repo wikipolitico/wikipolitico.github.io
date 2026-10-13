@@ -2,7 +2,7 @@
 
 Lugares físicos, não veículos: bares, botecos e restaurantes que viraram ponto de encontro da esquerda, por decoração, por frequência ou por história. Cada entrada traz endereço, o que a torna um ponto e a fonte que documenta isso.
 
-Para veículos, canais e jornalistas, veja [Mídias Alternativas](midias-alternativas.md).
+Para veículos, canais e jornalistas, veja [Além da grande mídia](alem-da-grande-midia.md).
 
 ## Rio de Janeiro
 

@@ -117,7 +117,7 @@ A emissora tem página própria: [Rede Globo](rede-globo.md), com a Time-Life, o
 ## Ver também
 
 - [Rede Globo](rede-globo.md)
-- [Mídias Alternativas](../midias-alternativas.md)
+- [Além da grande mídia](../alem-da-grande-midia.md)
 - [Movimentos Políticos e Ativistas](movimentos-politicos-e-ativistas.md#na-direita): Revoltados Online, Vem Pra Rua e MBL
 - [As mentiras da Globo contra Lula](lula.md#da-globo)
 - [Eleições 1989](eleicoes-1989.md#a-globo-do-lado-de-collor): a Globo do lado de Collor
