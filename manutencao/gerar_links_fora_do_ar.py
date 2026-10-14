@@ -31,8 +31,11 @@ def coletar():
     marcados = []
     for md in sorted(DOCS.rglob("*.md")):
         for linha in md.read_text(encoding="utf-8").split("\n"):
-            arq = RE_ARCHIVE.search(linha)
-            if arq and RE_AVISO.search(linha):
+            if not RE_AVISO.search(linha):
+                continue
+            # uma entrada pode ter mais de um link marcado, como o site e o Facebook
+            # do mesmo veículo; ler só o primeiro tirava o outro do .lycheeignore
+            for arq in RE_ARCHIVE.finditer(linha):
                 marcados.append((arq.group(2), md))
     return marcados
 

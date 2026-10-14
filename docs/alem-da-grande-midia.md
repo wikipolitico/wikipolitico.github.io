@@ -4,7 +4,7 @@ Veículos, canais, jornalistas, influenciadores, políticos e movimentos fora do
 
 Quando o veículo tem site próprio, ele é o primeiro link, e os perfis de rede vêm depois: o site é o endereço que sobrevive à troca de plataforma e o único que a verificação semanal de links consegue checar.
 
-Os perfis oficiais de políticos e autoridades estão em [Políticos e autoridades](#politicos-e-autoridades): são fonte oficial, não imprensa. O que saiu do ar continua na lista, com aviso e atalho para o Internet Archive.
+Os perfis oficiais de partidos, políticos e autoridades estão em [Políticos e autoridades](#politicos-e-autoridades): são fonte oficial, não imprensa. O que saiu do ar continua na lista, com aviso e atalho para o Internet Archive.
 
 <!-- destaques:inicio -->
 ## Por onde começar
@@ -26,8 +26,8 @@ Os perfis oficiais de políticos e autoridades estão em [Políticos e autoridad
 - **Jornalistas Livres** — rede de coletivos de jornalismo. [Site](https://jornalistaslivres.org/) · [Facebook](https://www.facebook.com/jornalistaslivres/) · [YouTube](https://www.youtube.com/channel/UCjwyfg7vfsScSPfzPyWkEUg/featured)
 - ⭐ **Mídia NINJA** — rede de mídia livre. [Site](https://midianinja.org/) · [Facebook](https://www.facebook.com/MidiaNINJA) · [Instagram](https://instagram.com/midianinja) · [Telegram](https://t.me/midianinja)
 - ⭐ **Plantão Brasil** — site de esquerda no ar desde 2013, editado por Thiago dos Reis. [Site](https://www.plantaobrasil.net/) · [Facebook](https://www.facebook.com/PlantaoBrasil.net) · [YouTube](https://www.youtube.com/channel/UC3-JLGJpMKwymQoRFJMkgSg)
-- **Portal Vermelho** — ligado ao PCdoB, com a TV Vermelho. [Site](https://vermelho.org.br/) · [Facebook](https://www.facebook.com/vermelhobrasil/) · [TV Vermelho no YouTube](https://www.youtube.com/user/tevevermelho) · [Instagram](https://instagram.com/oportalvermelho)
-- **Pragmatismo Político** — portal de notícias e análise política. [Site](https://www.pragmatismopolitico.com.br/) · [Facebook](https://www.facebook.com/PragmatismoPolitico/)
+- **Portal Vermelho** — ligado ao PCdoB, com a TV Vermelho. [Site](https://vermelho.org.br/) · [Facebook](https://www.facebook.com/vermelhobrasil/) · [TV Vermelho no YouTube](https://www.youtube.com/user/tevevermelho)
+- **Pragmatismo Político** — portal de notícias e análise política. [Site](https://www.pragmatismopolitico.com.br/) · [Facebook](https://www.facebook.com/PragmatismoPolitico/) · [Instagram](https://www.instagram.com/pragmatismopolitico/)
 - **Rede Brasil Atual** — nasceu ligada ao Sindicato dos Metalúrgicos do ABC e hoje publica no TVT News. [Site](https://tvtnews.com.br/) · [Facebook](https://www.facebook.com/redebrasilatual)
 - **Revista Fórum** — revista e portal editados por Renato Rovai. [Site](https://revistaforum.com.br/) · [Facebook](https://www.facebook.com/forumrevista) · [YouTube](https://www.youtube.com/user/forumrevista) · [Bluesky](https://bsky.app/profile/revistaforum.com.br) · [Instagram](https://instagram.com/revistaforum)
 - **Sul21** — jornalismo do Rio Grande do Sul. [Site](https://sul21.com.br/) · [Facebook](https://www.facebook.com/Jornal.Sul21) · [Bluesky](https://bsky.app/profile/sul21.com.br)
@@ -56,7 +56,7 @@ Os perfis oficiais de políticos e autoridades estão em [Políticos e autoridad
 ### Blogs de jornalistas
 
 - **Blog da Cidadania** — blog de Eduardo Guimarães. [Site](http://blogdacidadania.com.br/) · [Facebook](https://www.facebook.com/BlogDaCidadania) · [YouTube](https://www.youtube.com/channel/UCJU__wIT-5N-2fcSvZytRRg)
-- ⭐ **Conversa Afiada / TV Afiada** — criado por Paulo Henrique Amorim, morto em julho de 2019; hoje quem publica é a TV Afiada. [TV Afiada no YouTube](https://www.youtube.com/channel/UCcL3WQrvv4gZ3VR5qFhE-zQ) · [Instagram](https://www.instagram.com/tvafiada/) · [Site](https://www.conversaafiada.com.br/), *encerrado em 31/07/2020* · [post de despedida](https://www.conversaafiada.com.br/brasil/o-conversa-afiada-da-adeus-obrigado-e-boa-sorte) · [Facebook](https://www.facebook.com/Conversa.Afiada.Oficial) · [X](https://twitter.com/ConversaAfiada_) · [segunda conta no X](https://x.com/ConversaAfiada)
+- ⭐ **Conversa Afiada / TV Afiada** — criado por Paulo Henrique Amorim, morto em julho de 2019; hoje quem publica é a TV Afiada. [TV Afiada no YouTube](https://www.youtube.com/channel/UCcL3WQrvv4gZ3VR5qFhE-zQ) · [Instagram](https://www.instagram.com/tvafiada/) · [Site](https://www.conversaafiada.com.br/), *encerrado em 31/07/2020* · [post de despedida](https://www.conversaafiada.com.br/brasil/o-conversa-afiada-da-adeus-obrigado-e-boa-sorte) · [Facebook](https://www.facebook.com/Conversa.Afiada.Oficial) · [X](https://x.com/ConversaAfiada)
 - **O Cafezinho** — blog e portal de Miguel do Rosário. [Site](https://www.ocafezinho.com/) · [Facebook](https://www.facebook.com/OCafezinho) · [YouTube](https://www.youtube.com/channel/UC7jY_CPwbDB_TTXAGwiIbIw) · [Instagram](https://instagram.com/ocafezinhooficial) · [Telegram](https://t.me/ocafezinhooficial)
 - **Socialista Morena** — site de Cynara Menezes. [Site](https://www.socialistamorena.com.br/) · [Facebook](https://www.facebook.com/SocialistaMorena/) · [YouTube](https://www.youtube.com/channel/UCHoycA3QmszMDepgdCFId7Q)
 - **Viomundo** — blog de Luiz Carlos Azenha. [Site](https://www.viomundo.com.br/) · [Facebook](https://www.facebook.com/urbanoazenha) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/urbanoazenha)
@@ -101,26 +101,26 @@ Canais e programas com nome próprio, que nascem e vivem no YouTube, sem site.
 ### Jornalistas
 
 - [Blog do Miro](https://www.facebook.com/BlogdoMiro) · [X](https://twitter.com/BlogdoMiro) · blog de Altamiro Borges, presidente do Barão de Itararé
-- [Bob Fernandes](https://www.facebook.com/bob.fernandes.imagine/) · [YouTube](https://www.youtube.com/channel/UCfpLDZ2PrbFnNrIzRHiU8ZQ) · [X](https://twitter.com/Bob_Fernandes) · jornalista e comentarista político
-- [Breno Altman](https://twitter.com/brealt) · fundador do Opera Mundi
+- [Bob Fernandes](https://www.facebook.com/bob.fernandes.imagine/) · [YouTube](https://www.youtube.com/channel/UCfpLDZ2PrbFnNrIzRHiU8ZQ) · [Instagram](https://www.instagram.com/bobfernandes/) · [X](https://twitter.com/Bob_Fernandes) · jornalista e comentarista político
+- [Breno Altman](https://twitter.com/brealt) · [YouTube](https://www.youtube.com/channel/UCJ4_I3zCdWhzKD9sNfi9qeA) · [Facebook](https://www.facebook.com/brenoaltman) · fundador do Opera Mundi
 - [Chico Pinheiro](https://twitter.com/chico_pinheiro) · jornalista, por décadas apresentador na TV Globo
 - [Claudemir Pereira](https://www.facebook.com/siteclaudemirpereira) · jornalista de Santa Maria (RS), colunista do Diário de Santa Maria
-- [Esmael Morais](https://www.esmaelmorais.com.br/) · [Facebook](https://www.facebook.com/esmael.morais/) · Blog do Esmael, bastidores da política no Paraná
-- [Fabio Pannunzio](https://twitter.com/blogdopannunzio) · jornalista, apresentador na TVT
+- [Esmael Morais](https://www.esmaelmorais.com.br/) · [Instagram](https://www.instagram.com/esmaelmorais/) · [Facebook](https://www.facebook.com/esmael.morais/) · [X](https://x.com/EsmaelMorais) · Blog do Esmael, bastidores da política no Paraná
+- [Fabio Pannunzio](https://twitter.com/blogdopannunzio) · [Facebook](https://www.facebook.com/blogdopannunzio) · jornalista, apresentador na TVT
 - [Florestan Fernandes Junior](https://www.facebook.com/FlorestanF) · [X](https://twitter.com/florestanjr) · jornalista, filho do sociólogo e deputado constituinte Florestan Fernandes
-- [Guga Noblat](https://twitter.com/GugaNoblat) · jornalista
+- [Guga Noblat](https://twitter.com/GugaNoblat) · [Instagram](https://www.instagram.com/guganoblat/) · jornalista
 - [Gustavo Conde](https://twitter.com/condegustavo) · linguista e comentarista político
-- [Juca Kfouri](https://www.facebook.com/BlogdoJucaKfouri/) · [X](https://twitter.com/BlogdoJuca) · [segunda conta](https://twitter.com/JucaKfouri) · jornalista esportivo, colunista do UOL
-- [Leandro Demori](https://twitter.com/demori) · jornalista, editor da Vaza Jato no Intercept Brasil
+- [Juca Kfouri](https://www.facebook.com/BlogdoJucaKfouri/) · [X](https://twitter.com/BlogdoJuca) · *a segunda conta no X, @JucaKfouri, hoje é de outra pessoa, conferido em 13/10/2026, e por isso não está linkada* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://twitter.com/JucaKfouri) · jornalista esportivo, colunista do UOL
+- [Leandro Demori](https://twitter.com/demori) · [YouTube](https://www.youtube.com/channel/UCKvo5P4W0tNYAWORXEqEp-Q) · [TikTok](https://www.tiktok.com/@demori) · jornalista, editor da Vaza Jato no Intercept Brasil
 - [Leonardo Attuch](https://twitter.com/AttuchLeonardo) · editor do Brasil 247
 - [Leonardo Sakamoto](https://www.facebook.com/leonardo.sakamoto/) · [X](https://twitter.com/blogdosakamoto) · jornalista, colunista do UOL e fundador da Repórter Brasil
 - [Luis Nassif](https://www.facebook.com/luis.nassif2/) · [X](https://twitter.com/luisnassif) · fundador do Jornal GGN
 - [Paulo Moreira Leite](https://twitter.com/pmoreiraleite) · jornalista, colunista do Brasil 247
 - [Pepe Escobar](https://www.youtube.com/@PepeCafe) · [Facebook](https://www.facebook.com/Pepebrizilan/) · [página antiga no Facebook](https://www.facebook.com/Pepe-Escobar-282737868777206/) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/Pepe-Escobar-282737868777206/) · geopolítica, no canal Pepe Café
-- [Renato Rovai](https://www.facebook.com/BlogdoRovai/) · [X](https://twitter.com/renato_rovai) · editor da Revista Fórum
-- [Ultrajano](https://twitter.com/ultrajano) · de José Trajano, jornalista que fundou a ESPN Brasil
-- [William De Lucca](https://twitter.com/delucca) · jornalista, comentarista do ICL Notícias
-- [Xico Sá](https://twitter.com/xicosa) · jornalista e escritor
+- [Renato Rovai](https://www.facebook.com/BlogdoRovai/) · [Instagram](https://www.instagram.com/renatorovai/) · [TikTok](https://www.tiktok.com/@renatorovai) · [X](https://twitter.com/renato_rovai) · editor da Revista Fórum
+- [Ultrajano](https://www.instagram.com/ultrajano/) · [X](https://twitter.com/ultrajano) · *fora do ar em 13/10/2026, perfil não encontrado no X* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://twitter.com/ultrajano) · de José Trajano, jornalista que fundou a ESPN Brasil
+- [William De Lucca](https://twitter.com/delucca) · [Instagram](https://www.instagram.com/deluccawilliam/) · [Facebook](https://www.facebook.com/DeLuccaWilliam) · jornalista, comentarista do ICL Notícias
+- [Xico Sá](https://twitter.com/xicosa) · [Instagram](https://www.instagram.com/xicosa/) · jornalista e escritor
 
 ### Comentaristas e influenciadores
 
@@ -132,14 +132,14 @@ Pessoas que comentam política nas redes, em vídeo ou em texto, sem estar ligad
 - [Bemvindo Sequeira](https://bem10.tv/) · [YouTube](https://www.youtube.com/channel/UCHkIWOyyMuYfWeXkRGJUSxA) · [Facebook](https://www.facebook.com/bemvindoOficial/) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/bemvindoOficial/) · [Instagram](https://www.instagram.com/bemvindosequeira) · [TikTok](https://www.tiktok.com/@bemvindosequeiraoficial) · notícias, humor e opinião no portal BEM10 TV
 - [Carol 'Brocoli' Zoccoli](https://www.youtube.com/channel/UCnstGh5pM10p31vuey1lD-w) · [Facebook](https://www.facebook.com/ZoccoliCarol/) · [Instagram](https://www.instagram.com/zoccolicarol/) · comediante
 - [Clayson Felizola](https://www.youtube.com/channel/UCWE75Qq5ExU0qlwQSkx18wQ) · [canal secundário](https://www.youtube.com/channel/UC7paC6CJdCJm211EoNViu6g) · [Facebook](https://www.facebook.com/canalclayson) · [Instagram](https://www.instagram.com/claysonfelizola/) · [X](https://twitter.com/claysonfelizola) · *o título do canal o apresenta como candidato a deputado federal por MG*
-- [Eduardo Moreira](https://www.facebook.com/eduardomoreirabrasil/) · [YouTube](https://www.youtube.com/user/eduardoamoreira) · [X](https://twitter.com/eduardomoreira) · fundador do [ICL Notícias](https://iclnoticias.com.br/) · [Bluesky](https://bsky.app/profile/iclnoticias.com.br)
-- [Gabriela Prioli](https://twitter.com/GabrielaPrioli) · advogada e apresentadora
+- [Eduardo Moreira](https://edumoreira.com.br/) · [YouTube](https://www.youtube.com/user/eduardoamoreira) · [Instagram](https://www.instagram.com/eduardomoreirareal/) · [Facebook](https://www.facebook.com/eduardomoreirabrasil/) · *a conta @eduardomoreira no X hoje é de outra pessoa, conferido em 13/10/2026, e por isso não está linkada* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://twitter.com/eduardomoreira) · fundador do [ICL Notícias](https://iclnoticias.com.br/) · [Bluesky](https://bsky.app/profile/iclnoticias.com.br)
+- [Gabriela Prioli](https://www.gabrielaprioli.com.br/) · [Instagram](https://www.instagram.com/gabrielaprioli/) · [TikTok](https://www.tiktok.com/@gabrielaprioli) · [X](https://twitter.com/GabrielaPrioli) · advogada e apresentadora
 - [Henry Bugalho](https://henrybugalho.com/) · [YouTube](https://www.youtube.com/user/henrybugalho) · [Instagram](https://www.instagram.com/henrybugalho) · [Facebook](https://www.facebook.com/HenryAlfredBugalho) · [TikTok](https://www.tiktok.com/@henrybugalho) · [X](https://twitter.com/henrybugalho) · [Bluesky](https://bsky.app/profile/henrybugalho.bsky.social) · [Substack](https://substack.com/@henrybugalho) · escritor e youtuber de política
 - [Ibis Pereira](https://twitter.com/IbisPereira2) · coronel da reserva, segurança pública
 - [Jeferson Monteiro](https://www.facebook.com/monteirojeferson/) · criador da personagem Dilma Bolada
-- [Lázaro Rosa](https://twitter.com/lazarorosa25) · comunicador e produtor de conteúdo digital
-- [Laura Sabino](https://www.youtube.com/channel/UCCmh3nJayT-7jEM6hg2vP9Q) · [Instagram](https://www.instagram.com/mylaura_m) · [X](https://twitter.com/mylaura_m) · youtuber de história e política
-- [Leonardo Stoppa](https://www.facebook.com/stoppaleonardo) · [Canaldostoppa](https://www.facebook.com/canaldostoppa/) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/canaldostoppa/) · [YouTube](https://www.youtube.com/user/leonardostoppa) · [Instagram](https://www.instagram.com/leonardostoppa) · [TikTok](https://www.tiktok.com/@stoppaleonardo) · [Threads](https://www.threads.net/@leonardostoppa) · [X](https://twitter.com/leonardo_stoppa) · youtuber de análise política
+- [Lázaro Rosa](https://twitter.com/lazarorosa25) · [Instagram](https://www.instagram.com/lazarorosa25/) · comunicador e produtor de conteúdo digital
+- [Laura Sabino](https://www.youtube.com/channel/UCCmh3nJayT-7jEM6hg2vP9Q) · [Instagram](https://www.instagram.com/mylaura_m) · [Facebook](https://www.facebook.com/mylauram) · [TikTok](https://www.tiktok.com/@mylaura_m) · [X](https://twitter.com/mylaura_m) · youtuber de história e política
+- [Leonardo Stoppa](https://www.facebook.com/stoppaleonardo) · [Canaldostoppa](https://www.facebook.com/canaldostoppa/) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/canaldostoppa/) · [YouTube](https://www.youtube.com/user/leonardostoppa) · [Instagram](https://www.instagram.com/leonardostoppa) · [TikTok](https://www.tiktok.com/@stoppaleonardo) · *fora do ar em 13/10/2026, perfil não encontrado no TikTok* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.tiktok.com/@stoppaleonardo) · [Threads](https://www.threads.net/@leonardostoppa) · [X](https://twitter.com/leonardo_stoppa) · *fora do ar em 13/10/2026, perfil não encontrado no X* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://twitter.com/leonardo_stoppa) · youtuber de análise política
 - [Professor Leonardo](https://www.youtube.com/channel/UCV6XoxUheLVulQkJ7Az4TDQ) · [Facebook](https://www.facebook.com/professor.leonardo222/) · [Instagram](https://www.instagram.com/canalprofleo/) · [X](https://twitter.com/ProfLeoOficial) · youtuber de política
 - ⭐ [Ricardo Mello](https://explicadorgeral.com.br/) · [YouTube](https://www.youtube.com/channel/UCgxx18XR2qEiCvq5Yw2Cxhg) · [Instagram](https://www.instagram.com/oricardomello/) · [Facebook](https://www.facebook.com/oricardomello/) · [TikTok](https://www.tiktok.com/@oricardomello) · o "Explicador-geral da República"
 - [Ronny Teles](https://www.youtube.com/channel/UCkdUyoqq2em5zlZUED49bPA) · [Facebook](https://www.facebook.com/RonnyCombate) · [Instagram](https://www.instagram.com/RonnyCombate) · [TikTok](https://www.tiktok.com/@ronnycombate) · [X](https://twitter.com/ronnycombate) · [Liga Democrática](https://liga.tv.br/) · youtuber de política, da Liga Democrática
@@ -149,79 +149,83 @@ Pessoas que comentam política nas redes, em vídeo ou em texto, sem estar ligad
 
 ### Artistas, intelectuais e ativistas
 
-- [Ana Júlia Ribeiro](https://www.facebook.com/najuliaribeiro/) · estudante que discursou na Assembleia do Paraná em 2016
 - [Carol Proner](https://twitter.com/carolproner) · jurista
-- [Gregorio Duvivier](https://twitter.com/gduvivier) · humorista, um dos fundadores do Porta dos Fundos e apresentador do Greg News
+- [Gregorio Duvivier](https://www.instagram.com/gduvivier/) · [Facebook](https://www.facebook.com/gregorioduvivier) · *a conta @gduvivier no X hoje é de outra pessoa, conferido em 13/10/2026, e por isso não está linkada* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://twitter.com/gduvivier) · humorista, um dos fundadores do Porta dos Fundos e apresentador do Greg News
 - [Jessé Souza](https://twitter.com/JesseSouzaecht) · sociólogo
-- [José de Abreu](https://www.facebook.com/zedeabreu5.1/) · [X](https://twitter.com/zehdeabreu) · ator
-- [Leonardo Boff](https://twitter.com/LeonardoBoff) · teólogo
-- [Monja Coen](https://twitter.com/MonjaCoenReal) · monja zen-budista
-- [Pablo Villaça](https://www.facebook.com/pablovillaca01/) · [X](https://twitter.com/pablovillaca) · crítico de cinema
-- [Papa Leão XIV](https://twitter.com/Pontifex_pt) · conta oficial do papado, herdada de Francisco, morto em abril de 2025
-- [Patrícia Lélis](https://www.facebook.com/patricialelisoficial/) · [X](https://twitter.com/lelispatricia) · jornalista que denunciou Marco Feliciano e Eduardo Bolsonaro
-- [Petra Costa](https://twitter.com/petracostal) · cineasta
-- [Sleeping Giants Brasil](https://www.facebook.com/sleepinggiantsbr/) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/sleepinggiantsbr/) · [X](https://twitter.com/slpng_giants_pt) · [conta original](https://twitter.com/slpng_giants) · pressão sobre anunciantes de desinformação
+- [José de Abreu](https://www.facebook.com/zedeabreu5.1/) · [X](https://twitter.com/zehdeabreu) · *fora do ar em 13/10/2026, perfil não encontrado no X* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://twitter.com/zehdeabreu) · ator
+- [Leonardo Boff](https://leonardoboff.org/) · [Facebook](https://www.facebook.com/leonardoboff.oficial) · [X](https://twitter.com/LeonardoBoff) · teólogo
+- [Monja Coen](https://monjacoen.com.br/) · [YouTube](https://www.youtube.com/channel/UCisBOTnaS1pDO78YeB35Ukw) · [Instagram](https://www.instagram.com/monjacoen/) · [Facebook](https://www.facebook.com/monjacoenoficial/) · [TikTok](https://www.tiktok.com/@monjacoen) · [X](https://twitter.com/MonjaCoenReal) · *fora do ar em 13/10/2026, perfil não encontrado no X* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://twitter.com/MonjaCoenReal) · monja zen-budista
+- [Pablo Villaça](https://www.facebook.com/pablovillaca01/) · [YouTube](https://www.youtube.com/channel/UCpfgWROl2Nc2Fk4NXOIcsCQ) · [Instagram](https://www.instagram.com/pablovillaca/) · [X](https://twitter.com/pablovillaca) · crítico de cinema
+- [Papa Leão XIV](https://twitter.com/Pontifex_pt) · [Instagram](https://www.instagram.com/pontifex/) · conta oficial do papado, herdada de Francisco, morto em abril de 2025
+- [Patrícia Lélis](https://www.facebook.com/patricialelisoficial/) · [YouTube](https://www.youtube.com/channel/UC8o6jTZzLjmglzmgLV7yNwA) · [Instagram](https://www.instagram.com/patricialelis/) · [TikTok](https://www.tiktok.com/@patricialelis) · [X](https://twitter.com/lelispatricia) · jornalista que denunciou Marco Feliciano e Eduardo Bolsonaro
+- [Petra Costa](https://twitter.com/petracostal) · [Instagram](https://www.instagram.com/petracostal/) · cineasta
+- [Sleeping Giants Brasil](https://www.instagram.com/slpng_giants_pt/) · [Facebook](https://www.facebook.com/sleepinggiantsbrasil) · [TikTok](https://www.tiktok.com/@slpng_giants_pt) · [X](https://twitter.com/slpng_giants_pt) · [conta original](https://twitter.com/slpng_giants) · [página antiga no Facebook](https://www.facebook.com/sleepinggiantsbr/) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/sleepinggiantsbr/) · pressão sobre anunciantes de desinformação
 
 ## Políticos e autoridades
 
-Perfis oficiais de políticos, dirigentes partidários e autoridades. São fonte oficial, não imprensa: o que dizem vale como posição de quem fala, não como reportagem.
+Perfis oficiais de partidos, políticos, dirigentes partidários e autoridades. São fonte oficial, não imprensa: o que dizem vale como posição de quem fala, não como reportagem.
 
 ### Executivo e Legislativo
 
-- [Lula](https://twitter.com/LulaOficial) · presidente da República
-- [Dilma Rousseff](https://twitter.com/dilmabr) · ex-presidente da República, preside o Banco do BRICS
-- [Fernando Haddad](https://twitter.com/Haddad_Fernando) · PT-SP, ex-prefeito de São Paulo e ministro da Fazenda de Lula
-- [Alexandre Padilha](https://twitter.com/padilhando) · PT-SP, ministro da Saúde de Dilma e de Lula
-- [Gleisi Hoffmann](https://twitter.com/gleisi) · PT-PR, presidente do PT de 2017 a 2025 e ministra de Lula
-- [Paulo Pimenta](https://twitter.com/DeputadoFederal) · PT-RS, deputado federal e ministro da Secom de Lula
-- [Paulo Teixeira](https://twitter.com/pauloteixeira13) · PT-SP, ministro do Desenvolvimento Agrário de Lula
-- [Benedita da Silva](https://twitter.com/dasilvabenedita) · PT-RJ, deputada federal e ex-governadora do Rio
-- [Bohn Gass](https://twitter.com/BohnGass) · PT-RS, deputado federal
-- [Enio Verri](https://twitter.com/enioverri) · PT-PR, ex-deputado federal, diretor-geral brasileiro de Itaipu no governo Lula
-- [Henrique Fontana](https://twitter.com/HenriqueFontana) · PT-RS, deputado federal
-- [Humberto Costa](https://twitter.com/senadorhumberto) · PT-PE, senador e ministro da Saúde de Lula
-- [Jandira Feghali](https://twitter.com/jandira_feghali) · PCdoB-RJ, deputada federal
-- [Jorge Solla](https://twitter.com/depjorgesolla) · PT-BA, deputado federal
-- [Jorge Viana](https://twitter.com/jorgeviana) · PT-AC, ex-governador do Acre e ex-senador, preside a ApexBrasil no governo Lula
-- [Lindbergh Farias](https://twitter.com/lindberghfarias) · PT-RJ, deputado federal e ex-senador
-- [Maria do Rosário](https://twitter.com/mariadorosario) · PT-RS, deputada federal e ministra dos Direitos Humanos de Dilma
-- [Natália Bonavides](https://twitter.com/natbonavides) · [YouTube](https://www.youtube.com/channel/UC4SZ1UNy6t9Mz99In-Rt1tw) · PT-RN, deputada federal
-- [Orlando Silva](https://twitter.com/orlandosilva) · PCdoB-SP, deputado federal e ministro do Esporte de Lula e Dilma
-- [Rogerio Correia](https://twitter.com/RogerioCorreia_) · PT-MG, deputado federal
-- [Vanessa Grazziotin](https://twitter.com/vanessa_grazz) · PCdoB-AM, ex-senadora
-- [Zeca Dirceu](https://twitter.com/zeca_dirceu) · PT-PR, deputado federal
-- [Leonel Radde](https://twitter.com/LeonelRadde) · [Facebook](https://www.facebook.com/leonelraddeoficial/) · [YouTube](https://www.youtube.com/channel/UCEttBYmNrvFl9m9f7Uz4XJg) · PT-RS, deputado estadual
-- [Elika Takimoto](https://twitter.com/elikatakimoto) · deputada estadual pelo PT no Rio de Janeiro desde 2023
-- [Manuela Davila](https://twitter.com/ManuelaDavila) · ex-deputada federal, vice na chapa de Haddad em 2018, hoje no PSOL
-- [Marcelo Freixo](https://twitter.com/MarceloFreixo) · presidente da Embratur no governo Lula
-- [Rodrigo Neves](https://twitter.com/_RodrigoNeves_) · PDT-RJ, prefeito de Niterói
-- [Eduardo Suplicy](https://twitter.com/esuplicy) · PT-SP, ex-senador e deputado estadual
+- [Lula](https://lula.com.br/) · [YouTube](https://www.youtube.com/channel/UCvO2BExvkAbGMsTGnEnI_Ng) · [Instagram](https://www.instagram.com/lulaoficial/) · [Facebook](https://www.facebook.com/Lula) · [TikTok](https://www.tiktok.com/@lulaoficial) · [X](https://twitter.com/LulaOficial) · [Telegram](https://t.me/LulanoTelegram) · [Instagram da campanha](https://www.instagram.com/brasilcomlula/) · [Lulaverso no Instagram](https://www.instagram.com/lulaversoficial/) · presidente da República
+- [Dilma Rousseff](https://twitter.com/dilmabr) · [Instagram](https://www.instagram.com/dilmarousseff/) · [Facebook](https://www.facebook.com/DilmaRousseff) · ex-presidente da República, preside o Banco do BRICS
+- [Fernando Haddad](https://twitter.com/Haddad_Fernando) · [YouTube](https://www.youtube.com/channel/UCpwjvP7rGvgIXoJIcdGjC3g) · [Instagram](https://www.instagram.com/fernandohaddadoficial/) · [Facebook](https://www.facebook.com/fernandohaddad) · PT-SP, ex-prefeito de São Paulo e ex-ministro da Fazenda de Lula
+- [Alexandre Padilha](https://twitter.com/padilhando) · [YouTube](https://www.youtube.com/channel/UCtN6nmw9qKOG-1mb-BbjZ4g) · [Instagram](https://www.instagram.com/padilhando/) · [Facebook](https://www.facebook.com/padilhando) · PT-SP, ministro da Saúde de Dilma e de Lula
+- [Gleisi Hoffmann](https://twitter.com/gleisi) · [YouTube](https://www.youtube.com/channel/UCYrpiXO_4lmsDHO6Xidq9mw) · [Instagram](https://www.instagram.com/gleisihoffmann/) · [Facebook](https://www.facebook.com/gleisi.hoffmann) · PT-PR, deputada federal, presidente do PT de 2017 a 2025 e ex-ministra de Lula
+- [Paulo Pimenta](https://x.com/Pimenta13Br) · [Instagram](https://www.instagram.com/pimenta13br/) · [Facebook](https://www.facebook.com/pimenta13br) · [TikTok](https://www.tiktok.com/@pimenta13br) · [Bluesky](https://bsky.app/profile/pimenta13br.bsky.social) · [conta antiga no X](https://twitter.com/DeputadoFederal) · PT-RS, deputado federal e ministro da Secom de Lula
+- [Paulo Teixeira](https://twitter.com/pauloteixeira13) · [Instagram](https://www.instagram.com/pauloteixeira13/) · [Facebook](https://www.facebook.com/pauloteixeira13) · PT-SP, deputado federal e ex-ministro do Desenvolvimento Agrário de Lula
+- [Ana Júlia Ribeiro](https://www.facebook.com/najuliaribeiro/) · [YouTube](https://www.youtube.com/channel/UC7SI3rTPhQiDB0vcW4JiohQ) · [Instagram](https://www.instagram.com/najulia.ribeiro/) · [TikTok](https://www.tiktok.com/@najulia.ribeiro) · [X](https://x.com/najuliaribeiro) · PT-PR, deputada estadual, eleita deputada federal em 2026; em 2016, estudante, discursou na Assembleia do Paraná
+- [André Janones](https://www.instagram.com/andrejanones/) · [YouTube](https://www.youtube.com/channel/UCHIpaIDWpryDHpcupsslBKg) · [Facebook](https://www.facebook.com/AndreJanones/) · [TikTok](https://www.tiktok.com/@andrejanones) · Rede-MG, deputado federal, retirou a pré-candidatura a presidente em 2022 para apoiar Lula
+- [Benedita da Silva](https://twitter.com/dasilvabenedita) · [Facebook](https://www.facebook.com/blogdabenedita) · PT-RJ, deputada federal e ex-governadora do Rio
+- [Bohn Gass](https://twitter.com/BohnGass) · [YouTube](https://www.youtube.com/channel/UC8LeZcF8VFnSRHcAW9-lvwg) · [Instagram](https://www.instagram.com/bohn_gass/) · [Facebook](https://www.facebook.com/bohngass13) · [TikTok](https://www.tiktok.com/@bohngass) · PT-RS, deputado federal
+- [Enio Verri](https://twitter.com/enioverri) · [Instagram](https://www.instagram.com/enioverri/) · [Facebook](https://www.facebook.com/enio.verri) · PT-PR, ex-deputado federal, diretor-geral brasileiro de Itaipu no governo Lula
+- [Henrique Fontana](https://twitter.com/HenriqueFontana) · PT-RS, ex-deputado federal, secretário-geral nacional do PT
+- [Humberto Costa](https://twitter.com/senadorhumberto) · [Instagram](https://www.instagram.com/senadorhumberto/) · [Facebook](https://www.facebook.com/senadorhumberto) · [TikTok](https://www.tiktok.com/@senadorhumberto) · PT-PE, senador e ministro da Saúde de Lula
+- [Jandira Feghali](https://sigajandira.com/) · [YouTube](https://www.youtube.com/channel/UC5WztziL5qYaHXCT97jMAPg) · [Instagram](https://www.instagram.com/jandira_feghali/) · [Facebook](https://www.facebook.com/JandiraFeghaliOficial) · [TikTok](https://www.tiktok.com/@jandira_feghali) · [X](https://twitter.com/jandira_feghali) · PCdoB-RJ, deputada federal
+- [Jorge Solla](https://twitter.com/depjorgesolla) · [YouTube](https://www.youtube.com/channel/UCfQJuyST4yW6ums5nl0ASww) · [Instagram](https://www.instagram.com/depjorgesolla/) · [Facebook](https://www.facebook.com/depjorgesolla) · PT-BA, deputado federal
+- [Jorge Viana](https://twitter.com/jorgeviana) · [YouTube](https://www.youtube.com/channel/UCzUoF3FunpMkYAw8GXUNiiw) · [Instagram](https://www.instagram.com/jorgevianaacre/) · [Facebook](https://www.facebook.com/jorgevianaacre) · PT-AC, ex-governador do Acre e ex-senador, preside a ApexBrasil no governo Lula
+- [Lindbergh Farias](https://lindberghfarias.com.br/) · [YouTube](https://www.youtube.com/channel/UCLy41krA5Ahtd-ij8WZSxbg) · [Instagram](https://www.instagram.com/lindberghfarias/) · [Facebook](https://www.facebook.com/lindbergh.farias) · [TikTok](https://www.tiktok.com/@lindbergh.farias) · [X](https://twitter.com/lindberghfarias) · PT-RJ, deputado federal e ex-senador
+- [Maria do Rosário](https://mariadorosario.com.br/) · [Instagram](https://www.instagram.com/_mariadorosario/) · [X](https://twitter.com/mariadorosario) · PT-RS, deputada federal e ministra dos Direitos Humanos de Dilma
+- [Natália Bonavides](https://nataliabonavides.com.br/) · [YouTube](https://www.youtube.com/channel/UC4SZ1UNy6t9Mz99In-Rt1tw) · [Instagram](https://www.instagram.com/nataliabonavides/) · [Facebook](https://www.facebook.com/nataliabonavides) · [TikTok](https://www.tiktok.com/@nataliabonavides) · [X](https://twitter.com/natbonavides) · PT-RN, deputada federal
+- [Orlando Silva](https://twitter.com/orlandosilva) · [Instagram](https://www.instagram.com/orlandosilvasp/) · [Facebook](https://www.facebook.com/orlandosilvasp) · [TikTok](https://www.tiktok.com/@orlandosilvasp) · PCdoB-SP, deputado federal e ministro do Esporte de Lula e Dilma
+- [Rogerio Correia](https://twitter.com/RogerioCorreia_) · [YouTube](https://www.youtube.com/channel/UC6AVYYHC-GswIhS2xlYUb5g) · [Instagram](https://www.instagram.com/rogeriocorreia_/) · [Facebook](https://www.facebook.com/deputadorogeriocorreia) · PT-MG, deputado federal
+- [Vanessa Grazziotin](https://twitter.com/vanessa_grazz) · [Instagram](https://www.instagram.com/vanessagrazziotin/) · [Facebook](https://www.facebook.com/VanessaGrazziotin) · PCdoB-AM, ex-senadora
+- [Zeca Dirceu](https://zecadirceu.com.br/) · [YouTube](https://www.youtube.com/channel/UCsprkgZs7AtnqlDMmmjXXrQ) · [Instagram](https://www.instagram.com/zecadirceu/) · [Facebook](https://www.facebook.com/deputadofederalzecadirceu) · [X](https://twitter.com/zeca_dirceu) · PT-PR, deputado federal
+- [Leonel Radde](https://twitter.com/LeonelRadde) · [YouTube](https://www.youtube.com/channel/UCEttBYmNrvFl9m9f7Uz4XJg) · [Instagram](https://www.instagram.com/leonelradde/) · [Facebook](https://www.facebook.com/leonelraddeoficial/) · [TikTok](https://www.tiktok.com/@leonelradde) · [Bluesky](https://bsky.app/profile/leonelradde.bsky.social) · PT-RS, deputado estadual
+- [Elika Takimoto](https://twitter.com/elikatakimoto) · [Instagram](https://www.instagram.com/elikatakimoto/) · [Facebook](https://www.facebook.com/elikatakimoto) · [TikTok](https://www.tiktok.com/@elikatakimoto) · deputada estadual pelo PT no Rio de Janeiro desde 2023
+- [Manuela Davila](https://twitter.com/ManuelaDavila) · [Instagram](https://www.instagram.com/manueladavila/) · [Facebook](https://www.facebook.com/manueladavila) · [TikTok](https://www.tiktok.com/@manueladavila_) · ex-deputada federal, vice na chapa de Haddad em 2018, hoje no PSOL
+- [Marcelo Freixo](https://www.marcelofreixo.com.br/) · [YouTube](https://www.youtube.com/channel/UCxeokNLBlzCwOtcgsnBDA1g) · [Instagram](https://www.instagram.com/marcelofreixo/) · [TikTok](https://www.tiktok.com/@marcelofreixo) · [X](https://twitter.com/MarceloFreixo) · PT-RJ, ex-presidente da Embratur no governo Lula, eleito deputado federal em 2026
+- [Rodrigo Neves](https://twitter.com/_RodrigoNeves_) · [Facebook](https://www.facebook.com/rodrigonevesoficial) · PDT-RJ, prefeito de Niterói
+- [Eduardo Suplicy](https://twitter.com/esuplicy) · [Instagram](https://www.instagram.com/eduardosuplicy/) · [Facebook](https://www.facebook.com/EduardoSuplicy) · PT-SP, ex-senador e deputado estadual
 
 ### Ex-parlamentares e dirigentes partidários
 
 - [José Genoino](https://twitter.com/MandatoGenoino) · ex-presidente do PT e ex-deputado federal
-- [Milton Temer](https://twitter.com/miltontemer) · ex-deputado federal, um dos fundadores do PSOL
-- [Roberto Requião](https://twitter.com/requiaopmdb) · ex-governador do Paraná e ex-senador
+- [Milton Temer](https://twitter.com/miltontemer) · [Facebook](https://www.facebook.com/miltontemer) · ex-deputado federal, um dos fundadores do PSOL
+- [Roberto Requião](https://www.facebook.com/robertorequiao) · [X](https://twitter.com/requiaopmdb) · *fora do ar em 13/10/2026, perfil não encontrado no X* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://twitter.com/requiaopmdb) · ex-governador do Paraná e ex-senador
 - [Rui Falcão](https://twitter.com/rfalcao13) · PT-SP, deputado federal e ex-presidente do PT
-- [Renato Rabelo](https://twitter.com/renatorabelobr) · presidente do PCdoB entre 2005 e 2015
-- [Wadih Damous](https://twitter.com/wadih_damous) · ex-presidente da OAB-RJ e ex-deputado federal pelo PT
-- [Delegado Protógenes](https://twitter.com/ProtogenesQ) · [Facebook](https://www.facebook.com/protogenesq/) · delegado da PF que comandou a Operação Satiagraha, ex-deputado federal
+- [Renato Rabelo](https://twitter.com/renatorabelobr) · presidente do PCdoB entre 2001 e 2015 · *morreu em fevereiro de 2026*
+- [Wadih Damous](https://twitter.com/wadih_damous) · [Facebook](https://www.facebook.com/wadihdamous) · ex-presidente da OAB-RJ e ex-deputado federal pelo PT, preside a ANS desde 2025
+- [Delegado Protógenes](https://twitter.com/ProtogenesQ) · [Instagram](https://www.instagram.com/protogenesq/) · [Facebook](https://www.facebook.com/protogenesq/) · delegado da PF que comandou a Operação Satiagraha, ex-deputado federal
 - [Amigos do Delúbio](https://twitter.com/delubiosoares) · perfil de Delúbio Soares, ex-tesoureiro do PT
+
+### Partidos
+
+- **PT** — Partido dos Trabalhadores. [Site](https://pt.org.br/) · [YouTube](https://www.youtube.com/channel/UC0xqLnPTcFVf8MXaIoHPeDw) · [Instagram](https://www.instagram.com/ptbrasil/) · [Facebook](https://www.facebook.com/pt.brasil) · [TikTok](https://www.tiktok.com/@ptbrasil) · [X](https://twitter.com/ptbrasil)
 
 ### Autoridades
 
-- [Cristiano Zanin](https://twitter.com/czmartins) · [Facebook](https://www.facebook.com/cristianozaninoficial/) · ministro do STF desde 2023, antes advogado de Lula
-- [Flávio Dino](https://twitter.com/FlavioDino) · ministro do STF desde 2024
+- [Cristiano Zanin](https://x.com/Cristianozaninm) · [Facebook](https://www.facebook.com/cristianozaninoficial/) · ministro do STF desde 2023, antes advogado de Lula
+- [Flávio Dino](https://twitter.com/FlavioDino) · [Instagram](https://www.instagram.com/flaviodino/) · [Facebook](https://www.facebook.com/flaviodino) · [TikTok](https://www.tiktok.com/@flaviodino) · ministro do STF desde 2024
 
 ### Políticos de outros países
 
-- [Bernie Sanders](https://twitter.com/BernieSanders) · [conta do mandato no Senado](https://twitter.com/SenSanders) (EUA)
-- [Pedro Sánchez](https://twitter.com/sanchezcastejon) (Espanha)
-- [Cristina Kirchner](https://twitter.com/CFKArgentina) (Argentina)
-- [Alberto Fernández](https://twitter.com/alferdez) · presidente da Argentina entre 2019 e 2023
-- [Nicolás Maduro](https://twitter.com/NicolasMaduro) (Venezuela)
-- [Evo Morales Ayma](https://twitter.com/evoespueblo) · presidente da Bolívia entre 2006 e 2019
-- [Pepe Mujica](https://twitter.com/PepeMujicaDice) · presidente do Uruguai entre 2010 e 2015 · *morreu em maio de 2025*
+- [Bernie Sanders](https://berniesanders.com/) · [YouTube](https://www.youtube.com/channel/UCH1dpzjCEiGAt8CXkryhkZg) · [Instagram](https://www.instagram.com/berniesanders/) · [Facebook](https://www.facebook.com/berniesanders) · [TikTok](https://www.tiktok.com/@bernie) · [X](https://twitter.com/BernieSanders) · [conta do mandato no Senado](https://twitter.com/SenSanders) · [Bluesky do mandato](https://bsky.app/profile/sanders.senate.gov) (EUA)
+- [Pedro Sánchez](https://twitter.com/sanchezcastejon) · [Instagram](https://www.instagram.com/sanchezcastejon/) · [Facebook](https://www.facebook.com/pedro.sanchezperezcastejon) (Espanha)
+- [Cristina Kirchner](https://www.cfkargentina.com/) · [YouTube](https://www.youtube.com/channel/UCT8Moh9ZCUvUwbTf00ZiYsg) · [Instagram](https://www.instagram.com/cristinafkirchner/) · [Facebook](https://www.facebook.com/cfkargentina) · [TikTok](https://www.tiktok.com/@cfkargentina) · [X](https://twitter.com/CFKArgentina) (Argentina)
+- [Alberto Fernández](https://twitter.com/alferdez) · [YouTube](https://www.youtube.com/channel/UCa0P__Z_C8clZ8FD_lg4Lqg) · [Instagram](https://www.instagram.com/alferdezok/) · [Facebook](https://www.facebook.com/alferdezok) · [TikTok](https://www.tiktok.com/@alferdez) · presidente da Argentina entre 2019 e 2023
+- [Nicolás Maduro](https://twitter.com/NicolasMaduro) · [Instagram](https://www.instagram.com/nicolasmaduro/) · [Facebook](https://www.facebook.com/NicolasMaduro) · [TikTok](https://www.tiktok.com/@nicolasmadurom) · [Telegram](https://t.me/NicolasMaduroMoros) (Venezuela)
+- [Evo Morales Ayma](https://twitter.com/evoespueblo) · [Instagram](https://www.instagram.com/evomoralesayma/) · [Facebook](https://www.facebook.com/EvoMASFuturo) · presidente da Bolívia entre 2006 e 2019
 - [Hugo Chávez Frías](https://twitter.com/chavezcandanga) · presidente da Venezuela entre 1999 e 2013 · *morreu em março de 2013*
 
 ## Movimentos, sindicatos e organizações
@@ -233,7 +237,6 @@ Perfis oficiais de políticos, dirigentes partidários e autoridades. São fonte
 - **Foro de São Paulo** — articulação de partidos de esquerda da América Latina, criada em 1990. [X](https://twitter.com/ForodeSaoPaulo)
 - **Frente Brasil Popular** — frente de movimentos sociais criada em 2015 contra o golpe. [Site](https://frentebrasilpopular.org.br/) · [Facebook](https://www.facebook.com/FrenteBrasilPopular)
 - **Frente Resistência Democrática** — frente de mobilização pela democracia. [Facebook](https://www.facebook.com/frenteresistenciademocratica/)
-- **Jovens de Esquerda** — "na luta por justiça social, contra o racismo, o machismo e a homofobia". [Facebook](https://www.facebook.com/jovensdeesquerda/)
 - **Levante Popular da Juventude** — movimento de juventude. [Site](https://levante.org.br/) · [Facebook](https://www.facebook.com/levantepopulardajuventude/) · [YouTube](https://www.youtube.com/channel/UCmo_qwwtofscJjjND_Pm-UA) · [Bluesky](https://bsky.app/profile/levante.org.br) · [Instagram](https://instagram.com/levantedajuventude)
 - **MST** — Movimento dos Trabalhadores Rurais Sem Terra. [Site](https://mst.org.br/) · [Facebook](https://www.facebook.com/MovimentoSemTerra/) · [YouTube](https://www.youtube.com/user/videosmst) · [João Pedro Stédile no X](https://twitter.com/stedile_mst) · [Bluesky](https://bsky.app/profile/mst.org.br)
 - **MTST** — Movimento dos Trabalhadores Sem-Teto. [Site](https://mtst.org/) · [Facebook](https://www.facebook.com/mtstbrasil/)
@@ -261,6 +264,7 @@ Perfis oficiais de políticos, dirigentes partidários e autoridades. São fonte
 - **Fora Coronéis da Mídia** — campanha criada pela ENECOS em 2014 contra políticos donos de rádio e TV. [Facebook](https://www.facebook.com/foracoroneisdamidia/)
 - **Geledés** — Instituto da Mulher Negra. [Site](https://www.geledes.org.br/) · [Facebook](https://www.facebook.com/geledes) · [YouTube](https://youtube.com/c/geledes) · [Instagram](https://instagram.com/portalgeledes)
 - **Intervozes** — coletivo pelo direito à comunicação. [Site](https://intervozes.org.br/) · [YouTube](https://www.youtube.com/channel/UCqIUx1pQhTiaaJ4R6Hi5ORw) · [Instagram](https://instagram.com/intervozes)
+- ⭐ **Lawfare Nunca Mais** — rede da sociedade civil que divulga casos de [lawfare](temas/lawfare/index.md) e cobra reparação às vítimas, com programa semanal no YouTube apresentado por Cleide Martins, Sandra Urech e Henrique Pizzolato, ex-diretor do Banco do Brasil condenado no [mensalão](temas/farsa-do-mensalao.md#henrique-pizzolato). [Site](https://lawfarenuncamais.org/) · [YouTube](https://www.youtube.com/channel/UCRHiyESOi52HRFNcoVBMOiA) · [Instagram](https://www.instagram.com/lawfarenuncamais_/)
 - **Megacidadania** — educação cívica e transparência. [Facebook](https://www.facebook.com/cursosprogressistas/)
 - **ONU Brasil** — as Nações Unidas no Brasil. [Site](https://brasil.un.org/pt-br) · [Facebook](https://www.facebook.com/ONUBrasil/) · [Instagram](https://instagram.com/onubrasil)
 - **Pense, é grátis** — instituição humanista e secular sem fins lucrativos. [Facebook](https://www.facebook.com/penseegratis/)
@@ -303,15 +307,15 @@ Perfis oficiais de políticos, dirigentes partidários e autoridades. São fonte
 
 ### Personalidades
 
-- [Adolfo Pérez Esquivel](https://twitter.com/PrensaPEsquivel) · Nobel da Paz de 1980
+- [Adolfo Pérez Esquivel](https://twitter.com/PrensaPEsquivel) · [Instagram](https://www.instagram.com/prensapesquivel/) · [Facebook](https://www.facebook.com/prensapesquivel) · Nobel da Paz de 1980
 - [Edward Snowden](https://twitter.com/Snowden) · ex-analista da NSA que revelou a espionagem americana, inclusive sobre Dilma e a Petrobras
-- [Greta Thunberg](https://twitter.com/GretaThunberg) · ativista sueca pelo clima
-- [Julian Assange](https://twitter.com/JulianAssange_) · fundador do WikiLeaks
-- [Kailash Satyarthi](https://twitter.com/k_satyarthi) · Nobel da Paz de 2014
-- [Michael Moore](https://www.facebook.com/mmflint/) · documentarista americano
-- [Noam Chomsky](https://twitter.com/noamchomskyT) · linguista e intelectual americano
-- [Oliver Stone](https://twitter.com/TheOliverStone) · cineasta americano, diretor do documentário "Lula" (2024)
-- [Roger Waters](https://twitter.com/rogerwaters) · músico, um dos fundadores do Pink Floyd
+- [Greta Thunberg](https://twitter.com/GretaThunberg) · [Instagram](https://www.instagram.com/gretathunberg/) · [Facebook](https://www.facebook.com/gretathunbergsweden) · ativista sueca pelo clima
+- [Julian Assange](https://twitter.com/JulianAssange) · fundador do WikiLeaks
+- [Kailash Satyarthi](https://www.kailashsatyarthi.net/) · [YouTube](https://www.youtube.com/channel/UCQwOl2vX2HQn-4Rj-hsu_Ug) · [Instagram](https://www.instagram.com/kailash.satyarthi/) · [Facebook](https://www.facebook.com/KailashSatyarthi) · [X](https://twitter.com/k_satyarthi) · Nobel da Paz de 2014
+- [Michael Moore](https://www.michaelmoore.com/) · [YouTube](https://www.youtube.com/channel/UCU_nlLzlVPFLJxB_iEwtwBw) · [Instagram](https://www.instagram.com/michaelfmoore/) · [Facebook](https://www.facebook.com/mmflint/) · [X](https://x.com/MMFlint) · documentarista americano
+- [Noam Chomsky](https://chomsky.info/) · linguista e intelectual americano
+- [Oliver Stone](https://twitter.com/TheOliverStone) · [Instagram](https://www.instagram.com/officialoliverstone/) · [Facebook](https://www.facebook.com/TheOliverStone) · cineasta americano, diretor do documentário "Lula" (2024)
+- [Roger Waters](https://rogerwaters.com/) · [YouTube](https://www.youtube.com/channel/UCRpdKithfG65rWvtsQt0TDQ) · [Instagram](https://www.instagram.com/rogerwaters/) · [Facebook](https://www.facebook.com/rogerwaters) · [TikTok](https://www.tiktok.com/@rogerwaters) · [X](https://twitter.com/rogerwaters) · músico, um dos fundadores do Pink Floyd
 
 ## Páginas no Facebook
 
@@ -323,7 +327,7 @@ Perfis oficiais de políticos, dirigentes partidários e autoridades. São fonte
 - [Burguesia fede](https://www.facebook.com/aburguesiafede/) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/aburguesiafede/) · [Instagram](https://www.instagram.com/burguesia.fede/) · *fora do ar em 13/10/2026, perfil não encontrado no Instagram* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.instagram.com/burguesia.fede/) · [X](https://x.com/fedeburguesia) · do verso de Cazuza
 - [Capitalistas sem Capital](https://www.facebook.com/capitalistasemcapital/) · "esquerda raiz e autocrítica", a agulha na bolha ideológica
 - [Cômicas Políticas](https://www.facebook.com/comicaspoliticas/) · ativismo político com humor
-- [Jesus da Goiabeira](https://www.facebook.com/dagoiabeira/) · [X](https://twitter.com/goiabeirajesus) · humor, nascida da declaração de Damares Alves sobre ver Jesus numa goiabeira
+- [Jesus da Goiabeira](https://www.facebook.com/dagoiabeira/) · humor, nascida da declaração de Damares Alves sobre ver Jesus numa goiabeira
 - [Nossa Época](https://www.facebook.com/NossaEpoca/) · humor, política e atualidades, em homenagem a Mariátegui
 
 ### Opinião e crítica de mídia
@@ -337,7 +341,14 @@ Perfis oficiais de políticos, dirigentes partidários e autoridades. São fonte
 - [Observe](https://www.facebook.com/Observesempre/) · "instrumento de reflexão"
 - [Política no Face II](https://www.facebook.com/politicanoface2/) · "página progressista, que debate política e cultura"
 - ⭐ [Frente Sulamericana](https://www.facebook.com/frentesulamericana/) · integração política, social e cultural da América do Sul
-- [Seja Subversivo](https://www.facebook.com/sejasubversivo/) · empoderamento e combate ao preconceito
+- [Seja Subversivo](https://www.facebook.com/sejasubversivo/) · [Instagram](https://www.instagram.com/sejasubversivo/) · empoderamento e combate ao preconceito
+
+## Páginas no Instagram
+
+- [BFC – Conteúdo de Conexão](https://www.instagram.com/brasilforadacaverna/) · o Brasil Fora da Caverna, com atos e mobilizações pró-Lula pelo país
+- [Esquerda Verde](https://www.instagram.com/esquerdaverde/) · "orgulho de ser de esquerda", com notícias e comparações entre Lula e [Flávio Bolsonaro](temas/flavio-bolsonaro.md)
+- [Eu tô com Lula](https://www.instagram.com/eutocomlula/) · página lulista administrada por Teresa Freitas, que se apresenta como a maior do país
+- [Porta-Voz do Lula](https://www.instagram.com/portavozdolulabr/) · conteúdos e "missões de mobilização" para quem quer ser porta-voz da campanha de Lula
 
 ## Acervo: quem parou de publicar
 
@@ -349,19 +360,20 @@ Veículos, canais e pessoas que deixaram de publicar ou saíram do ar. Ficam aqu
 - **Blog Limpinho & Cheiroso** — blog independente de São Paulo. [Facebook](https://www.facebook.com/limpinhoecheiroso/) · *o domínio limpinhoecheiroso.com foi tomado por um site de apostas, conferido em 18/09/2026, e por isso não está linkado* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://limpinhoecheiroso.com/)
 - **Blog Xeque-Mate Notícias** — política, cultura e esporte, no formato de partida de xadrez. [Site](https://xeque-mate-noticias.blogspot.com/) · [Facebook](https://www.facebook.com/XequeMateNoticias/) · *sem posts desde 08/2018*
 - [Botando Pilha](https://www.youtube.com/channel/UCJM5iC1trLO_mKsqMHP83Mw) · *último vídeo em 07/2023*
-- **Brasil Debate** — [Facebook](https://www.facebook.com/brdebate) · *site fora do ar em 17/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://brasildebate.com.br/)
-- [CAFÉ COM BOULOS](https://podcastaddict.com/podcast/2444638) · podcast de Guilherme Boulos · *último episódio em 10/2025*
-- [Canal Púrpura](https://www.youtube.com/channel/UCNqfUt1KeEiNd2ULYBQHCow) · [Facebook](https://www.facebook.com/canalpurpura/) · *parado desde 2016*
-- **Carta Maior** — [Facebook](https://www.facebook.com/facecartamaior/) · *site fora do ar em 17/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.cartamaior.com.br/)
+- **Brasil Debate** — [Facebook](https://www.facebook.com/brdebate) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/brdebate) · *site fora do ar em 17/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://brasildebate.com.br/)
+- [Café com Boulos](https://podcastaddict.com/podcast/2444638) · podcast de Guilherme Boulos · *último episódio em 10/2025*
+- [Canal Púrpura](https://www.youtube.com/channel/UCNqfUt1KeEiNd2ULYBQHCow) · [Facebook](https://www.facebook.com/canalpurpura/) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/canalpurpura/) · *parado desde 2016*
+- **Carta Maior** — [Facebook](https://www.facebook.com/facecartamaior/) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/facecartamaior/) · *site fora do ar em 17/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.cartamaior.com.br/)
 - [Do Rio Que Tudo Arrasta](https://podcastaddict.com/podcast/2198750) · podcast marxista sobre psicologia, política e cultura · *um episódio, de 12/2020*
 - **Escrevinhador** — blog de Rodrigo Vianna, hoje dentro da Revista Fórum. [Site](https://revistaforum.com.br/escrevinhador/) · [Facebook](https://www.facebook.com/Escrevinhador-360573263963286/) · *sem posts desde 10/2018*
-- **Esquerda Valente** — blog de política. [Facebook](https://www.facebook.com/esqvalente) · *o blog aesquerdavalente.blogspot.com.br saiu do ar* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://aesquerdavalente.blogspot.com.br/)
+- **Esquerda Valente** — blog de política. [Facebook](https://www.facebook.com/esqvalente) · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/esqvalente) · *o blog aesquerdavalente.blogspot.com.br saiu do ar* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://aesquerdavalente.blogspot.com.br/)
 - [Greg News (HBO Brasil)](https://www.youtube.com/playlist?list=PLRhP9oJut01keHMlDtBtSm3lMmj6As83N) · [Facebook](https://www.facebook.com/GregNews/) · *último episódio em 10/2023; os episódios seguem no canal da HBO*
 - [Grifa](https://podcastaddict.com/podcast/2448146) · *último episódio em 04/2022*
 - **Justificando** — jornalismo jurídico, que era da Carta Capital. [Facebook](https://www.facebook.com/justificando/) · [YouTube](https://www.youtube.com/channel/UClGI_T5ZXjHNBbpKrERbFHQ) · *site fora do ar em 17/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.justificando.com/) · *canal parado desde 04/2021*
 - [Lucas Gomes Arcanjo](https://www.facebook.com/lucas.gomesarcanjo01/) · policial civil que denunciava Aécio Neves em Minas · *morreu em março de 2016* (ver [Mortes suspeitas](temas/mortes-suspeitas.md#lucas-gomes-arcanjo-policial-civil-que-denunciava-aecio-neves-em-2014-26032016))
 - **Nocaute** — blog de Fernando Morais. [Site](https://www.nocaute.blog.br/) · *fora do ar em 13/10/2026, o site não responde* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.nocaute.blog.br/) · [Facebook](https://www.facebook.com/nocautefernandomorais/) · [YouTube](https://www.youtube.com/channel/UCZQ2xyjNFsxY7Wkpni_Nfgw) · [Instagram](https://instagram.com/nocautegram) · *Fernando Morais anunciou o encerramento; último vídeo em 08/2020*
 - [O RAP EM DEBATE](https://podcastaddict.com/podcast/3045610) · hip hop, sociedade e política · *último episódio em 02/2024*
+- [Pepe Mujica](https://twitter.com/PepeMujicaDice) · *fora do ar em 13/10/2026, perfil não encontrado no X* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://twitter.com/PepeMujicaDice) · presidente do Uruguai entre 2010 e 2015 · *morreu em maio de 2025*
 - [PodOcupá](https://podcastaddict.com/podcast/2614179) · podcast do MTST · *último episódio em 05/2023*
 - [Por Uma Questão de Classe](https://podcastaddict.com/podcast/2930750) · *último episódio em 05/2024*
 - [Tese Onze](https://www.youtube.com/channel/UC0fGGprihDIlQ3ykWvcb9hg) · *último vídeo em 07/2023*
@@ -376,10 +388,11 @@ Jornalismo profissional fora da imprensa alternativa, útil para conferir fatos,
 
 ## Notas
 
-- **Critério de inclusão**: veículo, canal, jornalista ou organização fora do circuito das grandes emissoras e dos grandes jornais, que publique com alguma regularidade. Perfil de político ou de autoridade é fonte oficial e fica em [Políticos e autoridades](#politicos-e-autoridades).
-- **Por que o site vem primeiro**: o [verificador semanal de links](https://github.com/wikipolitico/wikipolitico.github.io/blob/main/.github/workflows/verificar-links.yml) exclui Facebook, X e Instagram, porque essas plataformas respondem à checagem automática mesmo para endereço que não existe. Só link de site próprio é conferido de verdade.
-- **Atividade conferida em 13/10/2026.** A vitrine lista quem continua publicando sobre política. Sites, canais do YouTube, Bluesky e Telegram foram conferidos pela data da última publicação, e as páginas do Facebook e do Instagram, pela existência da página. Quem parou de publicar há mais de 12 meses ou saiu do ar foi para o [Acervo](#acervo-quem-parou-de-publicar), quando deixou material para consulta. Saíram da página os que mudaram de assunto e os que não deixaram nada consultável. Perfis do X não deixam conferir sem login e ficam sob conferência humana. Jornal A Pátria, Teoria Versus Prática e Em Defesa da Petrobras aparecem como "sem site próprio localizado", porque não achei site nem registro de que tenham tido um.
-- **Perfis de rede conferidos por [manutencao/conferir_redes.py](https://github.com/wikipolitico/wikipolitico.github.io/blob/main/manutencao/conferir_redes.py)**, que checa cada rede pelo método que funciona nela. Dos 158 perfis, 110 estavam no ar, 1 fora (o canal antigo do teleSUR, já marcado) e 47 ficaram inconclusivos, todos do Instagram, que responde com a casca de login quando a checagem é em lote.
+- **Critério de inclusão**: veículo, canal, jornalista ou organização fora do circuito das grandes emissoras e dos grandes jornais, que publique com alguma regularidade. Perfil de partido, de político ou de autoridade é fonte oficial e fica em [Políticos e autoridades](#politicos-e-autoridades).
+- **Por que o site vem primeiro**: o [verificador semanal de links](https://github.com/wikipolitico/wikipolitico.github.io/blob/main/.github/workflows/verificar-links.yml) exclui Facebook, X e Instagram, porque essas plataformas respondem à checagem automática mesmo para endereço que não existe. O conferidor de redes, abaixo, mostra quem é o dono desses perfis, mas, fora o X, não distingue perfil apagado de consulta bloqueada. Só o site próprio é conferido por inteiro.
+- **Atividade conferida em 13/10/2026.** A vitrine lista quem continua publicando sobre política. Sites, canais do YouTube, Bluesky e Telegram foram conferidos pela data da última publicação, e as páginas do Facebook e do Instagram, pela existência da página. Quem parou de publicar há mais de 12 meses ou saiu do ar foi para o [Acervo](#acervo-quem-parou-de-publicar), quando deixou material para consulta. Saíram da página os que mudaram de assunto e os que não deixaram nada consultável. Os perfis do X foram conferidos pela prévia de link, que mostra o nome do dono da conta: os que sumiram estão marcados como fora do ar, e os que hoje são de outra pessoa deixaram de ser linkados. Jornal A Pátria, Teoria Versus Prática e Em Defesa da Petrobras aparecem como "sem site próprio localizado", porque não achei site nem registro de que tenham tido um.
+- **Perfis de rede conferidos por [manutencao/conferir_redes.py](https://github.com/wikipolitico/wikipolitico.github.io/blob/main/manutencao/conferir_redes.py)**, que checa cada rede pelo método que funciona nela. Facebook, Instagram, TikTok e X são consultados como o robô de prévia de link do Facebook, que recebe o nome do dono do perfil, e o script avisa quando o dono não bate com o nome da entrada, sinal de conta tomada por outra pessoa. Em 13/10/2026, dos 595 perfis do site, 586 estavam no ar, nenhum caiu desde a última marcação e 9 ficaram inconclusivos; os 24 já marcados como fora do ar não entram na conta.
+- **De onde vêm as redes de pessoas e políticos**: do site oficial da pessoa, das redes declaradas à [Câmara dos Deputados](https://dadosabertos.camara.leg.br/) ou do [Wikidata](https://www.wikidata.org/), e, quando nada disso existe, do mesmo nome de usuário de um perfil já confirmado. Cada perfil foi conferido em 13/10/2026: nome e descrição batem com a pessoa, e no YouTube, no Bluesky e no Telegram houve publicação nos últimos 12 meses.
 - **Mudanças de endereço encontradas na conferência**: a Rede Brasil Atual e a Rede TVT publicam hoje no TVT News; o Sputnik Brasil redireciona para noticiabrasil.net.br.
 - **Assuntos tratados em outras páginas**: teses sobre o 11 de setembro estão em [Internacional e geopolítica](temas/internacional-geopolitica.md#11-de-setembro).
 

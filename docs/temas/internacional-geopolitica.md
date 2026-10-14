@@ -130,7 +130,7 @@ Desde 2001 circulam vídeos e textos dizendo que os atentados de 11 de setembro 
 - [9/11 An Inside Job – Facebook](https://www.facebook.com/911-An-Inside-Job-464079246963192/): a tese, segundo a página
 - [Architects & Engineers for 9/11 Truth – Facebook](https://www.facebook.com/ae911truth/): a tese, segundo a página
 - [U.S. Military Officers for 9/11 Truth – Facebook](https://www.facebook.com/US-Military-Officers-for-911-Truth-159267480754006/): a tese, segundo a página
-- [World for 9/11 Truth – Facebook](https://www.facebook.com/world911truth/): a tese, segundo a página
+- [World for 9/11 Truth – Facebook](https://www.facebook.com/world911truth/): a tese, segundo a página · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/world911truth/)
 
 ### Golpes dos Estados Unidos
 
