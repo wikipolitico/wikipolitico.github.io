@@ -24,7 +24,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - **"Lula criou 37 impostos."** Veja [Os impostos do Lula 3](temas/impostos-do-lula-3.md): o número vem de uma lista da Exame em que 10 itens nunca valeram e outros são a reforma tributária e a volta dos impostos que Bolsonaro zerou na eleição. A maior parte do resto recai sobre fundos dos super-ricos, offshores, bancos, bets e multinacionais, e 10 milhões de pessoas deixaram de pagar Imposto de Renda em 2026.
 - **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou.
 
-[Veja as 24 respostas, por assunto →](respostas-para-debate.md)
+[Veja as 23 respostas, por assunto →](respostas-para-debate.md)
 
 <!-- ultimas-atualizacoes -->
 
@@ -90,14 +90,12 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [Eleições 1994](temas/eleicoes-1994.md): o real como cabo eleitoral de FHC e o "o que é bom a gente fatura, o que é ruim a gente esconde" do escândalo da parabólica
 - [Eleições 1989](temas/eleicoes-1989.md): o debate que a Globo "produziu" para Collor, a edição do Jornal Nacional, o sequestro de Abilio Diniz jogado no colo do PT e o confisco da poupança
 - [Movimentos Políticos e Ativistas](temas/movimentos-politicos-e-ativistas.md): MST e MTST na esquerda, e Revoltados Online, Vem Pra Rua e MBL na direita
-- [Outros / Não classificados](temas/outros-nao-classificados.md): documentários, livros e material avulso
 
 ## Outras páginas
 
 - [Além da grande mídia](alem-da-grande-midia.md): veículos, canais, jornalistas, influenciadores e perfis oficiais de políticos, fora do circuito das grandes emissoras e dos grandes jornais
 - [Bares e Pontos de Encontro](bares-e-pontos-de-encontro.md): lugares onde a esquerda se encontra, com endereço e fonte
 - [Comparação FHC x Lula e Dilma](comparacao-fhc-lula-dilma.md)
-- [Transcrições e Grampos Telefônicos](transcricoes.md)
 - [Frases e Pensamentos](frases-e-pensamentos.md)
 
 ---

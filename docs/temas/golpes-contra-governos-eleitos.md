@@ -34,6 +34,34 @@
 - **16/09/2019 — Temer fala em "golpe":** no Roda Viva, o homem que herdou o cargo de Dilma disse: "Eu jamais apoiei ou fiz empenho pelo golpe" ([Brasil 247, 16/09/2019](https://www.brasil247.com/poder/temer-admite-golpe-contra-dilma-eu-jamais-apoiei-ou-fiz-empenho-pelo-golpe/)).
 - **2022 — as pedaladas arquivadas:** o MPF arquivou o inquérito civil sobre as pedaladas de 2015, que tinha Dilma, Guido Mantega e Arno Augustin entre os investigados. A câmara de revisão do MPF registrou que o TCU e a Corregedoria do Ministério da Economia afastaram a responsabilização dos agentes, "seja em virtude da constatação da boa-fé dos implicados, seja porquanto apenas procederam em conformidade com as práticas" do Ministério do Planejamento ([CUT, 2022](https://www.cut.org.br/noticias/mpf-arquiva-inquerito-sobre-pedaladas-fiscais-contra-dilma-seis-anos-apos-o-golp-dfdf)).
 
+### O "grande acordo nacional"
+
+- **23/05/2016 — "estancar essa sangria":** a Folha revelou a gravação de uma conversa de março, semanas antes da votação do impeachment na Câmara, entre o ministro do Planejamento de Temer, Romero Jucá, e o ex-presidente da Transpetro Sérgio Machado. "Tem que mudar o governo pra poder estancar essa sangria", disse Jucá. No mesmo dia, ele anunciou que se licenciaria do ministério ([Agência Brasil, 23/05/2016](https://agenciabrasil.ebc.com.br/politica/noticia/2016-05/juca-vai-se-licenciar-do-cargo-de-ministro-do-planejamento); [Brasil de Fato, 23/05/2016](https://www.brasildefato.com.br/2016/05/23/gravacao-com-juca-indica-que-impeachment-foi-golpe-para-conter-lava-jato/)).
+
+Os trechos da gravação publicados pela Folha, na transcrição reproduzida pelo Pragmatismo Político ([Pragmatismo Político, 23/05/2016](https://www.pragmatismopolitico.com.br/2016/05/audios-de-romero-juca-tem-potencial-de-parar-a-republica.html)):
+
+> JUCÁ - Você tem que ver com seu advogado como é que a gente pode ajudar. [...] Tem que ser política, advogado não encontra [inaudível]. Se é político, como é a política? Tem que resolver essa porra... Tem que mudar o governo pra poder estancar essa sangria.
+>
+> [...]
+>
+> MACHADO - Rapaz, a solução mais fácil era botar o Michel [Temer].
+>
+> JUCÁ - Só o Renan [Calheiros] que está contra essa porra. 'Porque não gosta do Michel, porque o Michel é Eduardo Cunha'. Gente, esquece o Eduardo Cunha, o Eduardo Cunha está morto, porra.
+>
+> MACHADO - É um acordo, botar o Michel, num grande acordo nacional.
+>
+> JUCÁ - Com o Supremo, com tudo.
+>
+> MACHADO - Com tudo, aí parava tudo.
+>
+> JUCÁ - É. Delimitava onde está, pronto.
+>
+> [...]
+>
+> MACHADO - Um caminho é buscar alguém que tem ligação com o [Teori](stf/teori-zavascki.md) [Zavascki, relator da [Lava Jato](farsa-da-lava-jato.md)], mas parece que não tem ninguém.
+>
+> JUCÁ - Não tem. É um cara fechado, foi ela [Dilma] que botou, um cara... Burocrata da... Ex-ministro do STJ [Superior Tribunal de Justiça].
+
 ### O golpe em vídeo
 
 - [Golpe parlamentar Brasil 2016 (documentário) – YouTube](https://www.youtube.com/watch?v=cY29sInxUac): documentário sobre o impeachment de Dilma · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=cY29sInxUac)

@@ -42,10 +42,6 @@ As frases que mais aparecem nas discussões, cada uma com a página que a respon
 - **"Lula defende bandido."** Veja as [penas mais duras no governo Lula](temas/politicas-publicas.md#penas-mais-duras-no-governo-lula): feminicídio com até 40 anos, estupro de vulnerável com até 18, líderes de facção com até 40, e o veto ao projeto que aliviava as penas dos golpistas.
 - **"Dilma queria estocar vento."** Veja [o "estocar vento"](temas/dilma-rousseff.md#estocar-vento): guardar a energia dos ventos em ar comprimido, ar líquido ou hidrogênio já era feito ou testado em vários países.
 
-## Boatos que o nosso lado não deve repetir
-
-- **"A Globo fica com o dinheiro do Criança Esperança."** Não use esse argumento: é falso. Veja [o que não é verdade sobre a Globo](temas/rede-globo.md#o-que-nao-e-verdade): as doações vão direto para a Unesco. A Globo tem muito a explicar, como [a origem com a Time-Life](temas/rede-globo.md#a-origem-time-life-e-a-ditadura) e [o debate de 1989](temas/eleicoes-1989.md#a-globo-do-lado-de-collor), e boato só ajuda a emissora.
-
 ## Ver também
 
 - [Linha do tempo](linha-do-tempo.md): todos os fatos datados do wiki, num lugar só

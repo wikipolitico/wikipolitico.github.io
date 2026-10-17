@@ -52,6 +52,11 @@ A fosfoetanolamina sintética, a "pílula do câncer" do químico Gilberto Chier
 - [Morre Gilberto Chierice, criador da "pílula do câncer" – TV Cachoeira Novo Tempo (YouTube)](https://www.youtube.com/watch?v=4oG7rYLMVwo): a morte do pesquisador
 - ["Só vai ser reconhecido daqui um tempo", diz amigo de professor que criou a "pílula do câncer" – Z1 Portal](https://www.z1portal.com.br/sao-carlos-so-vai-ser-reconhecido-daqui-um-tempo-diz-amigo-de-professor-que-criou-pilula-do-cancer/): a homenagem em São Carlos · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.z1portal.com.br/sao-carlos-so-vai-ser-reconhecido-daqui-um-tempo-diz-amigo-de-professor-que-criou-pilula-do-cancer/)
 
+## Para ver e ler
+
+- [10 documentários que vão explodir seu cérebro – Os Mortadelas (YouTube), 23/02/2017](https://www.youtube.com/watch?v=Fod_WQuoWOM): a lista do canal vai de "O Mundo Segundo a Monsanto" e "O dia que durou 21 anos" a "Muito além do Cidadão Kane" e à série "Zeitgeist". O primeiro "Zeitgeist", de 2007, sustenta que os ataques de 11 de setembro foram orquestrados ou permitidos por gente de dentro do governo americano ([Wikipedia](https://en.wikipedia.org/wiki/Zeitgeist:_The_Movie)), tese que este site não endossa (ver [11 de setembro](internacional-geopolitica.md#11-de-setembro))
+- [Que livro você está lendo agora? E qual recomendaria? – Jornal A Pátria (Facebook)](https://www.facebook.com/JornalAPatria/posts/1071480606294950): as recomendações de leitura nos comentários
+
 ## Ver também
 
 - [Comunismo e Socialismo](comunismo-e-socialismo.md)

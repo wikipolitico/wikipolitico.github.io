@@ -85,6 +85,7 @@ Em 16/10/2026, com Lula presente, o Congresso promulgou a emenda que acaba com a
 
 ## Reforma política
 
+- [Você acha que vive numa democracia? – Facebook, 28/04/2016](https://www.facebook.com/ExpDoMundo/videos/1085119484865187/): os problemas do sistema político, segundo o vídeo
 - [Contra a reforma política, Globo fomenta corrupção – Brasil 247](http://www.brasil247.com/pt/247/midiatech/175788/Contra-reforma-pol%C3%ADtica-Globo-fomenta-corrup%C3%A7%C3%A3o.htm): a emissora contra o fim do financiamento empresarial, segundo o site · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/midiatech/175788/Contra-reforma-pol%C3%ADtica-Globo-fomenta-corrup%C3%A7%C3%A3o.htm)
 
 ## Penas mais duras no governo Lula

@@ -72,6 +72,8 @@ plugins:
         temas/cpmi-das-fake-news-2020.md: temas/eleicoes-2018.md#a-cpmi-das-fake-news-2020
         midias-alternativas.md: alem-da-grande-midia.md
         politicos-nas-redes.md: alem-da-grande-midia.md#politicos-e-autoridades
+        transcricoes.md: temas/golpes-contra-governos-eleitos.md#o-grande-acordo-nacional
+        temas/outros-nao-classificados.md: temas/capitalismo.md#para-ver-e-ler
 
 hooks:
   - hooks/ultimas_atualizacoes.py
@@ -144,7 +146,6 @@ nav:
           - "Corrupção no governo Bolsonaro": temas/corrupcao-no-governo-bolsonaro.md
           - "Caso Banco Master": temas/banco-master.md
           - "Escândalo do INSS": temas/escandalo-do-inss.md
-          - "Hondurasgate": temas/hondurasgate.md
       - "Golpes e democracia":
           - "Golpes contra governos eleitos": temas/golpes-contra-governos-eleitos.md
           - "Ditadura Militar de 64": temas/ditadura-militar-de-64.md
@@ -160,9 +161,11 @@ nav:
           - "Internacional e geopolítica": temas/internacional-geopolitica.md
           - "Maduro e a Venezuela": temas/maduro-e-a-venezuela.md
           - "Donald Trump e o trumpismo": temas/donald-trump.md
+          - "Hondurasgate": temas/hondurasgate.md
       - "Mídia e desinformação":
           - "Mídia": temas/midia.md
           - "Rede Globo": temas/rede-globo.md
+          - "Além da grande mídia": alem-da-grande-midia.md
       - "Ideias e sociedade":
           - "Capitalismo": temas/capitalismo.md
           - "Comunismo e Socialismo": temas/comunismo-e-socialismo.md
@@ -172,12 +175,9 @@ nav:
       - "Partidos":
           - "Partidos Políticos": temas/partidos-politicos.md
           - "PSDB e os tucanos": temas/psdb.md
-      - "Outros / Não classificados": temas/outros-nao-classificados.md
   - "Comparações":
       - "Bolsonaro x Lula 3": comparacao-bolsonaro-lula3.md
       - "FHC x Lula e Dilma": comparacao-fhc-lula-dilma.md
   - "Mais":
-      - "Além da grande mídia": alem-da-grande-midia.md
-      - "Transcrições e Grampos Telefônicos": transcricoes.md
       - "Frases e Pensamentos": frases-e-pensamentos.md
       - "Bares e Pontos de Encontro": bares-e-pontos-de-encontro.md
