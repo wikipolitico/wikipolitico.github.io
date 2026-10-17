@@ -93,6 +93,7 @@ nav:
   - "Linha do tempo": linha-do-tempo.md
   - Temas:
       - "Eleições":
+          - "O roteiro da direita nas eleições": temas/roteiro-da-direita-nas-eleicoes.md
           - "Eleições 2026": temas/eleicoes-2026.md
           - "Eleições 2022": temas/eleicoes-2022.md
           - "Eleições 2018": temas/eleicoes-2018.md
@@ -116,6 +117,7 @@ nav:
           - temas/lawfare/index.md
           - "Farsa do Mensalão do PT": temas/farsa-do-mensalao.md
           - "Farsa da Lava Jato": temas/farsa-da-lava-jato.md
+          - "Delatores da Lava Jato": temas/delatores-da-lava-jato.md
           - "Caso Lulinha": temas/caso-lulinha.md
       - "STF":
           - temas/stf/index.md

@@ -150,6 +150,7 @@
 
 ### Leonel Brizola (PDT)
 
+- [Brizola desmonta fraude eletrônica – Memorial da Democracia](https://memorialdademocracia.com.br/card/brizola-desmonta-fraude-eletronica): em 1982, a empresa contratada pelo TRE do Rio para totalizar os votos transferia brancos e nulos para o candidato oficial, e Brizola denunciou a manobra à imprensa estrangeira e venceu por 180 mil votos (ver [o caso Proconsult](rede-globo.md#a-eleicao-de-1982-e-o-caso-proconsult))
 - [Brizola ensina como peitar a Globo – Conversa Afiada, 07/08/2015](http://www.conversaafiada.com.br/tv-afiada/2015/08/07/brizola-ensina-como-peitar-a-globo/): o direito de resposta que Brizola arrancou da Globo, segundo o blog
 - [Brizola fala sobre a mídia da direita – Facebook](https://www.facebook.com/elvis.rocha.925/videos/950985534958298/): a crítica de Brizola, em vídeo
 - [Brizola e as praias, uma verdade antiga – Jandira Feghali (Facebook)](https://www.facebook.com/sigajandira2/videos/1039812929386702/): a entrevista ao Jô sobre a manipulação da mídia

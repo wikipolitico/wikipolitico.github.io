@@ -8,7 +8,8 @@ O **Wiki Político** reúne material para enfrentar, com fatos, as narrativas fa
 
 Rumo ao segundo turno, em 25/10/2026:
 
-- [Eleições 2026](temas/eleicoes-2026.md): Flávio sem maioria no primeiro turno, os governadores do PT reeleitos na Bahia, no Ceará e no Piauí, os 70 deputados do PT na nova Câmara, as mentiras de Flávio sobre Vorcaro e os indicados de Bolsonaro no comando do TSE.
+- [Eleições 2026](temas/eleicoes-2026.md): Flávio sem maioria no primeiro turno, o empate técnico no segundo, o depoimento de Vorcaro que a PF e a PGR disseram não existir, o canal pró-Lula tirado do ar a pedido de Flávio e os indicados de Bolsonaro no comando do TSE.
+- [O roteiro da direita nas eleições](temas/roteiro-da-direita-nas-eleicoes.md): de 1989 a 2026, a bomba da última semana, o adversário tirado da urna, a mentira paga, o pedido de censura e a derrota que não se aceita.
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): o candidato do PL à Presidência, das homenagens a milicianos ao dinheiro de Vorcaro para o filme sobre o pai.
 - [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou em cada governo.
 
@@ -23,7 +24,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - **"Lula criou 37 impostos."** Veja [Os impostos do Lula 3](temas/impostos-do-lula-3.md): o número vem de uma lista da Exame em que 10 itens nunca valeram e outros são a reforma tributária e a volta dos impostos que Bolsonaro zerou na eleição. A maior parte do resto recai sobre fundos dos super-ricos, offshores, bancos, bets e multinacionais, e 10 milhões de pessoas deixaram de pagar Imposto de Renda em 2026.
 - **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou.
 
-[Veja as 21 respostas, por assunto →](respostas-para-debate.md)
+[Veja as 24 respostas, por assunto →](respostas-para-debate.md)
 
 <!-- ultimas-atualizacoes -->
 
@@ -31,7 +32,8 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 ### Em pauta agora
 
-- [Eleições 2026](temas/eleicoes-2026.md): o resultado do primeiro turno, o juiz parcial e o procurador cassado eleitos no Paraná, as mentiras de Flávio sobre Vorcaro, os indicados de Bolsonaro no comando do TSE e o alerta da Abin sobre grupos extremistas
+- [Eleições 2026](temas/eleicoes-2026.md): o resultado do primeiro turno, o segundo turno dia a dia, o juiz parcial e o procurador cassado eleitos no Paraná, as mentiras de Flávio sobre Vorcaro, os indicados de Bolsonaro no comando do TSE e o alerta da Abin sobre grupos extremistas
+- [O roteiro da direita nas eleições](temas/roteiro-da-direita-nas-eleicoes.md): o mesmo roteiro em todas as eleições desde 1989, da capa da Veja na véspera ao canal pró-Lula tirado do ar a pedido de Flávio
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): milícias, rachadinha, o filme Dark Horse, o jato de Vorcaro e a emenda pedida por um condenado no caso Marielle
 - [Bolsonarismo contra o Estado laico](temas/bolsonarismo-contra-o-estado-laico.md): do "Estado é cristão" de Jair ao Brasil "do Senhor Jesus Cristo" de Flávio, e o bispo que batizou Flávio e pediu em livro o fim de Aparecida como padroeira
 - [Caso Banco Master](temas/banco-master.md): Vorcaro, o Banco Central de Campos Neto, a Operação Compliance Zero e a crise no STF

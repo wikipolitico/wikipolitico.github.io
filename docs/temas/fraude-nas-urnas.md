@@ -2,7 +2,11 @@
 
 !!! abstract "Resumo"
 
-    Bolsonaro passou anos dizendo que as urnas eletrônicas eram fraudadas e nunca apresentou uma prova. Os próprios militares dele fiscalizaram a [eleição de 2022](eleicoes-2022.md) e não acharam fraude.
+    Bolsonaro passou anos dizendo que as urnas eletrônicas eram fraudadas e nunca apresentou uma prova. Os próprios militares dele fiscalizaram a [eleição de 2022](eleicoes-2022.md) e não acharam fraude. Antes da urna eletrônica, quem enfrentou uma tentativa de fraude na apuração foi um candidato de esquerda: Leonel Brizola, em 1982, no tempo da cédula de papel.
+
+## A fraude tentada no tempo do voto de papel
+
+- **Novembro de 1982 — o caso Proconsult:** a votação era em cédula de papel, e a Proconsult, empresa contratada pelo TRE do Rio, processava os votos. A FGV registra que Brizola enfrentou "uma tentativa de fraude eleitoral pela empresa Proconsult", que "consistiria na transformação dos votos de Brizola em brancos e nulos". A Rádio Jornal do Brasil, com uma apuração paralela, descobriu a manobra a tempo ([FGV CPDOC, verbete PDT](https://atlas.fgv.br/verbete/6101)). A Justiça Eleitoral suspendeu o trabalho da empresa, recomeçou a contagem e confirmou a vitória de Brizola ([Memorial da Democracia](https://memorialdademocracia.com.br/card/brizola-desmonta-fraude-eletronica)). A PF não viu intenção no "erro" de programação, e ninguém foi punido ([Revista Faces da História, UNESP, 2020](https://seer.assis.unesp.br/index.php/facesdahistoria/article/view/1538)). O caso completo está em [Rede Globo](rede-globo.md#a-eleicao-de-1982-e-o-caso-proconsult).
 
 ## A campanha contra as urnas
 
@@ -19,6 +23,7 @@
 
 ## Ver também
 
+- [O roteiro da direita nas eleições](roteiro-da-direita-nas-eleicoes.md): a mentira das urnas ao lado das outras formas de não aceitar a derrota, da auditoria do PSDB ao 8 de janeiro
 - [8 de janeiro](8-de-janeiro.md): o ataque que veio depois da campanha contra as urnas
 - [Jair Bolsonaro](jair-bolsonaro.md) e [Flávio Bolsonaro](flavio-bolsonaro.md#a-mentira-da-smartmatic)
 - [Eleições 2022](eleicoes-2022.md) e [Eleições 2026](eleicoes-2026.md)

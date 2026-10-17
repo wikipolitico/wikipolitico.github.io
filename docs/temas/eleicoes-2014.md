@@ -49,6 +49,7 @@
 
 ## Ver também
 
+- [O roteiro da direita nas eleições](roteiro-da-direita-nas-eleicoes.md): o "Eles sabiam de tudo" e o terceiro turno ao lado do que se repetiu em 2018 e em 2026
 - [Farsa da Lava Jato](farsa-da-lava-jato.md): Moro, Dallagnol e a operação que depois tirou Lula da eleição de 2018
 - [Golpes contra governos eleitos](golpes-contra-governos-eleitos.md#2016-o-impeachment-de-dilma): o impeachment de Dilma e os links sobre ele
 - [Gilmar Mendes](stf/gilmar-mendes.md) e [Dias Toffoli](stf/dias-toffoli.md): os ministros do TSE na ação do PSDB e na auditoria das urnas

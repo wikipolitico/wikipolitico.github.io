@@ -25,5 +25,6 @@
 
 ## Ver também
 
+- [O roteiro da direita nas eleições](roteiro-da-direita-nas-eleicoes.md): o "Serra ou o caos" ao lado das outras campanhas do medo
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md): os números dos dois governos
 - [Eleições 1998](eleicoes-1998.md), [Eleições 2006](eleicoes-2006.md) e [Eleições 2010](eleicoes-2010.md)

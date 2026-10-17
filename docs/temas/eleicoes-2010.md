@@ -29,6 +29,7 @@
 
 ## Ver também
 
+- [O roteiro da direita nas eleições](roteiro-da-direita-nas-eleicoes.md): a ficha falsa de Dilma, a bolinha e o aborto como arma ao lado do que se repetiu nas outras eleições
 - [Bolsonarismo contra o Estado laico](bolsonarismo-contra-o-estado-laico.md): a religião como arma eleitoral hoje, da promessa de Flávio ao caso de Nossa Senhora Aparecida
 - [Rede Globo](rede-globo.md): outros casos de manipulação da emissora
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md): os números dos governos do PT

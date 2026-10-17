@@ -29,6 +29,7 @@
 
 ## Ver também
 
+- [O roteiro da direita nas eleições](roteiro-da-direita-nas-eleicoes.md): a reeleição comprada ao lado das outras vezes em que a máquina pública virou cabo eleitoral
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md#fhc): os links do acervo sobre FHC
 - [Farsa do Mensalão do PT](farsa-do-mensalao.md): o esquema de Marcos Valério, que nasceu em 1998 na campanha de reeleição do tucano Eduardo Azeredo
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md): os números dos governos

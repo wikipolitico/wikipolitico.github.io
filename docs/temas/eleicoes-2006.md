@@ -23,5 +23,6 @@
 
 ## Ver também
 
+- [O roteiro da direita nas eleições](roteiro-da-direita-nas-eleicoes.md): as fotos do dossiê ao lado das outras bombas da última semana
 - [Farsa do Mensalão do PT](farsa-do-mensalao.md): o escândalo de 2005, um ano antes da reeleição
 - [Eleições 2002](eleicoes-2002.md), [Eleições 1998](eleicoes-1998.md), [Eleições 2010](eleicoes-2010.md) e [Eleições 2022](eleicoes-2022.md)

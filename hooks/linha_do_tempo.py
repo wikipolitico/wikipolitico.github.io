@@ -21,7 +21,8 @@ from markdown.extensions.toc import slugify, unique
 
 MARCADOR = "<!-- linha-do-tempo -->"
 DOCS = Path(__file__).resolve().parent.parent / "docs"
-IGNORAR = {"index.md", "linha-do-tempo.md"}
+# O roteiro só repete, por método, fatos que já estão nas páginas de cada eleição.
+IGNORAR = {"index.md", "linha-do-tempo.md", "temas/roteiro-da-direita-nas-eleicoes.md"}
 
 RE_TITULO = re.compile(r"^(#{1,6})\s+(.*?)\s*$")
 RE_ITEM = re.compile(

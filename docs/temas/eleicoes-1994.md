@@ -20,6 +20,7 @@
 
 ## Ver também
 
+- [O roteiro da direita nas eleições](roteiro-da-direita-nas-eleicoes.md): a parabólica de 1994 ao lado das outras vezes em que a máquina e a imprensa jogaram de um lado só
 - [Paternidade do Plano Real](politicas-publicas.md#paternidade-do-plano-real): Itamar Franco, Ciro Gomes e a disputa pelo crédito do real
 - [Rede Globo](rede-globo.md): outros casos da emissora
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md): os números dos governos

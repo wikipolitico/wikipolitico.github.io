@@ -86,7 +86,7 @@ A bancada que assinou tinha só 16 dos 559 constituintes. Os nomes estão no jor
 - [Mídia](rede-globo.md#os-protestos-de-junho-de-2013): os protestos de junho de 2013
 - [Corrupção](corrupcao.md): o combate à corrupção nos governos do PT e Daniel Dantas
 - [Farsa do Mensalão](farsa-do-mensalao.md#mais-sobre-jose-dirceu-genoino-e-delubio): Dirceu, Genoíno e Delúbio
-- [Farsa da Lava Jato](farsa-da-lava-jato.md#joao-vaccari-neto-ex-tesoureiro-do-pt): João Vaccari Neto
+- [Delatores da Lava Jato](delatores-da-lava-jato.md#joao-vaccari-neto-ex-tesoureiro-do-pt): João Vaccari Neto
 - [Lawfare](lawfare/index.md#o-caso-celso-daniel): o caso Celso Daniel
 - [Fernando Haddad](fernando-haddad.md): da Educação à Fazenda, com as acusações contra ele checadas
 - [Rodrigo Neves](outras-personalidades-brasil.md#rodrigo-neves-prefeito-de-niteroi), prefeito de Niterói, em Outras Personalidades

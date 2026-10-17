@@ -50,6 +50,7 @@
 
 ## Ver também
 
+- [O roteiro da direita nas eleições](roteiro-da-direita-nas-eleicoes.md): a PRF, a PEC Kamikaze e o ataque às urnas ao lado do que se repetiu nas outras eleições
 - [A mentira da fraude nas urnas](fraude-nas-urnas.md): as acusações sem prova de Bolsonaro contra as urnas, antes e depois da eleição
 - [8 de janeiro](8-de-janeiro.md): o ataque aos Três Poderes, uma semana depois da posse de Lula
 - [Alexandre de Moraes](stf/alexandre-de-moraes.md): presidiu o TSE na eleição e relatou a trama golpista
