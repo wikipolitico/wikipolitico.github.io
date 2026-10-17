@@ -60,6 +60,8 @@ Os escândalos do governo Bolsonaro, do orçamento secreto às joias, estão em 
 
 ### Banestado
 
+O juiz do caso foi Sergio Moro, e na força-tarefa do MPF estavam Deltan Dallagnol e Carlos Fernando dos Santos Lima, que uma década depois fariam a Lava Jato. Em 2013, o STJ extinguiu por prescrição a punição de sete ex-diretores e ex-gerentes do banco condenados em 2004 ([Gazeta do Povo, 23/04/2013](https://www.gazetadopovo.com.br/economia/prescricao-livra-reus-do-banestado-eaqeokadn074gtl0xb5x5nbke/)). Em 2020, o STF anulou uma condenação dada por Moro no caso, por parcialidade. A primeira delação de Youssef, os voos dos advogados monitorados e a anulação estão em [O Banestado, o ensaio da Lava Jato](farsa-da-lava-jato.md#o-banestado-o-ensaio-da-lava-jato).
+
 - [Caso Banestado: cronologia da impunidade – Facebook](https://www.facebook.com/photo.php?fbid=10204645627249219&set=a.1010927682074.2001061.1491454946&type=3&theater): a evasão de divisas dos anos FHC que não deu em nada, segundo o post
 
 ### Furnas

@@ -10,6 +10,8 @@
 
 ## Alberto Youssef (doleiro no Banestado e na Lava Jato)
 
+Youssef fez duas delações. A primeira foi no caso Banestado, homologada por Moro em 16/12/2003, na mesma audiência em que o juiz o interrogou sobre outros investigados, o que levou o STF a declarar Moro parcial em 2020. O acordo foi rescindido porque Youssef voltou a operar no câmbio ilegal, e em 2014, preso na Lava Jato, ele ganhou a segunda, homologada no STF por [Teori Zavascki](stf/teori-zavascki.md). O próprio Moro o chamou de "um criminoso profissional" numa sentença. Os documentos estão em [O Banestado, o ensaio da Lava Jato](farsa-da-lava-jato.md#o-banestado-o-ensaio-da-lava-jato).
+
 - [O crime compensa: Youssef vai receber comissão sobre o dinheiro que ajudou a roubar – Luíz Müller Blog, 25/01/2015](https://luizmuller.com/2015/01/25/o-crime-compensa-youssef-vai-receber-comissao-em-cima-do-dinheiro-que-ajudou-a-roubar-da-petrobras/): o prêmio da delação para o doleiro
 - [Doleiro Alberto Youssef pode ganhar até R$ 20 milhões com delação premiada – Brasil Post, 24/01/2015](http://www.brasilpost.com.br/2015/01/24/alberto-youssef-recompens_n_6538678.html): o valor que o delator poderia receber
 - [Youssef inocentando Lula, Dilma e Vaccari – Facebook do deputado Jorge Solla](https://www.facebook.com/depjorgesolla/videos/1029329900420202/): o mesmo vídeo de Youssef e Paulo Roberto
