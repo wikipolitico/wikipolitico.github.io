@@ -1,46 +1,14 @@
-# Corrupção
+# Escândalos de corrupção
 
 !!! abstract "Resumo"
 
-    Boa parte do que o país usa hoje contra a corrupção foi criada ou sancionada por Lula e Dilma: a CGU, o Portal da Transparência, a Ficha Limpa, a Lei de Acesso à Informação, a nova lei de lavagem de dinheiro, a Lei Anticorrupção, que pune a empresa corruptora, e a lei das organizações criminosas, que regulou a delação premiada. Do outro lado, a lista de escândalos tucanos que não deram em nada vai da Pasta Rosa e do Banestado à Privataria Tucana e à Lista de Furnas, em que o doleiro Alberto Youssef acusou Aécio Neves de receber propina. No vazamento das contas do HSBC suíço, apareceram 22 empresários de mídia e 7 jornalistas. Os escândalos do governo Bolsonaro estão em [Corrupção no governo Bolsonaro](corrupcao-no-governo-bolsonaro.md).
+    Os escândalos de corrupção que não deram em nada vão dos governos tucanos, com a Pasta Rosa, o Banestado, a Privataria Tucana e a Lista de Furnas, em que o doleiro Alberto Youssef acusou Aécio Neves de receber propina, aos casos de bancos, empresas e da própria mídia. No Banestado, o STJ extinguiu por prescrição a punição de sete ex-diretores e ex-gerentes do banco. No vazamento das contas do HSBC suíço, apareceram 22 empresários de mídia e 7 jornalistas.
 
-## O que os governos do PT fizeram contra a corrupção
+    O [mensalão](farsa-do-mensalao.md) e a [Lava Jato](farsa-da-lava-jato.md), usados contra o PT, têm páginas próprias, assim como os escândalos do governo Bolsonaro, o Caso [Banco Master](banco-master.md) e o Escândalo do INSS. O que os governos do PT fizeram contra a corrupção está em Combate à corrupção.
 
-Quem repete que "o PT é o partido da corrupção" esconde que boa parte das leis e dos órgãos que o país usa hoje contra a corrupção foi criada ou sancionada por Lula e Dilma.
+## Na ditadura
 
-- **28/05/2003 — a CGU:** Lula criou a Controladoria-Geral da União, com um ministro no comando e a função de cuidar da "defesa do patrimônio público", do controle interno e da auditoria pública ([Lei 10.683/2003](https://www.planalto.gov.br/ccivil_03/leis/2003/l10.683.htm)). A CGU absorveu a Corregedoria-Geral da União, que FHC tinha criado em 2001 ([Wikipedia](https://pt.wikipedia.org/wiki/Controladoria-Geral_da_Uni%C3%A3o)).
-- **A partir de 2003 — o procurador-geral escolhido pelos procuradores:** segundo a CNN, Lula inaugurou em 2003 a tradição de nomear o procurador-geral da República a partir da lista tríplice votada pelos procuradores, que FHC tinha ignorado em 2001, e Dilma a seguiu. Bolsonaro foi o primeiro a descartar a lista, em 2019, ao escolher Augusto Aras. Em 2023, Lula também escolheu fora dela, ao indicar Paulo Gonet ([CNN, 27/11/2023](https://www.cnnbrasil.com.br/politica/lula-repete-bolsonaro-e-ignora-lista-de-associacao-ao-indicar-gonet-para-chefiar-a-pgr/)).
-- **30/06/2005 — o Portal da Transparência:** um decreto de Lula regulamentou o portal que publica na internet os gastos do governo federal em detalhe ([Decreto 5.482/2005](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5482.htm)).
-- **04/06/2010 — a Ficha Limpa:** Lula sancionou a lei que criou novos casos de inelegibilidade, que "visam a proteger a probidade administrativa e a moralidade no exercício do mandato" ([Lei Complementar 135/2010](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm)). Foi com base nela que o TSE barrou a candidatura do próprio Lula em 2018 ([Poder360, 01/09/2018](https://www.poder360.com.br/eleicoes/tse-barra-lula-por-6-votos-a-1/)).
-- **18/11/2011 — a Lei de Acesso à Informação:** Dilma sancionou a lei que obriga o poder público a entregar informações a qualquer cidadão que as peça ([Lei 12.527/2011](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)).
-- **09/07/2012 — a lavagem de dinheiro:** Dilma sancionou a mudança na lei de lavagem "para tornar mais eficiente a persecução penal dos crimes de lavagem de dinheiro" ([Lei 12.683/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12683.htm)).
-- **16/05/2013 — o conflito de interesses:** Dilma sancionou a lei que proíbe o conflito de interesses no governo federal e impõe quarentena a quem deixa o cargo ([Lei 12.813/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12813.htm)).
-- **01/08/2013 — a lei que pune a empresa corruptora:** Dilma sancionou a Lei Anticorrupção, que responsabiliza as empresas pelos atos contra a administração pública, nacional ou estrangeira ([Lei 12.846/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm)).
-- **02/08/2013 — a delação premiada:** Dilma sancionou a lei das organizações criminosas, que regulou a colaboração premiada ([Lei 12.850/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm)). Foi a lei das delações da [Lava Jato](farsa-da-lava-jato.md), e ela mesma diz que "nenhuma sentença condenatória será proferida com fundamento apenas nas declarações de agente colaborador" ([Brasil de Fato, 18/08/2017](https://www.brasildefato.com.br/2017/08/18/delatores-da-lava-jato-recebem-beneficios-maiores-que-o-previsto-em-lei/)).
-
-Os escândalos do governo Bolsonaro, do orçamento secreto às joias, estão em [Corrupção no governo Bolsonaro](corrupcao-no-governo-bolsonaro.md).
-
-### Mais sobre o combate à corrupção nos governos do PT
-
-- [Não existia combate à corrupção política antes do governo Lula – Carta Maior](http://cartamaior.com.br/?%2FColuna%2FNao-existia-combate-a-corrupcao-politica-antes-do-governo-Lula%2F30955): a coluna sobre o que mudou a partir de 2003 (a mesma da [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md#fhc-x-lula-e-dilma), em outro endereço) · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://cartamaior.com.br/?%2FColuna%2FNao-existia-combate-a-corrupcao-politica-antes-do-governo-Lula%2F30955)
-- [Combate à corrupção nos governos Lula e Dilma – Carta Maior](http://cartamaior.com.br/?/Opiniao/Combate-a-Corrupcao-nos-Governos-Lula-e-Dilma/30283): o balanço das medidas dos dois governos, segundo o site · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://cartamaior.com.br/?/Opiniao/Combate-a-Corrupcao-nos-Governos-Lula-e-Dilma/30283)
-- [Lula sanciona Lei da Ficha Limpa, mas aplicação neste ano é dúvida – Conjur, 04/06/2010](http://www.conjur.com.br/2010-jun-04/lula-sanciona-lei-ficha-limpa-aplicacao-neste-ano-duvida): a sanção da lei que tirou condenados das eleições
-- [Lula, discurso histórico nos EUA: fim dos paraísos fiscais – YouTube, 17/03/2009](https://www.youtube.com/watch?v=d0cUYFKXjvs): em seminário do Wall Street Journal em Nova York, Lula cobrou o fim dos paraísos fiscais
-- [Congresso estabelece fim do voto secreto para cassações – Portal Brasil, 11/2013](http://www.brasil.gov.br/governo/2013/11/congresso-estabelece-fim-do-voto-secreto-para-cassacoes): a votação aberta nas cassações de mandato
-- [Dilma sanciona lei que pune empresas em casos de corrupção – Rede Brasil Atual, 08/2013](http://www.redebrasilatual.com.br/politica/2013/08/dilma-sanciona-lei-que-pune-empresas-em-casos-de-corrupcao-1116.html): a Lei Anticorrupção, que pune a empresa corruptora
-- [Dilma sanciona sem vetos lei que define organização criminosa – Sindepol](http://sindepol.com.br/site/noticias/dilma-sanciona-sem-vetos-lei-que-define-organizacao-criminosa.html): a lei que regulou a delação premiada · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://sindepol.com.br/site/noticias/dilma-sanciona-sem-vetos-lei-que-define-organizacao-criminosa.html)
-- [Novo Código de Processo Civil deve acelerar processos – Portal Brasil, 03/2015](http://www.brasil.gov.br/governo/2015/03/novo-codigo-de-processo-civil-deve-acelerar-processos): o código sancionado por Dilma para dar mais rapidez à Justiça
-- [A Lei de Acesso à Informação – portal Acesso à Informação](http://www.acessoainformacao.gov.br/assuntos/conheca-seu-direito/a-lei-de-acesso-a-informacao): a lei de Dilma que obriga o poder público a responder a qualquer cidadão
-- [Dilma apresenta os principais pontos do pacote anticorrupção – Portal Brasil, 03/2015](http://www.brasil.gov.br/governo/2015/03/confira-os-pontos-abordados-pelo-pacote-anticorrupcao): as medidas que o governo mandou ao Congresso em 2015
-- [PF busca Natan Donadon, primeiro deputado federal condenado pelo STF no exercício do cargo – R7, 27/06/2013](http://noticias.r7.com/brasil/pf-busca-natan-donadon-primeiro-deputado-federal-condenado-pelo-stf-no-exercicio-do-cargo-27062013): a primeira prisão de um deputado no exercício do mandato, no governo Dilma · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://noticias.r7.com/brasil/pf-busca-natan-donadon-primeiro-deputado-federal-condenado-pelo-stf-no-exercicio-do-cargo-27062013)
-- [Governos do PT deixaram legado histórico no combate à corrupção – site do PT](https://pt.org.br/governos-do-pt-deixaram-legado-historico-no-combate-a-corrupcao/): o balanço do partido sobre as medidas de Lula e Dilma
-- ["Dilma estabeleceu padrão internacional contra a corrupção", afirma Hillary Clinton – blog Limpinho e Cheiroso, 24/10/2014](https://limpinhoecheiroso.com/2014/10/24/video-dilma-estabeleceu-padrao-internacional-contra-a-corrupcao-afirma-hillary-clinton/): o elogio da então ex-secretária de Estado americana, segundo o blog · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://limpinhoecheiroso.com/2014/10/24/video-dilma-estabeleceu-padrao-internacional-contra-a-corrupcao-afirma-hillary-clinton/)
-- [Lindbergh lembra, na sabatina de Janot, que Lula passou a nomear o mais votado pelo MP – Facebook de Lindbergh Farias](https://www.facebook.com/lindbergh.farias/videos/1050691098275518/): FHC nomeou o sétimo colocado da lista, segundo o senador
-- ["Legado de Dilma é o combate à corrupção e o fortalecimento das instituições", diz Financial Times – blog Coluna do Leitor, 09/08/2015](http://colunadleitor.blogspot.com/2015/08/legado-de-dilma-e-o-combate-corrupcao-e.html): o jornal britânico sobre o legado de Dilma, segundo o blog
-- [Imprensa internacional destaca combate à corrupção como legado de Dilma – site do PT, 07/08/2015](https://pt.org.br/imprensa-internacional-destaca-combate-a-corrupcao-como-legado-de-dilma/): o que os jornais de fora diziam do governo
-- [Lista de Furnas: Rogério Correia entrega a Janot provas para investigar Aécio – YouTube, 05/03/2015](https://www.youtube.com/watch?v=G6kJWAx8uJE&list=UU6AVYYHC-GswIhS2xlYUb5g): o deputado petista levou à PGR as provas sobre Aécio na Lista de Furnas
-- [Bancada do PT cobra isonomia nas investigações da Lava Jato – PT na Câmara (YouTube), 11/02/2015](https://www.youtube.com/watch?v=9F5Gb4Netp4): 18 deputados do PT foram à PGR e ao Ministério da Justiça pedir o mesmo tratamento para todos os investigados
-- [Nunca se roubou tão pouco – Ricardo Semler, Sul21, 11/2014](https://www.sul21.com.br/opiniaopublica/2014/11/nunca-se-roubou-tao-pouco-por-ricardo-semler/amp/): o empresário tucano reconhece que as prisões de executivos eram um passo histórico
+A corrupção no regime militar está em [Ditadura Militar de 64](ditadura-militar-de-64.md#corrupcao).
 
 ## Os escândalos tucanos
 
@@ -82,7 +50,17 @@ O nome de Bolsonaro também aparece na lista: ver [Jair Bolsonaro](jair-bolsonar
 - [Morto ou vivo? – Facebook](https://www.facebook.com/photo.php?fbid=10204938677131336&set=a.4902337480940.1073741826.1373042949&type=3&theater): a dúvida sobre a morte de Janene, segundo o post
 - [Por que Youssef assinou o atestado de óbito de José Janene? – Opinião e Notícia](http://opiniaoenoticia.com.br/brasil/por-que-youssef-assinou-o-atestado-de-obito-de-jose-janene/): a viúva disse não ter certeza da morte, e Youssef assinou o atestado, segundo o site · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://opiniaoenoticia.com.br/brasil/por-que-youssef-assinou-o-atestado-de-obito-de-jose-janene/)
 
-## Daniel Dantas e a Satiagraha
+## Os casos usados contra o PT
+
+O mensalão, a Lava Jato e o caso Lulinha têm páginas próprias no grupo [Lawfare](lawfare/index.md), com linha do tempo, fontes e o acervo de links: [Farsa do Mensalão do PT](farsa-do-mensalao.md), [Farsa da Lava Jato](farsa-da-lava-jato.md), [Delatores da Lava Jato](delatores-da-lava-jato.md) e [Caso Lulinha](caso-lulinha.md).
+
+## No governo Bolsonaro
+
+O orçamento secreto, os pastores do MEC, a Covaxin, as joias e os imóveis em dinheiro vivo estão em [Corrupção no governo Bolsonaro](corrupcao-no-governo-bolsonaro.md). O [Caso Banco Master](banco-master.md), cujo dono virou banqueiro com o Banco Central de Campos Neto, indicado por Bolsonaro, e o [Escândalo do INSS](escandalo-do-inss.md), cujos descontos investigados começam em 2019, têm páginas próprias.
+
+## Bancos, empresas e mídia
+
+### Daniel Dantas e a Satiagraha
 
 - [Provas contra Daniel Dantas não valem, decide STF – Tijolaço, 16/12/2014](http://www.tijolaco.net/blog/provas-contra-daniel-dantas-nao-valem-decide-stf-estavam-no-andar-errado/): as provas da Satiagraha foram anuladas porque estavam "no andar errado", segundo o blog · *fora do ar em 10/10/2026, o domínio tijolaco.net responde 502* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.tijolaco.net/blog/provas-contra-daniel-dantas-nao-valem-decide-stf-estavam-no-andar-errado/)
 - [Nem FBI consegue decifrar arquivos de Daniel Dantas, diz jornal – g1, 06/2010](http://g1.globo.com/politica/noticia/2010/06/nem-fbi-consegue-decifrar-arquivos-de-daniel-dantas-diz-jornal.html): os arquivos criptografados do banqueiro
@@ -92,7 +70,7 @@ O nome de Bolsonaro também aparece na lista: ver [Jair Bolsonaro](jair-bolsonar
 - [PSDB vai impedir votação de projeto de repatriação de recursos, diz Aécio – UOL, via Agência Estado, 14/07/2015](http://noticias.uol.com.br/ultimas-noticias/agencia-estado/2015/07/14/psdb-vai-impedir-votacao-de-projeto-de-repatriacao-de-recursos-diz-aecio.htm): o PSDB contra o projeto que trazia de volta dinheiro mandado ilegalmente para fora
 - [Vídeo da equipe "Nos Tempos de FHC / PSDB" – YouTube](https://www.youtube.com/watch?v=MgiUvJ8HREY): a corrupção e a impunidade nos governos tucanos, segundo o vídeo · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=MgiUvJ8HREY)
 
-## HSBC Suíço (Suiçalão, SwissLeaks)
+### HSBC Suíço (Suiçalão, SwissLeaks)
 
 - [22 empresários de mídia e 7 jornalistas estão na lista do HSBC – blog de Fernando Rodrigues, UOL, 14/03/2015](http://fernandorodrigues.blogosfera.uol.com.br/2015/03/14/22-empresarios-de-midia-e-7-jornalistas-estao-na-lista-do-hsbc/): os nomes da imprensa nas contas do banco na Suíça
 - [Entenda o SwissLeaks – Seja Dita Verdade (Facebook)](https://www.facebook.com/SejaDitaVerdade/photos/a.487235567956529.124499.483954278284658/1025270004153080/?type=3&theater): o vazamento das contas do HSBC suíço
@@ -109,7 +87,7 @@ O nome de Bolsonaro também aparece na lista: ver [Jair Bolsonaro](jair-bolsonar
 - [Saad, da Bandeirantes, ameaçou Haddad – Conversa Afiada, 17/12/2013](http://www.conversaafiada.com.br/brasil/2013/12/17/saad-da-bandeirantes-ameacou-haddad/): o dono da Band contra o então prefeito, segundo o blog
 - [Otavinho para Lula: como é que o senhor vai governar o Brasil se não fala inglês? – Viomundo](http://www.viomundo.com.br/humor/otavinho-para-lula-como-e-que-o-senhor-vai-governar-o-brasil-se-o-senhor-nao-fala-ingles.html): o dono da Folha diante de Lula, segundo o blog · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.viomundo.com.br/humor/otavinho-para-lula-como-e-que-o-senhor-vai-governar-o-brasil-se-o-senhor-nao-fala-ingles.html)
 
-## Odebrecht
+### Odebrecht
 
 - [Lista da Odebrecht revela tucanos corruptos – O Cafezinho, 17/09/2015](http://www.ocafezinho.com/2015/09/17/odebrecht-divulga-lista-de-tucanos-corruptos/): os nomes do PSDB na lista, segundo o blog
 - [Relatório mostra siglas de Marcelo Odebrecht para políticos – Estadão, 21/07/2015](http://politica.estadao.com.br/blogs/fausto-macedo/relatorio-mostra-siglas-de-marcelo-odebrecht-para-politicos/): os códigos do empreiteiro para os políticos no celular apreendido
@@ -120,7 +98,7 @@ O nome de Bolsonaro também aparece na lista: ver [Jair Bolsonaro](jair-bolsonar
 - [Burburinho sabe quem pôs tarja preta no Serra – Conversa Afiada, 22/07/2015](http://www.conversaafiada.com.br/politica/2015/07/22/burburinho-sabe-quem-pos-tarja-preta-no-cerra/): o nome de Serra escondido nas planilhas, segundo o blog · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.conversaafiada.com.br/politica/2015/07/22/burburinho-sabe-quem-pos-tarja-preta-no-cerra/)
 - [Material Odebrecht – pasta no Google Drive](https://drive.google.com/drive/u/0/folders/0B8omhYoODqbNYngwRnpfbU9PU2c): os documentos reunidos no acervo
 
-## Zelotes e sonegação
+### Zelotes e sonegação
 
 - [RBS, afiliada da Globo, pagou R$ 11,7 milhões a conselheiro do Carf – Carta Maior, 23/10/2015](https://www.cartamaior.com.br/?/Editoria/Politica/RBS-afiliada-da-Globo-pagou-R$-11-7-milhoes-para-conselheiro-do-CARF/4/34817): a Zelotes investigou fraudes no conselho de recursos da Receita com prejuízo estimado em R$ 19,6 bilhões · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.cartamaior.com.br/?/Editoria/Politica/RBS-afiliada-da-Globo-pagou-R$-11-7-milhoes-para-conselheiro-do-CARF/4/34817)
 - [E os 15 milhões da RBS na Zelotes? – Conversa Afiada](https://www.conversaafiada.com.br/pig/e-os-15-milhoes-da-rbs-na-zelotes): a cobrança do blog
@@ -129,13 +107,13 @@ O nome de Bolsonaro também aparece na lista: ver [Jair Bolsonaro](jair-bolsonar
 - [Primeiro-ministro sueco desmente procurador da Zelotes e reforça a defesa de Lula – YouTube](https://www.youtube.com/watch?v=6K7dt0mAs_I): o desmentido do governo sueco, segundo o vídeo · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=6K7dt0mAs_I)
 - [A farsa midiática contra o filho de Lula – Nossa Política, 10/2015](http://nossapolitica.net/2015/10/farsa-midiatica-contra-filho-lula/): [Lulinha](caso-lulinha.md) na cobertura da Zelotes, segundo o site · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://nossapolitica.net/2015/10/farsa-midiatica-contra-filho-lula/)
 
-## Panama Papers (offshores)
+### Panama Papers (offshores)
 
 - [Receita não divulga resultado de investigação do Panama Papers no Brasil – Poder360, 03/04/2019](https://www.poder360.com.br/panama-papers/receita-nao-divulga-resultado-de-investigacao-com-dados-do-panama-papers/): três anos depois, nenhum resultado público
 - [Leia tudo sobre os Panama Papers no Brasil – blog de Fernando Rodrigues, UOL, 03/04/2016](https://fernandorodrigues.blogosfera.uol.com.br/2016/04/03/leia-tudo-sobre-os-panama-papers-no-brasil/): a série brasileira do vazamento
 - [O caso Panama Papers explicado até para crianças – Hypeness](https://www.hypeness.com.br/2016/04/o-caso-panama-papers-foi-explicado-por-esse-site-gringo-para-que-ate-uma-crianca-entenda-confira/): o vazamento em linguagem simples · *fora do ar em 13/09/2026, 410* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.hypeness.com.br/2016/04/o-caso-panama-papers-foi-explicado-por-esse-site-gringo-para-que-ate-uma-crianca-entenda-confira/)
 
-## Corrupção no Ibope
+### Corrupção no Ibope
 
 - [Carlos Augusto Montenegro, dono do Ibope, é acusado de corrupção – RedeTV!, 11/03/2015](http://www.redetv.uol.com.br/jornalismo/politica/carlos-augusto-montenegro-dono-do-ibope-e-acusado-de-corrupcao): a acusação contra o dono do instituto de pesquisa
 - [Doleiro Alberto Youssef denunciou que Montenegro, do Ibope, pagou R$ 20 milhões em propinas ao PP – Blog do Garotinho, 08/03/2015](http://www.blogdogarotinho.com.br/lartigo.aspx?id=18350): a acusação, segundo o blog · *fora do ar em 08/10/2026, redireciona para a página inicial do blog* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.blogdogarotinho.com.br/lartigo.aspx?id=18350)
@@ -143,7 +121,7 @@ O nome de Bolsonaro também aparece na lista: ver [Jair Bolsonaro](jair-bolsonar
 - [Montenegro, do Ibope, pode cair na teia da Lava Jato – Brasil 247](http://www.brasil247.com/pt/247/brasil/172446/Montenegro-do-Ibope-pode-cair-na-teia-da-Lava-Jato.htm): a investigação · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/brasil/172446/Montenegro-do-Ibope-pode-cair-na-teia-da-Lava-Jato.htm)
 - [Dono de instituto de pesquisa que reprova Dilma está na Lava Jato – Bancários do Paraná, 01/04/2016](http://bancariospnr.org.br/dono-de-instituto-de-pesquisa-que-reprova-dilma-roussef-esta-na-lava-jato/): o dono do Ibope e as pesquisas contra Dilma · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://bancariospnr.org.br/dono-de-instituto-de-pesquisa-que-reprova-dilma-roussef-esta-na-lava-jato/)
 
-## Corrupção na Fifa
+### Corrupção na Fifa
 
 - [EUA desenham caminho da propina que atinge a Globo – Brasil 247](http://www.brasil247.com/pt/247/esporte/182955/EUA-desenham-caminho-da-propina-que-atinge-a-Globo.htm): a investigação americana sobre a Fifa · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.brasil247.com/pt/247/esporte/182955/EUA-desenham-caminho-da-propina-que-atinge-a-Globo.htm)
 - [Marcelo Campos Pinto, o homem que compra em nome da TV Globo os direitos de transmissão do futebol – Facebook](https://www.facebook.com/politicanoface2/videos/448291092005899/): o diretor da Globo Esporte no escândalo, segundo o vídeo
@@ -152,15 +130,13 @@ O nome de Bolsonaro também aparece na lista: ver [Jair Bolsonaro](jair-bolsonar
 - [A Rede Globo ameaça demitir executivo, mas ele ameaça contar tudo – blog de Francisco Castro, 05/2015](http://www.blogdefranciscocastro.com.br/2015/05/a-rede-globo-ameaca-demitir-executivo.html?m=1): a briga interna, segundo o blog · *fora do ar em 08/10/2026, domínio estacionado* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.blogdefranciscocastro.com.br/2015/05/a-rede-globo-ameaca-demitir-executivo.html?m=1)
 - [Manifestantes atacam sede da Fifa em Zurique – YouTube](https://www.youtube.com/watch?v=aO9WR-OVsI8): o protesto na Suíça · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=aO9WR-OVsI8)
 
-## Mensalão e Lava Jato
-
-Os dois casos têm páginas próprias: [Farsa do Mensalão do PT](farsa-do-mensalao.md) e [Farsa da Lava Jato](farsa-da-lava-jato.md), com linha do tempo, fontes e o acervo de links.
-
 ## Ver também
 
+- [Combate à corrupção](combate-a-corrupcao.md)
 - [Corrupção no governo Bolsonaro](corrupcao-no-governo-bolsonaro.md)
 - [Farsa do Mensalão do PT](farsa-do-mensalao.md)
 - [Farsa da Lava Jato](farsa-da-lava-jato.md)
 - [Caso Banco Master](banco-master.md)
 - [Escândalo do INSS](escandalo-do-inss.md)
+- [PSDB](psdb.md)
 - [FHC](../comparacao-fhc-lula-dilma.md#fhc): os escândalos do governo tucano

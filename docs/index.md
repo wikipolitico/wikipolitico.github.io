@@ -11,7 +11,7 @@ Rumo ao segundo turno, em 25/10/2026:
 - [Eleições 2026](temas/eleicoes-2026.md): Flávio sem maioria no primeiro turno, o empate técnico no segundo, o depoimento de Vorcaro que a PF e a PGR disseram não existir, o canal pró-Lula tirado do ar a pedido de Flávio e os indicados de Bolsonaro no comando do TSE.
 - [O roteiro da direita nas eleições](temas/roteiro-da-direita-nas-eleicoes.md): de 1989 a 2026, a bomba da última semana, o adversário tirado da urna, a mentira paga, o pedido de censura e a derrota que não se aceita.
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): o candidato do PL à Presidência, das homenagens a milicianos ao dinheiro de Vorcaro para o filme sobre o pai.
-- [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou em cada governo.
+- [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou em cada governo, e [a projeção do FMI](comparacao-bolsonaro-lula3.md#o-brasil-entre-as-maiores-economias) que põe o Brasil como 8ª economia do mundo em 2027.
 
 ## Para responder em debate
 
@@ -19,12 +19,12 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 - **"Lula é ex-presidiário."** Veja a [Farsa da Lava Jato](temas/farsa-da-lava-jato.md): quem condenou Lula e como, por que o STF anulou as condenações e declarou Moro parcial, e a ONU concluiu que Lula não teve julgamento imparcial. Nenhuma condenação sobreviveu.
 - **"Lula armou o 8 de janeiro."** Veja o [8 de janeiro](temas/8-de-janeiro.md): na mesma noite, Lula mandou prender todos, o comandante do Exército barrou a PM com tropas e blindados, e Bolsonaro acabou condenado pela trama golpista.
-- **"O PT é o partido da corrupção."** Veja [o que os governos do PT fizeram contra a corrupção](temas/corrupcao.md#o-que-os-governos-do-pt-fizeram-contra-a-corrupcao): a CGU, o Portal da Transparência, a Ficha Limpa, a Lei de Acesso à Informação, a lei que pune a empresa corruptora e a lei da delação premiada. E os escândalos do governo Bolsonaro estão em [Corrupção no governo Bolsonaro](temas/corrupcao-no-governo-bolsonaro.md).
+- **"O PT é o partido da corrupção."** Veja [o que os governos do PT fizeram contra a corrupção](temas/combate-a-corrupcao.md): a CGU, o Portal da Transparência, a Ficha Limpa, a Lei de Acesso à Informação, a lei que pune a empresa corruptora e a lei da delação premiada. E os escândalos do governo Bolsonaro estão em [Corrupção no governo Bolsonaro](temas/corrupcao-no-governo-bolsonaro.md).
 - **"As urnas são fraudadas."** Veja [a mentira da fraude nas urnas](temas/fraude-nas-urnas.md): Bolsonaro admitiu que não tinha prova, os militares dele fiscalizaram a [eleição de 2022](temas/eleicoes-2022.md) e não acharam fraude, o PL foi multado em R$ 22,9 milhões por má-fé, e a Smartmatic, citada por Flávio, nunca fez urna para o Brasil.
 - **"Lula criou 37 impostos."** Veja [Os impostos do Lula 3](temas/impostos-do-lula-3.md): o número vem de uma lista da Exame em que 10 itens nunca valeram e outros são a reforma tributária e a volta dos impostos que Bolsonaro zerou na eleição. A maior parte do resto recai sobre fundos dos super-ricos, offshores, bancos, bets e multinacionais, e 10 milhões de pessoas deixaram de pagar Imposto de Renda em 2026.
 - **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou.
 
-[Veja as 23 respostas, por assunto →](respostas-para-debate.md)
+[Veja as 25 respostas, por assunto →](respostas-para-debate.md)
 
 <!-- ultimas-atualizacoes -->
 
@@ -56,7 +56,8 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 - [Eleições 2022](temas/eleicoes-2022.md): a maior votação da história, o Auxílio Brasil turbinado só até dezembro, as blitze da PRF contra o eleitor do Nordeste e o diretor da PRF condenado e preso na fuga
 - [8 de janeiro](temas/8-de-janeiro.md): o acampamento que o Exército protegeu, as prisões que Lula mandou fazer e o Exército barrou, e a mentira de que Lula armou o ataque
-- [Corrupção](temas/corrupcao.md): o que os governos do PT fizeram contra a corrupção, Privataria tucana, Banestado, HSBC, Zelotes, Furnas e outros escândalos
+- [Combate à corrupção](temas/combate-a-corrupcao.md): as leis e os órgãos criados por Lula e Dilma e o que a CGU fez no Lula 3, do fim do sigilo de 100 anos à [fraude do INSS](temas/escandalo-do-inss.md)
+- [Escândalos de corrupção](temas/corrupcao.md): Privataria Tucana, Banestado, Furnas, HSBC, Zelotes e outros escândalos que não deram em nada
 - [Corrupção no governo Bolsonaro](temas/corrupcao-no-governo-bolsonaro.md): orçamento secreto, os pastores do MEC, Covaxin, as joias e os imóveis em dinheiro vivo
 - [Lula](temas/lula.md): do sindicato à Presidência, a prisão e a anulação das condenações, o "cara" de Obama, o prêmio de Davos, o Nobel e as mentiras de 1989 até hoje
 - [Dilma Rousseff](temas/dilma-rousseff.md): presa e torturada na ditadura, a primeira presidenta, o impeachment, o "estocar vento" e as mentiras sobre ela

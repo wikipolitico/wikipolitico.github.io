@@ -35,6 +35,10 @@ Os impostos criados e aumentados e a carga tributária ano a ano estão em [Os i
 | ✅ Reservas internacionais | 324,7 bilhões de dólares (dez/2022) | 358,2 bilhões de dólares (dez/2025) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.13621/dados?formato=json&dataInicial=01/12/2022&dataFinal=31/12/2025) |
 | ✅ Nota de crédito do país (S&P, Fitch e Moody's) | nenhuma elevação: BB-, BB- e Ba2 do início ao fim, com a Fitch em perspectiva negativa de maio de 2020 a julho de 2022 | as três agências elevaram a nota, para BB, BB e Ba1; na Moody's, o Brasil ficou a um degrau do grau de investimento | [Tesouro Nacional](https://www.tesourotransparente.gov.br/consultas/historico-da-classificacao-de-risco-da-divida) |
 
+### O Brasil entre as maiores economias
+
+No ranking do FMI pelo PIB em dólares, o Brasil foi a 7ª economia do mundo de 2010 a 2014. Caiu para a 9ª em 2018 e 2019 e para a 12ª em 2020 e 2021, no governo Bolsonaro. Desde 2023, oscila entre a 10ª e a 11ª posição, conforme o câmbio. Na projeção de outubro de 2026, o FMI põe o Brasil em 10º lugar em 2026 e em 8º de 2027 a 2031: em 2027, serão 2,80 trilhões de dólares, à frente da Itália, com 2,77 trilhões, e da Rússia, com 2,68 trilhões. Pela paridade de poder de compra, que desconta a diferença de preços entre os países, o Brasil já é a 8ª economia do mundo desde 2025 (FMI, World Economic Outlook de outubro de 2026: [PIB em dólares](https://www.imf.org/external/datamapper/NGDPD@WEO); [PIB pela paridade de poder de compra](https://www.imf.org/external/datamapper/PPPGDP@WEO)).
+
 ## Trabalho e renda
 
 | Indicador | Bolsonaro | Lula 3 | Fonte |
@@ -243,7 +247,56 @@ Fonte: notas de estatísticas fiscais do Banco Central de [2019](https://www.bcb
 - **A inflação que ajudou Bolsonaro.** Em 2021, com inflação de 10%, o PIB em reais cresceu tanto que tirou 12,3 pontos da dívida. No Lula 3, com inflação menor, esse efeito ficou entre 5,2 e 5,7 pontos por ano. Em 2022, a queda também teve ajuda da devolução de dinheiro do BNDES ao Tesouro, que aparece nos resgates ([Agência Brasil, 27/10/2022](https://agenciabrasil.ebc.com.br/economia/noticia/2022-10/divida-bruta-caira-para-762-do-pib-apos-acordo-com-bndes)).
 - **A conta que ficou para depois.** As emendas constitucionais 113 e 114, de 2021, limitaram o pagamento de precatórios, as dívidas da União reconhecidas pela Justiça. Em dezembro de 2023, depois que o STF derrubou esse limite, o governo pagou 92,4 bilhões de reais: 60,1 bilhões em precatórios que tinham ficado sem pagar em 2022 e 2023 e 32,2 bilhões antecipados de 2024 ([Agência Senado, 27/12/2023](https://www12.senado.leg.br/noticias/materias/2023/12/27/medida-provisoria-possibilita-pagamento-de-r-93-1-bilhoes-em-precatorios)).
 - **Dívida e investimento.** O aumento da dívida não veio do investimento. Em 2025, o governo federal gastou 371,7 bilhões de reais com juros e 70,8 bilhões com investimentos, segundo o Inesc ([Correio Braziliense, 14/04/2026](https://www.correiobraziliense.com.br/economia/2026/04/7397064-brasil-gastou-5-vezes-mais-com-juros-da-divida-do-que-com-investimentos-em-2025.html)). O investimento cresceu no Lula 3 (ver estatais, rodovias e saneamento nas tabelas acima), mas continua pequeno perto dos juros.
-- **Comparação com outros países.** O problema do Brasil não é o tamanho da dívida, mas o preço dela. Pelo critério do Conselho de Estabilidade Financeira (FSB), a dívida brasileira é de 88% do PIB, a 8ª maior do G20, mas os juros custaram 8,8% do PIB em 2024, o maior gasto do grupo. O Japão deve cerca de 220% do PIB e gasta cerca de 2,5% com juros ([Poder360, 04/07/2026](https://www.poder360.com.br/poder-economia/brasil-e-o-pais-do-g20-que-mais-gasta-com-juros-em-relacao-ao-pib/)). Pelo FMI, em 2024, Japão (237% do PIB), Itália (135%), EUA (121%), França (113%), Canadá (111%), Espanha (102%) e Reino Unido (101%) deviam mais que o Brasil (87%) ([FMI, World Economic Outlook de abril de 2025, via DBnomics](https://db.nomics.world/IMF/WEO:2025-04?dimensions=%7B%22weo-subject%22%3A%5B%22GGXWDG_NGDP%22%5D%7D)). O que pesa no Brasil não é o tamanho da dívida, é o juro: 8,8% do PIB em 2024, mais que qualquer outro país do G20.
+- **Comparação com outros países.** O problema do Brasil não é o tamanho da dívida, mas o preço dela (ver [A dívida dos outros países](#a-divida-dos-outros-paises)).
+
+### A dívida dos outros países
+
+Os países ricos devem mais que o Brasil e pagam menos juros. Entre os 19 países do G20, o Brasil é o que mais gasta com juros e um dos que menos investem.
+
+| País | Dívida bruta (% do PIB) | Juros pagos, menos os recebidos (% do PIB) | Investimento (% do PIB) |
+| --- | --- | --- | --- |
+| Japão | 236,7 | 0,4 | 26,2 |
+| Itália | 135,3 | 3,7 | 22,4 |
+| Estados Unidos | 120,8 | 3,7 | 21,7 |
+| França | 113,1 | 1,8 | 23,7 |
+| Canadá | 110,8 | 0,2 | 23,3 |
+| Reino Unido | 101,2 | 2,0 | 17,7 |
+| China | 88,3 | 1,0 | 40,4 |
+| **Brasil** | **87,3** | **6,3** | **16,9** |
+| Argentina | 85,3 | 1,6 | 14,4 |
+| Índia | 81,3 | 5,1 | 33,4 |
+| África do Sul | 76,4 | 5,3 | 13,9 |
+| Alemanha | 63,9 | 0,9 | 21,0 |
+| México | 58,4 | 5,9 | 24,2 |
+| Coreia do Sul | 52,5 | −0,1 | 30,4 |
+| Austrália | 49,8 | 1,1 | 24,7 |
+| Indonésia | 40,2 | 2,2 | 31,4 |
+| Arábia Saudita | 29,9 | 0,1 | 30,0 |
+| Turquia | 26,0 | 2,1 | 25,5 |
+| Rússia | 20,3 | 0,7 | 27,1 |
+
+Fonte: FMI, World Economic Outlook de abril de 2025, dados de 2024. A dívida é a bruta do governo geral. Os juros são a diferença entre o resultado primário e o resultado total do governo, ou seja, o que ele paga de juros menos o que recebe; o valor negativo da Coreia do Sul quer dizer que o governo recebe mais juros do que paga. O investimento é o total do país, público e privado ([dívida](https://db.nomics.world/IMF/WEO:2025-04?dimensions=%7B%22weo-subject%22%3A%5B%22GGXWDG_NGDP%22%5D%7D); [resultados e investimento](https://db.nomics.world/IMF/WEO:2025-04?dimensions=%7B%22weo-subject%22%3A%5B%22GGXWDG_NGDP%22%2C%22GGXONLB_NGDP%22%2C%22GGXCNL_NGDP%22%2C%22NID_NGDP%22%5D%7D)).
+
+- **Quem deve mais paga menos.** O Japão deve 236,7% do PIB e gasta 0,4% com juros. Os Estados Unidos devem 120,8% e gastam 3,7%. O Brasil deve 87,3% e gasta 6,3%, mais que qualquer outro país do G20. Fora do grupo, a Espanha devia 102% do PIB. Pelo critério do Conselho de Estabilidade Financeira (FSB), que mede de outro jeito, a dívida brasileira é de 88% do PIB, a 8ª maior do G20, e os juros custaram 8,8% do PIB em 2024, também o maior gasto do grupo ([Poder360, 04/07/2026](https://www.poder360.com.br/poder-economia/brasil-e-o-pais-do-g20-que-mais-gasta-com-juros-em-relacao-ao-pib/)).
+- **Quem cresce investe.** O Relatório do Crescimento, de 2008, foi feito por uma comissão presidida pelo Nobel de Economia Michael Spence, com o também Nobel Robert Solow entre os membros, e publicado pelo Banco Mundial. Ele estudou as 13 economias que, desde 1950, cresceram 7% ao ano ou mais por 25 anos ou mais, e concluiu: "No country has sustained rapid growth without also keeping up impressive rates of public investment--in infrastructure, education, and health. Far from crowding out private investment, this spending crowds it in". Nenhum país sustentou crescimento rápido sem manter taxas impressionantes de investimento público, em infraestrutura, educação e saúde, e esse gasto, em vez de afastar o investimento privado, o atrai (📄 [Relatório do Crescimento, p. 5](https://openknowledge.worldbank.org/server/api/core/bitstreams/df194a38-cb6f-5553-8fd8-e48a8a7c9574/content#page=20)). Para isso, o investimento total, público e privado, precisa ser de "25 percent of GDP or above", 25% do PIB ou mais (📄 [p. 34](https://openknowledge.worldbank.org/server/api/core/bitstreams/df194a38-cb6f-5553-8fd8-e48a8a7c9574/content#page=49)).
+- **O Brasil já fez isso.** O Brasil é uma das 13 economias do relatório: cresceu 7% ao ano ou mais de 1950 a 1980 (📄 [p. 19 e 20](https://openknowledge.worldbank.org/server/api/core/bitstreams/df194a38-cb6f-5553-8fd8-e48a8a7c9574/content#page=34)). Em 2024, investiu 16,9% do PIB, longe dos 25%, e no G20 só a África do Sul e a Argentina investiram menos. Em 2025, o governo federal gastou R$ 371,7 bilhões com juros e R$ 70,8 bilhões com investimentos (ver acima).
+
+## Quem cumpriu a regra fiscal
+
+Quem diz que o Lula 3 "quebrou as contas" esquece a regra fiscal de cada governo. Bolsonaro governou sob o teto de gastos, criado por Temer em 2016, e gastou acima dele nos quatro anos, inclusive mudando a Constituição. Lula trocou o teto pelo arcabouço fiscal e cumpriu a meta em 2024 e 2025.
+
+### Bolsonaro e o teto de gastos
+
+- **2019 a 2022 — R$ 794,9 bilhões acima do teto:** segundo levantamento do economista Bráulio Borges, do FGV Ibre, para a BBC, foram R$ 53,6 bilhões em 2019, R$ 507,9 bilhões em 2020, com o Orçamento de Guerra da pandemia, R$ 117,2 bilhões em 2021 e R$ 116,2 bilhões em 2022, puxados pelos benefícios criados antes da eleição. Sem contar 2020, foram R$ 287 bilhões ([Money Times, 17/11/2022](https://www.moneytimes.com.br/r-198-bi-pedidos-por-lula-e-o-quanto-bolsonaro-furou-teto-por-ano-de-governo/)).
+- **21/10/2021 — a debandada de Guedes:** o secretário especial do Tesouro e Orçamento, Bruno Funchal, o secretário do Tesouro Nacional, Jeferson Bittencourt, e dois secretários adjuntos pediram demissão. A mudança na regra fiscal negociada na Câmara abriria R$ 83 bilhões no Orçamento de 2022: R$ 39 bilhões com a mudança no cálculo do teto e R$ 44 bilhões com o parcelamento dos precatórios ([Poder360, 21/10/2021](https://www.poder360.com.br/governo/guedes-perde-equipe-apos-falar-em-licenca-para-furar-teto/)).
+- **08 e 16/12/2021 — a PEC dos Precatórios:** as emendas constitucionais 113 e 114 mudaram o cálculo do teto e limitaram o pagamento de precatórios, as dívidas da União reconhecidas pela Justiça ([EC 113/2021](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc113.htm); [EC 114/2021](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc114.htm)). A conta ficou para o governo seguinte (ver [Por que a dívida subiu](#por-que-a-divida-subiu)).
+- **Julho de 2022 — a PEC Kamikaze:** um "estado de emergência" liberou gastos fora do teto no ano da eleição, entre eles R$ 200 a mais no Auxílio Brasil só de agosto a dezembro (ver [Eleições 2022](temas/eleicoes-2022.md#a-maquina-publica-na-campanha)).
+
+### Lula e o arcabouço fiscal
+
+- **30/08/2023 — a regra nova:** Lula sancionou o arcabouço fiscal, que substituiu o teto. A despesa só pode crescer, acima da inflação, 70% do que crescer a receita, ou 50% se a meta do ano anterior não for cumprida, e sempre entre 0,6% e 2,5% ao ano. A meta de resultado primário vale com um intervalo de tolerância ([Lei Complementar 200/2023](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm)).
+- **30/01/2025 — a meta de 2024 cumprida:** a meta era déficit zero, com tolerância de 0,25% do PIB. Pela conta do arcabouço, o governo central teve déficit de R$ 11 bilhões, 0,09% do PIB. A conta deixou de fora a reconstrução do Rio Grande do Sul depois das enchentes. Com ela, o déficit foi de R$ 44 bilhões, 0,36% do PIB ([Poder360, 30/01/2025](https://www.poder360.com.br/poder-economia/lula-cumpre-meta-com-deficit-de-r-11-bi-em-2024-mas-tira-rs-da-conta/)).
+- **29/01/2026 — a meta de 2025 cumprida:** pela conta do arcabouço, o déficit foi de R$ 13 bilhões, 0,1% do PIB. Ficaram de fora R$ 48,7 bilhões, e R$ 41,1 bilhões deles eram precatórios acima do limite criado pela PEC dos Precatórios de Bolsonaro, que o STF permitiu pagar fora da meta. Outros R$ 2,8 bilhões foram o ressarcimento dos aposentados lesados pelos descontos do INSS. Com tudo, o déficit foi de R$ 61,7 bilhões, 0,48% do PIB (📄 [apresentação do Tesouro, p. 7](https://static.poder360.com.br/2026/01/Tesouro-apresentacao-resultado-dez-25.pdf#page=7) · 📄 [cópia no site](documentos/tesouro-resultado-primario-2025.pdf#page=7); [Reuters, via Diário do Comércio, 30/01/2026](https://diariodocomercio.com.br/financas/deficit-primario-governo-ficou-dentro-meta-2025/)).
 
 ## Indicadores que ficaram de fora
 
@@ -359,7 +412,7 @@ Fonte: notas de estatísticas fiscais do Banco Central de [2019](https://www.bcb
 {: #nota-terras-indigenas }
 - Queimadas: focos de calor detectados pelo satélite de referência do Inpe, de 1º de janeiro a 31 de dezembro (em 2025, até 23 de dezembro). Os números mudam muito com o clima: em 2024, a seca extrema levou ao maior número desde 2010; em 2025, com mais chuva, a queda foi de 51,8% ([Poder360](https://www.poder360.com.br/poder-sustentavel/brasil-tem-queda-de-518-no-numero-de-focos-de-queimadas-em-2025/)). O governo Bolsonaro teve 197,6 mil focos em 2019, 222,8 mil em 2020, 184,1 mil em 2021 e 200,8 mil em 2022 ([Inpe](https://data.inpe.br/queimadas/bdqueimadas/)).
 {: #nota-queimadas }
-- Leis anticorrupção: as seis leis listadas foram criadas ou sancionadas por Lula 1 e 2 ou por Dilma. A CGU foi criada por lei em 2003. O Portal da Transparência foi regulamentado em 2005. A Ficha Limpa veio de iniciativa popular com 1,3 milhão de assinaturas e foi sancionada por Lula em 2010 — a mesma lei que o TSE usou para barrar a candidatura dele em 2018. A Lei Anticorrupção é de 2013; antes dela, só era possível punir a pessoa física, não a empresa. A Lei das organizações criminosas, também de 2013, regulou a delação premiada, que a [Lava Jato](temas/farsa-da-lava-jato.md) usaria a partir de 2014. No Lula 3, todos esses órgãos foram restaurados ou reforçados. O detalhamento está em [Corrupção](temas/corrupcao.md#o-que-os-governos-do-pt-fizeram-contra-a-corrupcao).
+- Leis anticorrupção: as seis leis listadas foram criadas ou sancionadas por Lula 1 e 2 ou por Dilma. A CGU foi criada por lei em 2003. O Portal da Transparência foi regulamentado em 2005. A Ficha Limpa veio de iniciativa popular com 1,3 milhão de assinaturas e foi sancionada por Lula em 2010 — a mesma lei que o TSE usou para barrar a candidatura dele em 2018. A Lei Anticorrupção é de 2013; antes dela, só era possível punir a pessoa física, não a empresa. A Lei das organizações criminosas, também de 2013, regulou a delação premiada, que a [Lava Jato](temas/farsa-da-lava-jato.md) usaria a partir de 2014. No Lula 3, todos esses órgãos foram restaurados ou reforçados. O detalhamento está em [Combate à corrupção](temas/combate-a-corrupcao.md).
 {: #nota-leis-anticorrupcao }
 - CGU: a Controladoria-Geral da União foi criada no governo Lula 1 (2003). No governo Bolsonaro, foi subordinada à Casa Civil pela MP 870/2019, perdendo status de ministério autônomo. No governo Lula 3, voltou a ser ministério independente ([Jusbrasil](https://www.jusbrasil.com.br/artigos/a-extincao-da-cgu-e-o-enfraquecimento-do-combate-a-corrupcao/338375500)).
 {: #nota-cgu }

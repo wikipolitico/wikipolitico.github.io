@@ -126,4 +126,4 @@
 - [Partidos Políticos](partidos-politicos.md): o histórico de nomes e fusões
 - [Eleições 2014](eleicoes-2014.md): a seca em São Paulo e o terceiro turno
 - [Ciro Gomes](ciro-gomes.md)
-- [Corrupção](corrupcao.md): Banestado, Furnas e a Privataria Tucana
+- [Escândalos de corrupção](corrupcao.md): Banestado, Furnas e a Privataria Tucana

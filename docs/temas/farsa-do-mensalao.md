@@ -126,4 +126,4 @@ O relator foi Joaquim Barbosa, e os votos de cada ministro estão nas páginas d
 - [Joaquim Barbosa](stf/joaquim-barbosa.md): o relator do mensalão
 - [Ricardo Lewandowski](stf/ricardo-lewandowski.md): o revisor, que absolveu Dirceu de corrupção ativa
 - [Celso de Mello](stf/celso-de-mello.md): o voto de desempate que admitiu os embargos infringentes
-- [Corrupção](corrupcao.md)
+- [Escândalos de corrupção](corrupcao.md)

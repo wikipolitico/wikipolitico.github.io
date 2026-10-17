@@ -84,7 +84,8 @@ A bancada que assinou tinha só 16 dos 559 constituintes. Os nomes estão no jor
 - [Eleições 2014](eleicoes-2014.md): a campanha, a [crise como arma](eleicoes-2014.md#a-crise-como-arma) e a [seca em São Paulo](eleicoes-2014.md#a-seca-em-sao-paulo)
 - [Políticas Públicas](politicas-publicas.md#concessao-nao-e-privatizacao): concessão não é privatização, e a [falsa crise da Previdência](politicas-publicas.md#a-falsa-crise-da-previdencia)
 - [Mídia](rede-globo.md#os-protestos-de-junho-de-2013): os protestos de junho de 2013
-- [Corrupção](corrupcao.md): o combate à corrupção nos governos do PT e Daniel Dantas
+- [Combate à corrupção](combate-a-corrupcao.md): o que os governos do PT fizeram contra a corrupção
+- [Escândalos de corrupção](corrupcao.md): os escândalos tucanos, Daniel Dantas e outros casos
 - [Farsa do Mensalão](farsa-do-mensalao.md#mais-sobre-jose-dirceu-genoino-e-delubio): Dirceu, Genoíno e Delúbio
 - [Delatores da Lava Jato](delatores-da-lava-jato.md#joao-vaccari-neto-ex-tesoureiro-do-pt): João Vaccari Neto
 - [Lawfare](lawfare/index.md#o-caso-celso-daniel): o caso Celso Daniel

@@ -47,4 +47,4 @@
 - [Caso Lulinha](caso-lulinha.md)
 - [André Mendonça](stf/andre-mendonca.md): relator das investigações no STF
 - [Flávio Bolsonaro](flavio-bolsonaro.md)
-- [Corrupção](corrupcao.md)
+- [Escândalos de corrupção](corrupcao.md)

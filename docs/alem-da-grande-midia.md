@@ -149,6 +149,7 @@ Pessoas que comentam política nas redes, em vídeo ou em texto, sem estar ligad
 
 ### Artistas, intelectuais e ativistas
 
+- [Caio Fábio](https://caiofabio.com.br/) · [YouTube](https://www.youtube.com/channel/UCT2iDke9SuPfp0XO0rr8YSA) · [Instagram](https://www.instagram.com/caiofabiodaraujofilho/) · [TikTok](https://www.tiktok.com/@caiofabiooficial) · [X](https://twitter.com/caiofabiovvtv) · escritor e pregador evangélico, de cujo trabalho surgiu o movimento Caminho da Graça
 - [Carol Proner](https://twitter.com/carolproner) · jurista
 - [Gregorio Duvivier](https://www.instagram.com/gduvivier/) · [Facebook](https://www.facebook.com/gregorioduvivier) · *a conta @gduvivier no X hoje é de outra pessoa, conferido em 13/10/2026, e por isso não está linkada* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://twitter.com/gduvivier) · humorista, um dos fundadores do Porta dos Fundos e apresentador do Greg News
 - [Jessé Souza](https://twitter.com/JesseSouzaecht) · sociólogo
