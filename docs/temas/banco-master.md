@@ -108,6 +108,9 @@ O presidente do TSE e primeiro indicado de Bolsonaro ao STF aparece no caso pelo
 ## Vorcaro e a imprensa
 
 - [Grupo Globo demite diretor-geral após mensagens vazadas com Daniel Vorcaro – Brasil de Fato, 15/10/2026](https://www.brasildefato.com.br/2026/10/15/grupo-globo-demite-diretor-geral-apos-mensagens-vazadas-com-daniel-vorcaro/): Frederic Kachar, que comandava os jornais, as revistas e as rádios da Globo, saiu depois das mensagens com Vorcaro, que pediu destaque nas revistas para a marca da namorada e reclamou de colunas críticas ao Master. Para a própria Globo, as mensagens revelam "uma relação inadequada do executivo com um anunciante". Mais em [Rede Globo](rede-globo.md#a-globo-vorcaro-e-flavio-em-2026).
+- [Vorcaro ofereceu dinheiro para influenciadores criticarem o BC nas redes, segundo a PF – Brasil de Fato, 10/07/2026](https://www.brasildefato.com.br/2026/07/10/vorcaro-ofereceu-dinheiro-para-influenciadores-criticarem-o-bc-nas-redes-segundo-a-pf/): no "Projeto DV", Vorcaro ofereceu até R$ 2 milhões a influenciadores para atacar o Banco Central e defender o Master, segundo a PF. O coordenador, o publicitário Thiago Miranda, sócio do Portal Léo Dias, recrutava influenciadores e jornalistas e confirmou à PF que fazia os pagamentos. Quem recusava era intimidado, e Vorcaro dizia que precisava "calar essa mulher", a jornalista Malu Gaspar.
+
+O Metrópoles, o G1 e Luciano Huck estão em [O dinheiro de Vorcaro nas redações](midia.md#o-dinheiro-de-vorcaro-nas-redacoes).
 
 ## Visão geral
 

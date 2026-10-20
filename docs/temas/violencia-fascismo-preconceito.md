@@ -2,7 +2,7 @@
 
 ## O discurso de ódio
 
-- [Quem é responsável pela cultura do ódio? – Quatro V (Facebook)](https://www.facebook.com/watch/?ref=saved&v=1627202924253571): atrás de líderes violentos, há apoiadores ressentidos, segundo o vídeo
+- [Quem é responsável pela cultura do ódio? – Quatro V (Facebook), 12/01/2017](https://www.facebook.com/watch/?ref=saved&v=1627202924253571): atrás de líderes violentos, há apoiadores ressentidos, segundo o vídeo
 
 ## Ataques ao MST
 

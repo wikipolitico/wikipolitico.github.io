@@ -53,6 +53,6 @@
 - [Farsa da Lava Jato](farsa-da-lava-jato.md): Moro, Dallagnol e a operação que depois tirou Lula da eleição de 2018
 - [Golpes contra governos eleitos](golpes-contra-governos-eleitos.md#2016-o-impeachment-de-dilma): o impeachment de Dilma e os links sobre ele
 - [Gilmar Mendes](stf/gilmar-mendes.md) e [Dias Toffoli](stf/dias-toffoli.md): os ministros do TSE na ação do PSDB e na auditoria das urnas
-- [Revista Veja](midia.md#revista-veja): outros casos da revista no acervo
+- [Condenados por mentir](midia.md#condenados-por-mentir): a Veja derrotada por 7 a 0 no TSE em 2014 e outras condenações da imprensa
 - [Eduardo Campos](mortes-suspeitas.md#eduardo-campos-candidato-a-presidente-em-2014-13082014): o candidato que morreu num acidente aéreo em plena campanha
 - [Eleições 1989](eleicoes-1989.md), [Eleições 2010](eleicoes-2010.md), [Eleições 2018](eleicoes-2018.md) e [Eleições 2022](eleicoes-2022.md)
