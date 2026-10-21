@@ -2,7 +2,7 @@
 
 **Não é opinião. É o documento.**
 
-Acervo para enfrentar, com fatos, as narrativas fabricadas pela grande mídia corporativa e pelas redes de desinformação. Cada afirmação vem com a fonte ao lado, de preferência a fonte primária. Publicado em https://wikipolitico.github.io.
+Acervo para enfrentar, com fatos, as narrativas fabricadas pela grande mídia corporativa e pelas redes de desinformação. Cada afirmação vem com a fonte ao lado, de preferência a fonte primária. Publicado em https://wikipolitico.com.br.
 
 ## Como contribuir
 

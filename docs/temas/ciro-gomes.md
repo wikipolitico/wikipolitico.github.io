@@ -44,6 +44,7 @@ Em 2018, terceiro colocado no primeiro turno, Ciro declarou "apoio crítico" a H
 - [Ciro Gomes já elogiou "retidão e decência" de Temer – Coluna do Estadão, 15/07/2018](https://politica.estadao.com.br/blogs/coluna-do-estadao/ciro-gomes-ja-elogiou-retidao-e-decencia-de-temer/): o elogio ao vice que assumiu no lugar de Dilma
 - [Ciro Gomes apoia Aécio em 2010 – Causa Operária TV (YouTube)](https://www.youtube.com/watch?v=mpqHY8d2XZY): o apoio ao tucano, segundo o vídeo
 - [Ciro Gomes e Mino Carta, entrevista ao vivo – CartaCapital (YouTube)](https://www.youtube.com/watch?v=c8s_acQu6tY&t=17m11s): o trecho sobre o projeto liberal e o grande capital internacional
+- [Com união PDT-DEM, Rodrigo Maia deve ser vice de Ciro Gomes em 2022 – CN7, 17/01/2020](https://cn7.com.br/com-uniao-pdt-dem-rodrigo-maia-deve-ser-vice-de-ciro-gomes-em-2022/): o PDT dos Ferreira Gomes se unia ao DEM em Fortaleza, Salvador e São Luís para 2020, e o site cearense previa um vice do DEM para Ciro em 2022, o mais provável Rodrigo Maia
 
 ## O PDS, o SNI e Olavo
 
@@ -66,10 +67,13 @@ Em 2018, terceiro colocado no primeiro turno, Ciro declarou "apoio crítico" a H
 - [Ciro erra ao atacar o PT – O Cafezinho, 11/05/2020](https://www.ocafezinho.com/2020/05/11/ciro-erra-ao-atacar-o-pt/): a crítica do blog
 - [Impeachment de FHC: Ciro ecoa acusação falsa de Ana Amélia contra Lula – Blog do Luis Nassif (Ning)](https://blogln.ning.com/m/discussion?id=2189391%3ATopic%3A1217329): a acusação repetida por Ciro, segundo o blog · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://blogln.ning.com/m/discussion?id=2189391%3ATopic%3A1217329)
 - [Marcos Valério disse que entregou dinheiro da corrupção a Ciro Gomes – entrevista com Nilton Monteiro (YouTube)](https://www.youtube.com/watch?v=1h_z_iEhXgM): enquanto acusava Lula sem prova, Ciro não respondia à acusação feita contra ele em delação, segundo o vídeo
+- [Empreiteira afirma ter pago caixa 2 para irmão de Ciro Gomes, diz jornal – Poder360, 22/09/2018](https://www.poder360.com.br/eleicoes/empreiteira-afirma-ter-pago-caixa-2-para-irmao-de-ciro-gomes-diz-jornal/): na reta final da campanha, a delação de um ex-executivo da Galvão Engenharia, revelada pelo Globo, dizia que a empreiteira pagou R$ 1,1 milhão em dinheiro vivo a Lúcio Gomes, irmão de Ciro, em troca da liberação de pagamentos de obras no governo de Cid Gomes no Ceará
 - [Resposta de Glauber Braga a Ciro Gomes – Glauber Braga (Facebook)](https://www.facebook.com/glauber.braga1/posts/1700372343453113): o deputado do PSOL rebate Ciro: o PL 4.162/2019 "é instrumento para privatizar a água, sim"
 - [Ciro foge de responder sobre aborto e adoção de crianças por casais homossexuais – canal de Jair Bolsonaro (YouTube)](https://www.youtube.com/watch?v=Em3xQwU-GG8): o vídeo publicado pelo canal de Bolsonaro
 
 ## As acusações contra Haddad
+
+- [Ciro Gomes: "Uma chapa com Haddad em 2018 seria o dream team" – El País, 10/08/2017](https://brasil.elpais.com/brasil/2017/08/10/politica/1502319337_980280.html): um ano antes de acusar Haddad, Ciro dizia que ele "representa o que há de melhor no PT" e reconhecia que "de fato o Lula está sendo perseguido"
 
 ### Eunício no Ceará, 2018
 

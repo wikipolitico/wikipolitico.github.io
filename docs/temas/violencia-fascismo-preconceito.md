@@ -3,6 +3,7 @@
 ## O discurso de ódio
 
 - [Quem é responsável pela cultura do ódio? – Quatro V (Facebook), 12/01/2017](https://www.facebook.com/watch/?ref=saved&v=1627202924253571): atrás de líderes violentos, há apoiadores ressentidos, segundo o vídeo
+- [Homem armado minutos depois da vitória de Jair Bolsonaro em Manhumirim (MG) – Mídia NINJA (Facebook)](https://www.facebook.com/watch/?v=289611971878412): a vitória de Bolsonaro comemorada de arma na mão, em vídeo visto 584 mil vezes, segundo a Mídia NINJA
 
 ## Ataques ao MST
 

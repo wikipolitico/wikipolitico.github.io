@@ -1,5 +1,5 @@
 site_name: Wiki Político
-site_url: https://wikipolitico.github.io/
+site_url: https://wikipolitico.com.br/
 site_description: "Não é opinião. É o documento. Fatos com fonte contra as narrativas fabricadas pela grande mídia."
 repo_url: https://github.com/wikipolitico/wikipolitico.github.io
 repo_name: wikipolitico/wikipolitico.github.io
@@ -23,7 +23,7 @@ extra:
           data: 0
           note: >-
             Obrigado pelo retorno!
-            <a href="mailto:contato.wikipolitico@gmail.com?subject=Sugest%C3%A3o%20para%20a%20p%C3%A1gina%20{title}&body=P%C3%A1gina%3A%20https%3A%2F%2Fwikipolitico.github.io{url}">Conte o que faltou</a>.
+            <a href="mailto:contato.wikipolitico@gmail.com?subject=Sugest%C3%A3o%20para%20a%20p%C3%A1gina%20{title}&body=P%C3%A1gina%3A%20https%3A%2F%2Fwikipolitico.com.br{url}">Conte o que faltou</a>.
 
 extra_css:
   - stylesheets/extra.css
