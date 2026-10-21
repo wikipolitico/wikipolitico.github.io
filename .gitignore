@@ -2,3 +2,6 @@ site/
 
 # cache do Python gerado pelos hooks
 __pycache__/
+
+# anotações pessoais, fora do repositório
+anotacoes/
