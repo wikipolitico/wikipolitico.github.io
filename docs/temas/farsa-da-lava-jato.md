@@ -89,6 +89,7 @@ A "Conexão Curitiba", denúncia do deputado Paulo Pimenta em 2017 sobre as rela
 - [Engenheira da OAS diz que Lula não é dono do tríplex – Facebook](https://www.facebook.com/watch/?ref=saved&v=1135539216561397): nas 122 vezes que foi ao prédio, ela nunca viu Lula e negou que a OAS tenha dito que o apartamento era dele
 - [Sérgio Moro faz grosserias e discute com advogado de Lula – YouTube](https://www.youtube.com/watch?v=_awcRT-mXww&t=9s): o bate-boca do juiz com a defesa · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=_awcRT-mXww&t=9s)
 - [Moro, o autoritário – Facebook](https://www.facebook.com/watch/?ref=saved&v=1370351583057794): o juiz tenta constranger a defesa de Lula depois que o zelador nega que o tríplex fosse de Lula
+- [“Descondenado”: abri o processo e li o que está escrito – Elton Freitas (Instagram), 24/10/2026](https://www.instagram.com/eltonfreitas7/reel/De4OGEei6uh/): em dois minutos e com as fontes do processo, o tríplex no nome da OAS, o "jamais afirmou" de Moro, os "atos de ofício indeterminados" e a resposta a quem diz que Lula foi condenado em três instâncias
 
 ### Mais sobre o sítio
 

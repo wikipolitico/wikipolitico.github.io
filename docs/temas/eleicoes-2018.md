@@ -103,4 +103,5 @@ A PF concluiu três vezes, em 2018, 2020 e 2024, que Adélio agiu sozinho. Os fa
 - [Farsa da Lava Jato](farsa-da-lava-jato.md): a condenação de Lula, a prisão e a parcialidade de Moro reconhecida pelo STF
 - [Edson Fachin](stf/edson-fachin.md) e [Luiz Fux](stf/luiz-fux.md): o único voto pela candidatura de Lula no TSE e o ministro que proibiu Lula de dar entrevista
 - [Edir Macedo](outras-personalidades-brasil.md#edir-macedo-igreja-universal-tv-record): o dono da Record, que apoiou Bolsonaro
+- [Violência política da direita](violencia-politica-da-direita.md): Moa do Katendê, os tiros na caravana de Lula e no acampamento Lula Livre, e os 70 ataques em dez dias de campanha
 - [Eleições 2014](eleicoes-2014.md) e [Eleições 2022](eleicoes-2022.md)

@@ -126,6 +126,7 @@ O filho mais velho, candidato do PL à Presidência em 2026, tem página própri
 - [Flávio Bolsonaro](flavio-bolsonaro.md)
 - [Corrupção no governo Bolsonaro](corrupcao-no-governo-bolsonaro.md)
 - [8 de janeiro](8-de-janeiro.md): o ataque, a trama golpista e a condenação
+- [Violência política da direita](violencia-politica-da-direita.md): do "aqui é Bolsonaro" do assassino de Marcelo Arruda ao "esse tipo de gente tem que ser extirpado" do comício de 07/09/2022
 - [Comparação Bolsonaro x Lula 3](../comparacao-bolsonaro-lula3.md)
 - [Bolsonarismo contra o Estado laico](bolsonarismo-contra-o-estado-laico.md)
 - [A mentira da fraude nas urnas](fraude-nas-urnas.md)

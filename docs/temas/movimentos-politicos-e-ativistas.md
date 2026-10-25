@@ -42,6 +42,6 @@ Os movimentos que levaram multidões às ruas pelo impeachment de Dilma.
 
 ## Ver também
 
-- [Violência, fascismo e preconceito](violencia-fascismo-preconceito.md): os ataques ao MST
+- [Violência política da direita](violencia-politica-da-direita.md#os-ataques-ao-mst): os ataques ao MST
 - [Golpes contra governos eleitos](golpes-contra-governos-eleitos.md#2016-o-impeachment-de-dilma): os protestos pelo impeachment
 - [Mídia](midia.md)

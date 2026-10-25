@@ -159,3 +159,4 @@ Os trechos da gravação publicados pela Folha, na transcrição reproduzida pel
 - [Ditadura Militar de 64](ditadura-militar-de-64.md): o regime que o golpe de 1964 instalou
 - [8 de janeiro](8-de-janeiro.md) e [Eleições 2022](eleicoes-2022.md): o golpe que fracassou
 - [Os ataques do bolsonarismo ao STF](stf/index.md#os-ataques-do-bolsonarismo-ao-stf)
+- [Violência política da direita](violencia-politica-da-direita.md#contra-a-posse-de-lula-e-a-democracia): o Punhal Verde e Amarelo, a bomba no aeroporto e o homem-bomba do PL

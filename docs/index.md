@@ -24,7 +24,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - **"Lula criou 37 impostos."** Veja [Os impostos do Lula 3](temas/impostos-do-lula-3.md): o número vem de uma lista da Exame em que 10 itens nunca valeram e outros são a reforma tributária e a volta dos impostos que Bolsonaro zerou na eleição. A maior parte do resto recai sobre fundos dos super-ricos, offshores, bancos, bets e multinacionais, e 10 milhões de pessoas deixaram de pagar Imposto de Renda em 2026.
 - **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou.
 
-[Veja as 25 respostas, por assunto →](respostas-para-debate.md)
+[Veja as 26 respostas, por assunto →](respostas-para-debate.md)
 
 <!-- ultimas-atualizacoes -->
 
@@ -35,6 +35,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [Eleições 2026](temas/eleicoes-2026.md): o resultado do primeiro turno, o segundo turno dia a dia, o juiz parcial e o procurador cassado eleitos no Paraná, as mentiras de Flávio sobre Vorcaro, os indicados de Bolsonaro no comando do TSE e o alerta da Abin sobre grupos extremistas
 - [O roteiro da direita nas eleições](temas/roteiro-da-direita-nas-eleicoes.md): o mesmo roteiro em todas as eleições desde 1989, da capa da Veja na véspera ao canal pró-Lula tirado do ar a pedido de Flávio
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): milícias, rachadinha, o filme Dark Horse, o jato de Vorcaro e a emenda pedida por um condenado no caso Marielle
+- [Violência política da direita](temas/violencia-politica-da-direita.md): de Marielle, Moa do Katendê e Marcelo Arruda à tijolada na carreata de Lula na véspera do segundo turno, e a direita chamando tudo de armação ou de caso isolado
 - [Bolsonarismo contra o Estado laico](temas/bolsonarismo-contra-o-estado-laico.md): do "Estado é cristão" de Jair ao Brasil "do Senhor Jesus Cristo" de Flávio, e o bispo que batizou Flávio e pediu em livro o fim de Aparecida como padroeira
 - [Caso Banco Master](temas/banco-master.md): Vorcaro, o Banco Central de Campos Neto, a Operação Compliance Zero e a crise no STF
 - [Escândalo do INSS](temas/escandalo-do-inss.md): a fraude dos descontos em aposentadorias, das raízes no governo Bolsonaro ao ressarcimento
@@ -79,7 +80,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [Golpes contra governos eleitos](temas/golpes-contra-governos-eleitos.md): Vargas em 1954, JK e Jango em 1955, o veto a Jango em 1961, o golpe de 1964, o impeachment de Dilma e a trama contra a posse de Lula
 - [Capitalismo](temas/capitalismo.md): neoliberalismo, presídios privatizados e indústria farmacêutica
 - [Comunismo e Socialismo](temas/comunismo-e-socialismo.md): respostas aos mitos mais repetidos sobre os dois termos
-- [Violência, fascismo e preconceito](temas/violencia-fascismo-preconceito.md): ataques ao MST, nazismo, escravidão, racismo e homofobia
+- [Violência, fascismo e preconceito](temas/violencia-fascismo-preconceito.md): o discurso de ódio, ataques a imigrantes, nazismo, escravidão, racismo e homofobia
 - [Mortes suspeitas](temas/mortes-suspeitas.md): de JK e Jango a [Teori Zavascki](temas/stf/teori-zavascki.md), e, no mundo, Arafat e Chávez
 - [CPMI das Fake News (2020)](temas/eleicoes-2018.md#a-cpmi-das-fake-news-2020): os disparos em massa e os depoimentos da comissão
 - [Eleições 2018](temas/eleicoes-2018.md): Lula barrado contra o pedido da ONU, a delação de Palocci divulgada por Moro seis dias antes do primeiro turno, os disparos no WhatsApp e o que não fecha na facada

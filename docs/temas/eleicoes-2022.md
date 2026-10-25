@@ -53,6 +53,7 @@
 - [O roteiro da direita nas eleições](roteiro-da-direita-nas-eleicoes.md): a PRF, a PEC Kamikaze e o ataque às urnas ao lado do que se repetiu nas outras eleições
 - [A mentira da fraude nas urnas](fraude-nas-urnas.md): as acusações sem prova de Bolsonaro contra as urnas, antes e depois da eleição
 - [8 de janeiro](8-de-janeiro.md): o ataque aos Três Poderes, uma semana depois da posse de Lula
+- [Violência política da direita](violencia-politica-da-direita.md): Marcelo Arruda, Benedito Cardoso dos Santos e a bomba na Cinelândia
 - [Alexandre de Moraes](stf/alexandre-de-moraes.md): presidiu o TSE na eleição e relatou a trama golpista
 - [Edson Fachin](stf/edson-fachin.md) e [Luís Roberto Barroso](stf/luis-roberto-barroso.md): os presidentes do TSE que enfrentaram os ataques de Bolsonaro às urnas antes da campanha
 - [Joaquim Barbosa](stf/joaquim-barbosa.md): o relator do [mensalão](farsa-do-mensalao.md) que gravou vídeos para a campanha de Lula

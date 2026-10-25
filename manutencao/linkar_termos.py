@@ -48,6 +48,7 @@ TERMOS = [
      "#nossa-senhora-aparecida-na-campanha-de-2026"),
     (r"Flávio Bolsonaro", "temas/flavio-bolsonaro.md", ""),
     (r"Jones Manoel", "temas/jones-manoel.md", ""),
+    (r"[Vv]iolência política(?! da direita)|Marcelo Arruda|Moa do Katendê", "temas/violencia-politica-da-direita.md", ""),
     # Ministros e ex-ministros do STF. Parentes com o mesmo sobrenome (a mulher de Moraes,
     # os filhos de Fux, a mulher de Zanin) e homônimos ficam de fora pelas exclusões.
     (r"Gilmar(?: Mendes)?", "temas/stf/gilmar-mendes.md", ""),
