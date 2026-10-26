@@ -7,15 +7,26 @@ search:
 
 !!! abstract "Resumo"
 
-    Lula disputa a reeleição contra [Flávio Bolsonaro](flavio-bolsonaro.md), o candidato do PL, filho do ex-presidente condenado e inelegível. No primeiro turno, em 04/10/2026, Flávio ficou sem a maioria, com 47,03% dos votos válidos contra 45,16% de Lula, e a decisão foi para 25/10. O PT reelegeu no primeiro turno os governadores da Bahia, do Ceará e do Piauí, onde Rafael Fonteles teve a maior votação proporcional do primeiro turno, e elegeu seis senadores, dois deles na Bahia. Na Câmara, o PT elegeu 70 deputados, dois a mais que em 2022, e a federação dele, com PCdoB e PV, chegou a 88. O PL elegeu 121, e os cinco partidos da direita somam 259 das 513 cadeiras. No Paraná, foram eleitos Sergio Moro, o juiz que o STF declarou parcial ao condenar Lula, e Deltan Dallagnol, cassado pelo TSE em 2023 (ver [Lava Jato](farsa-da-lava-jato.md)). O TSE é comandado pelos dois ministros que Jair Bolsonaro levou ao STF, [Nunes Marques](stf/kassio-nunes-marques.md) e [André Mendonça](stf/andre-mendonca.md). Na reta final, Mendonça mandou apagar um post que nem citava Flávio pelo nome, e [Flávio Dino](stf/flavio-dino.md) derrubou a ordem.
+    Lula foi reeleito em 25/10/2026 com 64,3 milhões de votos, a maior votação da história do Brasil, contra 59,8 milhões de [Flávio Bolsonaro](flavio-bolsonaro.md), o candidato do PL, filho do ex-presidente condenado e inelegível. Foi uma virada: no primeiro turno, em 04/10, Flávio tinha ficado à frente, com 47,03% dos votos válidos contra 45,16% de Lula, e no segundo Lula venceu com 51,79%. Derrotado, Flávio repetiu o pai e não reconheceu o resultado, e o TSE desmentiu na mesma noite a acusação dele sobre os fiscais do PL. O PT reelegeu no primeiro turno os governadores da Bahia, do Ceará e do Piauí, onde Rafael Fonteles teve a maior votação proporcional do primeiro turno, e elegeu seis senadores, dois deles na Bahia. No segundo turno, Cadu de Lula virou no Rio Grande do Norte, e o PT ficou com quatro governadores, como em 2022. Na Câmara, o PT elegeu 70 deputados, dois a mais que em 2022, e a federação dele, com PCdoB e PV, chegou a 88. O PL elegeu 121, e os cinco partidos da direita somam 259 das 513 cadeiras. No Paraná, foram eleitos Sergio Moro, o juiz que o STF declarou parcial ao condenar Lula, e Deltan Dallagnol, cassado pelo TSE em 2023 (ver [Lava Jato](farsa-da-lava-jato.md)). O TSE é comandado pelos dois ministros que Jair Bolsonaro levou ao STF, [Nunes Marques](stf/kassio-nunes-marques.md) e [André Mendonça](stf/andre-mendonca.md). Na reta final, Mendonça mandou apagar um post que nem citava Flávio pelo nome, e [Flávio Dino](stf/flavio-dino.md) derrubou a ordem.
 
     Flávio dizia que nunca tinha entrado em avião de Daniel Vorcaro, mas voou com a família num jato ligado ao dono do [Banco Master](banco-master.md), e o Aos Fatos contou ao menos 43 declarações enganosas dele sobre o caso. Na campanha, ele prometeu decretar que o Brasil é "do Senhor Jesus Cristo" e repetiu a mentira de que as urnas brasileiras são da Smartmatic. No segundo turno, a direita repetiu o [roteiro de sempre](roteiro-da-direita-nas-eleicoes.md): a Veja publicou um depoimento de Vorcaro contra Lula que a PF e a PGR disseram, no mesmo dia, que não existia, Nunes Marques tirou do ar, a pedido de Flávio, um canal pró-Lula com 3,3 milhões de seguidores, e Flávio pediu ao TSE a cassação de Lula. Ao mesmo tempo, a PF achou uma diferença de mais de US$ 9 milhões no dinheiro do filme *Dark Horse*, a Piauí publicou as mensagens sobre a festa que Vorcaro organizou para o presidente do TSE, e Márcio Canella, que Flávio tinha escolhido para o Senado, foi preso. Segundo o Datafolha, a vantagem de Flávio caiu para dois pontos, empate técnico, e na AtlasIntel a diferença caiu de 5,4 para 2,2 pontos. No debate da Band, Flávio negou ter escritório com o Careca do INSS, o que os dados desmentem, e no ato dele na Paulista bolsonaristas ergueram um míssil pedindo que [Trump](donald-trump.md) bombardeasse o Brasil. Mensagens do celular de Vorcaro mostraram o banqueiro dizendo "apoiamos a direita" e reagindo com "Na traaaveeeee" à cirurgia de emergência de Lula, uma semana depois da reunião no Planalto.
 
-!!! warning "Eleição em andamento"
+!!! warning "Caso em andamento"
 
-    O segundo turno é em 25/10/2026. A página está atualizada até 20/10/2026.
+    Atualizado em 26/10/2026. Flávio anunciou que vai pedir a anulação da eleição.
 
-## O resultado do primeiro turno
+## O resultado
+
+### A virada no segundo turno
+
+- **25/10/2026 — as duas horas a mais:** na Bahia, as prefeituras de Salvador, Feira de Santana e Lauro de Freitas não puseram ônibus suficientes nas ruas, segundo a coligação de Lula, que acusou as três de descumprir a decisão do STF que garante transporte público gratuito no dia da eleição (ADPF 1.013). A campanha recorreu ao TSE às 13h22, e às 16h22 o pedido chegou ao STF. [Zanin](stf/cristiano-zanin.md) prorrogou a votação até as 19h e depois esclareceu que a prorrogação valia só "nos locais onde as urnas não foram fechadas" (📄 [decisão de Zanin, 25/10/2026](../documentos/prorrogacao-votacao-zanin-rcl101673-25out2026.pdf), [cópia no Poder360](https://static.poder360.com.br/uploads/2026/10/zanin-prorroga-eleicoes-25out26.pdf); [bahia.ba, 25/10/2026](https://bahia.ba/justica/zanin-prorrogacao-votacao-urnas-abertas/)). A campanha de Flávio, que depois chamou a prorrogação de interferência, tinha pedido ao TSE, às 15h50, a mesma prorrogação até as 19h em 19 cidades de São Paulo, do Paraná e de Santa Catarina, por causa da chuva, segundo o Poder360 ([Poder360, 25/10/2026](https://www.poder360.com.br/poder-eleicoes-2026/zanin-prorroga-votacao-do-2o-turno-ate-19h/)).
+- **25/10/2026 — a maior votação da história:** com todas as seções apuradas, Lula teve 64.256.232 votos (51,79% dos válidos), e Flávio, 59.826.041 (48,21%). A diferença foi de 4,4 milhões de votos. Lula superou o próprio recorde, os 60,3 milhões de 2022 (ver [Eleições 2022](eleicoes-2022.md#o-resultado)), e virou a eleição: no primeiro turno, tinha ficado 2,2 milhões de votos atrás. De um turno para o outro, Lula ganhou 10,4 milhões de votos, e Flávio, 3,7 milhões ([TSE, 25/10/2026](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6258;uf=br;cargo=1/resultados)).
+- **25/10/2026 — os governadores:** no Rio Grande do Norte, Cadu de Lula (PT), que tinha terminado o primeiro turno 0,78 ponto atrás, venceu Allyson, do União, com 50,77%. No Amazonas, Omar Aziz (PSD) derrotou a candidata do PL, Professora Maria do Carmo, com 61,42%. No Distrito Federal, Celina Leão (PP) venceu Leandro Grass (PT) com 57,18%. No Acre, ganhou Mailza Assis (PP); no Espírito Santo, Lorenzo Pazolini (Republicanos); e no Tocantins, Vicentinho Júnior (PSDB). O PT termina com quatro governadores, como em 2022, e o PL, com seis (TSE: [RN](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6260;uf=rn;cargo=3/resultados), [AM](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6260;uf=am;cargo=3/resultados), [DF](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6260;uf=df;cargo=3/resultados), [AC](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6260;uf=ac;cargo=3/resultados), [ES](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6260;uf=es;cargo=3/resultados), [TO](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6260;uf=to;cargo=3/resultados)).
+- **25/10/2026 — "a intromissão vinda de fora":** no discurso da vitória, em São Paulo, Lula disse que teve de vencer "a intromissão vinda de fora para dentro através de plataformas digitais", que estariam "tentando direcionar o resultado eleitoral desse país", e prometeu regulá-las: "o crime no mundo digital tem que ser tratado igual crime na vida real". Depois, foi à avenida Paulista, onde apoiadores comemoravam ([Agência Brasil, 25/10/2026](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-agradece-votos-e-diz-que-teve-de-vencer-intromissao-vinda-de-fora)).
+- **25/10/2026 — Flávio não reconhece a derrota:** depois da proclamação do resultado, Flávio disse que "tem muita coisa para ser esclarecida antes de o Brasil simplesmente reconhecer essa sacanagem", anunciou que vai pedir a anulação da eleição e acusou: "Os nossos fiscais do PL foram retirados de dentro da sala-cofre a partir do momento que essa decisão foi tomada". O TSE desmentiu na mesma noite: "A sala-cofre do TSE não é um espaço aberto à visitação", e dois fiscais do PL acompanharam o teste de integridade das urnas e a totalização. "Há registro de presença nos locais visitados, além de filmagem na Sala de Totalização" ([Revista Fórum, 26/10/2026](https://revistaforum.com.br/politica/tse-desmente-flavio-bolsonaro-sala-cofre)). Foi o que o pai fez em 2022 (ver [Não aceitar a derrota](roteiro-da-direita-nas-eleicoes.md#nao-aceitar-a-derrota)).
+- **25 e 26/10/2026 — a violência depois da apuração:** na noite da vitória, apoiadores de Flávio atacaram carros com bandeiras de Lula em Campo Grande, uma mulher foi esfaqueada no Terminal Tietê por um homem que gritava "Bolsonaro 22", e em Rio Verde (GO) vídeos mostram homens de camisa amarela espancando um homem caído (ver [Violência política da direita](violencia-politica-da-direita.md#a-violencia-nas-ruas-e-nas-campanhas)).
+
+### O primeiro turno
 
 - **04/10/2026 — Flávio sem maioria, e a decisão vai para 25/10:** com 100% das seções apuradas, Flávio teve 56.104.503 votos (47,03% dos válidos) e Lula, 53.879.538 (45,16%). A diferença, de 2,2 milhões de votos, é menor que a votação de cada um de três candidatos derrotados: Augusto Cury, do Avante (3,4 milhões), Renan Santos, do Missão (2,7 milhões), e Ronaldo Caiado, do PSD (2,6 milhões) ([TSE, 05/10/2026](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6257;uf=br;cargo=1/resultados)).
 
@@ -27,10 +38,9 @@ search:
 <span><span class="wp-cor" style="--c: var(--wp-aliados)"></span>Aliados de Lula</span>
 <span><span class="wp-cor" style="--c: var(--wp-centro)"></span>Centro e outros</span>
 <span><span class="wp-cor" style="--c: var(--wp-direita)"></span>Direita</span>
-<span><span class="wp-cor" style="--c: var(--wp-pendente)"></span>Segundo turno</span>
 </div>
 <div class="wp-grafico">
-<p class="wp-grafico__titulo">Presidente: Flávio ficou abaixo da metade dos votos válidos</p>
+<p class="wp-grafico__titulo">Presidente, primeiro turno: Flávio ficou abaixo da metade dos votos válidos</p>
 <p class="wp-grafico__nota">Primeiro turno, em % dos votos válidos. A linha marca a metade, o mínimo para vencer sem segundo turno. Em cinza, os outros candidatos.</p>
 <div class="wp-linha"><span class="wp-linha__rotulo">2022</span>
 <div class="wp-barra" role="img" aria-label="2022: Lula 48,43%, outros candidatos 8,37%, Bolsonaro 43,20%">
@@ -48,13 +58,28 @@ search:
 </div></div>
 </div>
 <div class="wp-grafico">
-<p class="wp-grafico__titulo">Governadores: o PT reelegeu 3 no primeiro turno e disputa mais 2</p>
-<p class="wp-grafico__nota">Os 27 estados. Em 6 a eleição vai para o segundo turno, em 25/10, e o PT está em 2 deles, no Rio Grande do Norte e no Distrito Federal. No Rio, a decisão saiu em 10/10, quando a anulação dos votos de Garotinho levou Douglas Ruas, do PL, a 50,88% dos válidos.</p>
-<div class="wp-barra" role="img" aria-label="Governadores eleitos no primeiro turno: PT 3, aliados 0, centro e outros 7, direita 11; 6 estados no segundo turno">
-<span class="wp-seg wp-seg--pt" style="--n: 3" title="PT: 3 governadores">3</span>
-<span class="wp-seg wp-seg--centro" style="--n: 7" title="Centro e outros: 7 governadores">7</span>
-<span class="wp-seg wp-seg--direita" style="--n: 11" title="Direita: 11 governadores">11</span>
-<span class="wp-seg wp-seg--pendente" style="--n: 6" title="Segundo turno: 6 estados">6</span>
+<p class="wp-grafico__titulo">Presidente, segundo turno: Lula venceu com a maior votação da história</p>
+<p class="wp-grafico__nota">Em % dos votos válidos. A linha marca a metade.</p>
+<div class="wp-linha"><span class="wp-linha__rotulo">2022</span>
+<div class="wp-barra" role="img" aria-label="2022, segundo turno: Lula 50,90%, Bolsonaro 49,10%">
+<span class="wp-metade" aria-hidden="true"></span>
+<span class="wp-seg wp-seg--pt" style="--n: 50.90" title="Lula: 50,90%">Lula 50,9%</span>
+<span class="wp-seg wp-seg--direita" style="--n: 49.10" title="Jair Bolsonaro: 49,10%">Bolsonaro 49,1%</span>
+</div></div>
+<div class="wp-linha"><span class="wp-linha__rotulo">2026</span>
+<div class="wp-barra" role="img" aria-label="2026, segundo turno: Lula 51,79%, Flávio Bolsonaro 48,21%">
+<span class="wp-metade" aria-hidden="true"></span>
+<span class="wp-seg wp-seg--pt" style="--n: 51.79" title="Lula: 51,79%">Lula 51,8%</span>
+<span class="wp-seg wp-seg--direita" style="--n: 48.21" title="Flávio Bolsonaro: 48,21%">Flávio 48,2%</span>
+</div></div>
+</div>
+<div class="wp-grafico">
+<p class="wp-grafico__titulo">Governadores: o PT elegeu 4, como em 2022</p>
+<p class="wp-grafico__nota">Os 27 estados. Seis foram decididos no segundo turno, em 25/10: o PT venceu no Rio Grande do Norte e perdeu no Distrito Federal. No Rio, a decisão saiu em 10/10, quando a anulação dos votos de Garotinho levou Douglas Ruas, do PL, a 50,88% dos válidos.</p>
+<div class="wp-barra" role="img" aria-label="Governadores eleitos: PT 4, aliados 0, centro e outros 9, direita 14">
+<span class="wp-seg wp-seg--pt" style="--n: 4" title="PT: 4 governadores">4</span>
+<span class="wp-seg wp-seg--centro" style="--n: 9" title="Centro e outros: 9 governadores">9</span>
+<span class="wp-seg wp-seg--direita" style="--n: 14" title="Direita: 14 governadores">14</span>
 </div>
 </div>
 <div class="wp-grafico">
@@ -82,23 +107,22 @@ search:
 <p class="wp-grafico__nota">Senado comparado com 2018, quando também foram eleitas duas vagas por estado. Governadores e Câmara comparados com 2022.</p>
 <div class="wp-numeros">
 <div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-pt)"></span>Senadores do PT</span><span class="wp-numero__valor">6</span><span class="wp-numero__comparacao">eram 4 em 2018</span></div>
-<div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-pt)"></span>Governadores do PT</span><span class="wp-numero__valor">3</span><span class="wp-numero__comparacao">e mais 2 no segundo turno; eram 4 em 2022</span></div>
+<div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-pt)"></span>Governadores do PT</span><span class="wp-numero__valor">4</span><span class="wp-numero__comparacao">eram 4 em 2022</span></div>
 <div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-direita)"></span>Senadores do PL</span><span class="wp-numero__valor">19</span><span class="wp-numero__comparacao">era 1 em 2018, quando o partido se chamava PR</span></div>
-<div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-direita)"></span>Governadores do PL</span><span class="wp-numero__valor">6</span><span class="wp-numero__comparacao">e mais 1 no segundo turno; eram 2 em 2022</span></div>
+<div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-direita)"></span>Governadores do PL</span><span class="wp-numero__valor">6</span><span class="wp-numero__comparacao">eram 2 em 2022</span></div>
 <div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-pt)"></span>Deputados do PT</span><span class="wp-numero__valor">70</span><span class="wp-numero__comparacao">eram 68 em 2022</span></div>
 <div class="wp-numero"><span class="wp-numero__rotulo"><span class="wp-cor" style="--c: var(--wp-direita)"></span>Deputados do PL</span><span class="wp-numero__valor">121</span><span class="wp-numero__comparacao">eram 99 em 2022</span></div>
 </div>
-<p class="wp-grafico__nota">Aliados de Lula são os partidos da coligação registrada no TSE: PSB, PDT, PCdoB, PV, PSOL e Rede. Direita: PL, Novo, Republicanos, PP e União. Centro e outros: MDB, PSD, PSDB, Podemos e, na Câmara, Avante, PRD, Solidariedade e Missão. Fontes: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6257;uf=br;cargo=1/resultados">TSE, resultados de 2026</a>; <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=sp;cargo=6/resultados">TSE, deputados federais por estado</a>; <a href="https://www.cnnbrasil.com.br/politica/pl-e-o-partido-que-mais-cresceu-na-camara-e-no-senado-veja-lista/">CNN, Câmara eleita em 2022</a>; <a href="https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno">TSE, primeiro turno de 2022</a>; TSE, dados abertos de candidatos de <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2018">2018</a> e <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2022">2022</a>.</p>
+<p class="wp-grafico__nota">Aliados de Lula são os partidos da coligação registrada no TSE: PSB, PDT, PCdoB, PV, PSOL e Rede. Direita: PL, Novo, Republicanos, PP e União. Centro e outros: MDB, PSD, PSDB, Podemos e, na Câmara, Avante, PRD, Solidariedade e Missão. Fontes: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6257;uf=br;cargo=1/resultados">TSE, resultados de 2026</a>; <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6258;uf=br;cargo=1/resultados">TSE, segundo turno de 2026</a>; <a href="https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno">TSE, segundo turno de 2022</a>; <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=sp;cargo=6/resultados">TSE, deputados federais por estado</a>; <a href="https://www.cnnbrasil.com.br/politica/pl-e-o-partido-que-mais-cresceu-na-camara-e-no-senado-veja-lista/">CNN, Câmara eleita em 2022</a>; <a href="https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno">TSE, primeiro turno de 2022</a>; TSE, dados abertos de candidatos de <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2018">2018</a> e <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2022">2022</a>.</p>
 <details class="info">
 <summary>Ver os números em tabela</summary>
 <table>
 <thead><tr><th>Eleitos em 2026</th><th>Governadores</th><th>Senadores</th><th>Deputados federais</th></tr></thead>
 <tbody>
-<tr><td>PT</td><td>3</td><td>6</td><td>70</td></tr>
+<tr><td>PT</td><td>4</td><td>6</td><td>70</td></tr>
 <tr><td>Aliados de Lula</td><td>0</td><td>5</td><td>54</td></tr>
-<tr><td>Centro e outros</td><td>7</td><td>13</td><td>130</td></tr>
-<tr><td>Direita</td><td>11</td><td>30</td><td>259</td></tr>
-<tr><td>Segundo turno</td><td>6 estados</td><td>—</td><td>—</td></tr>
+<tr><td>Centro e outros</td><td>9</td><td>13</td><td>130</td></tr>
+<tr><td>Direita</td><td>14</td><td>30</td><td>259</td></tr>
 </tbody>
 </table>
 <table>
@@ -110,12 +134,19 @@ search:
 </tbody>
 </table>
 <table>
+<thead><tr><th>Presidente, 2º turno</th><th>2022</th><th>2026</th></tr></thead>
+<tbody>
+<tr><td>Lula</td><td>50,90%</td><td>51,79%</td></tr>
+<tr><td>Candidato do PL (Jair em 2022, Flávio em 2026)</td><td>49,10%</td><td>48,21%</td></tr>
+</tbody>
+</table>
+<table>
 <thead><tr><th></th><th>Antes</th><th>2026</th></tr></thead>
 <tbody>
 <tr><td>Senadores do PT</td><td>4 (2018)</td><td>6</td></tr>
 <tr><td>Senadores do PL</td><td>1 (2018, como PR)</td><td>19</td></tr>
-<tr><td>Governadores do PT</td><td>4 (2022)</td><td>3, e mais 2 no segundo turno</td></tr>
-<tr><td>Governadores do PL</td><td>2 (2022)</td><td>6, e mais 1 no segundo turno</td></tr>
+<tr><td>Governadores do PT</td><td>4 (2022)</td><td>4</td></tr>
+<tr><td>Governadores do PL</td><td>2 (2022)</td><td>6</td></tr>
 <tr><td>Deputados do PT</td><td>68 (2022)</td><td>70</td></tr>
 <tr><td>Deputados do PL</td><td>99 (2022)</td><td>121</td></tr>
 </tbody>
@@ -174,14 +205,10 @@ O que cada fato abaixo repete das eleições anteriores está em [O roteiro da d
 - **21/10/2026 — "O mundo precisa de Lula" em Londres:** a quatro dias do segundo turno, ativistas exibiram na Ponte de Westminster, perto do Big Ben, um anúncio com a frase "O mundo precisa de Lula". "Esta eleição não afeta apenas o Brasil. Ela abre um precedente para fascistas no mundo todo", disse um porta-voz ([BFC, 21/10/2026](https://www.instagram.com/brasilforadacaverna/p/DexDo0EHRO_/); [Jornal de Alagoas, 21/10/2026](https://www.jornaldealagoas.com.br/internacional/2026/10/21/390-anuncio-pro-lula-e-exibido-em-ponte-proxima-ao-big-ben-em-londres)).
 - **21/10/2026 — as camisetas de Lula nos presos:** em Piracicaba (SP), três jovens presos pela PM com drogas e um revólver, segundo a Secretaria da Segurança, apareceram em fotos com camisetas idênticas e aparentemente novas, com os dizeres "Professores da Apeoesp com Lula". As fotos foram publicadas pelo senador eleito Guilherme Derrite (PP-SP), ex-secretário de Segurança de Tarcísio, que parabenizou os policiais ([ICL Notícias, 22/10/2026](https://iclnoticias.com.br/pm-sp-obriga-detidos-vestir-camisetas-lula/)). A mãe de um deles disse que o filho saiu de casa com outra roupa: "Meu filho estava com uma blusa azul regata, não estava com blusa de Lula". No mesmo dia e na mesma comunidade, duas mulheres disseram ter sido obrigadas por policiais a tirar camisetas de Lula. O PT pediu que a Procuradoria-Geral Eleitoral e a PF investiguem e que Derrite explique de onde tirou as imagens ([Brasil 247, 22/10/2026](https://www.brasil247.com/sudeste/pt-aciona-justica-eleitoral-apos-pm-de-sp-ser-acusada-de-vestir-jovens-com-camisetas-do-partido-apos-operacao/)). É o roteiro de 1989, quando a polícia de São Paulo apresentou os sequestradores de Abilio Diniz com camisetas do PT (ver [A bomba da última semana](roteiro-da-direita-nas-eleicoes.md#a-bomba-da-ultima-semana)).
 - **22 e 23/10/2026 — Flávio finge abrir os sigilos:** a campanha de Lula entregou ao TSE, às 21h do último dia do prazo, 18 procurações, de Lula, Janja, filhos, familiares e do Instituto Lula, e malotes com os gastos do cartão corporativo, as visitas ao Alvorada e as listas de passageiros dos aviões da FAB ([PT, 23/10/2026](https://pt.org.br/investigado-por-lavagem-de-dinheiro-flavio-bolsonaro-foge-de-abertura-de-sigilos/)). A de Flávio chegou de madrugada, depois do prazo. Segundo a campanha de Lula, só autorizava divulgar o que fosse obtido por decisão judicial e deixava de fora as contas pessoais de Flávio, Eduardo Bolsonaro e a conta ligada a [Willer Tomaz](flavio-bolsonaro.md#willer-tomaz) no Santander da Ilha da Madeira. "Flávio Bolsonaro fingiu que aceitou o desafio só para responder a opinião pública, mas não aceitou nada", disse Boulos ([Jornal GGN, 23/10/2026](https://jornalggn.com.br/eleicoes/2026/flavio-bolsonaro-manobra-e-nao-entrega-sigilo-entenda/); [vídeo de Boulos, 23/10/2026](https://www.instagram.com/guilhermeboulos.oficial/reel/De18TDzItXs/)).
-- **22 a 24/10/2026 — a violência na reta final:** em Barra do Corda (MA), um secretário de Segurança foi afastado por áudios em que pedia a policiais que prendessem petistas; em Porto Alegre, um homem apontou uma arma para vizinhas que tinham posto uma bandeira do PT na fachada; em Montes Claros (MG), uma vereadora do PT levou uma tijolada na cabeça numa carreata de Lula; no último ato de Flávio, no Rio, um apoiador dele levou um homem negro acorrentado; e em Bonito (MS), uma briga numa carreata de Flávio terminou com um morto (ver [Violência política da direita](violencia-politica-da-direita.md#a-violencia-nas-ruas-e-nas-campanhas)).
+- **22 a 24/10/2026 — a violência na reta final:** em Barra do Corda (MA), um secretário de Segurança foi afastado por áudios em que pedia a policiais que prendessem petistas; em Porto Alegre, um homem apontou uma arma para vizinhas que tinham posto uma bandeira do PT na fachada; em Montes Claros (MG), uma vereadora do PT levou uma tijolada na cabeça numa carreata de Lula; no último ato de Flávio, no Rio, um apoiador dele levou um homem negro acorrentado; e em Santos (SP), um engenheiro que tinha ido a um ato pró-Lula morreu depois de ser espancado (ver [Violência política da direita](violencia-politica-da-direita.md#a-violencia-nas-ruas-e-nas-campanhas)).
 - **23/10/2026 — "nove dedos":** no debate da Globo, Flávio chamou Lula de "nove dedos", o apelido com que a extrema direita zomba do acidente de trabalho que Lula sofreu numa prensa, aos 17 anos. "Não vou permitir que um miliciano me chame de nove dedos", respondeu Lula. "Ele nunca trabalhou na vida e não sabe o que é uma carteira profissional." Na réplica, Flávio recuou: "Lula, te peço desculpas" ([Brasil de Fato, 23/10/2026](https://www.brasildefato.com.br/2026/10/23/lula-no-debate-da-globo-nao-vou-permitir-que-um-miliciano-me-chame-de-nove-dedos/)).
 - **23/10/2026 — Belém "fede":** no mesmo debate, Flávio disse que Belém "fede" e tem "cheiro ruim", ao falar de esgoto a céu aberto e lixo nas ruas. O prefeito Igor Normando (MDB), que não é do PT, chamou a fala de "arrogante" e "prepotente" e lembrou as obras de saneamento feitas em parceria com o governo federal ([Revista Fórum, 24/10/2026](https://revistaforum.com.br/politica/flavio-bolsonaro-belem-cheiro-ruim-prefeito-reage/)).
 - **23 e 24/10/2026 — os eleitores indígenas:** menos de duas horas depois de a Justiça Federal do Pará aprovar o plano da União para levar às urnas 7,2 mil eleitores indígenas, 4.770 deles de barco, [Nunes Marques](stf/kassio-nunes-marques.md), presidente do TSE, restringiu o uso dos veículos e barcos da Funai e da Sesai. O procurador-geral Paulo Gonet recorreu ao STF: "Uma condição que não pode ser cumprida no tempo disponível opera como proibição". No dia seguinte, Nunes Marques recuou e liberou a frota, com uma autorização por zona eleitoral ([Revista Fórum, 24/10/2026](https://revistaforum.com.br/politica/nunes-marques-autoriza-transporte-indigenas)).
-
-## Como votar em 25/10
-
-A votação vai das 8h às 17h, pelo horário de Brasília, em todo o país, e quem não votou no primeiro turno pode votar normalmente ([Congresso em Foco, 14/10/2026](https://www.congressoemfoco.com.br/noticia/123236/quando-e-qual-e-o-dia-do-segundo-turno-das-eleicoes-2026)). Para presidente, Lula é o 13, e Flávio, o 22. Em seis estados o eleitor também escolhe o governador: [Acre](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=ac;cargo=3/resultados), [Amazonas](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=am;cargo=3/resultados), [Distrito Federal](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=df;cargo=3/resultados), [Espírito Santo](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=es;cargo=3/resultados), [Rio Grande do Norte](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=rn;cargo=3/resultados) e [Tocantins](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e6259;uf=to;cargo=3/resultados). O PT disputa dois deles, com Cadu de Lula no Rio Grande do Norte e Leandro Grass no Distrito Federal, os dois com o 13. O local de votação está no [Autoatendimento Eleitoral do TSE](https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral) e no aplicativo e-Título, e o número de cada candidato, no [DivulgaCandContas, do TSE](https://divulgacandcontas.tse.jus.br/), sem cadastro.
 
 ## A campanha
 

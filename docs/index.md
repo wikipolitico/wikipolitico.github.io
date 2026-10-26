@@ -6,11 +6,11 @@ O **Wiki Político** reúne material para enfrentar, com fatos, as narrativas fa
 
 ## Comece por aqui
 
-Rumo ao segundo turno, em 25/10/2026:
+Depois do segundo turno, em 25/10/2026:
 
-- [Eleições 2026](temas/eleicoes-2026.md): Flávio sem maioria no primeiro turno, o empate técnico no segundo, o depoimento de Vorcaro que a PF e a PGR disseram não existir, o canal pró-Lula tirado do ar a pedido de Flávio e os indicados de Bolsonaro no comando do TSE.
+- [Eleições 2026](temas/eleicoes-2026.md): Lula reeleito com a maior votação da história depois de ficar atrás no primeiro turno, as duas horas a mais que as duas campanhas pediram, Flávio sem reconhecer a derrota e o TSE desmentindo a acusação dele sobre os fiscais.
 - [O roteiro da direita nas eleições](temas/roteiro-da-direita-nas-eleicoes.md): de 1989 a 2026, a bomba da última semana, o adversário tirado da urna, a mentira paga, o pedido de censura e a derrota que não se aceita.
-- [Flávio Bolsonaro](temas/flavio-bolsonaro.md): o candidato do PL à Presidência, das homenagens a milicianos ao dinheiro de Vorcaro para o filme sobre o pai.
+- [Flávio Bolsonaro](temas/flavio-bolsonaro.md): o candidato do PL derrotado por Lula, das homenagens a milicianos ao dinheiro de Vorcaro para o filme sobre o pai.
 - [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou em cada governo, e [a projeção do FMI](comparacao-bolsonaro-lula3.md#o-brasil-entre-as-maiores-economias) que põe o Brasil como 8ª economia do mundo em 2027.
 
 ## Para responder em debate
@@ -32,7 +32,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 ### Em pauta agora
 
-- [Eleições 2026](temas/eleicoes-2026.md): o resultado do primeiro turno, o segundo turno dia a dia, o juiz parcial e o procurador cassado eleitos no Paraná, as mentiras de Flávio sobre Vorcaro, os indicados de Bolsonaro no comando do TSE e o alerta da Abin sobre grupos extremistas
+- [Eleições 2026](temas/eleicoes-2026.md): Lula reeleito com a maior votação da história, o resultado do primeiro turno, o segundo turno dia a dia, o juiz parcial e o procurador cassado eleitos no Paraná, as mentiras de Flávio sobre Vorcaro, os indicados de Bolsonaro no comando do TSE e o alerta da Abin sobre grupos extremistas
 - [O roteiro da direita nas eleições](temas/roteiro-da-direita-nas-eleicoes.md): o mesmo roteiro em todas as eleições desde 1989, da capa da Veja na véspera ao canal pró-Lula tirado do ar a pedido de Flávio
 - [Flávio Bolsonaro](temas/flavio-bolsonaro.md): milícias, rachadinha, o filme Dark Horse, o jato de Vorcaro e a emenda pedida por um condenado no caso Marielle
 - [Violência política da direita](temas/violencia-politica-da-direita.md): de Marielle, Moa do Katendê e Marcelo Arruda à tijolada na carreata de Lula na véspera do segundo turno, e a direita chamando tudo de armação ou de caso isolado
