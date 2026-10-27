@@ -5,3 +5,6 @@ __pycache__/
 
 # anotações pessoais, fora do repositório
 anotacoes/
+
+# permissões locais do Claude Code
+.claude/settings.local.json

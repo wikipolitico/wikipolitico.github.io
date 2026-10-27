@@ -234,6 +234,7 @@ Perfis oficiais de partidos, políticos, dirigentes partidários e autoridades. 
 
 ### Movimentos sociais
 
+- ⭐ **342 Artes** — movimento puxado pela produtora Paula Lavigne que articula artistas e sociedade em defesa da democracia; em 2017, lançou a campanha #342 artes contra a censura e a difamação de artistas. [Instagram](https://www.instagram.com/342artes/)
 - **Democracy for Brasil - UK** — brasileiros no Reino Unido em defesa da democracia. [Facebook](https://www.facebook.com/DemocracyforBrasilUK/)
 - **FIBRA** — Frente Internacional de Brasileiros contra o Golpe. [Facebook](https://www.facebook.com/fibrafrenteinternacional/)
 - **Foro de São Paulo** — articulação de partidos de esquerda da América Latina, criada em 1990. [X](https://twitter.com/ForodeSaoPaulo)
