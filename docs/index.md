@@ -8,9 +8,9 @@ O **Wiki Político** reúne material para enfrentar, com fatos, as narrativas fa
 
 Depois do segundo turno, em 25/10/2026:
 
-- [Eleições 2026](temas/eleicoes-2026.md): Lula reeleito com a maior votação da história depois de ficar atrás no primeiro turno, as duas horas a mais que as duas campanhas pediram, Flávio sem reconhecer a derrota e o TSE desmentindo a acusação dele sobre os fiscais.
+- [Eleições 2026](temas/eleicoes-2026.md): Lula reeleito com a maior votação da história depois de ficar atrás no primeiro turno, as duas horas a mais que as duas campanhas pediram, Flávio sem reconhecer a derrota, o TSE desmentindo a acusação dele sobre os fiscais e a carta de Miami em que ele se disse "presidente eleito", que nem o PL bancou.
 - [O roteiro da direita nas eleições](temas/roteiro-da-direita-nas-eleicoes.md): de 1989 a 2026, a bomba da última semana, o adversário tirado da urna, a mentira paga, o pedido de censura e a derrota que não se aceita.
-- [Flávio Bolsonaro](temas/flavio-bolsonaro.md): o candidato do PL derrotado por Lula, das homenagens a milicianos ao dinheiro de Vorcaro para o filme sobre o pai.
+- [Flávio Bolsonaro](temas/flavio-bolsonaro.md): o candidato do PL derrotado por Lula, das homenagens a milicianos ao dinheiro de Vorcaro para o filme sobre o pai e à fuga pela Argentina com o passaporte que o STF mandou entregar.
 - [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou em cada governo, e [a projeção do FMI](comparacao-bolsonaro-lula3.md#o-brasil-entre-as-maiores-economias) que põe o Brasil como 8ª economia do mundo em 2027.
 
 ## Para responder em debate
