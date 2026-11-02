@@ -61,6 +61,7 @@ Bolsonaro trocou pelo menos 20 delegados da PF nos três primeiros anos de gover
 ## Ver também
 
 - [Combate à corrupção](combate-a-corrupcao.md): o que os governos do PT fizeram contra a corrupção
+- [Os poupados pela Justiça](poupados-pela-justica.md): Paulo Guedes, a Covaxin, as joias e a rachadinha
 - [Escândalos de corrupção](corrupcao.md)
 - [8 de janeiro](8-de-janeiro.md)
 - [Comparação Bolsonaro x Lula 3](../comparacao-bolsonaro-lula3.md)

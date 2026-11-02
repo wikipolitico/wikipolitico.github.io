@@ -320,6 +320,24 @@ Perfis oficiais de partidos, políticos, dirigentes partidários e autoridades. 
 - [Oliver Stone](https://twitter.com/TheOliverStone) · [Instagram](https://www.instagram.com/officialoliverstone/) · [Facebook](https://www.facebook.com/TheOliverStone) · cineasta americano, diretor do documentário "Lula" (2024)
 - [Roger Waters](https://rogerwaters.com/) · [YouTube](https://www.youtube.com/channel/UCRpdKithfG65rWvtsQt0TDQ) · [Instagram](https://www.instagram.com/rogerwaters/) · [Facebook](https://www.facebook.com/rogerwaters) · [TikTok](https://www.tiktok.com/@rogerwaters) · [X](https://twitter.com/rogerwaters) · músico, um dos fundadores do Pink Floyd
 
+### Palestina
+
+Quem acompanha Gaza e a causa palestina, em português ou de dentro do território, para seguir o que está em [Palestina e Gaza](temas/palestina-e-gaza.md). Também cobrem o tema [Breno Altman](#jornalistas), o Opera Mundi e a Al Jazeera.
+
+- **Bisan Owda** — jornalista palestina de Gaza. [Instagram](https://www.instagram.com/wizard_bisan1/)
+- **B'Tselem** (Israel) — organização israelense de direitos humanos que, em 2025, concluiu que o próprio país comete genocídio em Gaza. [Site](https://www.btselem.org/) · [Instagram](https://www.instagram.com/btselem/)
+- **Fepal** — Federação Árabe Palestina do Brasil, fundada em 1979, representa a diáspora palestina no país. [Site](https://fepal.com.br/) · [Instagram](https://www.instagram.com/fepal_brasil/) · [Facebook](https://www.facebook.com/FepalPalestina/) · [X](https://twitter.com/fepalb) · [YouTube](https://www.youtube.com/channel/UCokFS4pjnS5KLYv4Erz3K8Q), *sem vídeo novo desde setembro de 2020*
+- **Francesca Albanese** — relatora especial da ONU para os territórios palestinos ocupados. [X](https://twitter.com/FranceskAlbs)
+- **Freedom Flotilla Coalition** — organiza as flotilhas da Liberdade; a do barco Madleen, com Thiago Ávila e Greta Thunberg, foi interceptada por Israel em 2025. [Site](https://freedomflotilla.org/) · [Instagram](https://www.instagram.com/gazafreedomflotilla/) · [Facebook](https://www.facebook.com/FreedomFlotillaCoalition/) · [YouTube](https://www.youtube.com/@freedomflotillacoalition6166) · [TikTok](https://www.tiktok.com/@gazafreedomflotilla) · [X](https://twitter.com/GazaFFlotilla) · [Bluesky](https://bsky.app/profile/freedomflotilla.bsky.social) · [Telegram](https://t.me/FFC_official_channel)
+- **Global Sumud Flotilla** — flotilha civil contra o bloqueio a Gaza; a de abril de 2026 foi interceptada por Israel em águas internacionais, perto de Creta. [Site](https://globalsumudflotilla.org/) · [Instagram](https://instagram.com/globalsumudflotilla) · [YouTube](https://www.youtube.com/@globalsumudflotilla) · [TikTok](https://www.tiktok.com/@globalsumudflotilla) · [X](https://x.com/gbsumudflotilla) · [Telegram](https://t.me/globalsumudflotilla)
+- **História Islâmica** — o projeto de Mansur Peixoto: história do Islã e da Palestina, com resposta a quem mente sobre Gaza. [Site](https://historiaislamica.com.br/) · [YouTube](https://www.youtube.com/@historiaislamica) · [Instagram](https://www.instagram.com/mansur.peixoto/) · [Facebook](https://www.facebook.com/historiaislamica) · [TikTok](https://www.tiktok.com/@historiaislamica) · [X](https://x.com/MansurPeixoto)
+- **Ibraspal** — Instituto Brasil-Palestina, edita a revista *Estado da Palestina*. [Site](https://ibraspal.org/) · [Instagram](https://www.instagram.com/ibraspal/)
+- **Monitor do Oriente** — versão em português do Monitor do Oriente Médio (MEMO), da Ardi Associates Ltd. [Site](https://www.monitordooriente.com/) · [Instagram](https://www.instagram.com/monitordooriente/) · [Facebook](https://www.facebook.com/monitordooriente) · [YouTube](https://www.youtube.com/@MonitorDoOriente) · [TikTok](https://www.tiktok.com/@monitordooriente) · [Threads](https://www.threads.net/@monitordooriente) · [X](https://x.com/monitordoorient)
+- **Motaz Azaiza** — fotojornalista palestino de Gaza. [Instagram](https://www.instagram.com/motaz_azaiza/)
+- **Soraya Misleh** — jornalista palestino-brasileira, da Frente Palestina de São Paulo. [Instagram](https://www.instagram.com/sorayamisleh/) · [coluna na CartaCapital](https://www.cartacapital.com.br/author/soraya-misleh/)
+- **Thiago Ávila** — ativista brasileiro das flotilhas para Gaza, preso por Israel em junho de 2025 e de abril a maio de 2026; em 2026, disputou vaga de deputado federal por São Paulo pela Rede e ficou como suplente. [Site](https://thiagoavilabrasil.com.br/) · [Instagram](https://www.instagram.com/thiagoavilabrasil/) · [Facebook](https://www.facebook.com/thiagoavilabrasil) · [X](https://twitter.com/thiagoavilabr)
+- **Vozes Judaicas por Libertação** — coletivo "pela libertação da Palestina e por um judaísmo além do sionismo". [Instagram](https://www.instagram.com/vozesjudaicasporlibertacao/)
+
 ## Páginas no Facebook
 
 ### Humor

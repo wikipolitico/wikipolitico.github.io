@@ -136,4 +136,5 @@ O Metrópoles, o G1 e Luciano Huck estão em [O dinheiro de Vorcaro nas redaçõ
 - [Crise no STF (2026)](stf/crise-2026.md)
 - [André Mendonça](stf/andre-mendonca.md)
 - [Corrupção no governo Bolsonaro](corrupcao-no-governo-bolsonaro.md)
+- [Os poupados pela Justiça](poupados-pela-justica.md#o-banco-master): a CPI que rejeitou quebrar os sigilos de Paulo Guedes
 - [Eleições 2026](eleicoes-2026.md)

@@ -127,3 +127,4 @@
 - [Eleições 2014](eleicoes-2014.md): a seca em São Paulo e o terceiro turno
 - [Ciro Gomes](ciro-gomes.md)
 - [Escândalos de corrupção](corrupcao.md): Banestado, Furnas e a Privataria Tucana
+- [Os poupados pela Justiça](poupados-pela-justica.md): como terminaram os casos de Azeredo, Serra e Aécio e a reeleição de FHC

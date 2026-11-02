@@ -107,6 +107,10 @@ O orçamento secreto, os pastores do MEC, a Covaxin, as joias e os imóveis em d
 - [Primeiro-ministro sueco desmente procurador da Zelotes e reforça a defesa de Lula – YouTube](https://www.youtube.com/watch?v=6K7dt0mAs_I): o desmentido do governo sueco, segundo o vídeo · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=6K7dt0mAs_I)
 - [A farsa midiática contra o filho de Lula – Nossa Política, 10/2015](http://nossapolitica.net/2015/10/farsa-midiatica-contra-filho-lula/): [Lulinha](caso-lulinha.md) na cobertura da Zelotes, segundo o site · *fora do ar em 13/09/2026, 404* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://nossapolitica.net/2015/10/farsa-midiatica-contra-filho-lula/)
 
+### Americanas
+
+A fraude revelada em 2023 e o caminho do caso até os acionistas estão em [Os poupados pela Justiça](poupados-pela-justica.md#nome-a-nome).
+
 ### Panama Papers (offshores)
 
 - [Receita não divulga resultado de investigação do Panama Papers no Brasil – Poder360, 03/04/2019](https://www.poder360.com.br/panama-papers/receita-nao-divulga-resultado-de-investigacao-com-dados-do-panama-papers/): três anos depois, nenhum resultado público
@@ -133,6 +137,7 @@ O orçamento secreto, os pastores do MEC, a Covaxin, as joias e os imóveis em d
 ## Ver também
 
 - [Combate à corrupção](combate-a-corrupcao.md)
+- [Os poupados pela Justiça](poupados-pela-justica.md): como terminaram os casos, nome a nome
 - [Corrupção no governo Bolsonaro](corrupcao-no-governo-bolsonaro.md)
 - [Farsa do Mensalão do PT](farsa-do-mensalao.md)
 - [Farsa da Lava Jato](farsa-da-lava-jato.md)

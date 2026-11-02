@@ -153,24 +153,7 @@ Desde 2001 circulam vídeos e textos dizendo que os atentados de 11 de setembro 
 
 ## Palestina e Israel
 
-- [A história do Estado de Israel e o conflito com a Palestina – Impérios AD (YouTube)](https://www.youtube.com/watch?v=1OWauiyGINg): a história do conflito
-- [Entenda o conflito Israel-Palestina – Bemvindo Sequeira (YouTube)](https://www.youtube.com/watch?v=XAE4jmMfRes): a análise do ator e comentarista
-- [Análise do Stoppa – Leonardo Stoppa (YouTube)](https://www.youtube.com/watch?v=20Hw1zv5tyE): a análise do conflito
-- [Malcolm X, Albert Einstein, Nelson Mandela e Mahatma Gandhi sobre a Palestina – Marcio Baraldi (Facebook)](https://www.facebook.com/photo/?fbid=760246129243794&set=pb.100057752423456.-2207520000&locale=pt_BR): a charge do cartunista
-- [Como é ser um palestino? – História Islâmica, com Mansur Peixoto (YouTube)](https://www.youtube.com/watch?v=Qfif46A2lMg): a vida sob a ocupação
-- [Hamas pode vencer Israel? Quem é o Hamas? – Prof. JeanGrafia (YouTube)](https://www.youtube.com/watch?v=1VEG1-8yahw): a aula de geopolítica
-- [Questão Palestina, aula completa – Ricardo Marcílio (YouTube)](https://www.youtube.com/watch?v=3p_BJWlL7DQ): a aula sobre o conflito
-- [Israel e Hamas: a origem do conflito – História Islâmica, com Mansur Peixoto (YouTube)](https://www.youtube.com/watch?v=py83z8DRRxM): a origem do conflito
-- [Como o Reino Unido criou a crise palestina – História Islâmica, com Mansur Peixoto (YouTube)](https://www.youtube.com/watch?v=WkaOizNDHFM): o mandato britânico e a promessa aos dois povos
-- [Entenda o conflito de Israel e Palestina – Plano Piloto (YouTube)](https://www.youtube.com/watch?v=_TBmvegNu-I): o conflito explicado
-- [Rui Costa Pimenta explica por que defende o fim do Estado de Israel – Brasil 247, 09/10/2023](https://www.brasil247.com/ideias/rui-costa-pimenta-explica-por-que-defende-o-fim-do-estado-de-israel): o presidente do PCO: "o que queremos é um outro tipo de organização estatal, não a extinção dos judeus"
-- [Israel concretou nascentes de água para deixar os palestinos sem água – Facebook](https://www.facebook.com/watch?v=2042912306065011): a denúncia, segundo o vídeo
-- [Entrevista do líder da OLP na CNN – Facebook](https://www.facebook.com/watch?v=841924297314574): a entrevista, segundo o post
-- [A análise de Guilherme Casarões sobre o conflito israelo-palestino – Instagram, 09/10/2023](https://www.instagram.com/p/CyMTfYRO2jQ): o professor de relações internacionais depois dos ataques do Hamas
-- [Saiba quem é o Hamas – Ricardo Mello (Instagram), 10/10/2023](https://www.instagram.com/p/CyO1GB8P_D_): o perfil do grupo
-- [Globalistas: o Ocidente demoniza a resistência palestina – TV 247 (YouTube)](https://www.youtube.com/watch?v=9WYBFrTq8U8): o programa sobre a cobertura ocidental
-- [Israel lança bombas de fósforo branco no sul do Líbano – Seja Subversivo (Instagram), 10/10/2023](https://www.instagram.com/p/CyO-cyTuV1n): a arma proibida em áreas civis, segundo o post
-- [É fake que Lula doou R$ 25 milhões ao grupo Hamas – G1 Fato ou Fake, 14/05/2021](https://g1.globo.com/fato-ou-fake/noticia/2021/05/14/e-fake-que-lula-doou-r-25-milhoes-ao-grupo-hamas.ghtml): a doação de 2010 foi para a Autoridade Nacional Palestina, controlada pelo Fatah, numa ajuda à reconstrução de Gaza com outros países
+O tema tem página própria: [Palestina e Gaza](palestina-e-gaza.md), com os documentos sobre o genocídio, o que os próprios israelenses dizem, [Lula](lula.md), a direita brasileira e os vídeos para entender o conflito.
 
 ## Ernesto Che Guevara
 
@@ -189,6 +172,7 @@ Desde 2001 circulam vídeos e textos dizendo que os atentados de 11 de setembro 
 
 ## Ver também
 
+- [Palestina e Gaza](palestina-e-gaza.md)
 - [Maduro e a Venezuela](maduro-e-a-venezuela.md)
 - [Donald Trump e o trumpismo](donald-trump.md)
 - [Hondurasgate](hondurasgate.md)

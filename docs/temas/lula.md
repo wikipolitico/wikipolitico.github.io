@@ -64,6 +64,10 @@ Em janeiro de 1999, com o governo FHC em crise semanas depois da reeleição, Ta
 - [A mediação brasileira no caso da prisioneira francesa no Irã – Observatório de Negociações Internacionais da América Latina, 11/11/2013](https://onial.wordpress.com/2013/11/11/a-mediacao-brasileira-no-caso-da-prisioneira-francesa-no-ira/): como o Brasil negociou a libertação
 - [Lula viaja ao Irã para mediação difícil e importante – Diário do Grande ABC, 15/05/2010](http://www.dgabc.com.br/Noticia/973741/lula-viaja-ao-ira-para-mediacao-dificil-e-importante): Lula foi negociar o acordo nuclear com o Irã quando Washington e Moscou não acreditavam no sucesso
 
+### A denúncia do genocídio em Gaza
+
+- ["Lula está acima daqueles que não impediram o nazismo" – Brasil de Fato, 20/02/2024](https://www.brasildefato.com.br/podcast/bem-viver/2024/02/20/lula-esta-acima-daqueles-que-nao-impediram-o-nazismo-diz-presidente-da-federacao-arabe-palestina-do-brasil/): Lula não se calou: comparou o massacre em Gaza à perseguição nazista, Israel o declarou "persona non grata" e ele chamou de volta o diplomata brasileiro. O resto da história, com a entrada do Brasil na ação da Corte Internacional de Justiça, está em [Palestina e Gaza](palestina-e-gaza.md#lula-e-o-brasil)
+
 ### Cuba e o fim do embargo
 
 - [Lula e Raúl Castro criticam embargo dos EUA a Cuba – Gazeta do Povo, 18/12/2008](http://www.gazetadopovo.com.br/mundo/lula-e-raul-castro-criticam-embargo-dos-eua-a-cuba-bc474wizfu4xzc8mibjitilou): a cobrança feita ao lado do líder cubano
@@ -145,6 +149,7 @@ O sequestro, a seis dias do segundo turno, e as camisetas do PT apresentadas pel
 
 - [Farsa da Lava Jato](farsa-da-lava-jato.md): quem condenou Lula, a prisão e a anulação das sentenças
 - [Lawfare](lawfare/index.md)
+- [Palestina e Gaza](palestina-e-gaza.md#lula-e-o-brasil)
 - [Caso Lulinha](caso-lulinha.md)
 - [Dilma Rousseff](dilma-rousseff.md)
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md)

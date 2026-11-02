@@ -126,6 +126,7 @@ Em 09/07/2025, ao anunciar uma tarifa de 50% sobre os produtos brasileiros, [Tru
 - [Farsa da Lava Jato](../farsa-da-lava-jato.md): os juízes que condenaram Lula, a prisão e as condenações anuladas
 - [Farsa do Mensalão do PT](../farsa-do-mensalao.md): o "domínio do fato" e a absolvição de quadrilha
 - [Caso Lulinha](../caso-lulinha.md): os inquéritos abertos a dois meses da eleição e os vazamentos para a campanha de Flávio
+- [Os poupados pela Justiça](../poupados-pela-justica.md): o avesso desta página, de Paulo Guedes a Temer, Aécio e Serra
 - [O STF diante da Lava Jato](../stf/index.md#o-stf-diante-da-lava-jato): de [Joaquim Barbosa](../stf/joaquim-barbosa.md) ao "pixuleco eleitoral"
 - [O precedente italiano](../farsa-da-lava-jato.md#o-precedente-italiano): o que veio depois da Mãos Limpas, que inspirou a Lava Jato, e os paralelos com o Brasil
 - [Golpes contra governos eleitos](../golpes-contra-governos-eleitos.md): de Vargas ao impeachment de Dilma e à trama contra a posse de Lula

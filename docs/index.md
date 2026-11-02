@@ -52,6 +52,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [Farsa da Lava Jato](temas/farsa-da-lava-jato.md): o grampo ilegal, o PowerPoint, o juiz premiado e aplaudido pela imprensa, os juízes que condenaram Lula, Moro no governo Bolsonaro e as condenações anuladas
 - [Farsa do Mensalão do PT](temas/farsa-do-mensalao.md): a acusação de Jefferson, o "domínio do fato", a absolvição de quadrilha e o mensalão tucano
 - [Caso Lulinha](temas/caso-lulinha.md): o que a investigação tem e as fragilidades da acusação
+- [Os poupados pela Justiça](temas/poupados-pela-justica.md): Paulo Guedes com a investigação trancada e a offshore arquivada como "indiscreto propósito", Temer salvo pela Câmara, Aécio pelo Senado, e Lula 580 dias preso
 
 ### Acervo principal
 
@@ -69,6 +70,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [PSDB e os tucanos](temas/psdb.md): FHC e a reeleição comprada, Aécio e a censura em Minas, Serra e o trem-bala, e o PCC nos governos tucanos de São Paulo
 - [Outras Personalidades (Brasil)](temas/outras-personalidades-brasil.md): Collor, Marina, Brizola, Garotinho e outros nomes, com processos e declarações
 - [Internacional e geopolítica](temas/internacional-geopolitica.md): Cuba, Rússia, BRICS, Foro de São Paulo e as guerras
+- [Palestina e Gaza](temas/palestina-e-gaza.md): a comissão da ONU, a Anistia e a israelense B'Tselem falam em genocídio, ministros e eleitores de Israel dizem o resto, e Netanyahu, com mandado de prisão, apareceu em vídeo no palanque de Flávio
 - [Maduro e a Venezuela](temas/maduro-e-a-venezuela.md): as acusações contra Maduro que caíram, a mentira do dinheiro para o PT e a posição de Lula
 - [Donald Trump e o trumpismo](temas/donald-trump.md): a extrema direita nos EUA, a mentira da fraude eleitoral e os vínculos com o bolsonarismo
 - [Políticas Públicas](temas/politicas-publicas.md): o fim das bets, terceirização, impostos, saneamento, armas e reforma política

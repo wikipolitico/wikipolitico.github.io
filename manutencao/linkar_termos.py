@@ -37,6 +37,9 @@ TERMOS = [
      r"|Operação Sem Desconto", "temas/escandalo-do-inss.md", ""),
     (r"[Ff]ila do INSS", "temas/fila-do-inss.md", ""),
     (r"Hondurasgate", "temas/hondurasgate.md", ""),
+    (r"Faixa de Gaza|Gaza|causa palestina", "temas/palestina-e-gaza.md", ""),
+    # O deputado Paulo Guedes (PT-MG) é outra pessoa.
+    (r"Paulo Guedes(?! \(PT\))|Operação Greenfield|Pandora Papers", "temas/poupados-pela-justica.md", "#paulo-guedes"),
     (r"(?<!Instituto )[Ll]awfare(?!:)", "temas/lawfare/index.md", ""),
     (r"CPMI das Fake News", "temas/eleicoes-2018.md", "#a-cpmi-das-fake-news-2020"),
     (r"ditadura militar|golpe (?:militar )?de (?:19)?64", "temas/ditadura-militar-de-64.md", ""),
