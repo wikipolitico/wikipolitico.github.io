@@ -77,6 +77,8 @@ Os trechos da gravação publicados pela Folha, na transcrição reproduzida pel
 
 ### O Congresso contra Dilma em 2015
 
+A pauta-bomba de Eduardo Cunha, a cobertura negativa dos jornais e a confiança que subiu com Dilma afastada estão em [A crise anunciada](dilma-rousseff.md#a-crise-anunciada-2015).
+
 - [BBC mostrou que Cunha barrou todos os projetos de Dilma para impedir seu governo – blog Katyta](https://katyta.blog.br/brasil/bbc-mostrou-que-cunha-barrou-todos-os-projetos-de-dilma-para-impedir-seu-governo/): a Câmara de Cunha travava o governo, segundo o blog · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://katyta.blog.br/brasil/bbc-mostrou-que-cunha-barrou-todos-os-projetos-de-dilma-para-impedir-seu-governo/)
 - [Inesc cria cards com "as verdadeiras pautas-bomba" do Congresso – Sul21, 13/10/2015](https://www.sul21.com.br/ta-na-rede/2015/10/inesc-cria-cards-com-as-verdadeiras-pautas-bomba-do-congresso-nacional/): as propostas da bancada do boi, da bala e da Bíblia no "Congresso mais conservador em décadas", segundo o Inesc
 - [Pior Congresso de todos os tempos – Facebook, 01/10/2015](https://www.facebook.com/permalink.php?story_fbid=472974656197154&id=223843157776973): o Congresso mais conservador e mais rico desde 1964 impedia Dilma de governar, e ela levava a culpa, segundo o post

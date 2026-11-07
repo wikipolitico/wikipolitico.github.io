@@ -92,6 +92,7 @@ markdown_extensions:
 nav:
   - Início: index.md
   - "Respostas para debate": respostas-para-debate.md
+  - "Respostas à crítica pela esquerda": respostas-a-critica-pela-esquerda.md
   - "Linha do tempo": linha-do-tempo.md
   - Temas:
       - "Eleições":
@@ -157,6 +158,7 @@ nav:
           - "Mortes suspeitas": temas/mortes-suspeitas.md
       - "Governo e economia":
           - "Políticas Públicas": temas/politicas-publicas.md
+          - "Arcabouço fiscal": temas/arcabouco-fiscal.md
           - "Os impostos do Lula 3": temas/impostos-do-lula-3.md
           - "Fila do INSS": temas/fila-do-inss.md
           - "Petrobras": temas/petrobras.md

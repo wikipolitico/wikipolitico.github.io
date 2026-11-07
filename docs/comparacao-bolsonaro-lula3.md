@@ -28,7 +28,7 @@ Os impostos criados e aumentados e a carga tributária ano a ano estão em [Os i
 
 | Indicador | Bolsonaro | Lula 3 | Fonte |
 | --- | --- | --- | --- |
-| ✅ Crescimento do PIB (média ao ano) ([nota](#nota-pib-inflacao)) | 1,5% (2019–2022) | 3,0% (2023–2025) | [IBGE](https://sidra.ibge.gov.br/tabela/5932) |
+| ✅ Crescimento do PIB (média ao ano) ([nota](#nota-pib-inflacao)) | 1,4% (2019–2022) | 3,0% (2023–2025) | [IBGE](https://sidra.ibge.gov.br/tabela/5932) |
 | ✅ Inflação (IPCA, média ao ano) ([nota](#nota-pib-inflacao)) | 6,2% (2019–2022) | 4,6% (2023–2025) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json&dataInicial=01/12/2019&dataFinal=31/12/2025) |
 | ✅ Inflação dos alimentos (IPCA de alimentação e bebidas, média ao ano) ([nota](#nota-pib-inflacao)) | 10,0% (2019–2022), com 14,1% em 2020, e os alimentos subiram 46,2% em quatro anos | 3,9% (2023–2025), e os alimentos subiram 12,0% em três anos | [IBGE, até 2019](https://sidra.ibge.gov.br/tabela/1419) e [IBGE, desde 2020](https://sidra.ibge.gov.br/tabela/7060) |
 | ➖ Dólar ([nota](#nota-dolar)) | subiu 34,7% (de 3,87 para 5,22 reais) | subiu 5,5% (de 5,22 para 5,50 reais) | [Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=28/12/2018&dataFinal=31/12/2025) |
@@ -283,7 +283,7 @@ Fonte: FMI, World Economic Outlook de abril de 2025, dados de 2024. A dívida é
 
 ## Quem cumpriu a regra fiscal
 
-Quem diz que o Lula 3 "quebrou as contas" esquece a regra fiscal de cada governo. Bolsonaro governou sob o teto de gastos, criado por Temer em 2016, e gastou acima dele nos quatro anos, inclusive mudando a Constituição. Lula trocou o teto pelo arcabouço fiscal e cumpriu a meta em 2024 e 2025.
+Quem diz que o Lula 3 "quebrou as contas" esquece a regra fiscal de cada governo. Bolsonaro governou sob o teto de gastos, criado por Temer em 2016, e gastou acima dele nos quatro anos, inclusive mudando a Constituição. Lula trocou o teto pelo [arcabouço fiscal](temas/arcabouco-fiscal.md) e cumpriu a meta em 2024 e 2025.
 
 ### Bolsonaro e o teto de gastos
 
@@ -294,7 +294,7 @@ Quem diz que o Lula 3 "quebrou as contas" esquece a regra fiscal de cada governo
 
 ### Lula e o arcabouço fiscal
 
-- **30/08/2023 — a regra nova:** Lula sancionou o arcabouço fiscal, que substituiu o teto. A despesa só pode crescer, acima da inflação, 70% do que crescer a receita, ou 50% se a meta do ano anterior não for cumprida, e sempre entre 0,6% e 2,5% ao ano. A meta de resultado primário vale com um intervalo de tolerância ([Lei Complementar 200/2023](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm)).
+- **30/08/2023 — a regra nova:** Lula sancionou o [arcabouço fiscal](temas/arcabouco-fiscal.md), que substituiu o teto. A despesa só pode crescer, acima da inflação, 70% do que crescer a receita, ou 50% se a meta do ano anterior não for cumprida, e sempre entre 0,6% e 2,5% ao ano. A meta de resultado primário vale com um intervalo de tolerância ([Lei Complementar 200/2023](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm)).
 - **30/01/2025 — a meta de 2024 cumprida:** a meta era déficit zero, com tolerância de 0,25% do PIB. Pela conta do arcabouço, o governo central teve déficit de R$ 11 bilhões, 0,09% do PIB. A conta deixou de fora a reconstrução do Rio Grande do Sul depois das enchentes. Com ela, o déficit foi de R$ 44 bilhões, 0,36% do PIB ([Poder360, 30/01/2025](https://www.poder360.com.br/poder-economia/lula-cumpre-meta-com-deficit-de-r-11-bi-em-2024-mas-tira-rs-da-conta/)).
 - **29/01/2026 — a meta de 2025 cumprida:** pela conta do arcabouço, o déficit foi de R$ 13 bilhões, 0,1% do PIB. Ficaram de fora R$ 48,7 bilhões, e R$ 41,1 bilhões deles eram precatórios acima do limite criado pela PEC dos Precatórios de Bolsonaro, que o STF permitiu pagar fora da meta. Outros R$ 2,8 bilhões foram o ressarcimento dos aposentados lesados pelos descontos do INSS. Com tudo, o déficit foi de R$ 61,7 bilhões, 0,48% do PIB (📄 [apresentação do Tesouro, p. 7](https://static.poder360.com.br/2026/01/Tesouro-apresentacao-resultado-dez-25.pdf#page=7) · 📄 [cópia no site](documentos/tesouro-resultado-primario-2025.pdf#page=7); [Reuters, via Diário do Comércio, 30/01/2026](https://diariodocomercio.com.br/financas/deficit-primario-governo-ficou-dentro-meta-2025/)).
 

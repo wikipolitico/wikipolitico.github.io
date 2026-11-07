@@ -39,7 +39,7 @@ As frases que mais aparecem nas discussões, cada uma com a página que a respon
 ## Governo e economia
 
 - **"O governo Lula é pior."** Veja a [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md): 82 indicadores oficiais, com o que melhorou e o que piorou.
-- **"Lula quebrou as contas e aumentou a dívida."** Veja [quem cumpriu a regra fiscal](comparacao-bolsonaro-lula3.md#quem-cumpriu-a-regra-fiscal): Bolsonaro gastou R$ 794,9 bilhões acima do teto de gastos em quatro anos, R$ 287 bilhões sem contar 2020, o ano da pandemia, e mudou a Constituição para gastar mais em 2021 e no ano da eleição. Lula trocou o teto pelo arcabouço fiscal e cumpriu a meta em 2024 e 2025. Em 2025, a maior parte do que ficou fora da meta eram precatórios que Bolsonaro tinha adiado. A dívida subiu por causa dos juros: sem eles, teria caído nos três primeiros anos do Lula 3 (ver [por que a dívida subiu](comparacao-bolsonaro-lula3.md#por-que-a-divida-subiu)).
+- **"Lula quebrou as contas e aumentou a dívida."** Veja [quem cumpriu a regra fiscal](comparacao-bolsonaro-lula3.md#quem-cumpriu-a-regra-fiscal): Bolsonaro gastou R$ 794,9 bilhões acima do teto de gastos em quatro anos, R$ 287 bilhões sem contar 2020, o ano da pandemia, e mudou a Constituição para gastar mais em 2021 e no ano da eleição. Lula trocou o teto pelo [arcabouço fiscal](temas/arcabouco-fiscal.md) e cumpriu a meta em 2024 e 2025. Em 2025, a maior parte do que ficou fora da meta eram precatórios que Bolsonaro tinha adiado. A dívida subiu por causa dos juros: sem eles, teria caído nos três primeiros anos do Lula 3 (ver [por que a dívida subiu](comparacao-bolsonaro-lula3.md#por-que-a-divida-subiu)).
 - **"Lula criou 37 impostos."** Veja [Os impostos do Lula 3](temas/impostos-do-lula-3.md): o número vem de uma lista da Exame em que 10 itens nunca valeram e outros são a reforma tributária e a volta dos impostos que Bolsonaro zerou na eleição. A maior parte do resto recai sobre fundos dos super-ricos, offshores, bancos, bets e multinacionais, e 10 milhões de pessoas deixaram de pagar Imposto de Renda em 2026.
 - **"Haddad é o Taxad."** Veja [Fernando Haddad](temas/fernando-haddad.md): na Fazenda, ele conduziu a isenção do Imposto de Renda para quem ganha até R$ 5 mil, e o "37 impostos" é uma lista em que 10 itens nunca valeram.
 - **"Lula defende bandido."** Veja as [penas mais duras no governo Lula](temas/politicas-publicas.md#penas-mais-duras-no-governo-lula): feminicídio com até 40 anos, estupro de vulnerável com até 18, líderes de facção com até 40, e o veto ao projeto que aliviava as penas dos golpistas.
@@ -47,5 +47,6 @@ As frases que mais aparecem nas discussões, cada uma com a página que a respon
 
 ## Ver também
 
+- [Respostas à crítica pela esquerda](respostas-a-critica-pela-esquerda.md): o arcabouço, Haddad, as privatizações e o golpe, com quem disse e quando
 - [Linha do tempo](linha-do-tempo.md): todos os fatos datados do wiki, num lugar só
 - [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md)

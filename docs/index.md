@@ -26,6 +26,8 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 [Veja as 26 respostas, por assunto →](respostas-para-debate.md)
 
+[E as 34 respostas à crítica pela esquerda, com quem disse e quando →](respostas-a-critica-pela-esquerda.md)
+
 <!-- ultimas-atualizacoes -->
 
 ## Temas

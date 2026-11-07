@@ -36,6 +36,7 @@ TERMOS = [
     (r"(?:escândalo|fraudes?|roubo|farra) (?:do|no|nos|dos|das aposentadorias do) INSS"
      r"|Operação Sem Desconto", "temas/escandalo-do-inss.md", ""),
     (r"[Ff]ila do INSS", "temas/fila-do-inss.md", ""),
+    (r"(?:[Nn]ovo )?[Aa]rcabouço [Ff]iscal", "temas/arcabouco-fiscal.md", ""),
     (r"Hondurasgate", "temas/hondurasgate.md", ""),
     (r"Faixa de Gaza|Gaza|causa palestina", "temas/palestina-e-gaza.md", ""),
     # O deputado Paulo Guedes (PT-MG) é outra pessoa.
