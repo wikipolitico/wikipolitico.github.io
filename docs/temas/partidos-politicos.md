@@ -60,6 +60,8 @@ Em 2026, os partidos disputaram a eleição também em federações: a Federaç�
 
 ## PT
 
+Quem fundou o PT, quem governou com Lula e quem rompeu, de Apolônio de Carvalho a Brizola e Mujica, está em [A esquerda histórica com Lula e o PT](esquerda-historica-com-lula.md).
+
 - [Por que não votar na legenda](eleicoes-2026.md#por-que-nao-votar-na-legenda): o voto só no 13 ajuda a Federação Brasil da Esperança a conquistar vagas, mas não soma para nenhum candidato
 
 ### O PT assinou a Constituição de 1988
