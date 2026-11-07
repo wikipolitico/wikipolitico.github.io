@@ -10,6 +10,8 @@ extra:
   analytics:
     provider: custom
     property: wikipolitico
+    # ID do site no Umami Cloud (visitantes únicos por mês); vazio deixa o Umami desligado
+    umami: "93cfea2e-90cf-463f-bcbd-eb305b7764a6"
     feedback:
       title: Esta página foi útil?
       ratings:

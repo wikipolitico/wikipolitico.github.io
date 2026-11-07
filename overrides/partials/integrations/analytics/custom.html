@@ -1,6 +1,10 @@
 {#- Contagem de visitas pelo GoatCounter, sem cookies e sem dados pessoais -#}
 <script data-goatcounter="https://{{ config.extra.analytics.property }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
-{#- Votos de "Esta página foi útil?" viram eventos anônimos no GoatCounter -#}
+{#- Visitantes únicos por mês pelo Umami Cloud, também sem cookies; só entra com o ID em extra.analytics.umami -#}
+{%- if config.extra.analytics.umami %}
+<script defer src="https://cloud.umami.is/script.js" data-website-id="{{ config.extra.analytics.umami }}" data-domains="wikipolitico.com.br"></script>
+{%- endif %}
+{#- Votos de "Esta página foi útil?" viram eventos anônimos no GoatCounter e no Umami -#}
 <script>
   function __md_analytics() {
     document.addEventListener("DOMContentLoaded", function () {
@@ -16,6 +20,12 @@
                 path: "feedback-" + (value === "1" ? "util" : "nao-util") + document.location.pathname,
                 title: "Feedback: " + document.title,
                 event: true
+              })
+            }
+            if (window.umami && window.umami.track) {
+              window.umami.track("feedback", {
+                voto: value === "1" ? "util" : "nao-util",
+                pagina: document.location.pathname
               })
             }
             form.firstElementChild.disabled = true
