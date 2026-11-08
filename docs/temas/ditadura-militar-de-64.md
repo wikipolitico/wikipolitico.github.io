@@ -37,6 +37,7 @@ A morte de Jango no exílio, em 1976, está em [Mortes suspeitas](mortes-suspeit
 
 ## Tortura, mortes e resistência
 
+- 📄 [Geisel decide continuar a execução sumária de subversivos perigosos – memorando do diretor da CIA a Kissinger, 11/04/1974](https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d99): o general que deixava o Centro de Informações do Exército contou a Geisel "about 104 persons", cerca de 104 pessoas, executadas sumariamente em um ano, e Geisel mandou continuar, com aprovação prévia de Figueiredo para cada caso. Washington soube na hora. Mais em [A mão dos EUA na América Latina](mao-dos-eua-na-america-latina.md#mortes-venenos-e-cobaias)
 - [Como a ditadura militar agia nas favelas do Rio de Janeiro – Pragmatismo Político, 26/02/2016](http://www.pragmatismopolitico.com.br/2016/02/como-a-ditadura-militar-agia-nas-favelas-do-rio-de-janeiro.html): o relatório da Comissão da Verdade sobre a repressão nas favelas
 - [Bolsonaro faz homenagem ao torturador Ustra – Notícias Comentadas (YouTube)](https://www.youtube.com/watch?v=QhVQ0r4YvmA&index=26&list=PLw7bwcrlLw6LxxyDth5vFtPnqa1BwWfxg): o voto de 2016 (ver [Jair Bolsonaro](jair-bolsonaro.md#ustra-e-o-impeachment-de-dilma))
 - [Em áudio de 1988, Raul Seixas relata tortura sofrida durante a ditadura militar – EBC](http://www.ebc.com.br/cidadania/2014/08/em-audio-de-1998-raul-seixas-relata-tortura-sofrida-durante-a-ditadura-militar): o relato do cantor
@@ -95,3 +96,4 @@ A morte de Jango no exílio, em 1976, está em [Mortes suspeitas](mortes-suspeit
 - [Jair Bolsonaro](jair-bolsonaro.md#ustra-e-o-impeachment-de-dilma): o voto em homenagem a Ustra
 - [8 de janeiro](8-de-janeiro.md)
 - [Comunismo e Socialismo](comunismo-e-socialismo.md)
+- [A mão dos EUA na América Latina](mao-dos-eua-na-america-latina.md): o porta-aviões de 1964 ao lado dos golpes na Guatemala e no Chile e dos planos da CIA contra Fidel

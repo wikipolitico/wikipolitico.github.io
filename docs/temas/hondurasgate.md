@@ -62,3 +62,4 @@ Os áudios não citam o Brasil como alvo — os dossiês planejados miravam Méx
 - [Palestina e Gaza](palestina-e-gaza.md): Netanyahu no palanque de Flávio e o estrategista israelense em campanha no Brasil
 - [Eleições 2026](eleicoes-2026.md)
 - [Golpes contra governos eleitos](golpes-contra-governos-eleitos.md)
+- [A mão dos EUA na América Latina](mao-dos-eua-na-america-latina.md): de Árbenz a Zelaya e [Maduro](maduro-e-a-venezuela.md), o que os arquivos americanos registram

@@ -72,6 +72,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [PSDB e os tucanos](temas/psdb.md): FHC e a reeleição comprada, Aécio e a censura em Minas, Serra e o trem-bala, e o PCC nos governos tucanos de São Paulo
 - [Outras Personalidades (Brasil)](temas/outras-personalidades-brasil.md): Collor, Marina, Brizola, Garotinho e outros nomes, com processos e declarações
 - [Internacional e geopolítica](temas/internacional-geopolitica.md): Cuba, Rússia, BRICS, Foro de São Paulo e as guerras
+- [A mão dos EUA na América Latina](temas/mao-dos-eua-na-america-latina.md): a CIA derrubou Árbenz, tramou pelo menos oito vezes a morte de Fidel e armou golpistas no Chile, e quem diz isso são os arquivos americanos, do porta-aviões de 1964 à espionagem de Dilma
 - [Palestina e Gaza](temas/palestina-e-gaza.md): a comissão da ONU, a Anistia e a israelense B'Tselem falam em genocídio, ministros e eleitores de Israel dizem o resto, e Netanyahu, com mandado de prisão, apareceu em vídeo no palanque de Flávio
 - [Maduro e a Venezuela](temas/maduro-e-a-venezuela.md): as acusações contra Maduro que caíram, a mentira do dinheiro para o PT e a posição de Lula
 - [Donald Trump e o trumpismo](temas/donald-trump.md): a extrema direita nos EUA, a mentira da fraude eleitoral e os vínculos com o bolsonarismo

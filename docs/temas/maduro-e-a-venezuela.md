@@ -53,6 +53,8 @@
 - [Venezuela descobre toneladas de alimentos escondidos por empresários para desestabilizar governo – Portal do Movimento Popular](http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/): alimentos estocados por empresários, segundo o site · *fora do ar em 13/09/2026, domínio não existe* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.portaldomovimentopopular.com.br/mundo/venezuela-descobre-toneladas-de-alimentos-escondidos-por-empresarios-para-destabilizar-governo/)
 - [Empresas escondem toneladas de alimentos da população para boicotar o governo na Venezuela – Diário Liberdade](http://www.diarioliberdade.org/america-latina/laboral-economia/53683-empresas-escondem-toneladas-de-alimentos-da-popula%C3%A7%C3%A3o-para-boicotar-o-governo-na-venezuela.html): a mesma denúncia, no Diário Liberdade
 - [Venezuela descobre toneladas de alimentos escondidos por empresários – Socialista Morena (Facebook)](https://www.facebook.com/SocialistaMorena/posts/830527017007803): a mesma denúncia, na página Socialista Morena
+- [Venezuela sofre boicote de alimentos e produtos de higiene – TVMOV (YouTube), 24/03/2014](https://www.youtube.com/watch?v=4UgwKhrSPuI): a reportagem mostra a oposição empresarial segurando produtos básicos fora dos supermercados para pôr a culpa no governo
+- [Venezuela, sabotagem na hidrelétrica – Rede Nacionalista (YouTube), 10/03/2019](https://www.youtube.com/watch?v=YL0z2nnUDFw): Maduro no ato de 09/03/2019 em Caracas, durante o apagão que o governo atribuiu a sabotagem dos EUA, segundo o vídeo
 
 ## As tentativas de derrubar Maduro
 
@@ -79,6 +81,9 @@
 - [Quando Chávez destruiu W. Bush – Facebook](https://www.facebook.com/watch/?ref=saved&v=1465781970099553): o discurso de Chávez contra George W. Bush
 - [Hugo Chávez foi assassinado – SpiritOnlineTv (YouTube), 04/04/2013](https://www.youtube.com/watch?v=suqvOnXBZdk&index=3&t=118s&list=PLw7bwcrlLw6Ih9rTTo27EaZMCpgow04bx): o vídeo defende a tese de que Chávez foi assassinado
 - [Identifican la nanoarma con que asesinaron a Hugo Chávez – Facebook](https://www.facebook.com/permalink.php?story_fbid=766164176878199&id=223843157776973): texto que atribui a morte de Chávez a uma "nanoarma", com base num artigo do site Aporrea
+- [Mi Amigo Hugo, documentário de Oliver Stone – Televisão do Mundo (YouTube), 17/03/2014](https://www.youtube.com/watch?v=MfBJN4rWJ2Y): lançado um ano depois da morte de Chávez, o filme do diretor de "JFK" e "Platoon", produzido pela Telesur, mostra o homem que a grande mídia pintava como ditador
+- [Ao Sul da Fronteira, documentário de Oliver Stone – Reginaldo do Nascimento (YouTube), 06/03/2012](https://www.youtube.com/watch?v=mB-C6Ftaz7E): Stone ouve Chávez, Lula, Evo Morales, Cristina Kirchner, Fernando Lugo e Raúl Castro, os presidentes que a mídia americana tratava como ameaça
+- [John Perkins: Venezuela, 2002 – José Antonio F. Alves (YouTube), 11/10/2016](https://www.youtube.com/watch?v=imQuN4AnBLU): para o autor de "Confissões de um assassino econômico", não há dúvida de que a CIA estava por trás do golpe de 2002 contra Chávez. O que os documentos da CIA mostram está em [A mão dos EUA na América Latina](mao-dos-eua-na-america-latina.md#os-golpes)
 
 ## Dados e debates sobre a Venezuela
 
@@ -87,9 +92,11 @@
 - [Deputado Ivan Valente fala sobre a Venezuela e discute com opositor – Ivan Valente (YouTube), 26/03/2014](https://www.youtube.com/watch?v=M7ENHQiJc1g): o deputado rebate um opositor ao chavismo
 - [George Galloway em Oxford sobre a Venezuela (legendado) – YouTube](https://www.youtube.com/watch?v=OIqicTjQG3M): o ex-deputado britânico defende a Venezuela num debate em Oxford · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=OIqicTjQG3M)
 - [O que está acontecendo na Venezuela? – Facebook](https://www.facebook.com/watch/?ref=saved&v=439266916534504): vídeo explicativo sobre a crise
+- [As origens da crise na Venezuela – Nexo Jornal (YouTube), 12/10/2017](https://www.youtube.com/watch?v=I_UYuoZVUO8): em oito minutos, os 28 anos de golpes, protestos e perseguições que levaram à crise de 2017
 
 ## Ver também
 
 - [Internacional e geopolítica](internacional-geopolitica.md)
+- [A mão dos EUA na América Latina](mao-dos-eua-na-america-latina.md): de Árbenz a Maduro, os golpes e os planos de morte que os próprios arquivos americanos registram
 - [Donald Trump e o trumpismo](donald-trump.md)
 - [A mentira da fraude nas urnas](fraude-nas-urnas.md)

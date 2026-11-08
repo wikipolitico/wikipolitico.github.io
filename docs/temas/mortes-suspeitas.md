@@ -93,3 +93,4 @@ Outras mortes relacionadas:
 - [Eleições 2014](eleicoes-2014.md): a campanha em que Eduardo Campos morreu
 - [Flávio Bolsonaro](flavio-bolsonaro.md#adriano-da-nobrega): a relação com Adriano da Nóbrega
 - [PSDB e os tucanos](psdb.md#aecio-neves): Aécio e os que o investigavam
+- [A mão dos EUA na América Latina](mao-dos-eua-na-america-latina.md#mortes-venenos-e-cobaias): os charutos envenenados para Fidel, as armas para os que mataram Trujillo e a série de cânceres em presidentes de esquerda

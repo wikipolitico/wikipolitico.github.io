@@ -90,18 +90,10 @@ Os links desta seção estão distribuídos pelas seções da página [Maduro e 
 
 ## EUA
 
+Os golpes, os planos de assassinato, a espionagem da NSA, a CIA e a DEA dentro da PF e a base de Alcântara estão em [A mão dos EUA na América Latina](mao-dos-eua-na-america-latina.md).
+
 - [Os Estados Unidos deveriam fazer uma turnê mundial para pedir desculpas – Vamos Falar de Política? (Facebook)](https://www.facebook.com/watch/?ref=saved&v=1198695483550135): as invasões americanas pelo mundo, segundo o vídeo
 - [$ 9 trilhões somem do Federal Reserve nos EUA e nada acontece – YouTube](https://www.youtube.com/watch?v=ANiyo3Mlxzc): o sumiço de recursos no banco central americano, sem escândalo, segundo o vídeo · *fora do ar em 13/09/2026, vídeo indisponível (404)* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ANiyo3Mlxzc)
-
-- [Wikileaks revela sabotagem dos EUA contra o Brasil com aval de FHC – Pragmatismo Político, 02/2011](http://www.pragmatismopolitico.com.br/2011/02/wikileaks-revela-sabotagem-contra.html): os telegramas sobre a base de Alcântara e o programa espacial, segundo o site
-- [Coronel previu que base de Alcântara sofreria sabotagem dos EUA – YouTube](https://www.youtube.com/watch?v=eRQfxcv9fIs): o alerta sobre a base de lançamentos, segundo o vídeo
-
-### A CIA e a DEA dentro da PF
-
-- [EUA gastaram milhões para cooptar PF há 20 anos; processo não foi julgado – Agência Pública, 15/10/2025](https://apublica.org/2025/10/eua-gastaram-milhoes-para-cooptar-pf-ha-20-anos-processo-nao-foi-julgado/): em 2004, o MPF processou por improbidade cinco ex-servidores da PF que geriam o dinheiro mandado pela embaixada dos EUA, que para a procuradoria formava "um governo invisível sob o controle dos EUA". O delegado Getúlio Bezerra recebeu numa conta em seu nome os repasses americanos de março de 1999 a dezembro de 2002, e o setor de inteligência da PF ligado à CIA recebia cerca de R$ 2 milhões por ano em dinheiro vivo, trocado em doleiros. Em outubro de 2025, o processo ainda não tinha sido julgado.
-- [FHC: as portas do Brasil abertas à CIA – Bob Fernandes, Outras Palavras, 12/07/2013](https://outraspalavras.net/outrasmidias/fhc-as-portas-do-brasil-abertas-a-cia/): FHC disse que "nunca soube de espionagem da CIA" no Brasil, mas, no governo dele, documentos bancários mostravam a DEA pagando operações da PF e depositando na conta de delegados, segundo as 15 reportagens que Fernandes publicou na CartaCapital de 1999 a 2004. Segundo ele, os policiais da base da PF paga pelos americanos faziam teste de detector de mentiras nos EUA até a chegada de Márcio Thomaz Bastos e Paulo Lacerda, no governo Lula.
-- [Bob Fernandes: espionagem da CIA, do FBI, da DEA e da NSA, e o silêncio no Brasil – Jornal da Gazeta (YouTube), 10/07/2013](https://www.youtube.com/watch?v=aPV0kebN8o4): o comentário do jornalista sobre a espionagem americana
-- [Federal Police receive financial assistance from Americans – Agência Brasil (em inglês), 14/04/2004](https://memoria.ebc.com.br/agenciabrasil//noticia/2004-04-13/federal-police-receive-financial-assistance-americans): o presidente da federação dos policiais federais, Francisco Garisto, disse na Câmara que a PF recebia US$ 10 milhões por ano da CIA, da DEA e do FBI, metade da DEA, depositados em contas pessoais e trocados no câmbio negro. Isso confirmava a entrevista do ex-chefe do FBI no Brasil, Carlos Costa, à CartaCapital. Segundo Garisto, Márcio Thomaz Bastos, ministro da Justiça de Lula, mandou abrir uma sindicância em 07/01/2003, uma semana depois da posse, mas até aquele momento nada tinha mudado. No mesmo ano, o MPF entrou com a ação de improbidade contra quem geria o dinheiro americano, e, segundo Bob Fernandes, a gestão de Thomaz Bastos e do delegado Paulo Lacerda deu à PF "um orçamento adequado".
 
 ### História dos EUA
 
@@ -137,10 +129,6 @@ Desde 2001 circulam vídeos e textos dizendo que os atentados de 11 de setembro 
 - [Architects & Engineers for 9/11 Truth – Facebook](https://www.facebook.com/ae911truth/): a tese, segundo a página
 - [U.S. Military Officers for 9/11 Truth – Facebook](https://www.facebook.com/US-Military-Officers-for-911-Truth-159267480754006/): a tese, segundo a página
 - [World for 9/11 Truth – Facebook](https://www.facebook.com/world911truth/): a tese, segundo a página · *fora do ar em 13/10/2026, perfil não encontrado no Facebook* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/https://www.facebook.com/world911truth/)
-
-### Golpes dos Estados Unidos
-
-- [Denunciam plano dos EUA para assassinar Evo Morales – Telesur, 03/10/2015](http://www.telesurtv.net/news/Wikileaks-confirma-plan-de-EE.UU.-de-magnicidio-a-Evo-Morales-20151003-0031.html): o Wikileaks sobre o plano, segundo a emissora · *fora do ar em 09/10/2026, redireciona para a página inicial da Telesur* · [buscar cópia no Internet Archive](https://web.archive.org/web/*/http://www.telesurtv.net/news/Wikileaks-confirma-plan-de-EE.UU.-de-magnicidio-a-Evo-Morales-20151003-0031.html)
 
 ### Invasões
 
@@ -178,3 +166,4 @@ O tema tem página própria: [Palestina e Gaza](palestina-e-gaza.md), com os doc
 - [Hondurasgate](hondurasgate.md)
 - [Lula no mundo](lula.md#o-cara-lula-no-mundo)
 - [A Lava Jato e os Estados Unidos](farsa-da-lava-jato.md#a-lava-jato-e-os-estados-unidos)
+- [A mão dos EUA na América Latina](mao-dos-eua-na-america-latina.md): os golpes, os planos de morte, a espionagem e a CIA dentro da PF

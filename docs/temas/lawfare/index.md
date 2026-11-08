@@ -132,3 +132,4 @@ Em 09/07/2025, ao anunciar uma tarifa de 50% sobre os produtos brasileiros, [Tru
 - [Golpes contra governos eleitos](../golpes-contra-governos-eleitos.md): de Vargas ao impeachment de Dilma e à trama contra a posse de Lula
 - [Eleições 2014](../eleicoes-2014.md) e [Eleições 2018](../eleicoes-2018.md): a Lava Jato em duas campanhas
 - [Cristiano Zanin](../stf/cristiano-zanin.md): o advogado que levou a tese do lawfare ao STF
+- [A mão dos EUA na América Latina](../mao-dos-eua-na-america-latina.md): os golpes, os planos de morte e a espionagem que vieram antes do lawfare
