@@ -42,6 +42,8 @@
 - **16/09/2019 — Temer fala em "golpe":** no Roda Viva, o homem que herdou o cargo de Dilma disse: "Eu jamais apoiei ou fiz empenho pelo golpe" ([Brasil 247, 16/09/2019](https://www.brasil247.com/poder/temer-admite-golpe-contra-dilma-eu-jamais-apoiei-ou-fiz-empenho-pelo-golpe/)).
 - **2022 — as pedaladas arquivadas:** o MPF arquivou o inquérito civil sobre as pedaladas de 2015, que tinha Dilma, Guido Mantega e Arno Augustin entre os investigados. A câmara de revisão do MPF registrou que o TCU e a Corregedoria do Ministério da Economia afastaram a responsabilização dos agentes, "seja em virtude da constatação da boa-fé dos implicados, seja porquanto apenas procederam em conformidade com as práticas" do Ministério do Planejamento ([CUT, 2022](https://www.cut.org.br/noticias/mpf-arquiva-inquerito-sobre-pedaladas-fiscais-contra-dilma-seis-anos-apos-o-golp-dfdf)).
 
+O que o governo Temer fez depois do impeachment, do teto de gastos à reforma trabalhista e à volta da fome, está em [O que o golpe de 2016 custou](../o-que-o-golpe-de-2016-custou.md).
+
 ### O "grande acordo nacional"
 
 - **23/05/2016 — "estancar essa sangria":** a Folha revelou a gravação de uma conversa de março, semanas antes da votação do impeachment na Câmara, entre o ministro do Planejamento de Temer, Romero Jucá, e o ex-presidente da Transpetro Sérgio Machado. "Tem que mudar o governo pra poder estancar essa sangria", disse Jucá. No mesmo dia, ele anunciou que se licenciaria do ministério ([Agência Brasil, 23/05/2016](https://agenciabrasil.ebc.com.br/politica/noticia/2016-05/juca-vai-se-licenciar-do-cargo-de-ministro-do-planejamento); [Brasil de Fato, 23/05/2016](https://www.brasildefato.com.br/2016/05/23/gravacao-com-juca-indica-que-impeachment-foi-golpe-para-conter-lava-jato/)).
@@ -158,6 +160,7 @@ A pauta-bomba de Eduardo Cunha, a cobertura negativa dos jornais e a confiança 
 
 ## Ver também
 
+- [O que o golpe de 2016 custou](../o-que-o-golpe-de-2016-custou.md): o programa de Temer, as promessas e o que veio depois
 - [Ditadura Militar de 64](ditadura-militar-de-64.md): o regime que o golpe de 1964 instalou
 - [8 de janeiro](8-de-janeiro.md) e [Eleições 2022](eleicoes-2022.md): o golpe que fracassou
 - [Os ataques do bolsonarismo ao STF](stf/index.md#os-ataques-do-bolsonarismo-ao-stf)

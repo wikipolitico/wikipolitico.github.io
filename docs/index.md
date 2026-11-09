@@ -83,6 +83,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 - [Ditadura Militar de 64](temas/ditadura-militar-de-64.md): o golpe, a Operação Condor, o Riocentro e a corrupção no regime
 - [Golpes contra governos eleitos](temas/golpes-contra-governos-eleitos.md): Vargas em 1954, JK e Jango em 1955, o veto a Jango em 1961, o golpe de 1964, o impeachment de Dilma e a trama contra a posse de Lula
+- [O que o golpe de 2016 custou](o-que-o-golpe-de-2016-custou.md): o programa de Temer estava escrito antes do impeachment, os 6 milhões de empregos da reforma trabalhista nunca vieram, a fome voltou a passar do nível de 2004, e o próprio Temer admitiu que os ministros "exageraram"
 - [Capitalismo](temas/capitalismo.md): neoliberalismo, presídios privatizados e indústria farmacêutica
 - [Comunismo e Socialismo](temas/comunismo-e-socialismo.md): respostas aos mitos mais repetidos sobre os dois termos
 - [Violência, fascismo e preconceito](temas/violencia-fascismo-preconceito.md): o discurso de ódio, ataques a imigrantes, nazismo, escravidão, racismo e homofobia

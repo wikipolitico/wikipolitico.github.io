@@ -95,6 +95,7 @@ Mais links sobre a economia dos governos do PT estão na [Comparação FHC x Lul
 ## Ver também
 
 - [Golpes contra governos eleitos](golpes-contra-governos-eleitos.md#2016-o-impeachment-de-dilma): o impeachment de 2016
+- [O que o golpe de 2016 custou](../o-que-o-golpe-de-2016-custou.md): o que o governo Temer fez depois
 - [Eleições 2010](eleicoes-2010.md) e [Eleições 2014](eleicoes-2014.md)
 - [Lula](lula.md)
 - [Ditadura Militar de 64](ditadura-militar-de-64.md)

@@ -423,5 +423,6 @@ Quem diz que o Lula 3 "quebrou as contas" esquece a regra fiscal de cada governo
 
 - [Os impostos do Lula 3](temas/impostos-do-lula-3.md)
 - [Comparação FHC x Lula e Dilma](comparacao-fhc-lula-dilma.md)
+- [O que o golpe de 2016 custou](o-que-o-golpe-de-2016-custou.md)
 - [Lula](temas/lula.md) e [Jair Bolsonaro](temas/jair-bolsonaro.md)
 - [Corrupção no governo Bolsonaro](temas/corrupcao-no-governo-bolsonaro.md)

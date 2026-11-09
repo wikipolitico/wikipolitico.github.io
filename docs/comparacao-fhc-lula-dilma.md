@@ -306,6 +306,7 @@ Fontes:
 ## Ver também
 
 - [Comparação Bolsonaro x Lula 3](comparacao-bolsonaro-lula3.md)
+- [O que o golpe de 2016 custou](o-que-o-golpe-de-2016-custou.md)
 - [Lula](temas/lula.md) e [Dilma Rousseff](temas/dilma-rousseff.md)
 - [Eleições 1998](temas/eleicoes-1998.md): a compra da reeleição
 - [A Petrobras de FHC](temas/petrobras.md#a-petrobras-de-fhc)

@@ -57,4 +57,5 @@ Ver também [O BRICS, o pré-sal e os EUA](internacional-geopolitica.md#o-brics-
 - [Farsa da Lava Jato](farsa-da-lava-jato.md)
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md#fhc)
 - [Golpes contra governos eleitos](golpes-contra-governos-eleitos.md#2016-o-impeachment-de-dilma)
+- [O que o golpe de 2016 custou](../o-que-o-golpe-de-2016-custou.md#a-petrobras-e-o-pre-sal): o preço de importado, a greve dos caminhoneiros e o pré-sal
 - [Políticas Públicas](politicas-publicas.md#concessao-nao-e-privatizacao): concessão não é privatização
