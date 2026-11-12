@@ -26,7 +26,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 
 [Veja as 26 respostas, por assunto →](respostas-para-debate.md)
 
-[E as 34 respostas à crítica pela esquerda, com quem disse e quando →](respostas-a-critica-pela-esquerda.md)
+[E as 38 respostas à crítica pela esquerda, com quem disse e quando →](respostas-a-critica-pela-esquerda.md)
 
 <!-- ultimas-atualizacoes -->
 
@@ -68,6 +68,7 @@ No debate, mande o link da página, não um print: quem recebe pode conferir a f
 - [Fernando Haddad](temas/fernando-haddad.md): do ProUni e do Enem à Fazenda, a absolvição no caso do caixa 2 e as acusações contra ele checadas uma a uma
 - [Jair Bolsonaro](temas/jair-bolsonaro.md): o capitão do plano das bombas nos quartéis, o voto em homenagem a Ustra, a condenação a 27 anos pela trama golpista e a prisão domiciliar
 - [Jones Manoel](temas/jones-manoel.md): a expulsão do PCB, a "histeria contra o golpe" em 2015 e 32 ataques a Lula e Haddad conferidos em documento, nenhum de pé
+- [O calote da dívida](temas/calote-da-divida.md): a esquerda antipetista promete parar de pagar a dívida, mas 96% dela é em reais e quase metade está com fundos de pensão e de investimento, e o Brasil já viu esse calote no confisco de Collor
 - [Partidos Políticos](temas/partidos-politicos.md): o histórico de nomes e fusões, os partidos nascidos de dissidências do PT, e a assinatura do PT na Constituição de 1988
 - [PSDB e os tucanos](temas/psdb.md): FHC e a reeleição comprada, Aécio e a censura em Minas, Serra e o trem-bala, e o PCC nos governos tucanos de São Paulo
 - [Outras Personalidades (Brasil)](temas/outras-personalidades-brasil.md): Collor, Marina, Brizola, Garotinho e outros nomes, com processos e declarações

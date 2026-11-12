@@ -123,6 +123,7 @@ Os déficits, os superávits e a dívida são do FMI, no link acima. As outras f
 
 - [Comparação Bolsonaro x Lula 3](../comparacao-bolsonaro-lula3.md): quem cumpriu a regra fiscal e por que a dívida subiu
 - [Comparação FHC x Lula e Dilma](../comparacao-fhc-lula-dilma.md)
+- [O calote da dívida](calote-da-divida.md): a moratória de 1987, o confisco de Collor e de quem são os títulos hoje
 - [O que o golpe de 2016 custou](../o-que-o-golpe-de-2016-custou.md): o teto de gastos, a saúde e a retomada que não veio
 - [Fernando Haddad](fernando-haddad.md)
 - [Os impostos do Lula 3](impostos-do-lula-3.md)
